@@ -6,6 +6,7 @@ import {
   markNotified,
   setMeta,
 } from "./db";
+import { DEFAULT_BSKY_HANDLE } from "./config";
 import {
   matchPost,
   parseArtistTitle,
@@ -14,8 +15,8 @@ import {
 } from "./match";
 import { sendWhatsApp } from "./whatsapp";
 
-const DEFAULT_HANDLE = "kmanriffs.bsky.social";
 const LAST_SEEN_KEY = "lastSeenUri";
+const LAST_POLL_KEY = "lastPollAt";
 
 export type PollSummary = {
   handle: string;
@@ -106,9 +107,10 @@ function storeMatch(post: FeedPost, notifyFlag: boolean): boolean {
 
 export async function pollOnce(): Promise<PollSummary> {
   const handle =
-    process.env.BSKY_HANDLE?.trim() || DEFAULT_HANDLE;
+    process.env.BSKY_HANDLE?.trim() || DEFAULT_BSKY_HANDLE;
   const posts = await fetchAuthorPosts(handle);
   const lastSeenUri = getMeta(LAST_SEEN_KEY);
+  setMeta(LAST_POLL_KEY, new Date().toISOString());
 
   let stored = 0;
   let notified = 0;

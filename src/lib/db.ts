@@ -17,6 +17,7 @@ export type ReleaseRow = {
   indexed_at: string | null;
   raw_json: string | null;
   notified: number;
+  seen: number;
   created_at: string;
 };
 
@@ -47,6 +48,19 @@ function dbPath(): string {
   );
 }
 
+function migrate(db: Database.Database): void {
+  const cols = db
+    .prepare("PRAGMA table_info(releases)")
+    .all() as { name: string }[];
+  const names = new Set(cols.map((c) => c.name));
+  if (!names.has("seen")) {
+    // Existing archive rows are treated as already-seen; only future inserts start unread.
+    db.exec(
+      "ALTER TABLE releases ADD COLUMN seen INTEGER NOT NULL DEFAULT 1",
+    );
+  }
+}
+
 export function getDb(): Database.Database {
   if (globalForDb.__dmfDb) return globalForDb.__dmfDb;
 
@@ -70,6 +84,7 @@ export function getDb(): Database.Database {
       indexed_at TEXT,
       raw_json TEXT,
       notified INTEGER NOT NULL DEFAULT 0,
+      seen INTEGER NOT NULL DEFAULT 0,
       created_at TEXT NOT NULL
     );
 
@@ -80,6 +95,7 @@ export function getDb(): Database.Database {
 
     CREATE INDEX IF NOT EXISTS idx_releases_posted_at ON releases(posted_at DESC);
   `);
+  migrate(db);
 
   globalForDb.__dmfDb = db;
   return db;
@@ -108,11 +124,11 @@ export function insertReleaseIfNew(row: ReleaseInsert): boolean {
       `INSERT OR IGNORE INTO releases (
         uri, cid, text, artist, title, genres, has_release_cue,
         bsky_url, author_handle, posted_at, indexed_at, raw_json,
-        notified, created_at
+        notified, seen, created_at
       ) VALUES (
         @uri, @cid, @text, @artist, @title, @genres, @has_release_cue,
         @bsky_url, @author_handle, @posted_at, @indexed_at, @raw_json,
-        @notified, @created_at
+        @notified, 0, @created_at
       )`,
     )
     .run({
@@ -141,6 +157,17 @@ export function markNotified(uri: string): void {
     .run(uri);
 }
 
+export function markSeen(uri: string): void {
+  getDb().prepare("UPDATE releases SET seen = 1 WHERE uri = ?").run(uri);
+}
+
+export function markAllSeen(): number {
+  const result = getDb()
+    .prepare("UPDATE releases SET seen = 1 WHERE seen = 0")
+    .run();
+  return result.changes;
+}
+
 export function listReleases(limit = 100): ReleaseRow[] {
   return getDb()
     .prepare(
@@ -154,6 +181,13 @@ export function listReleases(limit = 100): ReleaseRow[] {
 export function countReleases(): number {
   const row = getDb()
     .prepare("SELECT COUNT(*) AS n FROM releases")
+    .get() as { n: number };
+  return row.n;
+}
+
+export function countUnseen(): number {
+  const row = getDb()
+    .prepare("SELECT COUNT(*) AS n FROM releases WHERE seen = 0")
     .get() as { n: number };
   return row.n;
 }

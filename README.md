@@ -1,13 +1,16 @@
 # Death Metal Fetch
 
-Web app that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) for **Death Metal**, **Grindcore**, and **Black Metal** posts, stores every match in a local **SQLite** database, and sends a WhatsApp alert via [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) when a **new** match is inserted after startup.
+A **mobile-first** phone app that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) for **Death Metal**, **Grindcore**, and **Black Metal** posts, stores every match in local **SQLite**, and pings WhatsApp via [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) when something **new** lands.
+
+The UI is deliberately ridiculous: pastel unicorns, rainbows, and goofy copy wrapping very real underground releases. Home / Releases / Settings app shell. Thumb-friendly bottom nav.
 
 ## Stack
 
 - Next.js (App Router) + TypeScript + Tailwind + shadcn/ui
 - SQLite via `better-sqlite3` (`data/releases.db` by default)
 - Bluesky via `@atproto/api` (`getAuthorFeed`)
-- Background poller started from Next `instrumentation.ts` (~every 2 minutes)
+- Background poller from Next `instrumentation.ts` (~every 2 minutes)
+- PWA basics: web manifest + icons + `theme-color` for Add to Home Screen
 
 ## Setup
 
@@ -18,46 +21,46 @@ cp .env.example .env
 
 | Variable | Required | Notes |
 |---|---|---|
-| `CALLMEBOT_PHONE` | for real WhatsApp | Your number, digits only |
+| `CALLMEBOT_PHONE` | for real WhatsApp | Digits only |
 | `CALLMEBOT_APIKEY` | for real WhatsApp | From CallMeBot activation |
 | `BSKY_HANDLE` | no | Default `kmanriffs.bsky.social` |
 | `POLL_INTERVAL_MS` | no | Default `120000` |
 | `DATABASE_PATH` | no | Default `./data/releases.db` |
 
-Without CallMeBot credentials the app still runs; WhatsApp sends go to **dry-run** logs.
-
-### CallMeBot (brief)
-
-Activate via the current number on [CallMeBot’s WhatsApp API page](https://www.callmebot.com/blog/free-api-whatsapp-messages/) (save contact if required). Delivery can be delayed even when the API returns `Message queued`.
+Without CallMeBot credentials the app still runs; WhatsApp goes to **dry-run** logs.
 
 ## Run
 
 ```bash
-npm run dev -- --port 3847
+npm run dev
 ```
 
-Or production:
+Open [http://127.0.0.1:3847](http://127.0.0.1:3847).
 
-```bash
-npm run build
-npm run start -- --port 3847
-```
+Manual poll: **Poll** in the UI, or `POST /api/poll`.
 
-Open the printed local URL (default [http://127.0.0.1:3847](http://127.0.0.1:3847)).
+### Add to Home Screen (PWA)
 
-Manual poll: **Poll now** in the UI, or `POST /api/poll`.
+- **iOS Safari:** Share → **Add to Home Screen**. Uses `apple-touch-icon` + standalone display.
+- **Android Chrome:** Menu → **Install app** / **Add to Home screen**. Manifest + icons ship at `/manifest.webmanifest` and `/icons/*`.
+
+Theme color is hot pink (`#ff4d9a`) so the status bar matches the chaos.
+
+## Screens
+
+- **Home** — watched handle, last poll, WhatsApp status, stored count, latest 3
+- **Releases** — full archive cards (artist/title, genres, relative time, Bluesky link, NEW badge, mark seen)
+- **Settings** — masked CallMeBot phone, poll interval, genres watched (from env/status API)
 
 ## Behavior
 
-- **First poll:** seeds last-seen to the newest Bluesky post, **backfills** recent genre matches into SQLite, **no WhatsApp** for that history.
-- **Later polls:** only posts newer than last-seen are considered; matching inserts trigger WhatsApp; duplicate URIs are ignored (`INSERT OR IGNORE`).
-- Data lives on disk in SQLite under `data/` (gitignored). Restarting the app does not wipe the archive.
+- **First poll:** seeds last-seen, backfills recent matches, **no WhatsApp** spam
+- **Later polls:** newer posts only; matching inserts trigger WhatsApp; duplicate URIs ignored
+- **Seen state:** persisted in SQLite (`seen` column); unread badge on Releases tab
 
 ## 24/7
 
 ```bash
 npm run build
-npx pm2 start npm --name death-metal-fetch -- start -- --port 3847
+npx pm2 start npm --name death-metal-fetch -- start
 ```
-
-Or a systemd unit with `WorkingDirectory` set to this repo, `EnvironmentFile=.env`, and `ExecStart=/usr/bin/npm run start -- --port 3847`.

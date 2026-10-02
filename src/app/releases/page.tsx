@@ -1,28 +1,27 @@
 import { AppShell } from "@/components/app-shell";
-import { HomeView } from "@/components/home-view";
+import { ReleasesView } from "@/components/releases-view";
 import { getPublicStatus } from "@/lib/config";
-import { countReleases, countUnseen, getMeta, listReleases } from "@/lib/db";
+import { countReleases, countUnseen, listReleases } from "@/lib/db";
 import { toReleaseDTO } from "@/lib/releases";
 
 export const dynamic = "force-dynamic";
 
-export default function HomePage() {
+export default function ReleasesPage() {
   const status = getPublicStatus();
   const releases = listReleases(200).map(toReleaseDTO);
   const unseenCount = countUnseen();
 
   return (
     <AppShell
-      title="Home base"
-      subtitle="Status, sparkles, and the three freshest riffs in the glitter vault."
+      title="Release rainbow"
+      subtitle="Every matched drop, dressed like it belongs at a birthday party."
       initialUnseen={unseenCount}
     >
-      <HomeView
+      <ReleasesView
         initial={{
-          ...status,
           count: countReleases(),
           unseenCount,
-          lastPollAt: getMeta("lastPollAt"),
+          callmebotConfigured: status.callmebotConfigured,
           releases,
         }}
       />
