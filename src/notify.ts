@@ -2,23 +2,23 @@ import { callmebotConfigured, sendWhatsApp } from "./whatsapp.js";
 import { sendTelegram, telegramConfigured } from "./telegram.js";
 
 /**
- * Primary: CallMeBot WhatsApp. Optional: Telegram if also configured.
- * Dry-run only when CallMeBot is missing (Telegram alone does not count as configured).
+ * Primary: Telegram Bot API (required for non–dry-run).
+ * Optional: CallMeBot WhatsApp if both CALLMEBOT_* env vars are set.
  */
 export function notifierConfigured(): boolean {
-  return callmebotConfigured();
+  return telegramConfigured();
 }
 
 export async function notify(text: string): Promise<void> {
-  const wa = await sendWhatsApp(text);
-  if (!wa.ok) {
-    console.error("[notify] CallMeBot send failed");
+  const tg = await sendTelegram(text);
+  if (!tg.ok) {
+    console.error("[notify] Telegram send failed");
   }
 
-  if (telegramConfigured()) {
-    const tg = await sendTelegram(text);
-    if (!tg.ok) {
-      console.error("[notify] Optional Telegram send failed");
+  if (callmebotConfigured()) {
+    const wa = await sendWhatsApp(text);
+    if (!wa.ok) {
+      console.error("[notify] Optional CallMeBot send failed");
     }
   }
 }

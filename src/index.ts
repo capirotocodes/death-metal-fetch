@@ -3,8 +3,8 @@ import { AtpAgent } from "@atproto/api";
 import { loadState, saveState } from "./state.js";
 import { matchPost, parseArtistTitle, snippet } from "./match.js";
 import { notifierConfigured, notify } from "./notify.js";
-import { callmebotConfigured } from "./whatsapp.js";
 import { telegramConfigured } from "./telegram.js";
+import { callmebotConfigured } from "./whatsapp.js";
 
 const DEFAULT_HANDLE = "kmanriffs.bsky.social";
 const DEFAULT_POLL_MS = 120_000;
@@ -128,16 +128,16 @@ async function main(): Promise<void> {
 
   if (!notifierConfigured()) {
     console.log(
-      "[config] CALLMEBOT_PHONE / CALLMEBOT_APIKEY missing → dry-run mode (log only)",
+      "[config] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID missing → dry-run mode (log only)",
     );
   } else {
     console.log(
-      `[config] WhatsApp (CallMeBot) enabled for ${env("CALLMEBOT_PHONE")}`,
+      `[config] Telegram notifications enabled for chat ${env("TELEGRAM_CHAT_ID")}`,
     );
   }
-  if (callmebotConfigured() && telegramConfigured()) {
+  if (telegramConfigured() && callmebotConfigured()) {
     console.log(
-      `[config] Optional Telegram also enabled for chat ${env("TELEGRAM_CHAT_ID")}`,
+      `[config] Optional CallMeBot WhatsApp also enabled for ${env("CALLMEBOT_PHONE")}`,
     );
   }
 

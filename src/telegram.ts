@@ -1,5 +1,5 @@
 /**
- * Telegram Bot API notifier (sendMessage).
+ * Telegram Bot API notifier (sendMessage) — primary delivery channel.
  * Docs: https://core.telegram.org/bots/api#sendmessage
  *
  * Without TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID, runs in dry-run mode and only logs.

@@ -1,8 +1,9 @@
 /**
- * CallMeBot WhatsApp HTTP API client (primary notifier).
+ * CallMeBot WhatsApp HTTP API client (optional secondary notifier).
  * Docs: https://www.callmebot.com/blog/free-api-whatsapp-messages/
  *
- * Without CALLMEBOT_PHONE + CALLMEBOT_APIKEY, runs in dry-run mode and only logs.
+ * Telegram is primary — CallMeBot often returns "Message queued" without delivery.
+ * Without CALLMEBOT_PHONE + CALLMEBOT_APIKEY, sendWhatsApp dry-runs / is skipped by notify().
  */
 
 const API_URL = "https://api.callmebot.com/whatsapp.php";

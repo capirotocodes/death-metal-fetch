@@ -1,16 +1,17 @@
 {
   "name": "death-metal-fetch",
   "version": "1.0.0",
-  "description": "Bluesky → WhatsApp (CallMeBot) notifier for Death Metal / Grindcore / Black Metal releases from kmanriffs.bsky.social",
+  "description": "Bluesky → Telegram notifier for Death Metal / Grindcore / Black Metal releases from kmanriffs.bsky.social",
   "type": "module",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "tsx src/index.ts",
     "once": "tsx src/index.ts --once",
-    "notify:test": "tsx scripts/send-test-whatsapp.ts",
+    "notify:test": "tsx scripts/send-test-telegram.ts",
+    "notify:test:whatsapp": "tsx scripts/send-test-whatsapp.ts",
     "telegram:chat-id": "tsx scripts/telegram-chat-id.ts",
-    "test": "tsx scripts/smoke-match.ts && tsx scripts/smoke-whatsapp.ts && tsx scripts/smoke-telegram.ts"
+    "test": "tsx scripts/smoke-match.ts && tsx scripts/smoke-telegram.ts && tsx scripts/smoke-whatsapp.ts"
   },
   "engines": {
     "node": ">=18"
