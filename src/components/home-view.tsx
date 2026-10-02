@@ -38,7 +38,7 @@ function withLocal(data: HomePayload): HomePayload {
 }
 
 export function HomeView({ initial }: Props) {
-  const [data, setData] = useState(() => withLocal(initial));
+  const [data, setData] = useState(initial);
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
   const [polling, setPolling] = useState(false);
