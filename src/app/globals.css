@@ -353,8 +353,41 @@
 }
 
 .release-card {
-  padding: 0.95rem 1rem;
+  padding: 0.85rem 0.9rem;
   transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.release-card-body {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+}
+
+.release-cover {
+  width: 4.5rem;
+  height: 4.5rem;
+  flex-shrink: 0;
+  border-radius: 0.85rem;
+  object-fit: cover;
+  background: linear-gradient(135deg, #ffe4f3, #ede9fe);
+  box-shadow: 0 4px 12px rgb(236 72 153 / 18%);
+}
+
+.release-card-compact .release-cover {
+  width: 3.75rem;
+  height: 3.75rem;
+}
+
+.release-cover-empty {
+  display: grid;
+  place-items: center;
+  font-size: 1.35rem;
+  border: 1px dashed rgb(255 105 180 / 35%);
+}
+
+.release-card-main {
+  min-width: 0;
+  flex: 1;
 }
 
 .release-card-new {

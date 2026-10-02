@@ -1,10 +1,12 @@
 import "server-only";
 import { AtpAgent } from "@atproto/api";
+import { coverUrlFromEmbed } from "./covers";
 import {
   getMeta,
   insertReleaseIfNew,
   markNotified,
   setMeta,
+  updateCoverUrl,
 } from "./db";
 import { DEFAULT_BSKY_HANDLE } from "./config";
 import {
@@ -25,6 +27,7 @@ export type PollSummary = {
   newPosts: number;
   stored: number;
   notified: number;
+  coversUpdated: number;
   lastSeenUri: string | null;
 };
 
@@ -35,6 +38,7 @@ type FeedPost = {
   createdAt: string;
   indexedAt: string;
   authorHandle: string;
+  coverUrl: string | null;
   raw: unknown;
 };
 
@@ -65,6 +69,7 @@ async function fetchAuthorPosts(handle: string, limit = 40): Promise<FeedPost[]>
     .map((item) => {
       const post = item.post;
       const record = post.record as { text?: string; createdAt?: string };
+      const coverUrl = coverUrlFromEmbed(post.embed);
       return {
         uri: post.uri,
         cid: post.cid,
@@ -72,11 +77,13 @@ async function fetchAuthorPosts(handle: string, limit = 40): Promise<FeedPost[]>
         createdAt: record.createdAt ?? post.indexedAt,
         indexedAt: post.indexedAt,
         authorHandle: post.author.handle,
+        coverUrl,
         raw: {
           uri: post.uri,
           cid: post.cid,
           author: post.author.handle,
           indexedAt: post.indexedAt,
+          coverUrl,
           record,
         },
       };
@@ -101,8 +108,22 @@ function storeMatch(post: FeedPost, notifyFlag: boolean): boolean {
     postedAt: post.createdAt,
     indexedAt: post.indexedAt,
     rawJson: JSON.stringify(post.raw),
+    coverUrl: post.coverUrl,
     notified: notifyFlag,
   });
+}
+
+/** Backfill covers for rows already in SQLite when they appear in the latest feed page. */
+function syncCovers(posts: FeedPost[]): number {
+  let updated = 0;
+  for (const post of posts) {
+    if (!post.coverUrl) continue;
+    if (updateCoverUrl(post.uri, post.coverUrl)) updated += 1;
+  }
+  if (updated > 0) {
+    console.log(`[covers] Updated ${updated} cover URL(s) from feed`);
+  }
+  return updated;
 }
 
 export async function pollOnce(): Promise<PollSummary> {
@@ -115,6 +136,7 @@ export async function pollOnce(): Promise<PollSummary> {
   let stored = 0;
   let notified = 0;
   let newPosts = 0;
+  const coversUpdated = syncCovers(posts);
 
   if (!lastSeenUri) {
     // First run: seed cursor + backfill matches into DB without WhatsApp.
@@ -136,6 +158,7 @@ export async function pollOnce(): Promise<PollSummary> {
       newPosts: 0,
       stored,
       notified: 0,
+      coversUpdated,
       lastSeenUri: newest?.uri ?? null,
     };
   }
@@ -157,6 +180,7 @@ export async function pollOnce(): Promise<PollSummary> {
       newPosts: 0,
       stored: 0,
       notified: 0,
+      coversUpdated,
       lastSeenUri,
     };
   }
@@ -198,6 +222,7 @@ export async function pollOnce(): Promise<PollSummary> {
     newPosts,
     stored,
     notified,
+    coversUpdated,
     lastSeenUri: cursor,
   };
 }

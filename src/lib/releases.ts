@@ -13,6 +13,7 @@ export type ReleaseDTO = {
   postedAt: string | null;
   notified: boolean;
   seen: boolean;
+  coverUrl: string | null;
   createdAt: string;
 };
 
@@ -30,6 +31,7 @@ export function toReleaseDTO(r: ReleaseRow): ReleaseDTO {
     postedAt: r.posted_at,
     notified: Boolean(r.notified),
     seen: Boolean(r.seen),
+    coverUrl: r.cover_url ?? null,
     createdAt: r.created_at,
   };
 }

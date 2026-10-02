@@ -20,61 +20,87 @@ export function ReleaseCard({ release, onMarkSeen, compact }: Props) {
 
   return (
     <article
-      className={cn("release-card", unread && "release-card-new", compact && "release-card-compact")}
-    >
-      <div className="release-card-top">
-        <div className="release-card-titles">
-          <h2>{heading}</h2>
-          <time dateTime={release.postedAt ?? release.createdAt}>{when}</time>
-        </div>
-        {unread ? <span className="new-badge">NEW 🦄</span> : null}
-      </div>
-
-      <div className="genre-row">
-        {release.genres.map((g) => (
-          <Badge key={g} variant="secondary" className="genre-chip">
-            {g}
-          </Badge>
-        ))}
-        {release.hasReleaseCue ? (
-          <Badge variant="outline" className="cue-chip">
-            sounds like a drop
-          </Badge>
-        ) : null}
-      </div>
-
-      {!compact ? (
-        <p className="release-text">{release.text}</p>
-      ) : (
-        <p className="release-text release-text-snip">
-          {release.text.length > 120
-            ? `${release.text.slice(0, 119)}…`
-            : release.text}
-        </p>
+      className={cn(
+        "release-card",
+        unread && "release-card-new",
+        compact && "release-card-compact",
       )}
+    >
+      <div className="release-card-body">
+        {release.coverUrl ? (
+          // eslint-disable-next-line @next/next/no-img-element -- Bluesky CDN thumbs; plain img keeps PWA/mobile simple
+          <img
+            className="release-cover"
+            src={release.coverUrl}
+            alt=""
+            loading="lazy"
+            decoding="async"
+            referrerPolicy="no-referrer"
+          />
+        ) : (
+          <div className="release-cover release-cover-empty" aria-hidden>
+            🦄
+          </div>
+        )}
 
-      <div className="release-actions">
-        <a
-          className="bsky-link"
-          href={release.bskyUrl}
-          target="_blank"
-          rel="noreferrer"
-        >
-          <ExternalLink aria-hidden className="size-3.5" />
-          Bluesky
-        </a>
-        {unread && onMarkSeen ? (
-          <Button
-            type="button"
-            variant="outline"
-            size="sm"
-            className="seen-btn"
-            onClick={() => onMarkSeen(release.uri)}
-          >
-            <Eye aria-hidden className="size-3.5" />
-            Mark seen
-          </Button>
-        ) : null}
+        <div className="release-card-main">
+          <div className="release-card-top">
+            <div className="release-card-titles">
+              <h2>{heading}</h2>
+              <time dateTime={release.postedAt ?? release.createdAt}>
+                {when}
+              </time>
+            </div>
+            {unread ? <span className="new-badge">NEW 🦄</span> : null}
+          </div>
+
+          <div className="genre-row">
+            {release.genres.map((g) => (
+              <Badge key={g} variant="secondary" className="genre-chip">
+                {g}
+              </Badge>
+            ))}
+            {release.hasReleaseCue ? (
+              <Badge variant="outline" className="cue-chip">
+                sounds like a drop
+              </Badge>
+            ) : null}
+          </div>
+
+          {!compact ? (
+            <p className="release-text">{release.text}</p>
+          ) : (
+            <p className="release-text release-text-snip">
+              {release.text.length > 120
+                ? `${release.text.slice(0, 119)}…`
+                : release.text}
+            </p>
+          )}
+
+          <div className="release-actions">
+            <a
+              className="bsky-link"
+              href={release.bskyUrl}
+              target="_blank"
+              rel="noreferrer"
+            >
+              <ExternalLink aria-hidden className="size-3.5" />
+              Bluesky
+            </a>
+            {unread && onMarkSeen ? (
+              <Button
+                type="button"
+                variant="outline"
+                size="sm"
+                className="seen-btn"
+                onClick={() => onMarkSeen(release.uri)}
+              >
+                <Eye aria-hidden className="size-3.5" />
+                Mark seen
+              </Button>
+            ) : null}
+          </div>
+        </div>
       </div>
     </article>
   );

@@ -18,6 +18,7 @@ export type ReleaseRow = {
   raw_json: string | null;
   notified: number;
   seen: number;
+  cover_url: string | null;
   created_at: string;
 };
 
@@ -34,6 +35,7 @@ export type ReleaseInsert = {
   postedAt?: string | null;
   indexedAt?: string | null;
   rawJson?: string | null;
+  coverUrl?: string | null;
   notified?: boolean;
 };
 
@@ -58,6 +60,9 @@ function migrate(db: Database.Database): void {
     db.exec(
       "ALTER TABLE releases ADD COLUMN seen INTEGER NOT NULL DEFAULT 1",
     );
+  }
+  if (!names.has("cover_url")) {
+    db.exec("ALTER TABLE releases ADD COLUMN cover_url TEXT");
   }
 }
 
@@ -85,6 +90,7 @@ export function getDb(): Database.Database {
       raw_json TEXT,
       notified INTEGER NOT NULL DEFAULT 0,
       seen INTEGER NOT NULL DEFAULT 0,
+      cover_url TEXT,
       created_at TEXT NOT NULL
     );
 
@@ -124,11 +130,11 @@ export function insertReleaseIfNew(row: ReleaseInsert): boolean {
       `INSERT OR IGNORE INTO releases (
         uri, cid, text, artist, title, genres, has_release_cue,
         bsky_url, author_handle, posted_at, indexed_at, raw_json,
-        notified, seen, created_at
+        notified, seen, cover_url, created_at
       ) VALUES (
         @uri, @cid, @text, @artist, @title, @genres, @has_release_cue,
         @bsky_url, @author_handle, @posted_at, @indexed_at, @raw_json,
-        @notified, 0, @created_at
+        @notified, 0, @cover_url, @created_at
       )`,
     )
     .run({
@@ -145,9 +151,22 @@ export function insertReleaseIfNew(row: ReleaseInsert): boolean {
       indexed_at: row.indexedAt ?? null,
       raw_json: row.rawJson ?? null,
       notified: row.notified ? 1 : 0,
+      cover_url: row.coverUrl ?? null,
       created_at: new Date().toISOString(),
     });
 
+  return result.changes > 0;
+}
+
+/** Fill or refresh cover art for an already-stored release. */
+export function updateCoverUrl(uri: string, coverUrl: string): boolean {
+  const result = getDb()
+    .prepare(
+      `UPDATE releases
+       SET cover_url = ?
+       WHERE uri = ? AND (cover_url IS NULL OR cover_url != ?)`,
+    )
+    .run(coverUrl, uri, coverUrl);
   return result.changes > 0;
 }
 
