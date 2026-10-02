@@ -1,8 +1,8 @@
 /**
- * Telegram Bot API notifier (sendMessage) — primary delivery channel.
+ * Telegram Bot API notifier (sendMessage) — optional secondary channel.
  * Docs: https://core.telegram.org/bots/api#sendmessage
  *
- * Without TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID, runs in dry-run mode and only logs.
+ * Without TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID, skipped by notify() / dry-runs if called alone.
  */
 
 export type SendResult = {

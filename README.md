@@ -1,8 +1,8 @@
 # Death Metal Fetch
 
-Small Node/TypeScript service that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) on Bluesky and sends a **Telegram** message whenever that account posts something that looks like a **Death Metal**, **Grindcore**, or **Black Metal** release.
+Small Node/TypeScript service that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) on Bluesky and sends a **WhatsApp** message via [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) whenever that account posts something that looks like a **Death Metal**, **Grindcore**, or **Black Metal** release.
 
-> **Telegram is the primary notifier.** CallMeBot / WhatsApp was tried first but proved unreliable here (API returned `Message queued` / HTTP 200 with no delivery even after `Resume`). CallMeBot remains an optional secondary if you still set those env vars.
+**CallMeBot WhatsApp is the primary notifier.** Delivery can be slow (queued for minutes) but works. Telegram Bot API remains an **optional** secondary channel if you also set those env vars.
 
 ## What it does
 
@@ -11,12 +11,11 @@ Small Node/TypeScript service that watches [kmanriffs.bsky.social](https://bsky.
 - Prefers release-like wording when present, but notifies on genre keyword hits from this account so you don’t miss drops
 - Persists the last-seen post URI under `data/state.json` so restarts don’t re-spam
 - On first run, seeds that cursor without backfilling old posts
-- If Telegram credentials are missing, runs in **dry-run** mode and logs the message it would send
+- If CallMeBot credentials are missing, runs in **dry-run** mode and logs the message it would send
 
 ## Requirements
 
 - Node.js 18+
-- A Telegram account
 
 ## Setup
 
@@ -25,60 +24,59 @@ npm install
 cp .env.example .env
 ```
 
-Edit `.env`:
+Edit `.env` with at least CallMeBot credentials:
 
 | Variable | Required | Default | Notes |
 |---|---|---|---|
 | `BSKY_HANDLE` | no | `kmanriffs.bsky.social` | Bluesky handle to watch |
 | `POLL_INTERVAL_MS` | no | `120000` | Poll interval (2 minutes) |
-| `TELEGRAM_BOT_TOKEN` | for real sends | — | From [@BotFather](https://t.me/BotFather) |
-| `TELEGRAM_CHAT_ID` | for real sends | — | Your chat (or group) id |
-| `CALLMEBOT_PHONE` | optional | — | Secondary WhatsApp only |
-| `CALLMEBOT_APIKEY` | optional | — | Secondary WhatsApp only |
+| `CALLMEBOT_PHONE` | for real sends | — | Your WhatsApp number, digits only |
+| `CALLMEBOT_APIKEY` | for real sends | — | Key from CallMeBot one-time setup |
+| `TELEGRAM_BOT_TOKEN` | optional | — | Secondary channel only |
+| `TELEGRAM_CHAT_ID` | optional | — | Secondary channel only |
 | `STATE_FILE` | no | `./data/state.json` | Where last-seen URI is stored |
 
-### Telegram bot setup (primary) — BotFather
+### CallMeBot one-time WhatsApp setup (primary)
 
-1. Open Telegram and chat with [@BotFather](https://t.me/BotFather).
-2. Send `/newbot`, follow the prompts (display name + username ending in `bot`).
-3. BotFather replies with an **HTTP API token**. Put it in `.env` as `TELEGRAM_BOT_TOKEN`.
-4. **Message your new bot once** (open the bot, tap Start / send `/start`). Bots cannot message you until you start a chat.
-5. Get your `chat_id`:
-   ```bash
-   npm run telegram:chat-id
-   ```
-   Or open `https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/getUpdates` and find `"chat":{"id": ...}`.
-6. Put that value in `.env` as `TELEGRAM_CHAT_ID`.
-7. Send a live delivery check:
-   ```bash
-   npm run notify:test
-   ```
+1. Open WhatsApp and message the current CallMeBot number (per [CallMeBot docs](https://www.callmebot.com/blog/free-api-whatsapp-messages/): often **+34 694 242 562** or **+34 623 78 64 49**) with the allow phrase from that page (commonly `I allow callmebot to send me messages`; some redirects use `I allow callmebot to call me` after saving the contact).
+2. CallMeBot replies with your **API key**. Put **your** phone (country code + number, no `+` or spaces) and that key into `.env` as `CALLMEBOT_PHONE` and `CALLMEBOT_APIKEY`.
+3. Messages may arrive **delayed** (queued) even when the API returns HTTP 200 + `Message queued`.
 
-Without `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` the service still runs and prints dry-run Telegram payloads.
+Without those vars the notifier still runs and prints dry-run WhatsApp payloads.
 
-### Troubleshooting (Telegram)
+Optional one-shot delivery check (avoid spamming):
 
-- **`chat not found` / bot silent** — Message the bot at least once, then re-run `npm run telegram:chat-id`.
-- **Wrong chat_id** — Groups use a different (often negative) id; add the bot to the group and message it there first.
-- **Invalid token** — Use BotFather `/token` or `/revoke`, update `.env`.
+```bash
+npm run notify:test
+```
 
-### Optional: CallMeBot WhatsApp (secondary)
+### Troubleshooting (CallMeBot)
 
-Only used if both `CALLMEBOT_PHONE` and `CALLMEBOT_APIKEY` are set. Not required. CallMeBot may report `Message queued` without ever delivering — prefer Telegram. Brief setup notes remain in CallMeBot’s [docs](https://www.callmebot.com/blog/free-api-whatsapp-messages/) if you still want a best-effort WhatsApp mirror.
+- **Queued but slow** — Normal for this service; wait a few minutes before assuming failure.
+- **Still nothing** — WhatsApp the activation bot `Resume`; if silent, try [dead bot setup](https://www.callmebot.com/?ae_global_templates=setup-whatsapp-for-dead-bot).
+- **Lost API key** — Send `Recover APIKey` to the bot ([FAQ](https://www.callmebot.com/faq/)).
+- **Optional Telegram** — Set `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` (BotFather `/newbot`, message bot once, `npm run telegram:chat-id`) for a secondary mirror.
 
 ## Run
 
+With CallMeBot vars in `.env`:
+
 ```bash
-npm run telegram:chat-id   # after BotFather + /start
-npm run notify:test        # live Telegram test (needs TELEGRAM_* env)
-npm run dev                # continuous poller
-npm run once               # single poll then exit
-npm run build && npm start
+npm install
+npm run build
+npm start                 # production: node dist/index.js (polls continuously)
+```
+
+Development (no build step):
+
+```bash
+npm run dev               # tsx continuous poller
+npm run once              # single poll then exit
 ```
 
 ## Message shape
 
-Short Telegram text including:
+Short WhatsApp text including:
 
 - Artist / title when the first line parses as `Artist - Title`
 - A short snippet of the Bluesky post

@@ -128,16 +128,16 @@ async function main(): Promise<void> {
 
   if (!notifierConfigured()) {
     console.log(
-      "[config] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID missing → dry-run mode (log only)",
+      "[config] CALLMEBOT_PHONE / CALLMEBOT_APIKEY missing → dry-run mode (log only)",
     );
   } else {
     console.log(
-      `[config] Telegram notifications enabled for chat ${env("TELEGRAM_CHAT_ID")}`,
+      `[config] WhatsApp (CallMeBot) enabled for ${env("CALLMEBOT_PHONE")}`,
     );
   }
-  if (telegramConfigured() && callmebotConfigured()) {
+  if (callmebotConfigured() && telegramConfigured()) {
     console.log(
-      `[config] Optional CallMeBot WhatsApp also enabled for ${env("CALLMEBOT_PHONE")}`,
+      `[config] Optional Telegram also enabled for chat ${env("TELEGRAM_CHAT_ID")}`,
     );
   }
 
