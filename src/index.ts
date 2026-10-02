@@ -2,7 +2,7 @@ import "dotenv/config";
 import { AtpAgent } from "@atproto/api";
 import { loadState, saveState } from "./state.js";
 import { matchPost, parseArtistTitle, snippet } from "./match.js";
-import { sendWhatsApp } from "./whatsapp.js";
+import { sendTelegram, telegramConfigured } from "./telegram.js";
 
 const DEFAULT_HANDLE = "kmanriffs.bsky.social";
 const DEFAULT_POLL_MS = 120_000;
@@ -105,7 +105,7 @@ async function pollOnce(agent: AtpAgent, handle: string): Promise<void> {
       });
       const cue = match.hasReleaseCue ? "genre+release-cue" : "genre";
       console.log(`[match] ${cue}: ${post.uri}`);
-      await sendWhatsApp(message);
+      await sendTelegram(message);
     } else {
       console.log(`[skip] No genre keyword: ${post.uri}`);
     }
@@ -124,14 +124,14 @@ async function main(): Promise<void> {
   const pollMs = Number(env("POLL_INTERVAL_MS", String(DEFAULT_POLL_MS)));
   const once = process.argv.includes("--once");
 
-  const phone = env("CALLMEBOT_PHONE");
-  const apikey = env("CALLMEBOT_APIKEY");
-  if (!phone || !apikey) {
+  if (!telegramConfigured()) {
     console.log(
-      "[config] CALLMEBOT_PHONE / CALLMEBOT_APIKEY missing → dry-run mode (log only)",
+      "[config] TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID missing → dry-run mode (log only)",
     );
   } else {
-    console.log(`[config] WhatsApp notifications enabled for ${phone}`);
+    console.log(
+      `[config] Telegram notifications enabled for chat ${env("TELEGRAM_CHAT_ID")}`,
+    );
   }
 
   console.log(
