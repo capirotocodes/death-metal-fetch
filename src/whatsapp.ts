@@ -43,17 +43,25 @@ export async function sendWhatsApp(text: string): Promise<SendResult> {
     return { dryRun: false, ok: false, status: res.status, body };
   }
 
-  // CallMeBot often returns 200 with an error string in the body.
+  // CallMeBot often returns HTTP 200 even for quota/failure; inspect body.
   const lower = body.toLowerCase();
   const looksFailed =
+    lower.includes("message not sent") ||
+    lower.includes("0 messages left") ||
     lower.includes("error") ||
     lower.includes("invalid") ||
     (lower.includes("apikey") && lower.includes("wrong"));
-  if (looksFailed) {
-    console.error(`[whatsapp] API reported failure: ${body.slice(0, 240)}`);
+  const queued = lower.includes("message queued");
+
+  if (looksFailed || !queued) {
+    console.error(
+      `[whatsapp] API did not confirm queue (HTTP ${res.status}): ${body}`,
+    );
     return { dryRun: false, ok: false, status: res.status, body };
   }
 
-  console.log(`[whatsapp] Sent OK (${res.status}): ${body.slice(0, 160)}`);
+  // HTTP 200 + "Message queued" still does not guarantee WhatsApp delivery
+  // (paused bot / WhatsApp blocks). See README troubleshooting.
+  console.log(`[whatsapp] Queued OK (${res.status}): ${body}`);
   return { dryRun: false, ok: true, status: res.status, body };
 }

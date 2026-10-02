@@ -58,8 +58,15 @@ npm run notify:test
 
 ### Troubleshooting (CallMeBot)
 
-- **No reply from the bot** — Prefer **+34 623 78 64 49**. On “full” / redirect, use the number they give (e.g. **+34 694 242 562** with save-contact + `I allow callmebot to call me`).
-- **Lost API key** — Use CallMeBot’s [Recover APIKey](https://www.callmebot.com/blog/free-api-whatsapp-messages/) flow.
+- **API says queued but no WhatsApp arrives** — CallMeBot often returns HTTP 200 + `Message queued` even when WhatsApp never delivers. Try, in order:
+  1. WhatsApp the **same bot you activated** with the word `Resume` (paused / rate-limited bots are a known issue).
+  2. If the bot is silent or “dead”, follow [Setup WhatsApp for dead Bot](https://www.callmebot.com/?ae_global_templates=setup-whatsapp-for-dead-bot): save **+34 623 78 64 49**, send `I allow callmebot to send me messages` (API key usually stays the same).
+  3. Current docs also list **+34 694 242 562** — save contact first, then the allow phrase from that page.
+  4. Check the API body for `0 messages left` / `Message not sent` (quota). Our client treats those as failure; `Message queued` alone is not a delivery guarantee.
+  5. Phone format: digits-only (`5519996360666`) and `+5519996360666` both normalize to the same destination on CallMeBot’s side.
+  6. **Fallback:** enable optional Telegram (`TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID`) — already wired in `src/notify.ts`.
+- **No reply from the bot during setup** — Prefer **+34 623 78 64 49**. On “full” / redirect, use the number they give (e.g. **+34 694 242 562**). Older **+34 644 66 45 70** often no reply.
+- **Lost API key** — WhatsApp the bot: `Recover APIKey` ([FAQ](https://www.callmebot.com/faq/)).
 - **Setup failed / rate limited** — Wait **24 hours** if asked, then retry once.
 
 ### Optional: Telegram (secondary)
