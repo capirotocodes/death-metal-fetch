@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { BottomNav } from "@/components/bottom-nav";
 import { SparkleBurst, UnicornMark } from "@/components/unicorn-deco";
+import { countUnseenLocally } from "@/lib/seen-client";
 
 type Props = {
   title: string;
@@ -22,20 +23,19 @@ export function AppShell({
   useEffect(() => {
     const refresh = async () => {
       try {
-        const res = await fetch("/api/status", { cache: "no-store" });
+        const res = await fetch("/api/releases", { cache: "no-store" });
         if (!res.ok) return;
-        const json = (await res.json()) as { unseenCount?: number };
-        if (typeof json.unseenCount === "number") setUnseen(json.unseenCount);
+        const json = (await res.json()) as { releases?: { uri: string }[] };
+        const uris = (json.releases ?? []).map((r) => r.uri);
+        setUnseen(countUnseenLocally(uris));
       } catch {
         /* ignore */
       }
     };
     refresh();
     const id = setInterval(refresh, 30_000);
-    const onSeen = (e: Event) => {
-      const detail = (e as CustomEvent<{ unseenCount?: number }>).detail;
-      if (typeof detail?.unseenCount === "number") setUnseen(detail.unseenCount);
-      else refresh();
+    const onSeen = () => {
+      void refresh();
     };
     window.addEventListener("dmf:seen", onSeen);
     return () => {

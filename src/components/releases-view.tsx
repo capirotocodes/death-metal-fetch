@@ -4,11 +4,18 @@ import { useEffect, useState, useTransition } from "react";
 import { ReleaseCard } from "@/components/release-card";
 import { Button } from "@/components/ui/button";
 import type { ReleaseDTO } from "@/lib/releases";
+import {
+  applyLocalSeen,
+  countUnseenLocally,
+  markAllSeenLocally,
+  markSeenLocally,
+} from "@/lib/seen-client";
 
 type Payload = {
   count: number;
   unseenCount: number;
   callmebotConfigured: boolean;
+  manualPollEnabled?: boolean;
   releases: ReleaseDTO[];
 };
 
@@ -16,11 +23,21 @@ type Props = {
   initial: Payload;
 };
 
+function withLocal(data: Payload): Payload {
+  const releases = applyLocalSeen(data.releases);
+  return {
+    ...data,
+    releases,
+    unseenCount: countUnseenLocally(releases.map((r) => r.uri)),
+  };
+}
+
 export function ReleasesView({ initial }: Props) {
-  const [data, setData] = useState(initial);
+  const [data, setData] = useState(() => withLocal(initial));
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
   const [polling, setPolling] = useState(false);
+  const manualPoll = data.manualPollEnabled !== false;
 
   const load = () => {
     startTransition(async () => {
@@ -29,7 +46,7 @@ export function ReleasesView({ initial }: Props) {
         const res = await fetch("/api/releases", { cache: "no-store" });
         if (!res.ok) throw new Error(`Archive refused to open (${res.status})`);
         const json = (await res.json()) as Payload;
-        setData(json);
+        setData(withLocal(json));
       } catch (err) {
         setError(err instanceof Error ? err.message : "Failed to load");
       }
@@ -37,6 +54,7 @@ export function ReleasesView({ initial }: Props) {
   };
 
   useEffect(() => {
+    setData(withLocal(initial));
     const id = setInterval(load, 30_000);
     return () => clearInterval(id);
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -55,46 +73,14 @@ export function ReleasesView({ initial }: Props) {
     }
   };
 
-  const markSeen = async (uri: string) => {
-    const res = await fetch("/api/releases/seen", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ uri }),
-    });
-    if (!res.ok) return;
-    const json = (await res.json()) as { unseenCount?: number };
-    setData((prev) => ({
-      ...prev,
-      unseenCount: json.unseenCount ?? Math.max(0, prev.unseenCount - 1),
-      releases: prev.releases.map((r) =>
-        r.uri === uri ? { ...r, seen: true } : r,
-      ),
-    }));
-    window.dispatchEvent(
-      new CustomEvent("dmf:seen", {
-        detail: { unseenCount: json.unseenCount },
-      }),
-    );
+  const markSeen = (uri: string) => {
+    markSeenLocally(uri);
+    setData((prev) => withLocal(prev));
   };
 
-  const markAll = async () => {
-    const res = await fetch("/api/releases/seen", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ all: true }),
-    });
-    if (!res.ok) return;
-    const json = (await res.json()) as { unseenCount?: number };
-    setData((prev) => ({
-      ...prev,
-      unseenCount: 0,
-      releases: prev.releases.map((r) => ({ ...r, seen: true })),
-    }));
-    window.dispatchEvent(
-      new CustomEvent("dmf:seen", {
-        detail: { unseenCount: json.unseenCount ?? 0 },
-      }),
-    );
+  const markAll = () => {
+    markAllSeenLocally(data.releases.map((r) => r.uri));
+    setData((prev) => withLocal(prev));
   };
 
   if (error && data.releases.length === 0) {
@@ -121,11 +107,14 @@ export function ReleasesView({ initial }: Props) {
         <h3>Zero releases. Maximum vibes.</h3>
         <p className="muted">
           We’re watching for Death Metal, Grindcore, and Black Metal — then
-          filing them next to glitter glue. Poll to seed the rainbow dungeon.
+          filing them next to glitter glue. The server poller seeds this
+          automatically.
         </p>
-        <Button type="button" onClick={runPoll} disabled={polling}>
-          {polling ? "Summoning…" : "Poll now"}
-        </Button>
+        {manualPoll ? (
+          <Button type="button" onClick={runPoll} disabled={polling}>
+            {polling ? "Summoning…" : "Poll now"}
+          </Button>
+        ) : null}
       </div>
     );
   }
@@ -134,7 +123,7 @@ export function ReleasesView({ initial }: Props) {
     <div className="stack">
       <div className="list-toolbar">
         <p className="muted">
-          {data.count} stored · {data.unseenCount} unread
+          {data.count} stored · {data.unseenCount} unread on this phone
           {pending ? " · sprinkling…" : ""}
         </p>
         <div className="toolbar-actions">
@@ -148,15 +137,17 @@ export function ReleasesView({ initial }: Props) {
               Mark all seen
             </Button>
           ) : null}
-          <Button
-            type="button"
-            variant="outline"
-            size="sm"
-            onClick={runPoll}
-            disabled={polling}
-          >
-            {polling ? "Polling…" : "Poll"}
-          </Button>
+          {manualPoll ? (
+            <Button
+              type="button"
+              variant="outline"
+              size="sm"
+              onClick={runPoll}
+              disabled={polling}
+            >
+              {polling ? "Polling…" : "Poll"}
+            </Button>
+          ) : null}
         </div>
       </div>
 

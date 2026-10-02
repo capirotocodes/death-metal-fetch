@@ -6,6 +6,11 @@ import { ReleaseCard } from "@/components/release-card";
 import { Button } from "@/components/ui/button";
 import { formatPollInterval, relativeTime } from "@/lib/format";
 import type { ReleaseDTO } from "@/lib/releases";
+import {
+  applyLocalSeen,
+  countUnseenLocally,
+  markSeenLocally,
+} from "@/lib/seen-client";
 
 export type HomePayload = {
   handle: string;
@@ -15,6 +20,7 @@ export type HomePayload = {
   lastPollAt: string | null;
   callmebotConfigured: boolean;
   callmebotPhoneMasked: string | null;
+  manualPollEnabled?: boolean;
   releases: ReleaseDTO[];
 };
 
@@ -22,11 +28,21 @@ type Props = {
   initial: HomePayload;
 };
 
+function withLocal(data: HomePayload): HomePayload {
+  const releases = applyLocalSeen(data.releases);
+  return {
+    ...data,
+    releases,
+    unseenCount: countUnseenLocally(releases.map((r) => r.uri)),
+  };
+}
+
 export function HomeView({ initial }: Props) {
-  const [data, setData] = useState(initial);
+  const [data, setData] = useState(() => withLocal(initial));
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
   const [polling, setPolling] = useState(false);
+  const manualPoll = data.manualPollEnabled !== false;
 
   const load = () => {
     startTransition(async () => {
@@ -35,7 +51,7 @@ export function HomeView({ initial }: Props) {
         const res = await fetch("/api/releases", { cache: "no-store" });
         if (!res.ok) throw new Error(`Status check faceplanted (${res.status})`);
         const json = (await res.json()) as HomePayload;
-        setData(json);
+        setData(withLocal(json));
       } catch (err) {
         setError(err instanceof Error ? err.message : "Could not refresh");
       }
@@ -43,6 +59,7 @@ export function HomeView({ initial }: Props) {
   };
 
   useEffect(() => {
+    setData(withLocal(initial));
     const id = setInterval(load, 30_000);
     return () => clearInterval(id);
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -61,26 +78,9 @@ export function HomeView({ initial }: Props) {
     }
   };
 
-  const markSeen = async (uri: string) => {
-    const res = await fetch("/api/releases/seen", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ uri }),
-    });
-    if (!res.ok) return;
-    const json = (await res.json()) as { unseenCount?: number };
-    setData((prev) => ({
-      ...prev,
-      unseenCount: json.unseenCount ?? Math.max(0, prev.unseenCount - 1),
-      releases: prev.releases.map((r) =>
-        r.uri === uri ? { ...r, seen: true } : r,
-      ),
-    }));
-    window.dispatchEvent(
-      new CustomEvent("dmf:seen", {
-        detail: { unseenCount: json.unseenCount },
-      }),
-    );
+  const markSeen = (uri: string) => {
+    markSeenLocally(uri);
+    setData((prev) => withLocal(prev));
   };
 
   const latest = data.releases.slice(0, 3);
@@ -93,12 +93,16 @@ export function HomeView({ initial }: Props) {
       <section className="status-board" aria-label="Watcher status">
         <div className="status-row">
           <span className="status-label">Watching</span>
-          <span className="status-value mono">@{data.handle.replace(/\.bsky\.social$/, "")}</span>
+          <span className="status-value mono">
+            @{data.handle.replace(/\.bsky\.social$/, "")}
+          </span>
         </div>
         <div className="status-row">
           <span className="status-label">Last sniff</span>
           <span className="status-value">
-            {data.lastPollAt ? relativeTime(data.lastPollAt) : "Hasn’t sniffed yet"}
+            {data.lastPollAt
+              ? relativeTime(data.lastPollAt)
+              : "Hasn’t sniffed yet"}
           </span>
         </div>
         <div className="status-row">
@@ -108,7 +112,7 @@ export function HomeView({ initial }: Props) {
         <div className="status-row">
           <span className="status-label">Hoard</span>
           <span className="status-value">
-            {data.count} releases · {data.unseenCount} unread sparkles
+            {data.count} releases · {data.unseenCount} unread on this phone
           </span>
         </div>
         <div className="status-row">
@@ -118,11 +122,23 @@ export function HomeView({ initial }: Props) {
             {pending ? " · refreshing…" : ""}
           </span>
         </div>
-        <div className="status-actions">
-          <Button type="button" onClick={runPoll} disabled={polling} className="w-full">
-            {polling ? "Galloping to Bluesky…" : "Poll the void (nicely)"}
-          </Button>
-        </div>
+        {manualPoll ? (
+          <div className="status-actions">
+            <Button
+              type="button"
+              onClick={runPoll}
+              disabled={polling}
+              className="w-full"
+            >
+              {polling ? "Galloping to Bluesky…" : "Poll the void (nicely)"}
+            </Button>
+          </div>
+        ) : (
+          <p className="muted tiny" style={{ marginTop: "0.75rem" }}>
+            Auto-poll is on the server. Manual poll is locked on this public
+            host.
+          </p>
+        )}
       </section>
 
       {error ? (
@@ -145,8 +161,8 @@ export function HomeView({ initial }: Props) {
             </p>
             <h3>The stable is empty</h3>
             <p className="muted">
-              No death metal in the glitter drawer yet. Hit poll and hope the
-              unicorn finds something blast-beat-y.
+              No death metal in the glitter drawer yet. The server poller will
+              fill this when Bluesky drops something blast-beat-y.
             </p>
           </div>
         ) : (

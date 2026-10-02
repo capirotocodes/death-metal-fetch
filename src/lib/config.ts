@@ -31,6 +31,11 @@ export function getCallMeBotStatus(): {
   };
 }
 
+export function manualPollEnabled(): boolean {
+  // When POLL_SECRET is set (public host), UI hides manual poll — background poller still runs.
+  return !process.env.POLL_SECRET?.trim();
+}
+
 export function getPublicStatus() {
   const callmebot = getCallMeBotStatus();
   return {
@@ -39,5 +44,6 @@ export function getPublicStatus() {
     genres: [...WATCHED_GENRES],
     callmebotConfigured: callmebot.configured,
     callmebotPhoneMasked: callmebot.phoneMasked,
+    manualPollEnabled: manualPollEnabled(),
   };
 }
