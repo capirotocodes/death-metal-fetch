@@ -25,6 +25,10 @@ type ApiPayload = {
   releases: Release[];
 };
 
+type Props = {
+  initialData?: ApiPayload;
+};
+
 function formatWhen(iso: string | null): string {
   if (!iso) return "Unknown date";
   try {
@@ -37,8 +41,8 @@ function formatWhen(iso: string | null): string {
   }
 }
 
-export function ReleaseList() {
-  const [data, setData] = useState<ApiPayload | null>(null);
+export function ReleaseList({ initialData }: Props) {
+  const [data, setData] = useState<ApiPayload | null>(initialData ?? null);
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
   const [polling, setPolling] = useState(false);
@@ -58,7 +62,7 @@ export function ReleaseList() {
   };
 
   useEffect(() => {
-    load();
+    if (!initialData) load();
     const id = setInterval(load, 30_000);
     return () => clearInterval(id);
     // eslint-disable-next-line react-hooks/exhaustive-deps
