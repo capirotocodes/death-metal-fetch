@@ -34,7 +34,7 @@ Edit `.env`:
 
 ### CallMeBot one-time WhatsApp setup
 
-Per [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) (updated Jan 2026), use the current WhatsApp bot:
+Per [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) (updated Jan 2026), start with the documented WhatsApp bot:
 
 1. Open WhatsApp and message **+34 623 78 64 49** with:
    ```text
@@ -43,13 +43,31 @@ Per [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) (upd
 2. CallMeBot replies with your **API key** (may take a minute).
 3. Put **your** phone (country code + number, no `+` or spaces) and that key into `.env` as `CALLMEBOT_PHONE` and `CALLMEBOT_APIKEY`.
 
-If the bot replies that it is **full**, try the alternate number **+34 621 08 34 84** with the same allow message (reported in community issues when the primary bot is at capacity).
+#### If the bot says it is full
+
+CallMeBot may redirect you. Use the number they give you (this project has seen **+34 694 242 562**):
+
+1. **Save the contact** in your phone first (required for that bot).
+2. Message it with this exact phrase (different from the primary bot):
+   ```text
+   I allow callmebot to call me
+   ```
+3. Wait for the API key reply, then put your phone + key into `.env` as above.
+
+Other capacity / history numbers (same “send me messages” phrase unless noted):
+
+| Number | Role |
+|---|---|
+| **+34 623 78 64 49** | Current primary (Jan 2026 docs) — `I allow callmebot to send me messages` |
+| **+34 694 242 562** | Full-bot redirect — save contact first; `I allow callmebot to call me` |
+| **+34 621 08 34 84** | Community fallback when primary is full — `send me messages` |
+| **+34 644 66 45 70** | Older documented number (often no reply) — keep only as history |
 
 Without those vars the notifier still runs and prints dry-run WhatsApp payloads.
 
 ### Troubleshooting (CallMeBot)
 
-- **No reply from the bot** — Confirm you messaged **+34 623 78 64 49** (not older numbers such as +34 644 66 45 70). If you see a “full” message, use **+34 621 08 34 84**.
+- **No reply from the bot** — Prefer **+34 623 78 64 49**. Avoid relying on older **+34 644 66 45 70**. If you see “full” / a redirect, use **+34 694 242 562**: save the contact, then send `I allow callmebot to call me` (not “send me messages”). **+34 621 08 34 84** remains a secondary fallback.
 - **Lost API key** — Use CallMeBot’s [Recover APIKey](https://www.callmebot.com/blog/free-api-whatsapp-messages/) flow on their site (same allow message to the bot).
 - **Setup failed / rate limited** — CallMeBot may ask you to wait **24 hours** before trying the allow message again; then retry once.
 

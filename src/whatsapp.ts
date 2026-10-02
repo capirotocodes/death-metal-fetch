@@ -1,8 +1,9 @@
 /**
  * CallMeBot WhatsApp HTTP API client.
  * Docs: https://www.callmebot.com/blog/free-api-whatsapp-messages/
- * One-time setup: message +34 623 78 64 49 with "I allow callmebot to send me messages"
- * (alternate if bot is full: +34 621 08 34 84). See README troubleshooting.
+ * One-time setup: +34 623 78 64 49 → "I allow callmebot to send me messages".
+ * If full/redirect: save +34 694 242 562, then "I allow callmebot to call me".
+ * See README troubleshooting for fallbacks/history.
  *
  * Without CALLMEBOT_PHONE + CALLMEBOT_APIKEY, runs in dry-run mode and only logs.
  */
