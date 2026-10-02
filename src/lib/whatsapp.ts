@@ -1,9 +1,6 @@
 /**
- * CallMeBot WhatsApp HTTP API client (primary notifier).
- * Docs: https://www.callmebot.com/blog/free-api-whatsapp-messages/
- *
- * Delivery can be delayed even after HTTP 200 + "Message queued".
- * Without CALLMEBOT_PHONE + CALLMEBOT_APIKEY, runs in dry-run mode and only logs.
+ * CallMeBot WhatsApp HTTP API (primary notifier for new DB inserts).
+ * Dry-run when CALLMEBOT_PHONE / CALLMEBOT_APIKEY are missing.
  */
 
 const API_URL = "https://api.callmebot.com/whatsapp.php";
@@ -44,7 +41,6 @@ export async function sendWhatsApp(text: string): Promise<SendResult> {
     return { dryRun: false, ok: false, status: res.status, body };
   }
 
-  // CallMeBot often returns HTTP 200 even for quota/failure; inspect body.
   const lower = body.toLowerCase();
   const looksFailed =
     lower.includes("message not sent") ||
@@ -61,8 +57,6 @@ export async function sendWhatsApp(text: string): Promise<SendResult> {
     return { dryRun: false, ok: false, status: res.status, body };
   }
 
-  // HTTP 200 + "Message queued" still does not guarantee WhatsApp delivery
-  // (paused bot / WhatsApp blocks). See README troubleshooting.
   console.log(`[whatsapp] Queued OK (${res.status}): ${body}`);
   return { dryRun: false, ok: true, status: res.status, body };
 }
