@@ -1,0 +1,25 @@
+{
+  "name": "death-metal-fetch",
+  "version": "1.0.0",
+  "description": "Bluesky → WhatsApp notifier for Death Metal / Grindcore / Black Metal releases from kmanriffs.bsky.social",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "once": "tsx src/index.ts --once",
+    "test": "tsx scripts/smoke-match.ts"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@atproto/api": "^0.15.5",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}
