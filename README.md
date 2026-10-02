@@ -1,8 +1,8 @@
 # Death Metal Fetch
 
-Small Node/TypeScript service that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) on Bluesky and sends a **Telegram** message whenever that account posts something that looks like a **Death Metal**, **Grindcore**, or **Black Metal** release.
+Small Node/TypeScript service that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) on Bluesky and sends a **WhatsApp** message via [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) whenever that account posts something that looks like a **Death Metal**, **Grindcore**, or **Black Metal** release.
 
-> CallMeBot / WhatsApp was dropped after unreliable bot-full redirects and setup friction; Telegram Bot API is the notification channel now.
+Telegram Bot API remains an **optional** secondary channel if you also set those env vars; CallMeBot is the primary path.
 
 ## What it does
 
@@ -11,12 +11,11 @@ Small Node/TypeScript service that watches [kmanriffs.bsky.social](https://bsky.
 - Prefers release-like wording when present, but notifies on genre keyword hits from this account so you don’t miss drops
 - Persists the last-seen post URI under `data/state.json` so restarts don’t re-spam
 - On first run, seeds that cursor without backfilling old posts
-- If Telegram credentials are missing, runs in **dry-run** mode and logs the message it would send
+- If CallMeBot credentials are missing, runs in **dry-run** mode and logs the message it would send
 
 ## Requirements
 
 - Node.js 18+
-- A Telegram account (for receiving alerts)
 
 ## Setup
 
@@ -31,65 +30,54 @@ Edit `.env`:
 |---|---|---|---|
 | `BSKY_HANDLE` | no | `kmanriffs.bsky.social` | Bluesky handle to watch |
 | `POLL_INTERVAL_MS` | no | `120000` | Poll interval (2 minutes) |
-| `TELEGRAM_BOT_TOKEN` | for real sends | — | From [@BotFather](https://t.me/BotFather) |
-| `TELEGRAM_CHAT_ID` | for real sends | — | Your chat (or group) id |
+| `CALLMEBOT_PHONE` | for real sends | — | Your WhatsApp number, digits only |
+| `CALLMEBOT_APIKEY` | for real sends | — | Key from CallMeBot one-time setup |
+| `TELEGRAM_BOT_TOKEN` | optional | — | Secondary channel only |
+| `TELEGRAM_CHAT_ID` | optional | — | Secondary channel only |
 | `STATE_FILE` | no | `./data/state.json` | Where last-seen URI is stored |
 
-### Telegram bot setup (BotFather)
+### CallMeBot one-time WhatsApp setup (primary)
 
-1. Open Telegram and chat with [@BotFather](https://t.me/BotFather).
-2. Send `/newbot`, follow the prompts (display name + username ending in `bot`).
-3. BotFather replies with an **HTTP API token**. Put it in `.env` as `TELEGRAM_BOT_TOKEN`.
-4. **Message your new bot once** (open the bot link, tap Start / send `/start`). Bots cannot message you until you have started a chat.
-5. Get your `chat_id` either way:
-   - Helper (recommended):
-     ```bash
-     npm run telegram:chat-id
-     ```
-     It calls `getUpdates` and prints recent chat ids. Copy the one for your user into `TELEGRAM_CHAT_ID`.
-   - Or open in a browser (with your token):
-     `https://api.telegram.org/bot<TELEGRAM_BOT_TOKEN>/getUpdates`
-     and find `"chat":{"id": ...}` under a message you sent.
-6. Save `.env` and run the notifier.
+1. Open WhatsApp and message the current CallMeBot number (per [CallMeBot docs](https://www.callmebot.com/blog/free-api-whatsapp-messages/), Jan 2026: **+34 623 78 64 49**) with:
+   ```text
+   I allow callmebot to send me messages
+   ```
+2. If the bot replies that it is **full**, use the redirect they give you. This project has seen **+34 694 242 562**:
+   - **Save the contact** first
+   - Send the exact phrase: `I allow callmebot to call me` (not “send me messages”)
+3. Older / fallback numbers (history): **+34 621 08 34 84** (`send me messages`), **+34 644 66 45 70** (often no reply).
+4. CallMeBot replies with your **API key**. Put **your** phone (country code + number, no `+` or spaces) and that key into `.env` as `CALLMEBOT_PHONE` and `CALLMEBOT_APIKEY`.
 
-Without `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` the service still runs and prints dry-run Telegram payloads.
+Without those vars the notifier still runs and prints dry-run WhatsApp payloads.
 
-### Troubleshooting (Telegram)
+Send a one-shot delivery check:
 
-- **`chat not found` / bot silent** — You must message the bot at least once after creating it, then re-run `npm run telegram:chat-id`.
-- **Wrong chat_id** — Groups have a different (often negative) id; use the helper after sending a message in that chat (add the bot to the group first).
-- **Invalid token** — Recreate or revoke via BotFather (`/token` / `/revoke`) and update `.env`.
+```bash
+npm run notify:test
+```
+
+### Troubleshooting (CallMeBot)
+
+- **No reply from the bot** — Prefer **+34 623 78 64 49**. On “full” / redirect, use the number they give (e.g. **+34 694 242 562** with save-contact + `I allow callmebot to call me`).
+- **Lost API key** — Use CallMeBot’s [Recover APIKey](https://www.callmebot.com/blog/free-api-whatsapp-messages/) flow.
+- **Setup failed / rate limited** — Wait **24 hours** if asked, then retry once.
+
+### Optional: Telegram (secondary)
+
+If you also set `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`, each alert is also sent via Telegram. Create a bot with [@BotFather](https://t.me/BotFather) (`/newbot`), message it once, then run `npm run telegram:chat-id` to print your `chat_id`. CallMeBot remains required for non–dry-run operation.
 
 ## Run
 
-Development (TypeScript via `tsx`):
-
 ```bash
-npm run dev
-```
-
-Single poll then exit (useful for testing):
-
-```bash
-npm run once
-```
-
-List chats for `TELEGRAM_CHAT_ID`:
-
-```bash
-npm run telegram:chat-id
-```
-
-Production build:
-
-```bash
-npm run build
-npm start
+npm run dev          # continuous poller
+npm run once         # single poll then exit
+npm run notify:test  # real WhatsApp test (needs CallMeBot env)
+npm run build && npm start
 ```
 
 ## Message shape
 
-Short Telegram text including:
+Short WhatsApp text including:
 
 - Artist / title when the first line parses as `Artist - Title`
 - A short snippet of the Bluesky post
