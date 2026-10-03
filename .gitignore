@@ -47,3 +47,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Android / Capacitor build junk (keep the android/ project)
+android/.gradle/
+android/app/build/
+android/build/
+android/captures/
+android/local.properties
+android/.idea/
+*.apk
+*.aab
+*.keystore
+capacitor-www/.DS_Store
+

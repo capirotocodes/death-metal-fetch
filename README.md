@@ -2,7 +2,7 @@
 
 A **mobile-first** phone app that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) for **Death Metal**, **Grindcore**, and **Black Metal** posts, stores every match in local **SQLite**, and can ping WhatsApp via [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) when something **new** lands.
 
-Pastel unicorn UI on purpose. Home / Releases / Settings + PWA “Add to Home Screen”.
+Pastel unicorn UI on purpose. Home / Releases / Settings + PWA, plus an optional **Capacitor Android** shell so it installs like a real app.
 
 ## Stack
 
@@ -11,6 +11,7 @@ Pastel unicorn UI on purpose. Home / Releases / Settings + PWA “Add to Home Sc
 - Bluesky via `@atproto/api` (`getAuthorFeed`)
 - Background poller from Next `instrumentation.ts` (~every 2 minutes)
 - PWA: web manifest + icons + `theme-color`
+- Capacitor Android (`android/`) — native shell pointed at your hosted URL
 
 ## Setup
 
@@ -47,18 +48,26 @@ Open [http://127.0.0.1:3847](http://127.0.0.1:3847).
 
 This is **not** a static site. It needs a **always-running Node process** + a **disk volume** for SQLite. Free serverless (Vercel hobby, etc.) will not keep the poller alive.
 
-### Best free options
+### Best free options (skip Oracle card-verification drama)
 
-1. **Oracle Cloud Always Free VM** (most reliable free 24/7)  
-   Create an ARM Ampere free instance → install Docker → run compose below. Attach a public IP / domain. Cost: $0 if you stay in Always Free limits.
+1. **Fly.io** (recommended) — Docker + HTTPS. Repo includes `Dockerfile` + `fly.toml`. Free allowance changes; keep machines set not to auto-stop.
 
-2. **Fly.io** (easy Docker + HTTPS)  
-   Free allowance is limited and changes over time — check current Free tier. Repo includes `Dockerfile` + `fly.toml`.
-
-3. **Your always-on home PC / Raspberry Pi** + free Cloudflare Tunnel  
+2. **Your always-on home PC / Raspberry Pi** + free Cloudflare Tunnel  
    Same Docker compose; tunnel gives a public HTTPS URL.
 
-Avoid “free” hosts that **sleep** when idle (classic Render free web services) — the Bluesky poller will stop.
+Avoid hosts that **sleep** when idle (classic Render free web services) — the Bluesky poller will stop.
+
+### Real Android app (APK)
+
+After the backend URL exists:
+
+```bash
+export CAPACITOR_SERVER_URL=https://YOUR-APP.fly.dev
+npm run cap:sync
+npm run cap:open
+```
+
+Build an APK in Android Studio and sideload it on your phone. The WebView loads your hosted Next app (covers, poller, WhatsApp stay on the server).
 
 ### Docker (any VPS / Oracle / Pi)
 

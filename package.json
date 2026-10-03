@@ -8,11 +8,20 @@
     "build": "next build",
     "start": "next start --hostname 0.0.0.0 --port 3847",
     "lint": "next lint",
-    "poll": "tsx scripts/poll-once.ts"
+    "poll": "tsx scripts/poll-once.ts",
+    "cap:sync": "npx cap sync android",
+    "cap:open": "npx cap open android",
+    "android:sync": "npx cap sync android"
   },
   "dependencies": {
     "@atproto/api": "^0.22.0",
     "@base-ui/react": "^1.8.0",
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/splash-screen": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.4",
     "better-sqlite3": "^13.0.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
