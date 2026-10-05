@@ -1,9 +1,13 @@
-# Free-ish always-on deploy: https://fly.io
-# 1) fly auth login
-# 2) fly launch --no-deploy   (or fly apps create death-metal-fetch)
-# 3) fly volumes create dmf_data --size 1 --region <region>
-# 4) fly secrets set CALLMEBOT_PHONE=... CALLMEBOT_APIKEY=... POLL_SECRET=...
-# 5) fly deploy
+# Free always-on deploy: https://fly.io
+#
+# Exact path (also: ./scripts/fly-deploy.sh --print-only):
+#   1) flyctl auth login
+#   2) flyctl apps create death-metal-fetch   # or rename app= below if taken
+#   3) flyctl volumes create dmf_data --size 1 --region iad --app death-metal-fetch --yes
+#   4) flyctl secrets set CALLMEBOT_PHONE=... CALLMEBOT_APIKEY=... POLL_SECRET="$(openssl rand -hex 24)"
+#   5) flyctl deploy
+# Public HTTPS only after deploy succeeds: https://<app>.fly.dev
+# Temporary tunnels are NOT permanent hosting.
 
 app = "death-metal-fetch"
 primary_region = "iad"

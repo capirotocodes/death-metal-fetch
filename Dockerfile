@@ -41,7 +41,12 @@ COPY --from=builder /app/node_modules/better-sqlite3 ./node_modules/better-sqlit
 COPY --from=builder /app/node_modules/bindings ./node_modules/bindings
 COPY --from=builder /app/node_modules/file-uri-to-path ./node_modules/file-uri-to-path
 
-USER nextjs
+COPY docker-entrypoint.sh /usr/local/bin/docker-entrypoint.sh
+RUN chmod +x /usr/local/bin/docker-entrypoint.sh
+
+# Start as root so entrypoint can chown the Fly volume, then drop to nextjs
+USER root
 EXPOSE 3847
 VOLUME ["/data"]
+ENTRYPOINT ["docker-entrypoint.sh"]
 CMD ["node", "server.js"]

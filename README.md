@@ -80,19 +80,31 @@ docker compose up -d --build
 
 App: `http://YOUR_HOST:3847` (put HTTPS in front via Caddy/nginx/Cloudflare).
 
-### Fly.io sketch
+### Fly.io (recommended always-on HTTPS)
+
+Repo ships `Dockerfile`, `docker-entrypoint.sh` (chowns the SQLite volume), and `fly.toml`.
 
 ```bash
-fly auth login
-fly apps create death-metal-fetch   # pick a free name if taken
-fly volumes create dmf_data --size 1 --region iad
-fly secrets set POLL_SECRET="$(openssl rand -hex 24)"
-# optional:
-# fly secrets set CALLMEBOT_PHONE=... CALLMEBOT_APIKEY=...
-fly deploy
+# Install CLI once: curl -L https://fly.io/install.sh | sh
+export FLYCTL_INSTALL="$HOME/.fly"; export PATH="$FLYCTL_INSTALL/bin:$PATH"
+
+# Print exact commands, or run them when authenticated:
+./scripts/fly-deploy.sh --print-only
+./scripts/fly-deploy.sh --secrets-file /path/to/callmebot-credentials.env
+
+# Manual equivalent:
+flyctl auth login
+flyctl apps create death-metal-fetch   # rename fly.toml app= if taken
+flyctl volumes create dmf_data --size 1 --region iad --app death-metal-fetch --yes
+flyctl secrets set \
+  CALLMEBOT_PHONE='…' \
+  CALLMEBOT_APIKEY='…' \
+  POLL_SECRET="$(openssl rand -hex 24)" \
+  --app death-metal-fetch
+flyctl deploy --app death-metal-fetch
 ```
 
-Then share `https://<app>.fly.dev` — people Add to Home Screen from that URL.
+Only after deploy succeeds, share `https://death-metal-fetch.fly.dev` (or your renamed app). A temporary tunnel is **not** forever-online.
 
 ### Multi-user notes
 
