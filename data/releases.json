@@ -2,8 +2,67 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mx75k2j26sol",
-  "updatedAt": "2026-10-07T13:20:56.826Z",
+  "updatedAt": "2026-10-07T16:03:28.665Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95258",
+      "text": "Kathode - 5-Song Demo [Demo] (2020)\nBands: Kathode | Genres: Deathgrind, Thrash Metal | Countries: US",
+      "artist": "Kathode",
+      "title": "5-Song Demo [Demo] (2020)",
+      "genres": [
+        "Deathgrind",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95258",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T15:43:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzlXeey6BK.webp",
+      "createdAt": "2026-10-07T16:03:28.665Z",
+      "source": "deathgrind",
+      "id": 61,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95260",
+      "text": "Raped God 666 - Addicted To Satan (2026)\nBands: Raped God 666 | Genres: Death Metal, Thrash Metal | Countries: MX",
+      "artist": "Raped God 666",
+      "title": "Addicted To Satan (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95260",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T15:41:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxb-mbZAxqB.webp",
+      "createdAt": "2026-10-07T16:03:28.665Z",
+      "source": "deathgrind",
+      "id": 60,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95259",
+      "text": "AbyssTod - Death By Sawing (2026)\nBands: AbyssTod | Genres: Blackened Death Metal | Countries: PL",
+      "artist": "AbyssTod",
+      "title": "Death By Sawing (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95259",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T14:49:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVELE9NN78.webp",
+      "createdAt": "2026-10-07T16:03:28.665Z",
+      "source": "deathgrind",
+      "id": 59,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95255",
       "text": "First Days Of Humanity / Golem Of Gore - Skeletonization [Split] (2019)\nBands: First Days Of Humanity, Golem Of Gore | Genres: Goregrind | Countries: US, IT",
