@@ -1,126 +1,75 @@
 # Death Metal Fetch
 
-A **mobile-first** phone app that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) for **Death Metal**, **Grindcore**, and **Black Metal** posts, stores every match in local **SQLite**, and can ping WhatsApp via [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) when something **new** lands.
+A **mobile-first** phone app that watches [kmanriffs.bsky.social](https://bsky.app/profile/kmanriffs.bsky.social) for **Death Metal**, **Grindcore**, and **Black Metal** posts, keeps every match in an archive, and can ping WhatsApp via [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/) when something **new** lands.
 
-Pastel unicorn UI on purpose. Home / Releases / Settings + PWA, plus an optional **Capacitor Android** shell so it installs like a real app.
+Pastel unicorn UI on purpose. Home / Releases / Settings + PWA, plus an optional **Capacitor Android** shell.
+
+**Live:** https://capirotocodes.github.io/death-metal-fetch/
+
+## How it runs (free, no server)
+
+- **GitHub Actions** (`.github/workflows/poll-and-deploy.yml`) runs about every 15 minutes (GitHub may delay scheduled runs) and on demand via **Actions → Poll Bluesky and deploy → Run workflow**.
+- Each run fetches the latest 40 posts, adds new matches to **`data/releases.json`**, sends WhatsApp alerts for them, commits the file, and redeploys the site.
+- The site is a **Next.js static export** served by **GitHub Pages**. Screens read the archive baked in at build time and refresh from `/death-metal-fetch/data/releases.json`.
+- If a month passes without new releases, the workflow makes an empty "keep-alive" commit: GitHub disables scheduled workflows in public repos after 60 days without activity.
 
 ## Stack
 
-- Next.js (App Router) + TypeScript + Tailwind + shadcn/ui
-- SQLite via `better-sqlite3` (`data/releases.db` by default)
-- Bluesky via `@atproto/api` (`getAuthorFeed`)
-- Background poller from Next `instrumentation.ts` (~every 2 minutes)
+- Next.js (App Router, `output: "export"`) + TypeScript + Tailwind + shadcn/ui
+- Bluesky via `@atproto/api` (`getAuthorFeed`, public AppView, no login)
+- Archive: JSON in git (`data/releases.json`)
 - PWA: web manifest + icons + `theme-color`
-- Capacitor Android (`android/`) — native shell pointed at your hosted URL
+- Capacitor Android (`android/`) — native shell pointed at the hosted URL
 
-## Setup
+## Setup (once)
+
+1. Repository secrets (Settings → Secrets and variables → Actions), optional:
+   - `CALLMEBOT_PHONE` — digits only, no `+`
+   - `CALLMEBOT_APIKEY` — from CallMeBot
+
+   Without them alerts are dry-run (logged only).
+2. Settings → Pages → **Source: GitHub Actions**.
+3. Actions → **Run workflow** once. The first run backfills without sending alerts.
+
+## Local development
 
 ```bash
 npm install
-cp .env.example .env
+npm run dev        # http://127.0.0.1:3847/death-metal-fetch/
+npm test           # unit tests (node:test)
+npm run poll       # one poll into data/releases.json (dry-run without CallMeBot env vars)
+npm run build && npm run check:basepath   # static export into out/
 ```
 
-| Variable | Required | Notes |
-|---|---|---|
-| `CALLMEBOT_PHONE` | for WhatsApp | Digits only (operator’s phone) |
-| `CALLMEBOT_APIKEY` | for WhatsApp | From CallMeBot |
-| `BSKY_HANDLE` | no | Default `kmanriffs.bsky.social` |
-| `POLL_INTERVAL_MS` | no | Default `120000` |
-| `DATABASE_PATH` | no | Default `./data/releases.db` |
-| `POLL_SECRET` | **yes for public hosts** | Locks manual `POST /api/poll` |
-
-Without CallMeBot credentials the app still runs; WhatsApp goes to dry-run logs.
-
-## Run locally
-
-```bash
-npm run dev
-```
-
-Open [http://127.0.0.1:3847](http://127.0.0.1:3847).
+See `.env.example` for the variables `npm run poll` reads.
 
 ### Add to Home Screen
 
 - **iOS Safari:** Share → **Add to Home Screen**
 - **Android Chrome:** Menu → **Install app** / **Add to Home screen**
 
-## Free always-on hosting (for other people)
-
-This is **not** a static site. It needs a **always-running Node process** + a **disk volume** for SQLite. Free serverless (Vercel hobby, etc.) will not keep the poller alive.
-
-### Best free options (skip Oracle card-verification drama)
-
-1. **Fly.io** (recommended) — Docker + HTTPS. Repo includes `Dockerfile` + `fly.toml`. Free allowance changes; keep machines set not to auto-stop.
-
-2. **Your always-on home PC / Raspberry Pi** + free Cloudflare Tunnel  
-   Same Docker compose; tunnel gives a public HTTPS URL.
-
-Avoid hosts that **sleep** when idle (classic Render free web services) — the Bluesky poller will stop.
-
-### Real Android app (APK)
-
-After the backend URL exists:
+### Android app (APK)
 
 ```bash
-export CAPACITOR_SERVER_URL=https://YOUR-APP.fly.dev
+export CAPACITOR_SERVER_URL=https://capirotocodes.github.io/death-metal-fetch/
 npm run cap:sync
 npm run cap:open
 ```
 
-Build an APK in Android Studio and sideload it on your phone. The WebView loads your hosted Next app (covers, poller, WhatsApp stay on the server).
+## Notes
 
-### Docker (any VPS / Oracle / Pi)
-
-```bash
-cp .env.example .env
-# fill CALLMEBOT_* if you want operator WhatsApp alerts
-# set POLL_SECRET to a long random string for public use
-docker compose up -d --build
-```
-
-App: `http://YOUR_HOST:3847` (put HTTPS in front via Caddy/nginx/Cloudflare).
-
-### Fly.io (recommended always-on HTTPS)
-
-Repo ships `Dockerfile`, `docker-entrypoint.sh` (chowns the SQLite volume), and `fly.toml`.
-
-```bash
-# Install CLI once: curl -L https://fly.io/install.sh | sh
-export FLYCTL_INSTALL="$HOME/.fly"; export PATH="$FLYCTL_INSTALL/bin:$PATH"
-
-# Print exact commands, or run them when authenticated:
-./scripts/fly-deploy.sh --print-only
-./scripts/fly-deploy.sh --secrets-file /path/to/callmebot-credentials.env
-
-# Manual equivalent:
-flyctl auth login
-flyctl apps create death-metal-fetch   # rename fly.toml app= if taken
-flyctl volumes create dmf_data --size 1 --region iad --app death-metal-fetch --yes
-flyctl secrets set \
-  CALLMEBOT_PHONE='…' \
-  CALLMEBOT_APIKEY='…' \
-  POLL_SECRET="$(openssl rand -hex 24)" \
-  --app death-metal-fetch
-flyctl deploy --app death-metal-fetch
-```
-
-Only after deploy succeeds, share `https://death-metal-fetch.fly.dev` (or your renamed app). A temporary tunnel is **not** forever-online.
-
-### Multi-user notes
-
-- Everyone shares the **same release archive** (good).
+- Everyone shares the same release archive.
 - **Unread / mark seen** is per phone (localStorage), not shared.
-- **WhatsApp** still goes only to the CallMeBot number you configured (operator alerts), not to every visitor.
-- Set `POLL_SECRET` on public hosts so strangers can’t spam `/api/poll`.
+- **WhatsApp** goes only to the configured CallMeBot number, not to every visitor.
 
 ## Screens
 
 - **Home** — status + latest 3 (with cover art)
 - **Releases** — full archive cards
-- **Settings** — masked CallMeBot, poll interval, genres
+- **Settings** — alert status, poll cadence, genres
 
 ## Behavior
 
 - First poll: seed + backfill, no WhatsApp
-- Later polls: new matches → WhatsApp (if configured)
-- Covers: Bluesky image embed thumbs stored as `cover_url`
+- Later polls: new matches → WhatsApp (if configured); a failed alert is logged, not retried
+- Covers: Bluesky image embed thumbs stored as `coverUrl`

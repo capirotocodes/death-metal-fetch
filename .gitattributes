@@ -1,0 +1,4 @@
+# Shell scripts run on Linux; CRLF breaks the shebang.
+*.sh text eol=lf
+# The archive is written by CI on Linux; keep diffs stable on Windows checkouts.
+data/*.json text eol=lf
