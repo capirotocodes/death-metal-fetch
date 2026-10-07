@@ -65,9 +65,7 @@ export function HomeView({ initial }: Props) {
       <section className="status-board" aria-label="Watcher status">
         <div className="status-row">
           <span className="status-label">Watching</span>
-          <span className="status-value mono">
-            @{data.handle.replace(/\.bsky\.social$/, "")}
-          </span>
+          <span className="status-value">Mankind to Destroy itself</span>
         </div>
         <div className="status-row">
           <span className="status-label">Last new drop</span>
