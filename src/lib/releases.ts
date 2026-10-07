@@ -13,4 +13,6 @@ export type ReleaseDTO = {
   seen: boolean;
   coverUrl: string | null;
   createdAt: string;
+  /** Where the release came from; absent on older Bluesky rows. */
+  source?: "bluesky" | "deathgrind";
 };

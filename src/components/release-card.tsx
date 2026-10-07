@@ -85,7 +85,7 @@ export function ReleaseCard({ release, onMarkSeen, compact }: Props) {
               rel="noreferrer"
             >
               <ExternalLink aria-hidden className="size-3.5" />
-              Bluesky
+              {release.source === "deathgrind" ? "DeathGrind" : "Bluesky"}
             </a>
             {unread && onMarkSeen ? (
               <Button

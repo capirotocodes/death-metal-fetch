@@ -3,6 +3,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fetchAuthorPosts } from "../src/lib/bluesky";
+import { fetchDeathgrindItems, mergeDeathgrind } from "../src/lib/deathgrind";
 import { DEFAULT_BSKY_HANDLE } from "../src/lib/config";
 import { pollOnce } from "../src/lib/poll";
 import { emptyArchive, parseArchive, serializeArchive } from "../src/lib/store";
@@ -22,9 +23,23 @@ async function main(): Promise<void> {
   });
   console.log("[poll] summary", JSON.stringify(summary));
 
-  if (summary.changed) {
+  // deathgrind.club: app-only (no alerts). A failure here must not lose Bluesky results.
+  let out = next;
+  let changed = summary.changed;
+  try {
+    const items = await fetchDeathgrindItems();
+    const dg = mergeDeathgrind(out, items, new Date().toISOString());
+    console.log(`[deathgrind] ${items.length} in feed, ${dg.stored} new`);
+    out = dg.archive;
+    changed ||= dg.stored > 0;
+  } catch (err) {
+    console.error("[deathgrind] failed:", err);
+    process.exitCode = 1;
+  }
+
+  if (changed) {
     fs.mkdirSync(path.dirname(file), { recursive: true });
-    fs.writeFileSync(file, serializeArchive(next));
+    fs.writeFileSync(file, serializeArchive(out));
     console.log(`[poll] wrote ${file}`);
   }
   if (summary.alertFailures > 0) process.exitCode = 1;
