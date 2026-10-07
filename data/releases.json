@@ -2,8 +2,124 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mx75k2j26sol",
-  "updatedAt": "2026-10-07T16:03:28.665Z",
+  "updatedAt": "2026-10-07T19:05:34.296Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95266",
+      "text": "Engross - Inconceivable Horror [EP] (2020)\nBands: Engross | Genres: Deathgrind | Countries: US",
+      "artist": "Engross",
+      "title": "Inconceivable Horror [EP] (2020)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95266",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T18:41:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_-AnymMKw.webp",
+      "createdAt": "2026-10-07T19:05:34.296Z",
+      "source": "deathgrind",
+      "id": 67,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95265",
+      "text": "Vulgar Pigeons - Burning Episode [EP] (2005)\nBands: Vulgar Pigeons | Genres: Grindcore | Countries: US",
+      "artist": "Vulgar Pigeons",
+      "title": "Burning Episode [EP] (2005)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95265",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T18:32:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypo-8vWMBGl.webp",
+      "createdAt": "2026-10-07T19:05:34.296Z",
+      "source": "deathgrind",
+      "id": 66,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95264",
+      "text": "Vulgar Pigeons - Imperialism (2004)\nBands: Vulgar Pigeons | Genres: Grindcore | Countries: US",
+      "artist": "Vulgar Pigeons",
+      "title": "Imperialism (2004)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95264",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T18:08:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGqk9o9e9x.webp",
+      "createdAt": "2026-10-07T19:05:34.296Z",
+      "source": "deathgrind",
+      "id": 65,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95263",
+      "text": "Ballard / Vilmort - La Vergüenza De Existir [Split] (2026)\nBands: Ballard, Vilmort | Genres: Sludge, Grindcore | Countries: ES",
+      "artist": "Ballard / Vilmort",
+      "title": "La Vergüenza De Existir [Split] (2026)",
+      "genres": [
+        "Sludge",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95263",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T17:53:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw6QrAD9nG9.webp",
+      "createdAt": "2026-10-07T19:05:34.296Z",
+      "source": "deathgrind",
+      "id": 64,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95262",
+      "text": "Terrorshroud - Order Of Absolute Terror [Demo] (2026)\nBands: Terrorshroud | Genres: Blackened Death Metal | Countries: GR",
+      "artist": "Terrorshroud",
+      "title": "Order Of Absolute Terror [Demo] (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95262",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T17:27:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxb-ZYRLNDj.webp",
+      "createdAt": "2026-10-07T19:05:34.296Z",
+      "source": "deathgrind",
+      "id": 63,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95261",
+      "text": "Bloodsoaked Necrovoid - Bloodsoaked Necrovoid [EP] (2026)\nBands: Bloodsoaked Necrovoid | Genres: Death Metal, Doom Metal | Countries: CR",
+      "artist": "Bloodsoaked Necrovoid",
+      "title": "Bloodsoaked Necrovoid [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95261",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T16:37:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNy-bW_Noe.webp",
+      "createdAt": "2026-10-07T19:05:34.296Z",
+      "source": "deathgrind",
+      "id": 62,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95258",
       "text": "Kathode - 5-Song Demo [Demo] (2020)\nBands: Kathode | Genres: Deathgrind, Thrash Metal | Countries: US",
