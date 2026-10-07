@@ -1,0 +1,84 @@
+name: Poll Bluesky and deploy
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+# Never run two polls at once: both would try to push data/releases.json.
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  poll-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Poll Bluesky
+        id: poll
+        continue-on-error: true
+        env:
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: npm run poll
+
+      - name: Commit archive (or keep-alive)
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          pushed=false
+          if [ -n "$(git status --porcelain data/releases.json)" ]; then
+            git add data/releases.json
+            git commit -m "chore(data): update release archive"
+            pushed=true
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 30 * 24 * 3600 )) ]; then
+            # Public repos lose scheduled workflows after 60 days without activity.
+            git commit --allow-empty -m "chore: keep scheduled workflow alive"
+            pushed=true
+          fi
+          if [ "$pushed" = true ]; then
+            git pull --rebase
+            git push
+          fi
+          echo "pushed=$pushed" >> "$GITHUB_OUTPUT"
+
+      # A push made with GITHUB_TOKEN does not trigger other workflows, so build
+      # and deploy happen here, in the same run.
+      - name: Build site
+        if: steps.commit.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          NEXT_PUBLIC_ALERTS_ENABLED: ${{ secrets.CALLMEBOT_PHONE != '' && secrets.CALLMEBOT_APIKEY != '' && '1' || '0' }}
+        run: |
+          npm run build
+          npm run check:basepath
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.commit.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch'
+        with:
+          path: out
+
+      - id: deploy
+        if: steps.commit.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/deploy-pages@v4
+
+      - name: Fail if the poll failed
+        if: steps.poll.outcome == 'failure'
+        run: exit 1
