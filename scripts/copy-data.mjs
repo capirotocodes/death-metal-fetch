@@ -18,3 +18,8 @@ if (fs.existsSync(src)) {
   };
   fs.writeFileSync(dest, JSON.stringify(empty, null, 2) + "\n");
 }
+
+// Locally hosted cover thumbnails (see src/lib/cover-cache.ts).
+if (fs.existsSync("data/covers")) {
+  fs.cpSync("data/covers", "public/covers", { recursive: true });
+}

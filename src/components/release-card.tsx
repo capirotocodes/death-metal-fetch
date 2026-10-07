@@ -2,6 +2,7 @@
 
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { BASE_PATH } from "@/lib/base-path";
 import { relativeTime, releaseHeading } from "@/lib/format";
 import type { ReleaseDTO } from "@/lib/releases";
 import { cn } from "@/lib/utils";
@@ -31,7 +32,11 @@ export function ReleaseCard({ release, onMarkSeen, compact }: Props) {
           // eslint-disable-next-line @next/next/no-img-element -- Bluesky CDN thumbs; plain img keeps PWA/mobile simple
           <img
             className="release-cover"
-            src={release.coverUrl}
+            src={
+              release.coverUrl.startsWith("http")
+                ? release.coverUrl
+                : `${BASE_PATH}/${release.coverUrl}`
+            }
             alt=""
             loading="lazy"
             decoding="async"

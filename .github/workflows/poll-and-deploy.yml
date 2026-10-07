@@ -45,8 +45,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           pushed=false
-          if [ -n "$(git status --porcelain data/releases.json)" ]; then
-            git add data/releases.json
+          if [ -n "$(git status --porcelain data)" ]; then
+            git add data
             git commit -m "chore(data): update release archive"
             pushed=true
           elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 30 * 24 * 3600 )) ]; then
