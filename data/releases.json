@@ -2,8 +2,433 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mx75k2j26sol",
-  "updatedAt": "2026-10-07T12:36:31.149Z",
+  "updatedAt": "2026-10-07T13:20:56.826Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95255",
+      "text": "First Days Of Humanity / Golem Of Gore - Skeletonization [Split] (2019)\nBands: First Days Of Humanity, Golem Of Gore | Genres: Goregrind | Countries: US, IT",
+      "artist": "First Days Of Humanity / Golem Of Gore",
+      "title": "Skeletonization [Split] (2019)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95255",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:10:42.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/qgd-Bd6bMyE.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 58,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95252",
+      "text": "Mindflair - Stagnation (2005)\nBands: Mindflair | Genres: Grindcore | Countries: DE",
+      "artist": "Mindflair",
+      "title": "Stagnation (2005)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95252",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:07:53.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/O9l6mnJWG_G.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 57,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95251",
+      "text": "First Days Of Humanity - Wounds Leaking Coagulated Sludge (2022)\nBands: First Days Of Humanity | Genres: Goregrind | Countries: US",
+      "artist": "First Days Of Humanity",
+      "title": "Wounds Leaking Coagulated Sludge (2022)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95251",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:06:38.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/8ZG-BGYPgle.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 56,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95250",
+      "text": "First Days Of Humanity - Lithic [EP] (2022)\nBands: First Days Of Humanity | Genres: Goregrind | Countries: US",
+      "artist": "First Days Of Humanity",
+      "title": "Lithic [EP] (2022)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95250",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:06:17.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/BJVEjwxvkbk.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 55,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95248",
+      "text": "Fulminate - Internal Degradation [Demo] (2024)\nBands: Fulminate | Genres: Goregrind | Countries: US",
+      "artist": "Fulminate",
+      "title": "Internal Degradation [Demo] (2024)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95248",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:04:59.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/rje-LrDwb8p.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 54,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95249",
+      "text": "First Days Of Humanity - Mineralized [EP] (2021)\nBands: First Days Of Humanity | Genres: Goregrind | Countries: US",
+      "artist": "First Days Of Humanity",
+      "title": "Mineralized [EP] (2021)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95249",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:04:34.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/AeRDg66Vr_J.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 53,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95247",
+      "text": "Negative Prayer - Self // Wound (2024)\nBands: Negative Prayer | Genres: Death Metal, Crust | Countries: US",
+      "artist": "Negative Prayer",
+      "title": "Self // Wound (2024)",
+      "genres": [
+        "Death Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95247",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:03:40.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/mm8-JZlrqPJ.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 52,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95246",
+      "text": "Mouth Breather - Mouth Breather (2015)\nBands: Mouth Breather | Genres: Grindcore, Powerviolence | Countries: US",
+      "artist": "Mouth Breather",
+      "title": "Mouth Breather (2015)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95246",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T13:03:04.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/6gDGOn_Gnrr.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 51,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95257",
+      "text": "Necrophile - Desolation Divine (2026)\nBands: Necrophile | Genres: Death Metal | Countries: US",
+      "artist": "Necrophile",
+      "title": "Desolation Divine (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95257",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T11:30:51.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/L6gPM9LxR_9.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 50,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95256",
+      "text": "Massive Loss Of Blood - Promo 2026\nBands: Massive Loss Of Blood | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Massive Loss Of Blood",
+      "title": "Promo 2026",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95256",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T08:47:13.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/O9l6oaGbp6Y.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 49,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95254",
+      "text": ".50Collateral - A Time for War (2026)\nBands: .50Collateral | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": ".50Collateral",
+      "title": "A Time for War (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95254",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-07T08:30:18.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/rje-ynRDe7Q.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 48,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94722",
+      "text": "Infuriation - Unholy Dominion (2026)\nBands: Infuriation | Genres: Brutal Death Metal | Countries: AR, CH, CZ",
+      "artist": "Infuriation",
+      "title": "Unholy Dominion (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94722",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T20:07:54.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/beLEnoj6akZ.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 47,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94723",
+      "text": "Acerbated - Lurking Deep Within (2026)\nBands: Acerbated | Genres: Brutal Death Metal | Countries: ES, CO",
+      "artist": "Acerbated",
+      "title": "Lurking Deep Within (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94723",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T20:07:34.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/QNnvLdvoMVY.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 46,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95244",
+      "text": "Worm Casket - Infesting The Morgue [EP] (2026)\nBands: Worm Casket | Genres: Death Metal | Countries: GB",
+      "artist": "Worm Casket",
+      "title": "Infesting The Morgue [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95244",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T19:49:27.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/gMQ-BmWPQOd.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 45,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95243",
+      "text": "Banzai - Unexplainable Tales of Macabre (2024)\nBands: Banzai | Genres: Deathgrind, Goregrind | Countries: CA",
+      "artist": "Banzai",
+      "title": "Unexplainable Tales of Macabre (2024)",
+      "genres": [
+        "Deathgrind",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95243",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T19:01:47.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/8ZG--mded9-.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 44,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95241",
+      "text": "7th Nemesis - Scourge Of The New World Order [Promo] (2002)\nBands: 7th Nemesis | Genres: Death Metal, Technical Death Metal | Countries: FR",
+      "artist": "7th Nemesis",
+      "title": "Scourge Of The New World Order [Promo] (2002)",
+      "genres": [
+        "Death Metal",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95241",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T18:21:23.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/lG_-a_7V9BL.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 43,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95170",
+      "text": "Niggurath - I Like Gore (2026)\nBands: Niggurath | Genres: Brutal Death Metal | Countries: CO",
+      "artist": "Niggurath",
+      "title": "I Like Gore (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95170",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T16:33:16.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/NJkPYJeAjNo.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 42,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95240",
+      "text": "Exorency - Depressive Demos [Compilation] (2025)\nBands: Exorency | Genres: Death Metal | Countries: US",
+      "artist": "Exorency",
+      "title": "Depressive Demos [Compilation] (2025)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95240",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T15:27:18.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/eDO-r_AKjDL.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 41,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95239",
+      "text": "Afterdeath - Unreal Life (Demos & Rare Tracks 1990-1997) [Compilation] (2013)\nBands: Afterdeath | Genres: Death Metal, Thrash Metal | Countries: PT",
+      "artist": "Afterdeath",
+      "title": "Unreal Life (Demos & Rare Tracks 1990-1997) [Compilation] (2013)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95239",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T15:26:33.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/JldDkMBjDXo.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 40,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95238",
+      "text": "Gangrena - Infected Ideologies [Reissue] (2021)\nBands: Gangrena | Genres: Death Metal | Countries: PT",
+      "artist": "Gangrena",
+      "title": "Infected Ideologies [Reissue] (2021)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95238",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T15:00:16.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/dwNyqlYgLYy.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 39,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95237",
+      "text": "Undercroft - ReDEMOlition [Compilation] (1998)\nBands: Undercroft | Genres: Death Metal | Countries: CL",
+      "artist": "Undercroft",
+      "title": "ReDEMOlition [Compilation] (1998)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95237",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T14:59:53.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/wKm-RJnX_Lk.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 38,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95199",
+      "text": "Argentor - Path Into The Void (2026)\nBands: Argentor | Genres: Progressive Death Metal, Technical Death Metal, Old School Death Metal | Countries: RU",
+      "artist": "Argentor",
+      "title": "Path Into The Void (2026)",
+      "genres": [
+        "Progressive Death Metal",
+        "Technical Death Metal",
+        "Old School Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95199",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T14:59:05.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/6gDGkQ_kD6j.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 37,
+      "seen": false
+    },
     {
       "id": 28,
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mx74cn7cykol",
@@ -77,6 +502,25 @@
       "createdAt": "2026-10-07T12:04:57.396Z"
     },
     {
+      "uri": "https://deathgrind.club/posts/95236",
+      "text": "Летальный Исход - Избыточное Опустошение (2026)\nBands: Летальный Исход | Genres: Death Metal | Countries: RU",
+      "artist": "Летальный Исход",
+      "title": "Избыточное Опустошение (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95236",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T08:55:56.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/ypo-KXmZvL6.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 36,
+      "seen": false
+    },
+    {
       "id": 24,
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mx72olguskol",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️️October 31st, 2026⬅️\n\nARCKANUM - Beswærilsin 🇸🇪⚛️\n\n10th album (9 years on) from Mora, Dalarna, Swedish Black Metal outfit⚛️\n\nBC➡️arckanumdarknessshallrise.bandcamp.com/album/besw-r...⚛️\n\n#Arckanum #Beswaerilsin #BlackMetal #DarknessShallRise #TheUpcomingTerror26 #KMäN",
@@ -95,6 +539,83 @@
       "createdAt": "2026-10-07T12:04:57.395Z"
     },
     {
+      "uri": "https://deathgrind.club/posts/95235",
+      "text": "Deteriorot - Ceremonies Of Blasphemy (35th Anniversary) [Compilation] (2026)\nBands: Deteriorot | Genres: Death Metal | Countries: US",
+      "artist": "Deteriorot",
+      "title": "Ceremonies Of Blasphemy (35th Anniversary) [Compilation] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95235",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T08:48:42.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/6gDGdk9XMwa.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 35,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95234",
+      "text": "Deteriorot - Manifested Apparitions Of Unholy Spirits: 30th Anniversary [Compilation] (2023)\nBands: Deteriorot | Genres: Death Metal | Countries: US",
+      "artist": "Deteriorot",
+      "title": "Manifested Apparitions Of Unholy Spirits: 30th Anniversary [Compilation] (2023)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95234",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T08:48:26.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/6gDGdKnjoVa.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 34,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95233",
+      "text": "The Oily Menace - Modulistic Terror [Demo] (2010)\nBands: The Oily Menace | Genres: Grindcore, Crust | Countries: US",
+      "artist": "The Oily Menace",
+      "title": "Modulistic Terror [Demo] (2010)",
+      "genres": [
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95233",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T08:48:04.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/rje-RA6V7ZV.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 33,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95232",
+      "text": "The Oily Menace - Piece by Peice [Compilation] (2014)\nBands: The Oily Menace | Genres: Grindcore | Countries: US",
+      "artist": "The Oily Menace",
+      "title": "Piece by Peice [Compilation] (2014)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95232",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T08:47:33.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/8ZG-wD6aXl-.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 32,
+      "seen": false
+    },
+    {
       "id": 23,
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mx6zzxoxqsol",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️October 30th, 2026⬅️\n\nINVULTATION - Inferno Descends 🇺🇸⚛️\n\n4th album from Columbus, Ohio, U.S. Bestial Death Metal outfit⚛️\n\nBC➡️sentientruin.bandcamp.com/album/infern...⚛️\n\n#Invultation #InfernoDescends #BestialDeath #SentientRuin #TheUpcomingTerror26 #KMäN",
@@ -111,6 +632,65 @@
       "seen": false,
       "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreif7cdl2mtksqdkt2g7f52bswdcq22pqbl6wjdm5cwe6amfsbxnhmu",
       "createdAt": "2026-10-07T12:04:57.394Z"
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95231",
+      "text": "Destination Void - Xibalba (2009)\nBands: Destination Void | Genres: Death Metal | Countries: AT",
+      "artist": "Destination Void",
+      "title": "Xibalba (2009)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95231",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T02:50:58.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/qgd-7lrZBXM.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 31,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95230",
+      "text": "Iniquity Of Hate - Desiderium [EP] (2026)\nBands: Iniquity Of Hate | Genres: Brutal Death Metal, Hardcore | Countries: US",
+      "artist": "Iniquity Of Hate",
+      "title": "Desiderium [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95230",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T02:50:39.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/n69-RYPNkW8.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 30,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95229",
+      "text": "Iniquity Of Hate - Cast Me Out [EP] (2023)\nBands: Iniquity Of Hate | Genres: Brutal Death Metal, Hardcore | Countries: US",
+      "artist": "Iniquity Of Hate",
+      "title": "Cast Me Out [EP] (2023)",
+      "genres": [
+        "Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95229",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-06T02:50:30.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/KxeDWBgKWqY.webp",
+      "createdAt": "2026-10-07T13:20:56.826Z",
+      "source": "deathgrind",
+      "id": 29,
+      "seen": false
     },
     {
       "id": 1,
