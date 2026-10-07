@@ -1,4 +1,7 @@
 import type { MetadataRoute } from "next";
+import { BASE_PATH } from "@/lib/base-path";
+
+export const dynamic = "force-static";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
@@ -6,26 +9,27 @@ export default function manifest(): MetadataRoute.Manifest {
     short_name: "DM Fetch",
     description:
       "Unicorn-powered Bluesky metal release archive with WhatsApp alerts.",
-    start_url: "/",
+    start_url: `${BASE_PATH}/`,
+    scope: `${BASE_PATH}/`,
     display: "standalone",
     background_color: "#fff5fb",
     theme_color: "#ff4d9a",
     orientation: "portrait-primary",
     icons: [
       {
-        src: "/icons/icon-192.png",
+        src: `${BASE_PATH}/icons/icon-192.png`,
         sizes: "192x192",
         type: "image/png",
         purpose: "any",
       },
       {
-        src: "/icons/icon-512.png",
+        src: `${BASE_PATH}/icons/icon-512.png`,
         sizes: "512x512",
         type: "image/png",
         purpose: "any",
       },
       {
-        src: "/icons/icon-512.png",
+        src: `${BASE_PATH}/icons/icon-512.png`,
         sizes: "512x512",
         type: "image/png",
         purpose: "maskable",

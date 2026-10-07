@@ -1,20 +1,11 @@
 "use client";
 
-import { formatPollInterval } from "@/lib/format";
 import { Badge } from "@/components/ui/badge";
-
-export type SettingsPayload = {
-  handle: string;
-  pollIntervalMs: number;
-  genres: string[];
-  callmebotConfigured: boolean;
-  callmebotPhoneMasked: string | null;
-  count: number;
-  lastPollAt: string | null;
-};
+import type { ArchiveView } from "@/lib/archive-view";
+import { formatPollInterval } from "@/lib/format";
 
 type Props = {
-  initial: SettingsPayload;
+  initial: ArchiveView;
 };
 
 export function SettingsView({ initial }: Props) {
@@ -23,24 +14,18 @@ export function SettingsView({ initial }: Props) {
       <section className="settings-card">
         <h2>CallMeBot WhatsApp</h2>
         <p className="muted">
-          When a brand-new blast-beat drops into SQLite, a unicorn tries to text
-          you. Delivery may be fashionably late — like a festival set time.
+          When a brand-new blast-beat lands in the archive, a unicorn tries to
+          text you. Delivery may be fashionably late — like a festival set time.
         </p>
         <dl className="kv">
           <div>
             <dt>Status</dt>
             <dd>
-              {initial.callmebotConfigured ? (
+              {initial.alertsEnabled ? (
                 <span className="pill-ok">Configured ✨</span>
               ) : (
                 <span className="pill-warn">Dry-run (logs only)</span>
               )}
-            </dd>
-          </div>
-          <div>
-            <dt>Phone</dt>
-            <dd className="mono">
-              {initial.callmebotPhoneMasked ?? "not set — solitude mode"}
             </dd>
           </div>
         </dl>
@@ -55,11 +40,11 @@ export function SettingsView({ initial }: Props) {
         <dl className="kv">
           <div>
             <dt>Interval</dt>
-            <dd>{formatPollInterval(initial.pollIntervalMs)}</dd>
+            <dd>about every {formatPollInterval(initial.pollIntervalMs)}</dd>
           </div>
           <div>
-            <dt>Env knobs</dt>
-            <dd className="mono">BSKY_HANDLE · POLL_INTERVAL_MS</dd>
+            <dt>Runs on</dt>
+            <dd>GitHub Actions schedule</dd>
           </div>
         </dl>
       </section>

@@ -3,32 +3,21 @@
 import { useEffect, useState, useTransition } from "react";
 import Link from "next/link";
 import { ReleaseCard } from "@/components/release-card";
-import { Button } from "@/components/ui/button";
+import { fetchArchiveView, type ArchiveView } from "@/lib/archive-view";
 import { formatPollInterval, relativeTime } from "@/lib/format";
-import type { ReleaseDTO } from "@/lib/releases";
 import {
   applyLocalSeen,
   countUnseenLocally,
   markSeenLocally,
 } from "@/lib/seen-client";
 
-export type HomePayload = {
-  handle: string;
-  pollIntervalMs: number;
-  count: number;
-  unseenCount: number;
-  lastPollAt: string | null;
-  callmebotConfigured: boolean;
-  callmebotPhoneMasked: string | null;
-  manualPollEnabled?: boolean;
-  releases: ReleaseDTO[];
-};
+type HomeData = ArchiveView & { unseenCount: number };
 
 type Props = {
-  initial: HomePayload;
+  initial: ArchiveView;
 };
 
-function withLocal(data: HomePayload): HomePayload {
+function withLocal(data: ArchiveView): HomeData {
   const releases = applyLocalSeen(data.releases);
   return {
     ...data,
@@ -38,20 +27,15 @@ function withLocal(data: HomePayload): HomePayload {
 }
 
 export function HomeView({ initial }: Props) {
-  const [data, setData] = useState(initial);
+  const [data, setData] = useState<HomeData>({ ...initial, unseenCount: 0 });
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
-  const [polling, setPolling] = useState(false);
-  const manualPoll = data.manualPollEnabled !== false;
 
   const load = () => {
     startTransition(async () => {
       try {
         setError(null);
-        const res = await fetch("/api/releases", { cache: "no-store" });
-        if (!res.ok) throw new Error(`Status check faceplanted (${res.status})`);
-        const json = (await res.json()) as HomePayload;
-        setData(withLocal(json));
+        setData(withLocal(await fetchArchiveView()));
       } catch (err) {
         setError(err instanceof Error ? err.message : "Could not refresh");
       }
@@ -60,23 +44,11 @@ export function HomeView({ initial }: Props) {
 
   useEffect(() => {
     setData(withLocal(initial));
+    load();
     const id = setInterval(load, 30_000);
     return () => clearInterval(id);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-
-  const runPoll = async () => {
-    setPolling(true);
-    try {
-      const res = await fetch("/api/poll", { method: "POST" });
-      if (!res.ok) throw new Error(`Poll farted out (${res.status})`);
-      load();
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "Poll failed");
-    } finally {
-      setPolling(false);
-    }
-  };
 
   const markSeen = (uri: string) => {
     markSeenLocally(uri);
@@ -84,8 +56,8 @@ export function HomeView({ initial }: Props) {
   };
 
   const latest = data.releases.slice(0, 3);
-  const whatsappLabel = data.callmebotConfigured
-    ? `WhatsApp ready (${data.callmebotPhoneMasked ?? "••••"})`
+  const whatsappLabel = data.alertsEnabled
+    ? "WhatsApp ready ✨"
     : "WhatsApp dry-run (no horn, no pings)";
 
   return (
@@ -98,11 +70,11 @@ export function HomeView({ initial }: Props) {
           </span>
         </div>
         <div className="status-row">
-          <span className="status-label">Last sniff</span>
+          <span className="status-label">Last new drop</span>
           <span className="status-value">
-            {data.lastPollAt
-              ? relativeTime(data.lastPollAt)
-              : "Hasn’t sniffed yet"}
+            {data.updatedAt
+              ? relativeTime(data.updatedAt)
+              : "Nothing hoarded yet"}
           </span>
         </div>
         <div className="status-row">
@@ -118,27 +90,13 @@ export function HomeView({ initial }: Props) {
         <div className="status-row">
           <span className="status-label">Cadence</span>
           <span className="status-value">
-            every {formatPollInterval(data.pollIntervalMs)}
+            about every {formatPollInterval(data.pollIntervalMs)}
             {pending ? " · refreshing…" : ""}
           </span>
         </div>
-        {manualPoll ? (
-          <div className="status-actions">
-            <Button
-              type="button"
-              onClick={runPoll}
-              disabled={polling}
-              className="w-full"
-            >
-              {polling ? "Galloping to Bluesky…" : "Poll the void (nicely)"}
-            </Button>
-          </div>
-        ) : (
-          <p className="muted tiny" style={{ marginTop: "0.75rem" }}>
-            Auto-poll is on the server. Manual poll is locked on this public
-            host.
-          </p>
-        )}
+        <p className="muted tiny" style={{ marginTop: "0.75rem" }}>
+          A GitHub robot sniffs Bluesky on a schedule. No buttons needed.
+        </p>
       </section>
 
       {error ? (
@@ -161,7 +119,7 @@ export function HomeView({ initial }: Props) {
             </p>
             <h3>The stable is empty</h3>
             <p className="muted">
-              No death metal in the glitter drawer yet. The server poller will
+              No death metal in the glitter drawer yet. The GitHub robot will
               fill this when Bluesky drops something blast-beat-y.
             </p>
           </div>

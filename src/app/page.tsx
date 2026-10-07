@@ -1,31 +1,15 @@
 import { AppShell } from "@/components/app-shell";
 import { HomeView } from "@/components/home-view";
-import { getPublicStatus } from "@/lib/config";
-import { countReleases, countUnseen, getMeta, listReleases } from "@/lib/db";
-import { toReleaseDTO } from "@/lib/releases";
-
-export const dynamic = "force-dynamic";
+import { readArchive } from "@/lib/archive-data";
+import { toArchiveView } from "@/lib/archive-view";
 
 export default function HomePage() {
-  const status = getPublicStatus();
-  const releases = listReleases(200).map(toReleaseDTO);
-  const unseenCount = countUnseen();
-
   return (
     <AppShell
       title="Home base"
       subtitle="Status, sparkles, and the three freshest riffs in the glitter vault."
-      initialUnseen={unseenCount}
     >
-      <HomeView
-        initial={{
-          ...status,
-          count: countReleases(),
-          unseenCount,
-          lastPollAt: getMeta("lastPollAt"),
-          releases,
-        }}
-      />
+      <HomeView initial={toArchiveView(readArchive())} />
     </AppShell>
   );
 }

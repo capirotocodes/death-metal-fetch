@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { BottomNav } from "@/components/bottom-nav";
 import { SparkleBurst, UnicornMark } from "@/components/unicorn-deco";
+import { fetchArchiveView } from "@/lib/archive-view";
 import { countUnseenLocally } from "@/lib/seen-client";
 
 type Props = {
@@ -23,11 +24,8 @@ export function AppShell({
   useEffect(() => {
     const refresh = async () => {
       try {
-        const res = await fetch("/api/releases", { cache: "no-store" });
-        if (!res.ok) return;
-        const json = (await res.json()) as { releases?: { uri: string }[] };
-        const uris = (json.releases ?? []).map((r) => r.uri);
-        setUnseen(countUnseenLocally(uris));
+        const view = await fetchArchiveView();
+        setUnseen(countUnseenLocally(view.releases.map((r) => r.uri)));
       } catch {
         /* ignore */
       }

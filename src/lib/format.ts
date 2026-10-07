@@ -25,12 +25,6 @@ export function formatPollInterval(ms: number): string {
   return `${hrs % 1 === 0 ? hrs : hrs.toFixed(1)} hr`;
 }
 
-export function maskPhone(phone: string): string {
-  const digits = phone.replace(/\D/g, "");
-  if (digits.length <= 4) return "••••";
-  return `••••${digits.slice(-4)}`;
-}
-
 export function releaseHeading(opts: {
   artist: string | null;
   title: string | null;

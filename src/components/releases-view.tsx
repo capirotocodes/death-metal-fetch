@@ -3,7 +3,7 @@
 import { useEffect, useState, useTransition } from "react";
 import { ReleaseCard } from "@/components/release-card";
 import { Button } from "@/components/ui/button";
-import type { ReleaseDTO } from "@/lib/releases";
+import { fetchArchiveView, type ArchiveView } from "@/lib/archive-view";
 import {
   applyLocalSeen,
   countUnseenLocally,
@@ -11,19 +11,13 @@ import {
   markSeenLocally,
 } from "@/lib/seen-client";
 
-type Payload = {
-  count: number;
-  unseenCount: number;
-  callmebotConfigured: boolean;
-  manualPollEnabled?: boolean;
-  releases: ReleaseDTO[];
-};
+type ReleasesData = ArchiveView & { unseenCount: number };
 
 type Props = {
-  initial: Payload;
+  initial: ArchiveView;
 };
 
-function withLocal(data: Payload): Payload {
+function withLocal(data: ArchiveView): ReleasesData {
   const releases = applyLocalSeen(data.releases);
   return {
     ...data,
@@ -33,20 +27,15 @@ function withLocal(data: Payload): Payload {
 }
 
 export function ReleasesView({ initial }: Props) {
-  const [data, setData] = useState(initial);
+  const [data, setData] = useState<ReleasesData>({ ...initial, unseenCount: 0 });
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
-  const [polling, setPolling] = useState(false);
-  const manualPoll = data.manualPollEnabled !== false;
 
   const load = () => {
     startTransition(async () => {
       try {
         setError(null);
-        const res = await fetch("/api/releases", { cache: "no-store" });
-        if (!res.ok) throw new Error(`Archive refused to open (${res.status})`);
-        const json = (await res.json()) as Payload;
-        setData(withLocal(json));
+        setData(withLocal(await fetchArchiveView()));
       } catch (err) {
         setError(err instanceof Error ? err.message : "Failed to load");
       }
@@ -55,23 +44,11 @@ export function ReleasesView({ initial }: Props) {
 
   useEffect(() => {
     setData(withLocal(initial));
+    load();
     const id = setInterval(load, 30_000);
     return () => clearInterval(id);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-
-  const runPoll = async () => {
-    setPolling(true);
-    try {
-      const res = await fetch("/api/poll", { method: "POST" });
-      if (!res.ok) throw new Error(`Poll failed (${res.status})`);
-      load();
-    } catch (err) {
-      setError(err instanceof Error ? err.message : "Poll failed");
-    } finally {
-      setPolling(false);
-    }
-  };
 
   const markSeen = (uri: string) => {
     markSeenLocally(uri);
@@ -107,14 +84,9 @@ export function ReleasesView({ initial }: Props) {
         <h3>Zero releases. Maximum vibes.</h3>
         <p className="muted">
           We’re watching for Death Metal, Grindcore, and Black Metal — then
-          filing them next to glitter glue. The server poller seeds this
+          filing them next to glitter glue. The GitHub robot seeds this
           automatically.
         </p>
-        {manualPoll ? (
-          <Button type="button" onClick={runPoll} disabled={polling}>
-            {polling ? "Summoning…" : "Poll now"}
-          </Button>
-        ) : null}
       </div>
     );
   }
@@ -135,17 +107,6 @@ export function ReleasesView({ initial }: Props) {
               onClick={markAll}
             >
               Mark all seen
-            </Button>
-          ) : null}
-          {manualPoll ? (
-            <Button
-              type="button"
-              variant="outline"
-              size="sm"
-              onClick={runPoll}
-              disabled={polling}
-            >
-              {polling ? "Polling…" : "Poll"}
             </Button>
           ) : null}
         </div>
