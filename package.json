@@ -11,7 +11,8 @@
     "poll": "tsx scripts/poll-once.ts",
     "cap:sync": "npx cap sync android",
     "cap:open": "npx cap open android",
-    "android:sync": "npx cap sync android"
+    "android:sync": "npx cap sync android",
+    "test": "node --import tsx --test \"tests/**/*.test.ts\""
   },
   "dependencies": {
     "@atproto/api": "^0.22.0",
