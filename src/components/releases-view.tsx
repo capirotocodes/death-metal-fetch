@@ -4,7 +4,9 @@ import { useEffect, useState, useTransition } from "react";
 import { ReleaseCard } from "@/components/release-card";
 import { Button } from "@/components/ui/button";
 import { fetchArchiveView, type ArchiveView } from "@/lib/archive-view";
+import { SourceTabs } from "@/components/source-tabs";
 import { useStars } from "@/lib/highlights-client";
+import { filterBySource, useSourceFilter } from "@/lib/source-filter";
 import {
   applyLocalSeen,
   countUnseenLocally,
@@ -32,6 +34,7 @@ export function ReleasesView({ initial }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
   const [stars, toggleStar] = useStars();
+  const [source, setSource] = useSourceFilter();
 
   const load = () => {
     startTransition(async () => {
@@ -57,8 +60,11 @@ export function ReleasesView({ initial }: Props) {
     setData((prev) => withLocal(prev));
   };
 
+  const visible = filterBySource(data.releases, source);
+  const visibleUnseen = visible.filter((r) => !r.seen).length;
+
   const markAll = () => {
-    markAllSeenLocally(data.releases.map((r) => r.uri));
+    markAllSeenLocally(visible.map((r) => r.uri));
     setData((prev) => withLocal(prev));
   };
 
@@ -95,13 +101,14 @@ export function ReleasesView({ initial }: Props) {
 
   return (
     <div className="stack">
+      <SourceTabs value={source} onChange={setSource} />
       <div className="list-toolbar">
         <p className="muted">
-          {data.count} stored · {data.unseenCount} unread on this phone
+          {visible.length} shown · {visibleUnseen} unread on this phone
           {pending ? " · sprinkling…" : ""}
         </p>
         <div className="toolbar-actions">
-          {data.unseenCount > 0 ? (
+          {visibleUnseen > 0 ? (
             <Button
               type="button"
               variant="secondary"
@@ -121,7 +128,7 @@ export function ReleasesView({ initial }: Props) {
       ) : null}
 
       <div className="card-stack">
-        {data.releases.map((r) => (
+        {visible.map((r) => (
           <ReleaseCard
             key={r.uri}
             release={r}

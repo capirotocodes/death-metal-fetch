@@ -5,7 +5,9 @@ import Link from "next/link";
 import { ReleaseCard } from "@/components/release-card";
 import { fetchArchiveView, type ArchiveView } from "@/lib/archive-view";
 import { formatPollInterval, relativeTime } from "@/lib/format";
+import { SourceTabs } from "@/components/source-tabs";
 import { useStars, weeklyHighlights } from "@/lib/highlights-client";
+import { filterBySource, useSourceFilter } from "@/lib/source-filter";
 import {
   applyLocalSeen,
   countUnseenLocally,
@@ -58,7 +60,8 @@ export function HomeView({ initial }: Props) {
 
   const [stars, toggleStar] = useStars();
   const highlights = weeklyHighlights(data.releases, stars);
-  const latest = data.releases.slice(0, 3);
+  const [source, setSource] = useSourceFilter();
+  const latest = filterBySource(data.releases, source).slice(0, 3);
   const whatsappLabel = data.alertsEnabled
     ? "WhatsApp ready ✨"
     : "WhatsApp dry-run (no horn, no pings)";
@@ -141,6 +144,7 @@ export function HomeView({ initial }: Props) {
             Full rainbow archive →
           </Link>
         </div>
+        <SourceTabs value={source} onChange={setSource} />
         {latest.length === 0 ? (
           <div className="empty-state">
             <p className="empty-emoji" aria-hidden>

@@ -522,6 +522,12 @@
   min-height: 2.25rem !important;
 }
 
+.source-tabs {
+  display: flex;
+  gap: 0.4rem;
+  margin: 0.25rem 0 0.75rem;
+}
+
 .release-buttons {
   display: flex;
   flex-wrap: wrap;
