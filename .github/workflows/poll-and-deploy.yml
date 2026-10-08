@@ -22,9 +22,13 @@ jobs:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      # Latest main, not the run's trigger SHA: a re-run or a queued run would
+      # otherwise poll into a stale data/releases.json and conflict on push.
+      - uses: actions/checkout@v7
+        with:
+          ref: main
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
@@ -60,24 +64,36 @@ jobs:
           fi
           echo "pushed=$pushed" >> "$GITHUB_OUTPUT"
 
+      # Deploy whenever the live site lags the repo, not only when this run pushed:
+      # a failed deploy (e.g. deploy-pages' transient "No artifacts named
+      # github-pages") then heals on the next scheduled run.
+      - name: Is the live site behind?
+        id: live
+        run: |
+          live=$(curl -fsS https://capirotocodes.github.io/death-metal-fetch/data/releases.json | jq -r .updatedAt || echo unknown)
+          repo=$(jq -r .updatedAt data/releases.json)
+          echo "live=$live repo=$repo"
+          if [ "$live" = "$repo" ]; then stale=false; else stale=true; fi
+          echo "stale=$stale" >> "$GITHUB_OUTPUT"
+
       # A push made with GITHUB_TOKEN does not trigger other workflows, so build
       # and deploy happen here, in the same run.
       - name: Build site
-        if: steps.commit.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.live.outputs.stale == 'true' || github.event_name == 'workflow_dispatch'
         env:
           NEXT_PUBLIC_ALERTS_ENABLED: ${{ secrets.CALLMEBOT_PHONE != '' && secrets.CALLMEBOT_APIKEY != '' && '1' || '0' }}
         run: |
           npm run build
           npm run check:basepath
 
-      - uses: actions/upload-pages-artifact@v3
-        if: steps.commit.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch'
+      - uses: actions/upload-pages-artifact@v5
+        if: steps.live.outputs.stale == 'true' || github.event_name == 'workflow_dispatch'
         with:
           path: out
 
       - id: deploy
-        if: steps.commit.outputs.pushed == 'true' || github.event_name == 'workflow_dispatch'
-        uses: actions/deploy-pages@v4
+        if: steps.live.outputs.stale == 'true' || github.event_name == 'workflow_dispatch'
+        uses: actions/deploy-pages@v5
 
       - name: Fail if the poll failed
         if: steps.poll.outcome == 'failure'
