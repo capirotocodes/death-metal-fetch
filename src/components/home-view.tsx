@@ -68,6 +68,9 @@ export function HomeView({ initial }: Props) {
       <section className="latest-block" aria-label="Highlights of the Week">
         <div className="section-head">
           <h2>Highlights of the Week</h2>
+          <Link href="/highlights" className="text-link">
+            All highlights →
+          </Link>
         </div>
         {highlights.length === 0 ? (
           <p className="muted tiny">

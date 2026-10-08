@@ -60,15 +60,23 @@ export function useStars(): [Stars, (uri: string) => void] {
   return [stars, (uri) => setStars(toggleStar(uri))];
 }
 
+/** Every starred release (optionally only stars since `sinceMs`), most recently starred first. */
+export function starredReleases<T extends { uri: string }>(
+  releases: T[],
+  stars: Stars,
+  sinceMs = 0,
+): T[] {
+  const starredAt = (uri: string) => Date.parse(stars[uri] ?? "") || 0;
+  return releases
+    .filter((r) => starredAt(r.uri) > 0 && starredAt(r.uri) >= sinceMs)
+    .sort((a, b) => starredAt(b.uri) - starredAt(a.uri));
+}
+
 /** Releases starred in the last HIGHLIGHT_DAYS days, most recently starred first. */
 export function weeklyHighlights<T extends { uri: string }>(
   releases: T[],
   stars: Stars,
   now = Date.now(),
 ): T[] {
-  const cutoff = now - HIGHLIGHT_DAYS * DAY_MS;
-  const starredAt = (uri: string) => Date.parse(stars[uri] ?? "") || 0;
-  return releases
-    .filter((r) => starredAt(r.uri) >= cutoff)
-    .sort((a, b) => starredAt(b.uri) - starredAt(a.uri));
+  return starredReleases(releases, stars, now - HIGHLIGHT_DAYS * DAY_MS);
 }

@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { weeklyHighlights, withStar } from "../src/lib/highlights-client";
+import { starredReleases, weeklyHighlights, withStar } from "../src/lib/highlights-client";
 
 const NOW = Date.parse("2026-10-08T12:00:00.000Z");
 const r = (uri: string) => ({ uri });
@@ -13,6 +13,12 @@ test("weeklyHighlights keeps stars from the last 7 days, newest star first", () 
   };
   const out = weeklyHighlights([r("a"), r("b"), r("c"), r("d")], stars, NOW);
   assert.deepEqual(out.map((x) => x.uri), ["b", "a"]);
+});
+
+test("starredReleases lists every star regardless of age, newest star first", () => {
+  const stars = { a: "2026-10-07T12:00:00.000Z", c: "2025-01-01T00:00:00.000Z" };
+  const out = starredReleases([r("a"), r("b"), r("c")], stars);
+  assert.deepEqual(out.map((x) => x.uri), ["a", "c"]);
 });
 
 test("withStar toggles a star without mutating the original", () => {
