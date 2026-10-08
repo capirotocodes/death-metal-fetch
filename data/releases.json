@@ -1,9 +1,269 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxcr2txhzs5y",
-  "updatedAt": "2026-10-07T23:36:37.627Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe7dp7ossaw",
+  "updatedAt": "2026-10-08T10:25:46.583Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe7dp7ossaw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️October 30th, 2026⬅️\n\nMASTIC SCUM - VOID 🇦🇹⚛️\n\n7th album from Wien, Austrian Brutal Death Metal/Grindcore/Crossover outfit⚛️\n\nBC➡️masticscum.bandcamp.com/album/void⚛️\n\n#MasticScum #VOID #BrutalDeath #Grindcore #Crossover #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe7dp7ossaw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T10:02:11.935Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibgknl5ya5oxno3sa22zg4yuyxkz6w3zlil3j4lkcp7j4q6osfrcy",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 76,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe7birpucaw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️October 30th, 2026⬅️\n\nMASTIC SCUM - VOID 🇦🇹⚛️\n\n7th album from Vienna, Austrian Brutal Death Metal/Grindcore/Crossover outfit⚛️\n\nBC➡️masticscum.bandcamp.com/album/void⚛️\n\n#MasticScum #VOID #BrutalDeath #Grindcore #Crossover #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe7birpucaw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T10:00:58.077Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibgknl5ya5oxno3sa22zg4yuyxkz6w3zlil3j4lkcp7j4q6osfrcy",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 75,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe6c4c552aw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡December 4th, 2026⬅️\n\nALCEST - Live At Hellfest 2022 🇫🇷⚛️\n\n8 Track Live album from French Atmospheric Post-Black Metal / Shoegaze outfit⚛️\n\nBFAN➡️alcest.bfan.link/protection-h...⚛️\n\n#Alcest #LiveAtHellfest2022 #AtmoPostBlack #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe6c4c552aw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T09:43:24.796Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreid66sdvwahanuc3ct65ewqrb2u5lxtfngecj73ou3ld5faxxuobxq",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 74,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe5qskevsaw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 6th, 2026⬅️\n\nANNIHILUS MUNDI - The Dead Sea Scrolls 🇺🇸⚛️\n\n2nd album from Boston, MA, U.S. Progressive Death Metal outfit⚛️\n\nBC➡️annihilusmundi.bandcamp.com/album/the-de...⚛️\n\n#AnnihilusMundi #TheDeadSeaScrolls #ProgressiveDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe5qskevsaw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T09:33:44.155Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidsqa3oqzwleeiusprtm76lzlgjc3yh757w23kgykfs3smov2pk6m",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 73,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe57jllj2aw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nPSYCHOPARALYSIS - Spectrum of Suffering 🇫🇮⚛️\n\n2nd album from Vantaa, Finnish Progressive Death Metal outfit⚛️\n\nBC➡️psychoparalysis.bandcamp.com/album/spectr...⚛️\n\n#Psychoparalysis #SpectrumOf #ProgressiveDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe57jllj2aw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T09:24:04.332Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihsbyvafieaqkxw6plefftsewd4yhcii727upw3otpntmn45tjiby",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 72,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe4xs5sekaw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 27th, 2026⬅️\n\nULTHIMA - Midnight's Call 🇫🇮⚛️\n\n2nd album from Helsinki, Finnish Melodic Death Metal outfit⚛️\n\nBC➡️ulthima.bandcamp.com/album/midnig...⚛️*New Track\n\n#Ulthima #MidnightsCall #MelodicDeathMetal #InverseRecords #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe4xs5sekaw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T09:19:44.882Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigczj7qm727pe6sjbxm2nchmvw7jwfuanaham6ul3ftmyfu3axujm",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 71,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe4luih7saw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️October 30th, 2026⬅️\n\nBLACK ROYAL - Abyssian 🇫🇮⚛️\n\n4th album from Tampere, Finnish Heavy/Sludge/Groove Death Metal outfit⚛️\n\nBC➡️blackroyal.bandcamp.com/track/extrem...⚛️*New Track\n\n#BlackRoyal #Abyssian #SludgeDeathMetal #MTheoryAudio #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe4luih7saw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T09:13:04.675Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihuy2ywjt6gjpxgitavtrorlmmzj5asaett3zx2olpdihlwjtk4rq",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 70,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe43lzwv2aw",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nBLIGHT REAPER - Otherworld Mortuary 🇺🇸⚛️\n\nDebut album from Salem, MA, U.S. Dark Grim Melodic Death Metal project⚛️\n\nBC➡️blightreaper.bandcamp.com/album/otherw...⚛️\n\n#BlightReaper #OtherworldMortuary #MelodicDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe43lzwv2aw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T09:03:58.940Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibumt66gwbten4s543iymij5du3fkwvhm3w6mcjy6obx6z3vgrxey",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 69,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe3iw7rtsaw",
+      "text": "0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️\n➡️January 22nd, 2027⬅️\n\nCELESTIAL SANCTUARY - Cradle of the Rotten, Shrine to Those Most Foul 🇬🇧💢\n\n3rd album from Bury Saint Edmunds, UK Death Metal outfit💢\n\nBC➡️celestialsanctuary.bandcamp.com/album/cradle...💢\n\n#CSDeathmetal #Cradle #Death #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxe3iw7rtsaw",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T08:53:32.083Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigjeh5nyltcuxjm2j76eymmqso5mub53rfkort3ojvxxsv543tsiq",
+      "createdAt": "2026-10-08T10:25:44.354Z",
+      "id": 68,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95271",
+      "text": "Whispers from Behind - Rebirth (2026)\nBands: Whispers from Behind | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Whispers from Behind",
+      "title": "Rebirth (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95271",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T05:38:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQ-NMoG_Lw.webp",
+      "createdAt": "2026-10-08T10:25:46.583Z",
+      "source": "deathgrind",
+      "id": 81,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95270",
+      "text": "Whispers From Behind - Suppressed Heart [EP] (2025)\nBands: Whispers From Behind | Genres: Slamming Brutal Death Metal, Instrumental | Countries: US",
+      "artist": "Whispers From Behind",
+      "title": "Suppressed Heart [EP] (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Instrumental"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95270",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T05:38:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDGW6m_Ymm.webp",
+      "createdAt": "2026-10-08T10:25:46.583Z",
+      "source": "deathgrind",
+      "id": 80,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95269",
+      "text": "Soreanus - Carnage Unleashed [Demo] (2026)\nBands: Soreanus | Genres: Slamming Brutal Death Metal | Countries: IT",
+      "artist": "Soreanus",
+      "title": "Carnage Unleashed [Demo] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95269",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T05:38:29.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxykKLEoYy7.webp",
+      "createdAt": "2026-10-08T10:25:46.583Z",
+      "source": "deathgrind",
+      "id": 79,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95268",
+      "text": "Soreanus - Beheading Oppressors [Demo] (2026)\nBands: Soreanus | Genres: Slamming Brutal Death Metal | Countries: IT",
+      "artist": "Soreanus",
+      "title": "Beheading Oppressors [Demo] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95268",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T05:38:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVEdGJRm6x.webp",
+      "createdAt": "2026-10-08T10:25:46.583Z",
+      "source": "deathgrind",
+      "id": 78,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95267",
+      "text": "Meatal Ulcer - Why Won&apos;t It Die? (2013)\nBands: Meatal Ulcer | Genres: Goregrind | Countries: AU",
+      "artist": "Meatal Ulcer",
+      "title": "Why Won&apos;t It Die? (2013)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95267",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T05:37:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_-LB_9mGw.webp",
+      "createdAt": "2026-10-08T10:25:46.583Z",
+      "source": "deathgrind",
+      "id": 77,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95266",
       "text": "Engross - Inconceivable Horror [EP] (2020)\nBands: Engross | Genres: Deathgrind | Countries: US",
