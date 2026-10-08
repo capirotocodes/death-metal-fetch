@@ -2,8 +2,125 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe7dp7ossaw",
-  "updatedAt": "2026-10-08T10:25:46.583Z",
+  "updatedAt": "2026-10-08T15:32:06.750Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95279",
+      "text": "Patisserie / Meatal Ulcer / Organs Tortured - Ride The Wings Of Tomorrow&apos;s Universal Gore Friendship [Split] (2016)\nBands: Patisserie, Meatal Ulcer, Organs Tortured | Genres: Goregrind | Countries: JP, AU",
+      "artist": "Patisserie / Meatal Ulcer / Organs Tortured",
+      "title": "Ride The Wings Of Tomorrow&apos;s Universal Gore Friendship [Split] (2016)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95279",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T15:29:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKvzzpZZpL.webp",
+      "createdAt": "2026-10-08T15:32:06.750Z",
+      "source": "deathgrind",
+      "id": 87,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95278",
+      "text": "VA - To Grind And Pound: Allegiance Of The Sick [Split] (2015)\nBands: Holocausto Canibal, Kadaverficker, Basement Torture Killings, Black Skies Burn, Shit Fucking Shit, Nagasaki Birth Defect, The Judas Cradle, Gout | Genres: Grindcore, Deathgrind | Countries: PT, DE, GB, IT",
+      "artist": "VA",
+      "title": "To Grind And Pound: Allegiance Of The Sick [Split] (2015)",
+      "genres": [
+        "Grindcore",
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95278",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T15:29:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZG-EBKeDXy.webp",
+      "createdAt": "2026-10-08T15:32:06.750Z",
+      "source": "deathgrind",
+      "id": 86,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95274",
+      "text": "The Severnaya Complex - Discography (2021)\nBands: The Severnaya Complex | Genres: Grindcore, Mathcore, Technical Death Metal | Countries: CA",
+      "artist": "The Severnaya Complex",
+      "title": "Discography (2021)",
+      "genres": [
+        "Grindcore",
+        "Mathcore",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95274",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T15:27:35.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69-VlzLxZR.webp",
+      "createdAt": "2026-10-08T15:32:06.750Z",
+      "source": "deathgrind",
+      "id": 85,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95282",
+      "text": "Lamenting Satanas - Invocations (2025)\nBands: Lamenting Satanas | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Lamenting Satanas",
+      "title": "Invocations (2025)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95282",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T15:15:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNndEwWznM6.webp",
+      "createdAt": "2026-10-08T15:32:06.750Z",
+      "source": "deathgrind",
+      "id": 84,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95281",
+      "text": "Lamenting Satanas - Lotus (2026)\nBands: Lamenting Satanas | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Lamenting Satanas",
+      "title": "Lotus (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95281",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T14:59:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNK_-vYwrvX.webp",
+      "createdAt": "2026-10-08T15:32:06.750Z",
+      "source": "deathgrind",
+      "id": 83,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95280",
+      "text": "Odious Spirit - The Sourceless Scourge (2026)\nBands: Odious Spirit | Genres: Progressive Death Metal | Countries: US",
+      "artist": "Odious Spirit",
+      "title": "The Sourceless Scourge (2026)",
+      "genres": [
+        "Progressive Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95280",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T14:36:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_BlrEV_ON.webp",
+      "createdAt": "2026-10-08T15:32:06.750Z",
+      "source": "deathgrind",
+      "id": 82,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe7dp7ossaw",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️October 30th, 2026⬅️\n\nMASTIC SCUM - VOID 🇦🇹⚛️\n\n7th album from Wien, Austrian Brutal Death Metal/Grindcore/Crossover outfit⚛️\n\nBC➡️masticscum.bandcamp.com/album/void⚛️\n\n#MasticScum #VOID #BrutalDeath #Grindcore #Crossover #TheUpcomingTerror26 #KMäN",
