@@ -1,9 +1,140 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe7dp7ossaw",
-  "updatedAt": "2026-10-08T17:33:22.940Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfidxisjw2g",
+  "updatedAt": "2026-10-08T22:30:21.946Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfidxisjw2g",
+      "text": "FULL FORCE FRIDAY:🆕October 9th 3⃣🎧\n\nIN OBSCURITY REVEALED - Caustic Maelstrom 🇲🇽⚛️\n\n2nd album from Mexico City, Mexican Death Metal outfit⚛️\n\nBC➡️personal-records.bandcamp.com/album/causti...⚛️\n\n#InObscurityRevealed #Caustic #DeathMetal #PersonalRe63705 #FFFOct09 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxfidxisjw2g",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T22:16:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidcaj2nmrp6hbnnojxn5osg3nls5bh7t36hxnobmjeja4cppoho2a",
+      "createdAt": "2026-10-08T22:30:20.638Z",
+      "id": 91,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfhvo3yru2w",
+      "text": "FULL FORCE FRIDAY:🆕October 9th 2⃣🎧\n\nLEPER COLONY - Back to Primal Sludge 🇩🇪⚛️\n\n3rd album from German Death Metal outfit⚛️\n\nBC➡️leper-colony.bandcamp.com/album/back-t...⚛️\n\n#LeperColony #BackToPrimalSludge #DeathMetal #TestimonyRecs #FFFOct09 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxfhvo3yru2w",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T22:08:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidrffdpoxjfayz6jreluihjbbaxmq5ryjlgzfri3mz2lbvmvwvuae",
+      "createdAt": "2026-10-08T22:30:20.638Z",
+      "id": 90,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfhheh5n62o",
+      "text": "FULL FORCE FRIDAY:🆕October 9th 1⃣🎧\n\nWEREWOLVES - You're Weak And You Know You're Weak 🇦🇺⚛️\n\n7th album from Victoria, Australian Death Metal outfit⚛️\n\nBC➡️werewolvesdeathmetal.bandcamp.com/album/youre-...⚛️\n\n#Werewolves20 #YoureWeak #DeathMetal #backonblackrecs #FFFOct9 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxfhheh5n62o",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T22:00:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieix65vmgsesobzil32dnbsmwh7waq7w4q3ccanhs2q35wynej5nu",
+      "createdAt": "2026-10-08T22:30:20.638Z",
+      "id": 89,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95287",
+      "text": "Dominion - Mortification Of Thy Flesh (2026)\nBands: Dominion | Genres: Death Metal | Countries: US",
+      "artist": "Dominion",
+      "title": "Mortification Of Thy Flesh (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95287",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T19:55:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_bxvNJJgQ.webp",
+      "createdAt": "2026-10-08T22:30:21.946Z",
+      "source": "deathgrind",
+      "id": 95,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95285",
+      "text": "Human Meat Market - Human Meat Market l [Demo] (2009)\nBands: Human Meat Market | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Human Meat Market",
+      "title": "Human Meat Market l [Demo] (2009)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95285",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T18:43:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVombgPMqL.webp",
+      "createdAt": "2026-10-08T22:30:21.946Z",
+      "source": "deathgrind",
+      "id": 94,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95286",
+      "text": "Violent Imagery - Violent Imagery [EP] (2026)\nBands: Violent Imagery | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Violent Imagery",
+      "title": "Violent Imagery [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95286",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T18:33:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69B6gdNAEq.webp",
+      "createdAt": "2026-10-08T22:30:21.946Z",
+      "source": "deathgrind",
+      "id": 93,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95284",
+      "text": "Krallice - Loüm (with Dave Edwardson) [Collaboration] (2017)\nBands: Krallice | Genres: Black Metal | Countries: US",
+      "artist": "Krallice",
+      "title": "Loüm (with Dave Edwardson) [Collaboration] (2017)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95284",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T17:43:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmBq9kYjZE.webp",
+      "createdAt": "2026-10-08T22:30:21.946Z",
+      "source": "deathgrind",
+      "id": 92,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95283",
       "text": "Goatburner - Time Of Danger [EP] (2026)\nBands: Goatburner | Genres: Deathgrind | Countries: FI",
