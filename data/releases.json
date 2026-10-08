@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxe7dp7ossaw",
-  "updatedAt": "2026-10-08T15:32:06.750Z",
+  "updatedAt": "2026-10-08T17:33:22.940Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95283",
+      "text": "Goatburner - Time Of Danger [EP] (2026)\nBands: Goatburner | Genres: Deathgrind | Countries: FI",
+      "artist": "Goatburner",
+      "title": "Time Of Danger [EP] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95283",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T15:55:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE9ZBDodq8.webp",
+      "createdAt": "2026-10-08T17:33:22.940Z",
+      "source": "deathgrind",
+      "id": 88,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95279",
       "text": "Patisserie / Meatal Ulcer / Organs Tortured - Ride The Wings Of Tomorrow&apos;s Universal Gore Friendship [Split] (2016)\nBands: Patisserie, Meatal Ulcer, Organs Tortured | Genres: Goregrind | Countries: JP, AU",
