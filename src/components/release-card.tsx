@@ -6,15 +6,23 @@ import { BASE_PATH } from "@/lib/base-path";
 import { relativeTime, releaseHeading } from "@/lib/format";
 import type { ReleaseDTO } from "@/lib/releases";
 import { cn } from "@/lib/utils";
-import { ExternalLink, Eye } from "lucide-react";
+import { ExternalLink, Eye, Star } from "lucide-react";
 
 type Props = {
   release: ReleaseDTO;
   onMarkSeen?: (uri: string) => void;
   compact?: boolean;
+  highlighted?: boolean;
+  onToggleHighlight?: (uri: string) => void;
 };
 
-export function ReleaseCard({ release, onMarkSeen, compact }: Props) {
+export function ReleaseCard({
+  release,
+  onMarkSeen,
+  compact,
+  highlighted = false,
+  onToggleHighlight,
+}: Props) {
   const heading = releaseHeading(release);
   const when = relativeTime(release.postedAt ?? release.createdAt);
   const unread = !release.seen;
@@ -92,18 +100,37 @@ export function ReleaseCard({ release, onMarkSeen, compact }: Props) {
               <ExternalLink aria-hidden className="size-3.5" />
               {release.source === "deathgrind" ? "DeathGrind" : "Bluesky"}
             </a>
-            {unread && onMarkSeen ? (
-              <Button
-                type="button"
-                variant="outline"
-                size="sm"
-                className="seen-btn"
-                onClick={() => onMarkSeen(release.uri)}
-              >
-                <Eye aria-hidden className="size-3.5" />
-                Mark seen
-              </Button>
-            ) : null}
+            <div className="release-buttons">
+              {onToggleHighlight ? (
+                <Button
+                  type="button"
+                  variant="outline"
+                  size="sm"
+                  className={cn("seen-btn", highlighted && "star-btn-on")}
+                  aria-pressed={highlighted}
+                  onClick={() => onToggleHighlight(release.uri)}
+                >
+                  <Star
+                    aria-hidden
+                    className="size-3.5"
+                    fill={highlighted ? "currentColor" : "none"}
+                  />
+                  {highlighted ? "Highlighted" : "Highlight"}
+                </Button>
+              ) : null}
+              {unread && onMarkSeen ? (
+                <Button
+                  type="button"
+                  variant="outline"
+                  size="sm"
+                  className="seen-btn"
+                  onClick={() => onMarkSeen(release.uri)}
+                >
+                  <Eye aria-hidden className="size-3.5" />
+                  Mark seen
+                </Button>
+              ) : null}
+            </div>
           </div>
         </div>
       </div>

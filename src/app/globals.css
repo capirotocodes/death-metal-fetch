@@ -522,6 +522,18 @@
   min-height: 2.25rem !important;
 }
 
+.release-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.star-btn-on {
+  color: #db2777 !important;
+  border-color: rgb(236 72 153 / 45%) !important;
+  background: #fff0f7 !important;
+}
+
 .list-toolbar {
   display: flex;
   flex-wrap: wrap;

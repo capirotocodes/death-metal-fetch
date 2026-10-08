@@ -5,6 +5,7 @@ import Link from "next/link";
 import { ReleaseCard } from "@/components/release-card";
 import { fetchArchiveView, type ArchiveView } from "@/lib/archive-view";
 import { formatPollInterval, relativeTime } from "@/lib/format";
+import { useStars, weeklyHighlights } from "@/lib/highlights-client";
 import {
   applyLocalSeen,
   countUnseenLocally,
@@ -55,6 +56,8 @@ export function HomeView({ initial }: Props) {
     setData((prev) => withLocal(prev));
   };
 
+  const [stars, toggleStar] = useStars();
+  const highlights = weeklyHighlights(data.releases, stars);
   const latest = data.releases.slice(0, 3);
   const whatsappLabel = data.alertsEnabled
     ? "WhatsApp ready ✨"
@@ -62,6 +65,31 @@ export function HomeView({ initial }: Props) {
 
   return (
     <div className="stack">
+      <section className="latest-block" aria-label="Highlights of the Week">
+        <div className="section-head">
+          <h2>Highlights of the Week</h2>
+        </div>
+        {highlights.length === 0 ? (
+          <p className="muted tiny">
+            Tap ☆ Highlight on any release to pin it here for 7 days. Your
+            picks stay on this phone.
+          </p>
+        ) : (
+          <div className="card-stack">
+            {highlights.map((r) => (
+              <ReleaseCard
+                key={r.uri}
+                release={r}
+                onMarkSeen={markSeen}
+                compact
+                highlighted
+                onToggleHighlight={toggleStar}
+              />
+            ))}
+          </div>
+        )}
+      </section>
+
       <section className="status-board" aria-label="Watcher status">
         <div className="status-row">
           <span className="status-label">Watching</span>
@@ -129,6 +157,8 @@ export function HomeView({ initial }: Props) {
                 release={r}
                 onMarkSeen={markSeen}
                 compact
+                highlighted={Boolean(stars[r.uri])}
+                onToggleHighlight={toggleStar}
               />
             ))}
           </div>

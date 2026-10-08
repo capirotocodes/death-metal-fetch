@@ -4,6 +4,7 @@ import { useEffect, useState, useTransition } from "react";
 import { ReleaseCard } from "@/components/release-card";
 import { Button } from "@/components/ui/button";
 import { fetchArchiveView, type ArchiveView } from "@/lib/archive-view";
+import { useStars } from "@/lib/highlights-client";
 import {
   applyLocalSeen,
   countUnseenLocally,
@@ -30,6 +31,7 @@ export function ReleasesView({ initial }: Props) {
   const [data, setData] = useState<ReleasesData>({ ...initial, unseenCount: 0 });
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
+  const [stars, toggleStar] = useStars();
 
   const load = () => {
     startTransition(async () => {
@@ -120,7 +122,13 @@ export function ReleasesView({ initial }: Props) {
 
       <div className="card-stack">
         {data.releases.map((r) => (
-          <ReleaseCard key={r.uri} release={r} onMarkSeen={markSeen} />
+          <ReleaseCard
+            key={r.uri}
+            release={r}
+            onMarkSeen={markSeen}
+            highlighted={Boolean(stars[r.uri])}
+            onToggleHighlight={toggleStar}
+          />
         ))}
       </div>
     </div>
