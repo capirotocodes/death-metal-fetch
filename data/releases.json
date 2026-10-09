@@ -2,8 +2,85 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxghfdb4gsln",
-  "updatedAt": "2026-10-09T09:40:12.333Z",
+  "updatedAt": "2026-10-09T16:38:12.709Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95297",
+      "text": "Insecticide - Raid [EP] (2026)\nBands: Insecticide | Genres: Grindcore | Countries: US",
+      "artist": "Insecticide",
+      "title": "Raid [EP] (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95297",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T15:43:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwmYXw-pZk.webp",
+      "createdAt": "2026-10-09T16:38:12.709Z",
+      "source": "deathgrind",
+      "id": 108,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95296",
+      "text": "Selenoplexia - Beneath The Lunar Tyrant (2026)\nBands: Selenoplexia | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Selenoplexia",
+      "title": "Beneath The Lunar Tyrant (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95296",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T15:21:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvlMaA7epV.webp",
+      "createdAt": "2026-10-09T16:38:12.709Z",
+      "source": "deathgrind",
+      "id": 107,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94080",
+      "text": "Dawn Of Demise - Feed My Absurdity (2026)\nBands: Dawn Of Demise | Genres: Death Metal | Countries: DK",
+      "artist": "Dawn Of Demise",
+      "title": "Feed My Absurdity (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94080",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T14:39:27.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7NjMWYne8.webp",
+      "createdAt": "2026-10-09T16:38:12.709Z",
+      "source": "deathgrind",
+      "id": 106,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94135",
+      "text": "Leper Colony - Back To Primal Sludge (2026)\nBands: Leper Colony | Genres: Death Metal, Thrash Metal | Countries: DE",
+      "artist": "Leper Colony",
+      "title": "Back To Primal Sludge (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94135",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T14:27:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKMEVJgGlY.webp",
+      "createdAt": "2026-10-09T16:38:12.709Z",
+      "source": "deathgrind",
+      "id": 105,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95121",
       "text": "Under The Flesh - The Theory Of Chaos (2010)\nBands: Under The Flesh | Genres: Death Metal | Countries: CL",
