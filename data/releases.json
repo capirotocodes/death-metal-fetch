@@ -1,9 +1,82 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfidxisjw2g",
-  "updatedAt": "2026-10-08T22:30:21.946Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfqflam4l2l",
+  "updatedAt": "2026-10-09T02:32:14.792Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfp2o2nx62w",
+      "text": "FULL FORCE FRIDAY:🆕October 9th 1⃣8⃣🎧\n\nOMINOUS COVENANT - Legacy Of The Dead God 🇬🇧⚛️\n\nDebut album from UK Black Metal outfit⚛️\n\nBC➡️wulfhereproductions.bandcamp.com/album/legacy... ⚛️\n\n#OminousCovenant #LegacyOfTheDeadGod #BlackMetal #WultfhereProd #FFFOct9 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxfp2o2nx62w",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-09T00:16:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibuubz7p4lvsqmt57jm7a65yycf3kg3jdixz4wq5tmjkgyv54wmn4",
+      "createdAt": "2026-10-09T02:32:13.760Z",
+      "id": 98,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfomd5bao2g",
+      "text": "FULL FORCE FRIDAY:🆕October 9th 1⃣7⃣🎧\n\nMUTATION - Esoteric Order of Debauchery 🇸🇪⚛️\n\nDebut album from Stockholm, Swedish Death Metal outfit⚛️\n\nBC➡️mutation-sweden.bandcamp.com/album/esoter...⚛️\n\n#Mutation #EsotericOrderOf #DeathMetal #hellshead666 #FFFOct9 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxfomd5bao2g",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-09T00:08:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibnpwk5uikphkp6i3npsk4qywfi6qzc3xswsbqs4ne62it43v7dci",
+      "createdAt": "2026-10-09T02:32:13.760Z",
+      "id": 97,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxflwftyqx2g",
+      "text": "FULL FORCE FRIDAY:🆕October 9th 1⃣1⃣🎧\n\nGOATBURNER - Time of Danger EP 🇫🇮⚛️\n\n6 Track EP from Helsinki, Finnish Death Metal/Sludge/ Powerviolence duo⚛️\n\nBC➡️goatburner-extremeconditions.bandcamp.com/album/time-o...⚛️\n\n#Goatburner #TimeOfDanger #timetokillrec #FFFOct9 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxflwftyqx2g",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-08T23:20:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiasw7r5nkxrxuxycokoxuv7unkkxryrptf6jy4qwn7oyvrjvowq2q",
+      "createdAt": "2026-10-09T02:32:13.760Z",
+      "id": 96,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95272",
+      "text": "Whispers From Behind - Damnation [EP] (2026)\nBands: Whispers From Behind | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Whispers From Behind",
+      "title": "Damnation [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95272",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-08T22:33:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjW-QLlPOGZ.webp",
+      "createdAt": "2026-10-09T02:32:14.792Z",
+      "source": "deathgrind",
+      "id": 99,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfidxisjw2g",
       "text": "FULL FORCE FRIDAY:🆕October 9th 3⃣🎧\n\nIN OBSCURITY REVEALED - Caustic Maelstrom 🇲🇽⚛️\n\n2nd album from Mexico City, Mexican Death Metal outfit⚛️\n\nBC➡️personal-records.bandcamp.com/album/causti...⚛️\n\n#InObscurityRevealed #Caustic #DeathMetal #PersonalRe63705 #FFFOct09 #KMäN",
