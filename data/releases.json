@@ -2,8 +2,85 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxghfdb4gsln",
-  "updatedAt": "2026-10-09T16:38:12.709Z",
+  "updatedAt": "2026-10-09T21:20:13.652Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95304",
+      "text": "Embryonic Devourment - Rehearsal 10/9/2016 [Unofficial] (2026)\nBands: Embryonic Devourment | Genres: Technical Brutal Death Metal | Countries: US",
+      "artist": "Embryonic Devourment",
+      "title": "Rehearsal 10/9/2016 [Unofficial] (2026)",
+      "genres": [
+        "Technical Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95304",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T19:01:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxyoPD_N8Kb.webp",
+      "createdAt": "2026-10-09T21:20:13.652Z",
+      "source": "deathgrind",
+      "id": 112,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95290",
+      "text": "Darkest Hate Warfront - Satanik Annihilation Kommando (2005)\nBands: Darkest Hate Warfront | Genres: Black Metal | Countries: BR",
+      "artist": "Darkest Hate Warfront",
+      "title": "Satanik Annihilation Kommando (2005)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95290",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T18:15:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/Jldz8KnJvKX.webp",
+      "createdAt": "2026-10-09T21:20:13.652Z",
+      "source": "deathgrind",
+      "id": 111,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95301",
+      "text": "Negativus - Invidia (2026)\nBands: Negativus | Genres: Death Metal, Groove Metal | Countries: BR",
+      "artist": "Negativus",
+      "title": "Invidia (2026)",
+      "genres": [
+        "Death Metal",
+        "Groove Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95301",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T17:25:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE9LoZyoRA.webp",
+      "createdAt": "2026-10-09T21:20:13.652Z",
+      "source": "deathgrind",
+      "id": 110,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95299",
+      "text": "Primordial Affliction - Capital Punishment [EP] (2026)\nBands: Primordial Affliction | Genres: Slamming Brutal Death Metal | Countries: AU",
+      "artist": "Primordial Affliction",
+      "title": "Capital Punishment [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95299",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T17:04:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGaLQxxeQZ.webp",
+      "createdAt": "2026-10-09T21:20:13.652Z",
+      "source": "deathgrind",
+      "id": 109,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95297",
       "text": "Insecticide - Raid [EP] (2026)\nBands: Insecticide | Genres: Grindcore | Countries: US",
