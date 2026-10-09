@@ -19,6 +19,22 @@ export function callmebotConfigured(): boolean {
   );
 }
 
+/**
+ * True when CallMeBot confirms the message was queued. The reply echoes the
+ * message ("Text to send: …<p>"), so that part is dropped first: post text such
+ * as "TERROR" must not look like a failure ("error").
+ */
+export function callMeBotQueued(body: string): boolean {
+  const status = body.replace(/Text to send:[\s\S]*?(?=<p>|$)/i, "").toLowerCase();
+  const failed =
+    status.includes("message not sent") ||
+    status.includes("0 messages left") ||
+    status.includes("error") ||
+    status.includes("invalid") ||
+    (status.includes("apikey") && status.includes("wrong"));
+  return status.includes("message queued") && !failed;
+}
+
 export async function sendWhatsApp(text: string): Promise<SendResult> {
   const phone = process.env.CALLMEBOT_PHONE?.trim();
   const apikey = process.env.CALLMEBOT_APIKEY?.trim();
@@ -41,16 +57,7 @@ export async function sendWhatsApp(text: string): Promise<SendResult> {
     return { dryRun: false, ok: false, status: res.status, body };
   }
 
-  const lower = body.toLowerCase();
-  const looksFailed =
-    lower.includes("message not sent") ||
-    lower.includes("0 messages left") ||
-    lower.includes("error") ||
-    lower.includes("invalid") ||
-    (lower.includes("apikey") && lower.includes("wrong"));
-  const queued = lower.includes("message queued");
-
-  if (looksFailed || !queued) {
+  if (!callMeBotQueued(body)) {
     console.error(
       `[whatsapp] API did not confirm queue (HTTP ${res.status}): ${body}`,
     );
