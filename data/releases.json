@@ -1,9 +1,102 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfqflam4l2l",
-  "updatedAt": "2026-10-09T02:32:14.792Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxghfdb4gsln",
+  "updatedAt": "2026-10-09T09:40:12.333Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95121",
+      "text": "Under The Flesh - The Theory Of Chaos (2010)\nBands: Under The Flesh | Genres: Death Metal | Countries: CL",
+      "artist": "Under The Flesh",
+      "title": "The Theory Of Chaos (2010)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95121",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T08:23:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOrLRMmGLO.webp",
+      "createdAt": "2026-10-09T09:40:12.333Z",
+      "source": "deathgrind",
+      "id": 104,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95289",
+      "text": "Mental Anguish - Mental Anguish (2026)\nBands: Mental Anguish | Genres: Grindcore | Countries: US",
+      "artist": "Mental Anguish",
+      "title": "Mental Anguish (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95289",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T07:46:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnR6m6Pkex.webp",
+      "createdAt": "2026-10-09T09:40:12.333Z",
+      "source": "deathgrind",
+      "id": 103,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95288",
+      "text": "Severed Soul - Specters of Dominion (2026)\nBands: Severed Soul | Genres: Death Metal | Countries: FR",
+      "artist": "Severed Soul",
+      "title": "Specters of Dominion (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95288",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-09T07:39:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWDxyZemv9.webp",
+      "createdAt": "2026-10-09T09:40:12.333Z",
+      "source": "deathgrind",
+      "id": 102,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxghfdb4gsln",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nAEONS OF ASHES - Beneath a Broken Pantheon 🇦🇹⚛️\n\n3rd album from St. Pölten, Austrian Melodic Death Metal outfit⚛️\n\nBC➡️aeonsofashes.bandcamp.com/track/hiraet...⚛️*\n\n#AeonsOfAshes #BeneathABroken #MelodicDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxghfdb4gsln",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-09T07:31:35.919Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiesznjreojmuyljbgy6uj34tiietmp4imp52sywehxufdj5xy56wq",
+      "createdAt": "2026-10-09T09:40:11.440Z",
+      "id": 101,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxgdwvltrsln",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️October 30th, 2026⬅️\n\nGRAVE HEX - Domain of Foul Rebirths EP 🇫🇮⚛️\n\n5 Track EP from Helsinki, Finnish Death Metal outfit⚛️\n\nBC➡️night-terrors-records.bandcamp.com/album/grave-...⚛️\n\n#GraveHex #DomainOfFoulRebirthsEP #DeathMetal #NightTerrors #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxgdwvltrsln",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-09T06:29:50.603Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreie4daxqigkwkc5zte4eynuzq5tmrdao5afakrhtjd4fu5n6s6s5qe",
+      "createdAt": "2026-10-09T09:40:11.440Z",
+      "id": 100,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxfp2o2nx62w",
       "text": "FULL FORCE FRIDAY:🆕October 9th 1⃣8⃣🎧\n\nOMINOUS COVENANT - Legacy Of The Dead God 🇬🇧⚛️\n\nDebut album from UK Black Metal outfit⚛️\n\nBC➡️wulfhereproductions.bandcamp.com/album/legacy... ⚛️\n\n#OminousCovenant #LegacyOfTheDeadGod #BlackMetal #WultfhereProd #FFFOct9 #KMäN",
