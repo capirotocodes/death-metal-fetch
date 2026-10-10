@@ -2,8 +2,436 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxiedoxmgc7p",
-  "updatedAt": "2026-10-10T13:48:34.509Z",
+  "updatedAt": "2026-10-10T18:23:06.717Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95327",
+      "text": "Summoning - Oath Bound (2006)\nBands: Summoning | Genres: Black Metal | Countries: AT",
+      "artist": "Summoning",
+      "title": "Oath Bound (2006)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95327",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:23:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9woXjmyjj.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 143,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95328",
+      "text": "Cosmic Church - Ylistys (2013)\nBands: Cosmic Church | Genres: Black Metal | Countries: FI",
+      "artist": "Cosmic Church",
+      "title": "Ylistys (2013)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95328",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:22:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGaBjbeXxp.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 142,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95329",
+      "text": "Baptism - Grim Arts Of Melancholy (2008)\nBands: Baptism | Genres: Black Metal | Countries: FI",
+      "artist": "Baptism",
+      "title": "Grim Arts Of Melancholy (2008)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95329",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:22:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvlapA9eBy.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 141,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95330",
+      "text": "Incursus - Eternal Funeral Trance (2009)\nBands: Incursus | Genres: Black Metal | Countries: US",
+      "artist": "Incursus",
+      "title": "Eternal Funeral Trance (2009)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95330",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:22:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQByQMxGKY.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 140,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95332",
+      "text": "Moeror - All That We Seem (2022)\nBands: Moeror | Genres: Black Metal | Countries: GR",
+      "artist": "Moeror",
+      "title": "All That We Seem (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95332",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:22:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7j8xWqLYbo.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 139,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95333",
+      "text": "Moeror - The Ghosts Of Amour Propre (2020)\nBands: Moeror | Genres: Black Metal | Countries: GR",
+      "artist": "Moeror",
+      "title": "The Ghosts Of Amour Propre (2020)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95333",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:22:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6g7wrkX6zr.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 138,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95325",
+      "text": "Question Everything - Collection [Compilation] (2023)\nBands: Question Everything | Genres: Grindcore, Powerviolence | Countries: GB",
+      "artist": "Question Everything",
+      "title": "Collection [Compilation] (2023)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95325",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:21:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNB_dZbo_y.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 137,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95317",
+      "text": "Vaginal Diarrhoea - Reanimated Infant Of Abomination [EP] (2022)\nBands: Vaginal Diarrhoea | Genres: Goregrind | Countries: CZ",
+      "artist": "Vaginal Diarrhoea",
+      "title": "Reanimated Infant Of Abomination [EP] (2022)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95317",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:20:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_BajoRMe7.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 136,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95322",
+      "text": "Neural Indent - Thalassaeglean Unguents (2026)\nBands: Neural Indent | Genres: Brutal Death Metal, Goregrind, Technical Death Metal | Countries: US",
+      "artist": "Neural Indent",
+      "title": "Thalassaeglean Unguents (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95322",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:19:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoZZq76kol.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 135,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95313",
+      "text": "Tumors Of The Hypothalamus and Neurohypophysis of Neuroepithelial Origin - EP 2011\nBands: Tumors Of The Hypothalamus and Neurohypophysis of Neuroepithelial Origin | Genres: Goregrind, Noise | Countries: RU",
+      "artist": "Tumors Of The Hypothalamus and Neurohypophysis of Neuroepithelial Origin",
+      "title": "EP 2011",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95313",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:11:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aBqjVjajP.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 134,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95321",
+      "text": "Bunionectomy - Osteoarthritic Dysmorphia [EP] (2025)\nBands: Bunionectomy | Genres: Slamming Brutal Death Metal | Countries: CA",
+      "artist": "Bunionectomy",
+      "title": "Osteoarthritic Dysmorphia [EP] (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95321",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:11:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6g7PPXyBb-.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 133,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95312",
+      "text": "Tumors Of The Hypothalamus and Neurohypophysis of Neuroepithelial Origin - Demo 2011\nBands: Tumors Of The Hypothalamus and Neurohypophysis of Neuroepithelial Origin | Genres: Goregrind, Noise | Countries: RU",
+      "artist": "Tumors Of The Hypothalamus and Neurohypophysis of Neuroepithelial Origin",
+      "title": "Demo 2011",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95312",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:10:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gD8yroq_Ga.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 132,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95309",
+      "text": "Monolith Of Carnage - Severed From Existence [Demo] (2022)\nBands: Monolith Of Carnage | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Monolith Of Carnage",
+      "title": "Severed From Existence [Demo] (2022)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95309",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:08:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pZMJ6D6dx.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 131,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95305",
+      "text": "Sordo - Tactical Precision Violence (2012)\nBands: Sordo | Genres: Grindcore, Hardcore, Noise, Powerviolence | Countries: US",
+      "artist": "Sordo",
+      "title": "Tactical Precision Violence (2012)",
+      "genres": [
+        "Grindcore",
+        "Hardcore",
+        "Noise",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95305",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:02:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoZvj7qZjd.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 130,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95303",
+      "text": "Goatburner - Danger [EP] (2022)\nBands: Goatburner | Genres: Deathgrind | Countries: FI",
+      "artist": "Goatburner",
+      "title": "Danger [EP] (2022)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95303",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:01:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE9KdVw7-A.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 129,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95295",
+      "text": "I Shit On Your Face / Foetopsy - Hour Of Toilet / Registers Of Her Rectal Regurgitations Repeatedly Reproduced In Reverse [Split] (2009)\nBands: I Shit On Your Face, Foetopsy | Genres: Goregrind | Countries: BR, US",
+      "artist": "I Shit On Your Face / Foetopsy",
+      "title": "Hour Of Toilet / Registers Of Her Rectal Regurgitations Repeatedly Reproduced In Reverse [Split] (2009)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95295",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:01:02.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gD86RbLqpj.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 128,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95294",
+      "text": "Gory Gruesome / I Shit On Your Face - Scatporngoregrind / Gory Gruesome [Split] (2005)\nBands: Gory Gruesome, I Shit On Your Face | Genres: Goregrind | Countries: BR",
+      "artist": "Gory Gruesome / I Shit On Your Face",
+      "title": "Scatporngoregrind / Gory Gruesome [Split] (2005)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95294",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:00:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnRd8QXaQd.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 127,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95293",
+      "text": "I Shit On Your Face - I Shit On Your Face [Demo] (2003)\nBands: I Shit On Your Face | Genres: Goregrind | Countries: BR",
+      "artist": "I Shit On Your Face",
+      "title": "I Shit On Your Face [Demo] (2003)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95293",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T17:00:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGa8eeOwmy.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 126,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95292",
+      "text": "Bladda - Heinous Methods Of Cranial Disposal [EP] (2026)\nBands: Bladda | Genres: Goregrind, Grindcore | Countries: US",
+      "artist": "Bladda",
+      "title": "Heinous Methods Of Cranial Disposal [EP] (2026)",
+      "genres": [
+        "Goregrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95292",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T16:59:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNndMNGA-Lx.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 125,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95291",
+      "text": "Deuterium - Blustery Uprising [Demo] (2003)\nBands: Deuterium | Genres: Brutal Death Metal, Grindcore | Countries: CA",
+      "artist": "Deuterium",
+      "title": "Blustery Uprising [Demo] (2003)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95291",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T16:58:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGxNJ6O7_-.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 124,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95323",
+      "text": "Pale Spektre - Bereft Of Xerotic Layers (2022)\nBands: Pale Spektre | Genres: Blackened Death Metal | Countries: DE",
+      "artist": "Pale Spektre",
+      "title": "Bereft Of Xerotic Layers (2022)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95323",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T16:17:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gD88VEEeBa.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 123,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94184",
+      "text": "Cordyceps Corpse - Perverse Craving for Rotting Corpses (2026)\nBands: Cordyceps Corpse | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Cordyceps Corpse",
+      "title": "Perverse Craving for Rotting Corpses (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94184",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T13:54:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxqQovVMGQ.webp",
+      "createdAt": "2026-10-10T18:23:06.717Z",
+      "source": "deathgrind",
+      "id": 122,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95320",
       "text": "Fukpig - Belief Is The Death Of Intelligence [Reissue] (2011)\nBands: Fukpig | Genres: Black Metal, Grindcore, Crust | Countries: GB",
