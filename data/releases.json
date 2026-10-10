@@ -2,8 +2,88 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxiedoxmgc7p",
-  "updatedAt": "2026-10-10T07:12:19.154Z",
+  "updatedAt": "2026-10-10T13:48:34.509Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95320",
+      "text": "Fukpig - Belief Is The Death Of Intelligence [Reissue] (2011)\nBands: Fukpig | Genres: Black Metal, Grindcore, Crust | Countries: GB",
+      "artist": "Fukpig",
+      "title": "Belief Is The Death Of Intelligence [Reissue] (2011)",
+      "genres": [
+        "Black Metal",
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95320",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T11:37:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aB-X8JOLW.webp",
+      "createdAt": "2026-10-10T13:48:34.509Z",
+      "source": "deathgrind",
+      "id": 121,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95319",
+      "text": "Fukpig - Spewings From A Selfish Nation (2009)\nBands: Fukpig | Genres: Black Metal, Grindcore, Crust | Countries: GB",
+      "artist": "Fukpig",
+      "title": "Spewings From A Selfish Nation (2009)",
+      "genres": [
+        "Black Metal",
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95319",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T11:29:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9wDoywaEO.webp",
+      "createdAt": "2026-10-10T13:48:34.509Z",
+      "source": "deathgrind",
+      "id": 120,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95318",
+      "text": "Xeper - Ad Numen Satanae (2021)\nBands: Xeper | Genres: Black Metal | Countries: IT",
+      "artist": "Xeper",
+      "title": "Ad Numen Satanae (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95318",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T11:14:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoZ-NJERda.webp",
+      "createdAt": "2026-10-10T13:48:34.509Z",
+      "source": "deathgrind",
+      "id": 119,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95316",
+      "text": "Wardemonic Legions - Summoning The Godless (2023)\nBands: Wardemonic Legions | Genres: Blackened Death Metal | Countries: ID",
+      "artist": "Wardemonic Legions",
+      "title": "Summoning The Godless (2023)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95316",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T09:30:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzpddxjLWw.webp",
+      "createdAt": "2026-10-10T13:48:34.509Z",
+      "source": "deathgrind",
+      "id": 118,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95315",
       "text": "Kut - Malleus Maleficarum (2026)\nBands: Kut | Genres: Death Metal | Countries: CH",
