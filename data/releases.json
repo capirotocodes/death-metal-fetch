@@ -1,9 +1,127 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxiedoxmgc7p",
-  "updatedAt": "2026-10-10T18:23:06.717Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxkgusv5c2cv",
+  "updatedAt": "2026-10-10T21:57:18.260Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95242",
+      "text": "Harlekin - Say Goodbye To Those You Love (2026)\nBands: Harlekin | Genres: Death Metal, Hardcore | Countries: DE",
+      "artist": "Harlekin",
+      "title": "Say Goodbye To Those You Love (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95242",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T21:54:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypo-rYrpQqn.webp",
+      "createdAt": "2026-10-10T21:57:18.260Z",
+      "source": "deathgrind",
+      "id": 149,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95310",
+      "text": "Monolith of Carnage - Epidemic of Extreme Cruelty [EP] (2026)\nBands: Monolith of Carnage | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Monolith of Carnage",
+      "title": "Epidemic of Extreme Cruelty [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95310",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T19:35:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE9kNaPMJp.webp",
+      "createdAt": "2026-10-10T21:57:18.260Z",
+      "source": "deathgrind",
+      "id": 148,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95336",
+      "text": "Man Stabbed - Where The Sun Don&apos;t Shine [EP] (2025)\nBands: Man Stabbed | Genres: Deathgrind | Countries: US",
+      "artist": "Man Stabbed",
+      "title": "Where The Sun Don&apos;t Shine [EP] (2025)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95336",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T19:18:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRnBywN7A7.webp",
+      "createdAt": "2026-10-10T21:57:18.260Z",
+      "source": "deathgrind",
+      "id": 147,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95335",
+      "text": "Fukpig - This World Is Weakening (Remastered) [Remastered] (2020)\nBands: Fukpig | Genres: Black Metal, Grindcore, Crust | Countries: GB",
+      "artist": "Fukpig",
+      "title": "This World Is Weakening (Remastered) [Remastered] (2020)",
+      "genres": [
+        "Black Metal",
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95335",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T19:06:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeByzK-ywP.webp",
+      "createdAt": "2026-10-10T21:57:18.260Z",
+      "source": "deathgrind",
+      "id": 146,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95334",
+      "text": "Sawticide - Beyond Mortality [EP] (2026)\nBands: Sawticide | Genres: Death Metal, Thrash Metal | Countries: GB",
+      "artist": "Sawticide",
+      "title": "Beyond Mortality [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95334",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:51:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbBwRAWYab.webp",
+      "createdAt": "2026-10-10T21:57:18.260Z",
+      "source": "deathgrind",
+      "id": 145,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95326",
+      "text": "Akhlys - Melinoë (2020)\nBands: Akhlys | Genres: Black Metal | Countries: US",
+      "artist": "Akhlys",
+      "title": "Melinoë (2020)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95326",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T18:23:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw6qlEZ_xeP.webp",
+      "createdAt": "2026-10-10T21:57:18.260Z",
+      "source": "deathgrind",
+      "id": 144,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95327",
       "text": "Summoning - Oath Bound (2006)\nBands: Summoning | Genres: Black Metal | Countries: AT",
