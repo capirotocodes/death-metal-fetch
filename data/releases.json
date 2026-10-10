@@ -1,9 +1,64 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxhwjumhi27p",
-  "updatedAt": "2026-10-10T01:09:31.680Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxiedoxmgc7p",
+  "updatedAt": "2026-10-10T07:12:19.154Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95315",
+      "text": "Kut - Malleus Maleficarum (2026)\nBands: Kut | Genres: Death Metal | Countries: CH",
+      "artist": "Kut",
+      "title": "Malleus Maleficarum (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95315",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T06:10:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNBXZWDKAe.webp",
+      "createdAt": "2026-10-10T07:12:19.154Z",
+      "source": "deathgrind",
+      "id": 117,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxidpyyvd27p",
+      "text": "FULL FORCE FRIDAY:🆕October 9th ENCORE! 🎧\n\nSEVERED SOUL - Specters of Dominion 🇫🇷⚛️\n\nDebut album from Pamiers, Occitanie, French Death Metal outfit⚛️\n\nBC➡️severedsoul1.bandcamp.com/album/specte...⚛️\n\n#SeveredSoul #SpectersOfDominion #DeathMetal #FFFOct9 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxidpyyvd27p",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-10T01:31:18.772Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicdtzj72colafyoxt75erpqj3tjtqxpz3suy3xhz6regt3xrvzbti",
+      "createdAt": "2026-10-10T07:12:17.967Z",
+      "id": 116,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxid6xb2kc7p",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️January 29th, 2027⬅️\n\nMEMORIAM - Endgame 🇬🇧💢\n\n6th (and final) album from Birmingham, UK Death Metal outfit💢\n\nYT➡️'Nothing More To Say' youtu.be/4HxWWxQA7oI...💢*\n\n#memoriamUK #Endgame #DeathMetal #ReaperEntertain #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxid6xb2kc7p",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-10T01:21:46.516Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreienlxn7e5xo267wzqiowvkyzzgu5bb5kejund3utywt3ufcbquh2u",
+      "createdAt": "2026-10-10T07:12:17.967Z",
+      "id": 115,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95311",
       "text": "Monolith Of Carnage - Epidemic Of Extreme Cruelty [EP] (2026)\nBands: Monolith Of Carnage | Genres: Brutal Death Metal | Countries: US",
