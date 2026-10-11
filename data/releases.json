@@ -1,9 +1,67 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxlorohhgscv",
-  "updatedAt": "2026-10-11T18:44:19.127Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxmslzqe72cv",
+  "updatedAt": "2026-10-11T22:31:46.608Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95358",
+      "text": "Prithvi - Our Place Of Infinite Doom And Birth [EP] (2026)\nBands: Prithvi | Genres: Death Metal | Countries: US",
+      "artist": "Prithvi",
+      "title": "Our Place Of Infinite Doom And Birth [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95358",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T19:29:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/O9ladpPmjwG.webp",
+      "createdAt": "2026-10-11T22:31:46.608Z",
+      "source": "deathgrind",
+      "id": 169,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95357",
+      "text": "Azaghal - Nekrohelios (2026)\nBands: Azaghal | Genres: Black Metal | Countries: FI",
+      "artist": "Azaghal",
+      "title": "Nekrohelios (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95357",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T19:20:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbB7KG-xWj.webp",
+      "createdAt": "2026-10-11T22:31:46.608Z",
+      "source": "deathgrind",
+      "id": 168,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95356",
+      "text": "Hecatoncheir - Nightmare Utopia (2024)\nBands: Hecatoncheir | Genres: Blackened Death Metal, Sludge | Countries: SK",
+      "artist": "Hecatoncheir",
+      "title": "Nightmare Utopia (2024)",
+      "genres": [
+        "Blackened Death Metal",
+        "Sludge"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95356",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T18:49:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeB9lLYYAl.webp",
+      "createdAt": "2026-10-11T22:31:46.608Z",
+      "source": "deathgrind",
+      "id": 167,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95355",
       "text": "Malignant Hyperthermia - Cutaneous Blastomycosis (2022)\nBands: Malignant Hyperthermia | Genres: Goregrind, Noise | Countries: US",
