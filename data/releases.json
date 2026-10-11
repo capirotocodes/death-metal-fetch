@@ -2,8 +2,47 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxkgusv5c2cv",
-  "updatedAt": "2026-10-10T21:57:18.260Z",
+  "updatedAt": "2026-10-11T00:49:42.058Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95340",
+      "text": "Nekus / Bloodsoaked Necrovoid - Funerary Rites Of Ancient Doom [Split] (2026)\nBands: Nekus, Bloodsoaked Necrovoid | Genres: Death Metal, Doom Metal | Countries: DE, ES",
+      "artist": "Nekus / Bloodsoaked Necrovoid",
+      "title": "Funerary Rites Of Ancient Doom [Split] (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95340",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T23:56:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pZBnQBPE9.webp",
+      "createdAt": "2026-10-11T00:49:42.058Z",
+      "source": "deathgrind",
+      "id": 151,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95337",
+      "text": "Anti - The Insignificance Of Life (2006)\nBands: Anti | Genres: Black Metal | Countries: DE",
+      "artist": "Anti",
+      "title": "The Insignificance Of Life (2006)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95337",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-10T22:24:12.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6BvVl6VY_.webp",
+      "createdAt": "2026-10-11T00:49:42.058Z",
+      "source": "deathgrind",
+      "id": 150,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95242",
       "text": "Harlekin - Say Goodbye To Those You Love (2026)\nBands: Harlekin | Genres: Death Metal, Hardcore | Countries: DE",
