@@ -1,9 +1,201 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxkgusv5c2cv",
-  "updatedAt": "2026-10-11T00:49:42.058Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxlorohhgscv",
+  "updatedAt": "2026-10-11T13:55:19.475Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95350",
+      "text": "Adrenochrome - A New World Slaughter [EP] (2013)\nBands: Adrenochrome | Genres: Deathgrind | Countries: US",
+      "artist": "Adrenochrome",
+      "title": "A New World Slaughter [EP] (2013)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95350",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T11:26:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNBpqqmJBe.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 161,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95349",
+      "text": "Eraser / Global Horror - NU.BI.CH. ...Is Good For You! / Transhumanist Dystopia [Split] (2026)\nBands: Eraser, Global Horror | Genres: Grindcore | Countries: IT, FR",
+      "artist": "Eraser / Global Horror",
+      "title": "NU.BI.CH. ...Is Good For You! / Transhumanist Dystopia [Split] (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95349",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T11:10:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pZ9x-EbZx.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 160,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95346",
+      "text": "Fadead - Capitalizing On Suffering [EP] (2026)\nBands: Fadead | Genres: Grindcore | Countries: IT",
+      "artist": "Fadead",
+      "title": "Capitalizing On Suffering [EP] (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95346",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T10:07:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOV7VmNvmz.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 159,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95345",
+      "text": "Βρωμόστομοι - Αρρωστημένες εμμονές (2025)\nBands: Βρωμόστομοι | Genres: Grindcore | Countries: GR",
+      "artist": "Βρωμόστομοι",
+      "title": "Αρρωστημένες εμμονές (2025)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95345",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T10:07:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNB6blxz7p.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 158,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95344",
+      "text": "Anal Bleeding / Deception Of Humanity / Drowning Echoes of Miyoko / Bubblegum Chainsaw - Maiming The Defenseless [Split] (2024)\nBands: Anal Bleeding, Deception Of Humanity, Drowning Echoes of Miyoko, Bubblegum Chainsaw | Genres: Goregrind, Brutal Death Metal, Slamming Brutal Death Metal | Countries: RU, MX, US",
+      "artist": "Anal Bleeding / Deception Of Humanity / Drowning Echoes of Miyoko / Bubblegum Chainsaw",
+      "title": "Maiming The Defenseless [Split] (2024)",
+      "genres": [
+        "Goregrind",
+        "Brutal Death Metal",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95344",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T10:06:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNB6jMxbWZ.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 157,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95343",
+      "text": "Hyperemesis / Fetal Deformity - Chronic Ulcerative Colitis / Full Adipocere Process On Bloated Corpse [Split] (2022)\nBands: Hyperemesis, Fetal Deformity | Genres: Goregrind | Countries: CA, MX",
+      "artist": "Hyperemesis / Fetal Deformity",
+      "title": "Chronic Ulcerative Colitis / Full Adipocere Process On Bloated Corpse [Split] (2022)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95343",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T10:05:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE9OlWyKpq.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 156,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxlorohhgscv",
+      "text": "👑MOUNTAIN KINGS3⃣4⃣9⃣👑\n\nSubmission: GOREFEST - False 🇳🇱 (1992)\n\nA Dutch Death Metal pillar, False sharpened brutality into something darker, heavier, and more enduring. Bleak atmospheres and flawless songwriting cemented its legacy as one of the genre's early classics. #MK349👑",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": false,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxlorohhgscv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-11T09:27:05.199Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicnfw22tddtnxwxgnhmzyq542uvwwhbzrwl5somfstkedx5evwsaq",
+      "createdAt": "2026-10-11T13:55:18.562Z",
+      "id": 152,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95348",
+      "text": "Adrenochrome - Rabble Rouser (2015)\nBands: Adrenochrome | Genres: Deathgrind | Countries: US",
+      "artist": "Adrenochrome",
+      "title": "Rabble Rouser (2015)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95348",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T09:24:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnRQrRwzAJ.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 155,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95347",
+      "text": "Carl Wheezer - Perverse Recollections of a Carl Wheezer (2023)\nBands: Carl Wheezer | Genres: Slamming Brutal Deathcore | Countries: AU",
+      "artist": "Carl Wheezer",
+      "title": "Perverse Recollections of a Carl Wheezer (2023)",
+      "genres": [
+        "Slamming Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95347",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T08:13:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8PjXWL-PG.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 154,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95341",
+      "text": "Cleansing Humanity - Demo 2021\nBands: Cleansing Humanity | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Cleansing Humanity",
+      "title": "Demo 2021",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95341",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T07:23:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQBEwqLEY7.webp",
+      "createdAt": "2026-10-11T13:55:19.475Z",
+      "source": "deathgrind",
+      "id": 153,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95340",
       "text": "Nekus / Bloodsoaked Necrovoid - Funerary Rites Of Ancient Doom [Split] (2026)\nBands: Nekus, Bloodsoaked Necrovoid | Genres: Death Metal, Doom Metal | Countries: DE, ES",
