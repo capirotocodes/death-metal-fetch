@@ -2,8 +2,105 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxlorohhgscv",
-  "updatedAt": "2026-10-11T13:55:19.475Z",
+  "updatedAt": "2026-10-11T18:44:19.127Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95355",
+      "text": "Malignant Hyperthermia - Cutaneous Blastomycosis (2022)\nBands: Malignant Hyperthermia | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Malignant Hyperthermia",
+      "title": "Cutaneous Blastomycosis (2022)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95355",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T18:29:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNBKpyLenO.webp",
+      "createdAt": "2026-10-11T18:44:19.127Z",
+      "source": "deathgrind",
+      "id": 166,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95354",
+      "text": "Malignant Hyperthermia - Demo 2021\nBands: Malignant Hyperthermia | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Malignant Hyperthermia",
+      "title": "Demo 2021",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95354",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T18:28:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNBKQJKnZZ.webp",
+      "createdAt": "2026-10-11T18:44:19.127Z",
+      "source": "deathgrind",
+      "id": 165,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95353",
+      "text": "Embarla Firgasto - Temporal Capsule (2022)\nBands: Embarla Firgasto | Genres: Blackened Death Metal | Countries: PL",
+      "artist": "Embarla Firgasto",
+      "title": "Temporal Capsule (2022)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95353",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T16:56:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pZomVqply.webp",
+      "createdAt": "2026-10-11T18:44:19.127Z",
+      "source": "deathgrind",
+      "id": 164,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95324",
+      "text": "Verrine - God Was Destroyed (2023)\nBands: Verrine | Genres: Blackened Death Metal | Countries: ID",
+      "artist": "Verrine",
+      "title": "God Was Destroyed (2023)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95324",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T16:16:29.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzpqq7WQle.webp",
+      "createdAt": "2026-10-11T18:44:19.127Z",
+      "source": "deathgrind",
+      "id": 163,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95339",
+      "text": "Botulism - Canned Demon [EP] (2026)\nBands: Botulism | Genres: Grindcore | Countries: DE",
+      "artist": "Botulism",
+      "title": "Canned Demon [EP] (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95339",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-11T15:06:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWDrE-RGve.webp",
+      "createdAt": "2026-10-11T18:44:19.127Z",
+      "source": "deathgrind",
+      "id": 162,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95350",
       "text": "Adrenochrome - A New World Slaughter [EP] (2013)\nBands: Adrenochrome | Genres: Deathgrind | Countries: US",
