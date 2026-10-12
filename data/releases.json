@@ -2,8 +2,86 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxmslzqe72cv",
-  "updatedAt": "2026-10-11T22:31:46.608Z",
+  "updatedAt": "2026-10-12T18:54:09.298Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95367",
+      "text": "Morstice - Reflections Remain [Demo] (2025)\nBands: Morstice | Genres: Death Metal | Countries: GB",
+      "artist": "Morstice",
+      "title": "Reflections Remain [Demo] (2025)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95367",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-12T18:15:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6JaZw9Wqw.webp",
+      "createdAt": "2026-10-12T18:54:09.298Z",
+      "source": "deathgrind",
+      "id": 173,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95365",
+      "text": "Razorized - Demo 2012\nBands: Razorized | Genres: Brutal Death Metal | Countries: ID",
+      "artist": "Razorized",
+      "title": "Demo 2012",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95365",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-12T11:40:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGdZQOjlO-.webp",
+      "createdAt": "2026-10-12T18:54:09.298Z",
+      "source": "deathgrind",
+      "id": 172,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95362",
+      "text": "Fukpig - Bastards / More Bastards [Compilation] (2018)\nBands: Fukpig | Genres: Black Metal, Grindcore, Crust | Countries: GB",
+      "artist": "Fukpig",
+      "title": "Bastards / More Bastards [Compilation] (2018)",
+      "genres": [
+        "Black Metal",
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95362",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-12T09:47:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxypromZOrw.webp",
+      "createdAt": "2026-10-12T18:54:09.298Z",
+      "source": "deathgrind",
+      "id": 171,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95361",
+      "text": "Seven Chains - Swollen, In Flux (2026)\nBands: Seven Chains | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Seven Chains",
+      "title": "Swollen, In Flux (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95361",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-12T09:18:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6JVbjXMJm.webp",
+      "createdAt": "2026-10-12T18:54:09.298Z",
+      "source": "deathgrind",
+      "id": 170,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95358",
       "text": "Prithvi - Our Place Of Infinite Doom And Birth [EP] (2026)\nBands: Prithvi | Genres: Death Metal | Countries: US",
