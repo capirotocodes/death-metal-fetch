@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxmslzqe72cv",
-  "updatedAt": "2026-10-12T18:54:09.298Z",
+  "updatedAt": "2026-10-13T01:12:16.347Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95370",
+      "text": "Verrine - Sovereign The Blasphemous (2023)\nBands: Verrine | Genres: Black Metal | Countries: ID",
+      "artist": "Verrine",
+      "title": "Sovereign The Blasphemous (2023)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95370",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-12T21:20:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7j9o7vxp7O.webp",
+      "createdAt": "2026-10-13T01:12:16.347Z",
+      "source": "deathgrind",
+      "id": 174,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95367",
       "text": "Morstice - Reflections Remain [Demo] (2025)\nBands: Morstice | Genres: Death Metal | Countries: GB",
