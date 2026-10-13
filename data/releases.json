@@ -1,9 +1,123 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxqszsq6tkmo",
-  "updatedAt": "2026-10-13T15:48:19.170Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxrtqgfojcmo",
+  "updatedAt": "2026-10-13T21:07:32.680Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxrtqgfojcmo",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 28th, 2026⬅️\n\nFLAGG - Death Sermon 🇫🇮⚛️\n\n4th album from Turku, Finnish Black Metal outfit⚛️\n\nYT➡️'Serpents in the Wine' youtu.be/yPPgNd_V2Hc...⚛️\n\n#Flagg #DeathSermon #BlackMetal #PTF #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxrtqgfojcmo",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-13T20:11:50.337Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieb7k3ahgvmjzcp63lizncni33piofyy7pu623mkl45dgsg2amlta",
+      "createdAt": "2026-10-13T21:07:31.773Z",
+      "id": 186,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95382",
+      "text": "Abysmal Daemon - Dethroned [EP] (2025)\nBands: Abysmal Daemon | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Abysmal Daemon",
+      "title": "Dethroned [EP] (2025)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95382",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-13T19:00:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_p6G7B8aKx.webp",
+      "createdAt": "2026-10-13T21:07:32.680Z",
+      "source": "deathgrind",
+      "id": 191,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95381",
+      "text": "Abysmal Daemon - Blasphemous Rites [Demo] (2022)\nBands: Abysmal Daemon | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Abysmal Daemon",
+      "title": "Blasphemous Rites [Demo] (2022)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95381",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-13T19:00:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6JgR8gqVX.webp",
+      "createdAt": "2026-10-13T21:07:32.680Z",
+      "source": "deathgrind",
+      "id": 190,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95380",
+      "text": "Statist - Antitötalitar [Reissue] (2023)\nBands: Statist | Genres: Grindcore | Countries: UA",
+      "artist": "Statist",
+      "title": "Antitötalitar [Reissue] (2023)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95380",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-13T18:32:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_Ojg97wNz.webp",
+      "createdAt": "2026-10-13T21:07:32.680Z",
+      "source": "deathgrind",
+      "id": 189,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95378",
+      "text": "Traumatic Asphyxia / Gagged With Feces - Hymns For The Diseased And Wicked [EP] (2026)\nBands: Traumatic Asphyxia, Gagged With Feces | Genres: Death Metal | Countries: US",
+      "artist": "Traumatic Asphyxia / Gagged With Feces",
+      "title": "Hymns For The Diseased And Wicked [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95378",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-13T17:08:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeJMYyPAkV.webp",
+      "createdAt": "2026-10-13T21:07:32.680Z",
+      "source": "deathgrind",
+      "id": 188,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95379",
+      "text": "Corrossive - Inmortuae (2026)\nBands: Corrossive | Genres: Blackened Death Metal, Thrash Metal | Countries: AR",
+      "artist": "Corrossive",
+      "title": "Inmortuae (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95379",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-13T17:00:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aJQkZkrBE.webp",
+      "createdAt": "2026-10-13T21:07:32.680Z",
+      "source": "deathgrind",
+      "id": 187,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95372",
       "text": "Upon The Altar - Profanation&apos;s Vapor [EP] (2025)\nBands: Upon The Altar | Genres: Blackened Death Metal | Countries: PL",
