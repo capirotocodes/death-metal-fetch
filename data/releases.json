@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxmslzqe72cv",
-  "updatedAt": "2026-10-13T01:12:16.347Z",
+  "updatedAt": "2026-10-13T07:47:50.551Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95371",
+      "text": "Erebus - With Furious Intent (2009)\nBands: Erebus | Genres: Death Metal | Countries: NL",
+      "artist": "Erebus",
+      "title": "With Furious Intent (2009)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95371",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-13T07:14:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVq6xLBybq.webp",
+      "createdAt": "2026-10-13T07:47:50.551Z",
+      "source": "deathgrind",
+      "id": 175,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95370",
       "text": "Verrine - Sovereign The Blasphemous (2023)\nBands: Verrine | Genres: Black Metal | Countries: ID",
