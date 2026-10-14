@@ -2,8 +2,46 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxrtqgfojcmo",
-  "updatedAt": "2026-10-14T05:16:26.550Z",
+  "updatedAt": "2026-10-14T10:30:33.821Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95390",
+      "text": "Insane Vesper - Abomination Of Death (2011)\nBands: Insane Vesper | Genres: Black Metal | Countries: FR",
+      "artist": "Insane Vesper",
+      "title": "Abomination Of Death (2011)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95390",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T07:35:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_ee9wQlOR.webp",
+      "createdAt": "2026-10-14T10:30:33.821Z",
+      "source": "deathgrind",
+      "id": 196,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95389",
+      "text": "Coffin Crawler - Eternally Entombed [EP] (2026)\nBands: Coffin Crawler | Genres: Death Metal | Countries: US",
+      "artist": "Coffin Crawler",
+      "title": "Eternally Entombed [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95389",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T07:19:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLJJzvZkEa.webp",
+      "createdAt": "2026-10-14T10:30:33.821Z",
+      "source": "deathgrind",
+      "id": 195,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95386",
       "text": "Disownment - Shattered Icons Demo [Demo] (2026)\nBands: Disownment | Genres: Slamming Brutal Death Metal | Countries: US, CL",
