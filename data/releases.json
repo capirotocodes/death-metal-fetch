@@ -1,9 +1,221 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxrtqgfojcmo",
-  "updatedAt": "2026-10-14T10:30:33.821Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxtemkdztcwk",
+  "updatedAt": "2026-10-14T15:32:19.590Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95396",
+      "text": "Disgrace And Terror - Spirit Of The Black Moon (2026)\nBands: Disgrace And Terror | Genres: Death Metal, Thrash Metal | Countries: BR",
+      "artist": "Disgrace And Terror",
+      "title": "Spirit Of The Black Moon (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95396",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T14:30:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnewawlOad.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 207,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95395",
+      "text": "Deathbane - Festering Darkness (2026)\nBands: Deathbane | Genres: Blackened Death Metal, Technical Death Metal | Countries: HR",
+      "artist": "Deathbane",
+      "title": "Festering Darkness (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95395",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T14:05:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbJA-VYwlP.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 206,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95388",
+      "text": "Deterioration / Gross Load - The Finer Things In Grind [Split] (2023)\nBands: Deterioration, Gross Load | Genres: Brutal Death Metal, Grindcore | Countries: US",
+      "artist": "Deterioration / Gross Load",
+      "title": "The Finer Things In Grind [Split] (2023)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95388",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T11:33:35.000Z",
+      "notified": false,
+      "coverUrl": "covers/Kxe76yWqm9v.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 205,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95393",
+      "text": "Bestiar - Inferno Invert (2007)\nBands: Bestiar | Genres: Death Metal | Countries: PL",
+      "artist": "Bestiar",
+      "title": "Inferno Invert (2007)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95393",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T11:33:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGynlmppro.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 204,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95392",
+      "text": "Bestiar - Lethal Venom (2005)\nBands: Bestiar | Genres: Death Metal | Countries: PL",
+      "artist": "Bestiar",
+      "title": "Lethal Venom (2005)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95392",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T11:33:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbJJGrrEEA.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 203,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95374",
+      "text": "Internal Rot / Mutilated Cop - Internal Rot / Mutilated Cop [Split] (2025)\nBands: Internal Rot, Mutilated Cop | Genres: Grindcore | Countries: AU, US",
+      "artist": "Internal Rot / Mutilated Cop",
+      "title": "Internal Rot / Mutilated Cop [Split] (2025)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95374",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T11:32:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_eLx6jEbw.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 202,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95373",
+      "text": "Jelly - El Canto Tiene Sentido (2026)\nBands: Jelly | Genres: Crust, Grindcore, Hardcore, Powerviolence | Countries: MX",
+      "artist": "Jelly",
+      "title": "El Canto Tiene Sentido (2026)",
+      "genres": [
+        "Crust",
+        "Grindcore",
+        "Hardcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95373",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T11:32:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLJNe6AbBq.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 201,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95368",
+      "text": "Dr. Zaius - Sociedad Infectada [EP] (2016)\nBands: Dr. Zaius | Genres: Deathgrind | Countries: CL",
+      "artist": "Dr. Zaius",
+      "title": "Sociedad Infectada [EP] (2016)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95368",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T11:31:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxoOArbX9Q.webp",
+      "createdAt": "2026-10-14T15:32:19.590Z",
+      "source": "deathgrind",
+      "id": 200,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxtemkdztcwk",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 24th, 2026⬅️\n\nDELIQUESCE - (dis)harmony 🇦🇺⚛️\n\n3rd album from Melbourne, Australian Brutal Death Metal outfit⚛️\n\nBC➡️viciousinstinctrecords.bandcamp.com/album/dis-ha...⚛️\n\n#Deliquesce #Disharmony #BrutalDeathMetal #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxtemkdztcwk",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-14T10:46:33.609Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidy6fqsdmblcdbb2qnbky4zo2noi5gsz62wyexfbof4xxjy2zawmu",
+      "createdAt": "2026-10-14T15:32:18.793Z",
+      "id": 199,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxtef6h3gcwk",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 16th, 2026⬅️\n\nHISSING DESCENT - Cataclysmic Lunar Hemorrhage EP 🇺🇸⚛️\n\n4 Track EP from SC, U.S. Brutal Death Metal outfit⚛️\n\nBC➡️hissingdescent.bandcamp.com/album/catacl...⚛️\n\n#HissingDescent #Cataclysmic #BrutalDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxtef6h3gcwk",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-14T10:42:26.245Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreig4mhc2xxv2fbpqigadb3atrknmcomg44ro32g7vk4tewlirwezk4",
+      "createdAt": "2026-10-14T15:32:18.793Z",
+      "id": 198,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxtdy5wqlkwk",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 13th, 2026⬅️\n\nTHE MOSAIC WINDOW - Answered Prayers 🇺🇸⚛️\n\n3rd album from L.A, CA, U.S. Melodic Black Metal project⚛️\n\nBC➡️themosaicwindow.bandcamp.com/album/answer...⚛️\n\n#themosaicwindow #AnsweredPrayers #MelodicBlack #Vesperian #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxtdy5wqlkwk",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-14T10:35:09.502Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicst2z3awqintcoponlpjenrl2g2zstn4lgmc4odal4cifjmefgii",
+      "createdAt": "2026-10-14T15:32:18.793Z",
+      "id": 197,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95390",
       "text": "Insane Vesper - Abomination Of Death (2011)\nBands: Insane Vesper | Genres: Black Metal | Countries: FR",
