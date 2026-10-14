@@ -2,8 +2,47 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxrtqgfojcmo",
-  "updatedAt": "2026-10-14T00:20:29.902Z",
+  "updatedAt": "2026-10-14T05:16:26.550Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95386",
+      "text": "Disownment - Shattered Icons Demo [Demo] (2026)\nBands: Disownment | Genres: Slamming Brutal Death Metal | Countries: US, CL",
+      "artist": "Disownment",
+      "title": "Shattered Icons Demo [Demo] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95386",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T03:46:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aJyzrPpZW.webp",
+      "createdAt": "2026-10-14T05:16:26.550Z",
+      "source": "deathgrind",
+      "id": 194,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95298",
+      "text": "Algor Mortis - The Art Of Suffering (2026)\nBands: Algor Mortis | Genres: Death Metal, Hardcore | Countries: AU",
+      "artist": "Algor Mortis",
+      "title": "The Art Of Suffering (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95298",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-14T03:18:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeB8Mmewbk.webp",
+      "createdAt": "2026-10-14T05:16:26.550Z",
+      "source": "deathgrind",
+      "id": 193,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95385",
       "text": "Neuronal Autolysis - Licuefacción Enzimática Del Tejido Cerebral Infectado [Demo] (2026)\nBands: Neuronal Autolysis | Genres: Goregrind | Countries: CO",
