@@ -2,8 +2,104 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxvpifzrwkcc",
-  "updatedAt": "2026-10-15T15:38:17.160Z",
+  "updatedAt": "2026-10-15T19:26:40.951Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95424",
+      "text": "Neurotic Disfigurment - Condemned To Repulsive Misery [EP] (2026)\nBands: Neurotic Disfigurment | Genres: Brutal Death Metal | Countries: PL",
+      "artist": "Neurotic Disfigurment",
+      "title": "Condemned To Repulsive Misery [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95424",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T19:12:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzqkke89gk.webp",
+      "createdAt": "2026-10-15T19:26:40.951Z",
+      "source": "deathgrind",
+      "id": 234,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95423",
+      "text": "Leadbelcher - Heaven’s Bloated Corpse (2026)\nBands: Leadbelcher | Genres: Deathgrind | Countries: IE",
+      "artist": "Leadbelcher",
+      "title": "Heaven’s Bloated Corpse (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95423",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T18:59:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbJNwJyVnz.webp",
+      "createdAt": "2026-10-15T19:26:40.951Z",
+      "source": "deathgrind",
+      "id": 233,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94302",
+      "text": "Master - Among The Seeds Of Death (2026)\nBands: Master | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Master",
+      "title": "Among The Seeds Of Death (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94302",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T18:53:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69W78dNRGd.webp",
+      "createdAt": "2026-10-15T19:26:40.951Z",
+      "source": "deathgrind",
+      "id": 232,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95146",
+      "text": "Carnal Desecration - Ancient Malediction (2026)\nBands: Carnal Desecration | Genres: Death Metal | Countries: BE",
+      "artist": "Carnal Desecration",
+      "title": "Ancient Malediction (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95146",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T18:52:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pvml9OeWl.webp",
+      "createdAt": "2026-10-15T19:26:40.951Z",
+      "source": "deathgrind",
+      "id": 231,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95415",
+      "text": "S.A.D.O. - Sadistic Audio Desecration Output [EP] (2026)\nBands: S.A.D.O. | Genres: Deathgrind | Countries: US",
+      "artist": "S.A.D.O.",
+      "title": "Sadistic Audio Desecration Output [EP] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95415",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T16:35:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69JomNZvMl.webp",
+      "createdAt": "2026-10-15T19:26:40.951Z",
+      "source": "deathgrind",
+      "id": 230,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95402",
       "text": "Amystery - Chaos Empire Satan (2024)\nBands: Amystery | Genres: Black Metal | Countries: DE",
