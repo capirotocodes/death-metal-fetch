@@ -2,8 +2,122 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxvpifzrwkcc",
-  "updatedAt": "2026-10-15T11:12:29.934Z",
+  "updatedAt": "2026-10-15T15:38:17.160Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95402",
+      "text": "Amystery - Chaos Empire Satan (2024)\nBands: Amystery | Genres: Black Metal | Countries: DE",
+      "artist": "Amystery",
+      "title": "Chaos Empire Satan (2024)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95402",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T15:34:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQJ999RAgW.webp",
+      "createdAt": "2026-10-15T15:38:17.160Z",
+      "source": "deathgrind",
+      "id": 229,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95414",
+      "text": "Mortal Desecration - Killing What&apos;s Already Dead [EP] (2023)\nBands: Mortal Desecration | Genres: Death Metal | Countries: US",
+      "artist": "Mortal Desecration",
+      "title": "Killing What&apos;s Already Dead [EP] (2023)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95414",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T15:17:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLJLXyE-9p.webp",
+      "createdAt": "2026-10-15T15:38:17.160Z",
+      "source": "deathgrind",
+      "id": 228,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95413",
+      "text": "Sayyadina - Fear Gave Us Wings (2004)\nBands: Sayyadina | Genres: Grindcore | Countries: SE",
+      "artist": "Sayyadina",
+      "title": "Fear Gave Us Wings (2004)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95413",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T15:05:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKogooQqYNv.webp",
+      "createdAt": "2026-10-15T15:38:17.160Z",
+      "source": "deathgrind",
+      "id": 227,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95412",
+      "text": "Goat Vomit Noise - Golgotha Of The Underdogs (2023)\nBands: Goat Vomit Noise | Genres: Blackened Death Metal | Countries: IT",
+      "artist": "Goat Vomit Noise",
+      "title": "Golgotha Of The Underdogs (2023)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95412",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T13:45:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzqzGmVNv_.webp",
+      "createdAt": "2026-10-15T15:38:17.160Z",
+      "source": "deathgrind",
+      "id": 226,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95411",
+      "text": "Morgue - Herald The Dawn (2026)\nBands: Morgue | Genres: Death Metal | Countries: FR",
+      "artist": "Morgue",
+      "title": "Herald The Dawn (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95411",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T13:20:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnJnpoaAGk.webp",
+      "createdAt": "2026-10-15T15:38:17.160Z",
+      "source": "deathgrind",
+      "id": 225,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95408",
+      "text": "Sesosxangrianecrosisposmortemsscrial - Declassified Experiment (2025)\nBands: Sesosxangrianecrosisposmortemsscrial | Genres: Slamming Brutal Death Metal | Countries: MX",
+      "artist": "Sesosxangrianecrosisposmortemsscrial",
+      "title": "Declassified Experiment (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95408",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-15T11:30:35.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_eA7lM8Lb.webp",
+      "createdAt": "2026-10-15T15:38:17.160Z",
+      "source": "deathgrind",
+      "id": 224,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95406",
       "text": "Varmint / Warhead Barbarism - War And Plague [Split] (2022)\nBands: Varmint, Warhead Barbarism | Genres: Black Metal, Death Metal | Countries: CR",
