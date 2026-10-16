@@ -1,9 +1,29 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxkepodeg2d",
-  "updatedAt": "2026-10-16T05:41:19.625Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxydea5ovkfz",
+  "updatedAt": "2026-10-16T10:09:05.995Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95432",
+      "text": "Mind Conflict - The Great Terror [EP] (2026)\nBands: Mind Conflict | Genres: Death Metal, Hardcore | Countries: GB",
+      "artist": "Mind Conflict",
+      "title": "The Great Terror [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95432",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T07:38:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pLAWxjEYl.webp",
+      "createdAt": "2026-10-16T10:09:05.995Z",
+      "source": "deathgrind",
+      "id": 251,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95430",
       "text": "Cemetery Rapist - I Split On Your Grave: Resurrected Victims [Compilation] (2019)\nBands: Cemetery Rapist | Genres: Porngrind | Countries: US",
