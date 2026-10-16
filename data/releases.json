@@ -1,9 +1,47 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxydea5ovkfz",
-  "updatedAt": "2026-10-16T10:09:05.995Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxyehqyotcfz",
+  "updatedAt": "2026-10-16T14:53:59.323Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/92603",
+      "text": "Carnation - Symphony In Flesh (2026)\nBands: Carnation | Genres: Death Metal | Countries: BE",
+      "artist": "Carnation",
+      "title": "Symphony In Flesh (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/92603",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T10:32:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/PomAEezGEGn.webp",
+      "createdAt": "2026-10-16T14:53:59.323Z",
+      "source": "deathgrind",
+      "id": 253,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95369",
+      "text": "Glutton For Punishment - The Architecture of Suffering (2026)\nBands: Glutton For Punishment | Genres: Death Metal | Countries: US",
+      "artist": "Glutton For Punishment",
+      "title": "The Architecture of Suffering (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95369",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T10:31:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/Jld6qom7l7X.webp",
+      "createdAt": "2026-10-16T14:53:59.323Z",
+      "source": "deathgrind",
+      "id": 252,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95432",
       "text": "Mind Conflict - The Great Terror [EP] (2026)\nBands: Mind Conflict | Genres: Death Metal, Hardcore | Countries: GB",
