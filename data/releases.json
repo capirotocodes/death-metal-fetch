@@ -1,9 +1,117 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxx4j35e4i2d",
-  "updatedAt": "2026-10-15T22:38:48.046Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxe4a63vn2g",
+  "updatedAt": "2026-10-16T00:48:55.658Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxd7mg3uz26",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 2⃣0⃣🎧\n\nURNA - The Great Jihad 🇮🇹⚛️\n\n5th album from Cagliari, Sardinia, Italian Black/Funeral Doom Metal outfit⚛️\n\nBC➡️atmfsssdtp.bandcamp.com/album/the-gr...⚛️\n\n#Urna #TheGreatJihad #FuneralDoom #BlackMetal #ATMF #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxd7mg3uz26",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-16T00:32:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibmq6tgb5xqh22qjq7ziho75coajwjbmrebxg7x7smuwzq6xy2fva",
+      "createdAt": "2026-10-16T00:48:55.658Z",
+      "id": 242,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxbupa4yz2x",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 1⃣7⃣🎧\n\nMANNVEIRA - Vesold 🇮🇸⚛️\n\n2nd album from Reykjavík, Icelandic Black Metal outfit⚛️\n\nBC➡️darkdescentrecords.bandcamp.com/album/vesold⚛️\n\n#Mannveira #Vesold #BlackMetal #DarkDescentRec #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxbupa4yz2x",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-16T00:08:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidt3ydql5rvj7mzdl6cw5badyomack7noffa6itrj5dweliiwz2aq",
+      "createdAt": "2026-10-16T00:48:55.658Z",
+      "id": 241,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxbgflpk52u",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 1⃣6⃣🎧\n\nIAPETUS - The Mother Void 🇺🇸⚛️\n\n3rd album from Long Island, New York, U.S Cosmic Prog/Melodic Death Metal outfit⚛️\n\nBC➡️iapetus1.bandcamp.com/album/the-mo...⚛️\n\n#Iapetus #TheMotherVoid #ClawHammerPR #Willowtip\n#FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxbgflpk52u",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihyio4xr74bsdi5gijes22u3vmsge32rj4j6mvhlo3fchcytkffla",
+      "createdAt": "2026-10-16T00:48:55.658Z",
+      "id": 240,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxajsb3fs26",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 1⃣4⃣🎧\n\nURARV - Nychta Psychis 🇳🇴⚛️\n\n3rd album from Oslo, Norwegian Avant-garde Black Metal outfit⚛️\n\nBC➡️urarvdarknessshallrise.bandcamp.com/album/nychta...⚛️\n\n#Urarv #NychtaPsychis #AvantGardeBlackMetal #DSRProductions #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxajsb3fs26",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-15T23:44:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihqo7jafqgjogbfcxidoipsgt4bbcdzgmkamioltetao4zoip6ej4",
+      "createdAt": "2026-10-16T00:48:55.658Z",
+      "id": 239,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxa3hq6qh2o",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 1⃣3⃣🎧\n\nVEILBURNER - All That Glimmers is Gloam 🇺🇸⚛️\n\n9th album from Pennsylvania, U.S. Black/Death Metal outfit⚛️\n\nBC➡️transcendingobscurity.bandcamp.com/album/all-th...⚛️\n\n#Veilburner #AllThat #BlackDeath #transcendingobs #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxa3hq6qh2o",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-15T23:36:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreif74wzcrdo3o5j2c5d4e75jkva3mvnwnbmlhg4iqfx7zoewv2xxne",
+      "createdAt": "2026-10-16T00:48:55.658Z",
+      "id": 238,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxx5twnut522",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 8⃣🎧\n\nMORGUE - Herald the Dawn 🇫🇷⚛️\n\n6th album from Alès, Occitanie, French Death Metal outfit⚛️\n\nBC➡️godzovwarproductions.bandcamp.com/album/herald...⚛️\n\n#Morgue #HeraldTheDawn #DeathMetal\n#GodzOvWar #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxx5twnut522",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-15T22:56:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifz6aueg4jdyr23lo6pw557jo6blxlcdgjkwkh6hwpqugi7yjxgeq",
+      "createdAt": "2026-10-16T00:48:55.658Z",
+      "id": 237,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxx42plo362d",
       "text": "FULL FORCE FRIDAY:🆕October 16th 4⃣🎧\n\nSÉPULCRE - Cryptic Temple of Otherworldly Abhorrations 🇫🇷⚛️\n\nDebut album from Brittany, French Death Metal outfit⚛️\n\nBC➡️invictusproductions666.bandcamp.com/album/crypti...⚛️\n\n#Sepulcre #CrypticTemple #InvictusProd #DeathMetal #FFFOct16 #KMäN",
