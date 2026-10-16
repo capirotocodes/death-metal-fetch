@@ -1,9 +1,159 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxe4a63vn2g",
-  "updatedAt": "2026-10-16T00:48:55.658Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxkepodeg2d",
+  "updatedAt": "2026-10-16T05:41:19.625Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95430",
+      "text": "Cemetery Rapist - I Split On Your Grave: Resurrected Victims [Compilation] (2019)\nBands: Cemetery Rapist | Genres: Porngrind | Countries: US",
+      "artist": "Cemetery Rapist",
+      "title": "I Split On Your Grave: Resurrected Victims [Compilation] (2019)",
+      "genres": [
+        "Porngrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95430",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T03:26:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmLq9-mmAA.webp",
+      "createdAt": "2026-10-16T05:41:19.625Z",
+      "source": "deathgrind",
+      "id": 250,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95431",
+      "text": "Fragmentation - Schema Collapse [EP] (2026)\nBands: Fragmentation | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Fragmentation",
+      "title": "Schema Collapse [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95431",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T03:16:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqnmKJ9xVZ.webp",
+      "createdAt": "2026-10-16T05:41:19.625Z",
+      "source": "deathgrind",
+      "id": 249,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxjw6lc5m26",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 3⃣5⃣🎧\n\nCOLLAPSOR - We Deserve Extinction 🇺🇸⚛️\n\n2ndalbum from Tampa, Florida, U.S Crossover/Grindcore outfit⚛️\n\nBC➡️collapsor.bandcamp.com/album/we-des... ⚛️\n\n#Collapsor #WedeserveExtinction #Crossover #Grindcore #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxjw6lc5m26",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-16T02:32:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifamwf63za6s6og6alpolnlligncdya4o35s7uvnh2vrmywf3we3q",
+      "createdAt": "2026-10-16T05:41:18.698Z",
+      "id": 246,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxjhvg7oo2n",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 3⃣4⃣🎧\n\nTHRONEUM - Love Is The Law But Death Is The Frame 🇵🇱⚛️\n\n11th album from Bytom, Polish Blackened Death Metal outfit⚛️\n\nBC➡️godzovwarproductions.bandcamp.com/album/love-i...⚛️\n\n#Throneum #LoveIsTheLaw #BlackDeath #GodzOvWar #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxjhvg7oo2n",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-16T02:24:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifpvdb4svirkpueaiaf2tyt3l25qv2f6pdws7mmk7pcvb2nsdxsda",
+      "createdAt": "2026-10-16T05:41:18.698Z",
+      "id": 245,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxi52uunz2g",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 3⃣1⃣🎧\n\nIMPERIAL SLAVE - Existential Threat 🇳🇿⚛️\n\n3rd album from Manawatu-Wanganui, NZ Thrash/Melodic Death Metal outfit⚛️\n\nBC➡️imperialslave.bandcamp.com/album/existe...⚛️\n\n#ImperialSlave #ExistentialThreat #ThrashMetal #MelodicDeath #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxi52uunz2g",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-16T02:00:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihpsdoyahz56ukg6muxcwunswfxjone57yfwbihsycfryd3ltmige",
+      "createdAt": "2026-10-16T05:41:18.698Z",
+      "id": 244,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95427",
+      "text": "Disgorge - Vomica Convultions (The Splits) [Compilation] (2021)\nBands: Disgorge | Genres: Goregrind | Countries: MX",
+      "artist": "Disgorge",
+      "title": "Vomica Convultions (The Splits) [Compilation] (2021)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95427",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T01:10:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGyvk-MeMo.webp",
+      "createdAt": "2026-10-16T05:41:19.625Z",
+      "source": "deathgrind",
+      "id": 248,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxeytvvff2s",
+      "text": "FULL FORCE FRIDAY:🆕October 16th 2⃣4⃣🎧\n\nMORBID INTENT - Marionettes EP 🇫🇮⚛️\n\n5 Track EP from Oulu, Finnish Melodic Death Metal outfit⚛️\n\nBC➡️morbidintent.bandcamp.com/album/marion...⚛️\n\n#MorbidIntent #Marionettes #MelodicDeath #InverseRecords #FFFOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mxxeytvvff2s",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-16T01:04:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihaknq4zivpdecjcgttk5s5w5b2b5hrhqsk2i4lzovyjt333edn4m",
+      "createdAt": "2026-10-16T05:41:18.698Z",
+      "id": 243,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95428",
+      "text": "Morbid Sickfuck - Consumed By Hatred (Remixed) [Remixed] (2026)\nBands: Morbid Sickfuck | Genres: Brutal Death Metal, Grindcore | Countries: AR, CL",
+      "artist": "Morbid Sickfuck",
+      "title": "Consumed By Hatred (Remixed) [Remixed] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95428",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T01:00:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdL9YRQV7P.webp",
+      "createdAt": "2026-10-16T05:41:19.625Z",
+      "source": "deathgrind",
+      "id": 247,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxxd7mg3uz26",
       "text": "FULL FORCE FRIDAY:🆕October 16th 2⃣0⃣🎧\n\nURNA - The Great Jihad 🇮🇹⚛️\n\n5th album from Cagliari, Sardinia, Italian Black/Funeral Doom Metal outfit⚛️\n\nBC➡️atmfsssdtp.bandcamp.com/album/the-gr...⚛️\n\n#Urna #TheGreatJihad #FuneralDoom #BlackMetal #ATMF #FFFOct16 #KMäN",
