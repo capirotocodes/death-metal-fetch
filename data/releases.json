@@ -2,8 +2,473 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxyehqyotcfz",
-  "updatedAt": "2026-10-16T14:53:59.323Z",
+  "updatedAt": "2026-10-16T18:43:32.049Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95446",
+      "text": "Dødheimsgard - Satanic Art [EP] (1998)\nBands: Dødheimsgard | Genres: Black Metal, Industrial Metal | Countries: NO",
+      "artist": "Dødheimsgard",
+      "title": "Satanic Art [EP] (1998)",
+      "genres": [
+        "Black Metal",
+        "Industrial Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95446",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T18:41:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aLVJprrqE.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 277,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95443",
+      "text": "Clandestine Blaze - Night Of The Unholy Flames (2000)\nBands: Clandestine Blaze | Genres: Black Metal | Countries: FI",
+      "artist": "Clandestine Blaze",
+      "title": "Night Of The Unholy Flames (2000)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95443",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T18:34:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGBKw6addp.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 276,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95445",
+      "text": "Clandestine Blaze - Deliverers Of Faith (2004)\nBands: Clandestine Blaze | Genres: Black Metal | Countries: FI",
+      "artist": "Clandestine Blaze",
+      "title": "Deliverers Of Faith (2004)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95445",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T18:32:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6Lk9Od-Ew.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 275,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95444",
+      "text": "Clandestine Blaze - Fist Of The Northern Destroyer (2002)\nBands: Clandestine Blaze | Genres: Black Metal | Countries: FI",
+      "artist": "Clandestine Blaze",
+      "title": "Fist Of The Northern Destroyer (2002)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95444",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T18:31:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7ml-DlmpZ.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 274,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95442",
+      "text": "Beheader - Death Of A God [EP] (2026)\nBands: Beheader | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Beheader",
+      "title": "Death Of A God [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95442",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T18:06:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/PomAgWk-MyD.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 273,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95441",
+      "text": "Collapsor - Terrorizing Tampa [Live] (2025)\nBands: Collapsor | Genres: Grindcore | Countries: US",
+      "artist": "Collapsor",
+      "title": "Terrorizing Tampa [Live] (2025)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95441",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T17:30:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEArBNZjKA.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 272,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94573",
+      "text": "Worm Altar - Pillars Of Eternal Dusk (2026)\nBands: Worm Altar | Genres: Death Metal, Doom Metal | Countries: US",
+      "artist": "Worm Altar",
+      "title": "Pillars Of Eternal Dusk (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94573",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T16:39:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwPP8KYRO6.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 271,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95426",
+      "text": "Behexen / Lords Of The Left Hand - Beyond The Four Gates [Split] (2025)\nBands: Behexen, Lords Of The Left Hand | Genres: Black Metal | Countries: FI",
+      "artist": "Behexen / Lords Of The Left Hand",
+      "title": "Beyond The Four Gates [Split] (2025)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95426",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T16:36:29.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6JdWYRVOd.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 270,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/93876",
+      "text": "Veilburner - All That Glimmers Is Gloam (2026)\nBands: Veilburner | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Veilburner",
+      "title": "All That Glimmers Is Gloam (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/93876",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T16:04:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDODoqyJPXQ.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 269,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95439",
+      "text": "Cyrocist - Dossier MMXXVI [Demo] (2026)\nBands: Cyrocist | Genres: Brutal Death Metal | Countries: ID",
+      "artist": "Cyrocist",
+      "title": "Dossier MMXXVI [Demo] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95439",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T16:00:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlLn6XZRkZ.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 268,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95438",
+      "text": "Collapsor - We Deserve Extinction (2026)\nBands: Collapsor | Genres: Grindcore | Countries: US",
+      "artist": "Collapsor",
+      "title": "We Deserve Extinction (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95438",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:56:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pL887DEPX.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 267,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94072",
+      "text": "Sépulcre - Cryptic Temple Of Otherworldly Abhorrations (2026)\nBands: Sépulcre | Genres: Death Metal | Countries: FR",
+      "artist": "Sépulcre",
+      "title": "Cryptic Temple Of Otherworldly Abhorrations (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94072",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:46:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_aoWrmGab.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 266,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94426",
+      "text": "Lugubrious Garment - In The Wide Vale Of Uncreated Night (2026)\nBands: Lugubrious Garment | Genres: Deathgrind | Countries: IT",
+      "artist": "Lugubrious Garment",
+      "title": "In The Wide Vale Of Uncreated Night (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94426",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:43:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/PomY6BRQZ7y.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 265,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95434",
+      "text": "Aborted Nation - Demo #1 [EP] (2026)\nBands: Aborted Nation | Genres: Slamming Brutal Death Metal | Countries: DK",
+      "artist": "Aborted Nation",
+      "title": "Demo #1 [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95434",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:40:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOwp6BMVyR.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 264,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94430",
+      "text": "Fate Unburied - Neraspeme (2026)\nBands: Fate Unburied | Genres: Death Metal | Countries: IT",
+      "artist": "Fate Unburied",
+      "title": "Neraspeme (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94430",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:38:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWRbvw9bpZ.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 263,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94572",
+      "text": "Minenfeld - Instruments Of Industrialized Warfare (2026)\nBands: Minenfeld | Genres: Death Metal | Countries: DE",
+      "artist": "Minenfeld",
+      "title": "Instruments Of Industrialized Warfare (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94572",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:33:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnppD9pEvd.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 262,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95422",
+      "text": "Tire Iron - Capital Punishment [EP] (2026)\nBands: Tire Iron | Genres: Slamming Brutal Death Metal, Hardcore | Countries: US",
+      "artist": "Tire Iron",
+      "title": "Capital Punishment [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95422",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:29:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6JGvrL89w.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 261,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95421",
+      "text": "Worm Alert / Tire Iron - Evil Stoners Inc. [Collaboration] (2024)\nBands: Worm Alert, Tire Iron | Genres: Slamming Brutal Death Metal, Beatdown Hardcore | Countries: US",
+      "artist": "Worm Alert / Tire Iron",
+      "title": "Evil Stoners Inc. [Collaboration] (2024)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Beatdown Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95421",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:29:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_OJnVDDlN.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 260,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95418",
+      "text": "Bubblegum Chainsaw - Uterine Dissonance [EP] (2025)\nBands: Bubblegum Chainsaw | Genres: Slamming Deathcore | Countries: US",
+      "artist": "Bubblegum Chainsaw",
+      "title": "Uterine Dissonance [EP] (2025)",
+      "genres": [
+        "Slamming Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95418",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:28:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/Kxe7RdYRXGv.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 259,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95417",
+      "text": "Worm Alert - Mob Of Tha Dead (2025)\nBands: Worm Alert | Genres: Slamming Brutal Death Metal, Beatdown Hardcore | Countries: US",
+      "artist": "Worm Alert",
+      "title": "Mob Of Tha Dead (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Beatdown Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95417",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:28:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqwKYlLlV_.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 258,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95416",
+      "text": "Madafakars - Count Back to Extinction (2014)\nBands: Madafakars | Genres: Grindcore, Powerviolence | Countries: ES",
+      "artist": "Madafakars",
+      "title": "Count Back to Extinction (2014)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95416",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:26:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDaWzaWE6Z.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 257,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95410",
+      "text": "Dacryphilia - Shotgun Blasted and Fed to Hungry K-9&apos;s [EP] (2022)\nBands: Dacryphilia | Genres: Goregrind | Countries: US",
+      "artist": "Dacryphilia",
+      "title": "Shotgun Blasted and Fed to Hungry K-9&apos;s [EP] (2022)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95410",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:26:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9yRzXw_KO.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 256,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95409",
+      "text": "Boiling Vomit / Lorelai - Supra [Split] (2024)\nBands: Boiling Vomit, Lorelai | Genres: Death Metal, Grindcore | Countries: US",
+      "artist": "Boiling Vomit / Lorelai",
+      "title": "Supra [Split] (2024)",
+      "genres": [
+        "Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95409",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:26:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWMOpe7dym.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 255,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95407",
+      "text": "Secretion - Utterly Abominable Animosity [Demo] (2022)\nBands: Secretion | Genres: Death Metal, Goregrind | Countries: SE",
+      "artist": "Secretion",
+      "title": "Utterly Abominable Animosity [Demo] (2022)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95407",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-16T15:25:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVqNdvRLnk.webp",
+      "createdAt": "2026-10-16T18:43:32.049Z",
+      "source": "deathgrind",
+      "id": 254,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/92603",
       "text": "Carnation - Symphony In Flesh (2026)\nBands: Carnation | Genres: Death Metal | Countries: BE",
