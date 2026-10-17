@@ -2,8 +2,84 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my2tdpaimk6t",
-  "updatedAt": "2026-10-17T16:15:59.601Z",
+  "updatedAt": "2026-10-17T18:45:01.697Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95467",
+      "text": "Judas Iscariot - Dethroned, Conquered And Forgotten [EP] (2000)\nBands: Judas Iscariot | Genres: Black Metal | Countries: US",
+      "artist": "Judas Iscariot",
+      "title": "Dethroned, Conquered And Forgotten [EP] (2000)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95467",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T17:43:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbLrp7eGre.webp",
+      "createdAt": "2026-10-17T18:45:01.697Z",
+      "source": "deathgrind",
+      "id": 306,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95473",
+      "text": "Manifestations - Welcome 2 Gary [EP] (2026)\nBands: Manifestations | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Manifestations",
+      "title": "Welcome 2 Gary [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95473",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T16:57:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbLyoEDWMd.webp",
+      "createdAt": "2026-10-17T18:45:01.697Z",
+      "source": "deathgrind",
+      "id": 305,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95472",
+      "text": "Beholder - Prisonniers De L&apos;abîme (2025)\nBands: Beholder | Genres: Black Metal | Countries: CA",
+      "artist": "Beholder",
+      "title": "Prisonniers De L&apos;abîme (2025)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95472",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T16:19:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmLRzJb9qa.webp",
+      "createdAt": "2026-10-17T18:45:01.697Z",
+      "source": "deathgrind",
+      "id": 304,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95471",
+      "text": "Beholder - Dualisme (2024)\nBands: Beholder | Genres: Black Metal | Countries: CA",
+      "artist": "Beholder",
+      "title": "Dualisme (2024)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95471",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T16:16:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6LyqqyA6w.webp",
+      "createdAt": "2026-10-17T18:45:01.697Z",
+      "source": "deathgrind",
+      "id": 303,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95470",
       "text": "Beholder - Arcane Subreptice (2022)\nBands: Beholder | Genres: Black Metal, Thrash Metal | Countries: CA",
