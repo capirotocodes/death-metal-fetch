@@ -2,8 +2,47 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my2tdpaimk6t",
-  "updatedAt": "2026-10-17T12:51:10.762Z",
+  "updatedAt": "2026-10-17T16:15:59.601Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95470",
+      "text": "Beholder - Arcane Subreptice (2022)\nBands: Beholder | Genres: Black Metal, Thrash Metal | Countries: CA",
+      "artist": "Beholder",
+      "title": "Arcane Subreptice (2022)",
+      "genres": [
+        "Black Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95470",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T16:13:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqn7pwyqQx.webp",
+      "createdAt": "2026-10-17T16:15:59.601Z",
+      "source": "deathgrind",
+      "id": 302,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95468",
+      "text": "Hor - III (2026)\nBands: Hor | Genres: Black Metal | Countries: GR",
+      "artist": "Hor",
+      "title": "III (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95468",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T15:31:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwbLVzZPYP.webp",
+      "createdAt": "2026-10-17T16:15:59.601Z",
+      "source": "deathgrind",
+      "id": 301,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95466",
       "text": "Hor - No Birth Nor End (2021)\nBands: Hor | Genres: Black Metal | Countries: GR",
