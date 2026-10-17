@@ -1,9 +1,394 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxzkupfqzc6t",
-  "updatedAt": "2026-10-17T08:50:56.927Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my2tdpaimk6t",
+  "updatedAt": "2026-10-17T12:51:10.762Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95466",
+      "text": "Hor - No Birth Nor End (2021)\nBands: Hor | Genres: Black Metal | Countries: GR",
+      "artist": "Hor",
+      "title": "No Birth Nor End (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95466",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T11:36:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnLGB9Mv_k.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 300,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95456",
+      "text": "Judas Iscariot - Distant In Solitary Night (1999)\nBands: Judas Iscariot | Genres: Black Metal | Countries: US",
+      "artist": "Judas Iscariot",
+      "title": "Distant In Solitary Night (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95456",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T11:09:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLqP66ezEv.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 299,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95455",
+      "text": "Horna - Envaatnags Eflos Solf Esgantaavne (2005)\nBands: Horna | Genres: Black Metal | Countries: FI",
+      "artist": "Horna",
+      "title": "Envaatnags Eflos Solf Esgantaavne (2005)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95455",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T11:05:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlLw-DvrdV.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 298,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95454",
+      "text": "Horna - Sudentaival (2001)\nBands: Horna | Genres: Black Metal | Countries: FI",
+      "artist": "Horna",
+      "title": "Sudentaival (2001)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95454",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T11:01:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69OEQqWRD8.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 297,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95453",
+      "text": "Horna / Pure - Horna / Pure [Split] (2018)\nBands: Horna, Pure | Genres: Black Metal | Countries: FI, CH",
+      "artist": "Horna / Pure",
+      "title": "Horna / Pure [Split] (2018)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95453",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T10:58:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeLRMDVXLQ.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 296,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95452",
+      "text": "Horna / Behexen - Horna / Behexen [Split] (2004)\nBands: Horna, Behexen | Genres: Black Metal | Countries: FI",
+      "artist": "Horna / Behexen",
+      "title": "Horna / Behexen [Split] (2004)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95452",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T10:56:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLqPNDzPNG.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 295,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95465",
+      "text": "Thieves - 10 Years Of Crustgrind [EP] (2026)\nBands: Thieves | Genres: Grindcore, Crust | Countries: US",
+      "artist": "Thieves",
+      "title": "10 Years Of Crustgrind [EP] (2026)",
+      "genres": [
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95465",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T10:27:35.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxevKlE8Wv9.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 294,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my2tdpaimk6t",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nDAY OF DOOM - The Quiet Design (A & V Edition) 🇺🇸⚛️\n\n5 Track EP from New York/Central FL, U.S. Death Metal outfit⚛️\n\nBC➡️3demonsrecords.bandcamp.com/album/day-of...⚛️\n\n#DayOfDoom #TheQuietDesign #DeathMetal #DDDOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my2tdpaimk6t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-17T09:58:41.042Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreics4744pv7p4b7jxekrs3uq4qdgf52d6zu4z6aogwmerzhgrvttza",
+      "createdAt": "2026-10-17T12:51:09.925Z",
+      "id": 281,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95448",
+      "text": "Frozen Shadows - Dans Les Bras Des Immortels (1999)\nBands: Frozen Shadows | Genres: Black Metal | Countries: CA",
+      "artist": "Frozen Shadows",
+      "title": "Dans Les Bras Des Immortels (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95448",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:57:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pLbXGZlxO.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 293,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95447",
+      "text": "Faagrim - Blutfrost (2009)\nBands: Faagrim | Genres: Black Metal | Countries: DE",
+      "artist": "Faagrim",
+      "title": "Blutfrost (2009)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95447",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:55:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6LkvEZJEP.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 292,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95464",
+      "text": "Abulto - Cristófago (2026)\nBands: Abulto | Genres: Death Metal | Countries: ES",
+      "artist": "Abulto",
+      "title": "Cristófago (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95464",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:40:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGBgq_nZ7e.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 291,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95457",
+      "text": "Proclamation - Demo [Demo] (2026)\nBands: Proclamation | Genres: Goregrind, Noise | Countries: AR",
+      "artist": "Proclamation",
+      "title": "Demo [Demo] (2026)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95457",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:32:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_MERXdnEL.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 290,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95450",
+      "text": "Excarnate - Excarnate [EP] (2019)\nBands: Excarnate | Genres: Death Metal, Hardcore | Countries: AU",
+      "artist": "Excarnate",
+      "title": "Excarnate [EP] (2019)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95450",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:32:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwbYwp-Xpx.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 289,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95437",
+      "text": "Shit Covered Penis and Balls - Retrograde Ejactulation (2024)\nBands: Shit Covered Penis and Balls | Genres: Goregrind, Grindcore | Countries: SE",
+      "artist": "Shit Covered Penis and Balls",
+      "title": "Retrograde Ejactulation (2024)",
+      "genres": [
+        "Goregrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95437",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:32:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbL_7gvYQP.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 288,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95435",
+      "text": "Inhumation - The Genocide Dark Elite (2026)\nBands: Inhumation | Genres: Deathgrind | Countries: AR",
+      "artist": "Inhumation",
+      "title": "The Genocide Dark Elite (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95435",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:31:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6Lag8mMN8.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 287,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95419",
+      "text": "Gangrene Discharge / T3rat0ma - Baptized In Rectal Slime [Split] (2025)\nBands: Gangrene Discharge, T3rat0ma | Genres: Goregrind | Countries: US, GE",
+      "artist": "Gangrene Discharge / T3rat0ma",
+      "title": "Baptized In Rectal Slime [Split] (2025)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95419",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:31:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLJvRNwB9v.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 286,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95463",
+      "text": "Amystery - All Hail The Cult (2010)\nBands: Amystery | Genres: Black Metal | Countries: DE",
+      "artist": "Amystery",
+      "title": "All Hail The Cult (2010)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95463",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:29:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbLMNXN7-j.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 285,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95462",
+      "text": "Corrupticide - Wreckface &apos;26 [Demo] (2026)\nBands: Corrupticide | Genres: Death Metal, Thrash Metal, Sludge | Countries: UA",
+      "artist": "Corrupticide",
+      "title": "Wreckface &apos;26 [Demo] (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal",
+        "Sludge"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95462",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:16:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aLQYnwWdX.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 284,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95461",
+      "text": "Mortify - Buzzsaw Ritual (2026)\nBands: Mortify | Genres: Deathgrind | Countries: JP",
+      "artist": "Mortify",
+      "title": "Buzzsaw Ritual (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95461",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:12:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gD_j9M9JWL.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 283,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95460",
+      "text": "Atrox Avalanche - Demo 2026\nBands: Atrox Avalanche | Genres: Brutal Death Metal | Countries: SG",
+      "artist": "Atrox Avalanche",
+      "title": "Demo 2026",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95460",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T09:03:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxyeVQLQOJO.webp",
+      "createdAt": "2026-10-17T12:51:10.762Z",
+      "source": "deathgrind",
+      "id": 282,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95459",
       "text": "Crepuscolo - Singing In The Grave (2026)\nBands: Crepuscolo | Genres: Death Metal | Countries: IT",
