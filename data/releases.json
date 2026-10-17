@@ -2,8 +2,46 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mxzkupfqzc6t",
-  "updatedAt": "2026-10-17T00:15:06.739Z",
+  "updatedAt": "2026-10-17T08:50:56.927Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95459",
+      "text": "Crepuscolo - Singing In The Grave (2026)\nBands: Crepuscolo | Genres: Death Metal | Countries: IT",
+      "artist": "Crepuscolo",
+      "title": "Singing In The Grave (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95459",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T08:25:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_6mKVzkDW.webp",
+      "createdAt": "2026-10-17T08:50:56.927Z",
+      "source": "deathgrind",
+      "id": 280,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95458",
+      "text": "Scab Hag - Pustulent Perversions Regurgitated [EP] (2026)\nBands: Scab Hag | Genres: Death Metal | Countries: US",
+      "artist": "Scab Hag",
+      "title": "Pustulent Perversions Regurgitated [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95458",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T08:10:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbLMkjBaPD.webp",
+      "createdAt": "2026-10-17T08:50:56.927Z",
+      "source": "deathgrind",
+      "id": 279,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95449",
       "text": "Blind Spot - Human Conditioning [EP] (2026)\nBands: Blind Spot | Genres: Death Metal, Hardcore | Countries: US",
