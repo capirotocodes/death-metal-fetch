@@ -1,9 +1,64 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my2tdpaimk6t",
-  "updatedAt": "2026-10-17T18:45:01.697Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my473q4t2sly",
+  "updatedAt": "2026-10-17T23:09:48.244Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my473q4t2sly",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nPRIMITIVE RAGE - Holy Light EP 🇺🇸⚛️\n\n3 Track EP from Springfield, Missouri, U.S. Grindcore/Hardcore outfit⚛️\n\nBC➡️primitiveragehc.bandcamp.com/album/holy-l...⚛️*NYP!!\n\n#PrimitiveRage #HolyLightEP #Grindcore #Hardcore #DDDOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my473q4t2sly",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-17T23:01:38.175Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicttrh4crxrmydfmeijmpuoc7qcffj53vtjqdrt5m7ypzmti4qzju",
+      "createdAt": "2026-10-17T23:09:47.591Z",
+      "id": 308,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my43pvoahkly",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nHATALOM - IMMANENCE 🇨🇦⚛️\n\n2nd album from Québec City, Canadian Technical Death Metal / Deathcore outfit⚛️\n\nBC➡️hatalom.bandcamp.com/album/immanence⚛️\n\n#Hatalom #IMMANENCE #TechnicalDeathMetal #Deathcore #DDDOct15 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my43pvoahkly",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-17T22:01:20.110Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreialnnqznbe75aimtkl6ufdijhs67ilcn3fwhtu24i2o3utdbhhdca",
+      "createdAt": "2026-10-17T23:09:47.591Z",
+      "id": 307,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95474",
+      "text": "Brewed & Canned - Global Civicide [EP] (2018)\nBands: Brewed &amp; Canned | Genres: Death Metal | Countries: AT",
+      "artist": "Brewed & Canned",
+      "title": "Global Civicide [EP] (2018)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95474",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-17T21:31:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pL-EVGVMO.webp",
+      "createdAt": "2026-10-17T23:09:48.244Z",
+      "source": "deathgrind",
+      "id": 309,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95467",
       "text": "Judas Iscariot - Dethroned, Conquered And Forgotten [EP] (2000)\nBands: Judas Iscariot | Genres: Black Metal | Countries: US",
