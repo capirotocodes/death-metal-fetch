@@ -2,8 +2,65 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my5fcq6z2cjx",
-  "updatedAt": "2026-10-18T17:29:37.915Z",
+  "updatedAt": "2026-10-18T19:37:30.473Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95479",
+      "text": "Graven - Perished And Forgotten (2002)\nBands: Graven | Genres: Black Metal | Countries: DE",
+      "artist": "Graven",
+      "title": "Perished And Forgotten (2002)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95479",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T19:02:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gwoaYNOge.webp",
+      "createdAt": "2026-10-18T19:37:30.473Z",
+      "source": "deathgrind",
+      "id": 334,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95495",
+      "text": "Buckshot Facelift - Ulcer Island / Living Ghosts Of The North Shore [Compilation] (2024)\nBands: Buckshot Facelift | Genres: Grindcore | Countries: US",
+      "artist": "Buckshot Facelift",
+      "title": "Ulcer Island / Living Ghosts Of The North Shore [Compilation] (2024)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95495",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T17:56:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWBZADnxye.webp",
+      "createdAt": "2026-10-18T19:37:30.473Z",
+      "source": "deathgrind",
+      "id": 333,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95494",
+      "text": "Buckshot Facelift - Living Ghosts Of The North Shore [EP] (2014)\nBands: Buckshot Facelift | Genres: Grindcore | Countries: US",
+      "artist": "Buckshot Facelift",
+      "title": "Living Ghosts Of The North Shore [EP] (2014)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95494",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T17:41:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9oXpwP9dj.webp",
+      "createdAt": "2026-10-18T19:37:30.473Z",
+      "source": "deathgrind",
+      "id": 332,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95493",
       "text": "Serpentshrine - Triumph Of The Adversary (2026)\nBands: Serpentshrine | Genres: Black Metal | Countries: US",
