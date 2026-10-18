@@ -1,9 +1,81 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my473q4t2sly",
-  "updatedAt": "2026-10-17T23:09:48.244Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my4fi64wrsly",
+  "updatedAt": "2026-10-18T01:06:42.221Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my4exzbvr2ly",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nSERPENTSHRINE - Triumph of the Adversary 🇺🇸⚛️\n\n3rd album from Norfolk, Virginia, U.S. Black Metal outfit⚛️\n\nBC➡️serpentshrine.bandcamp.com/album/triump...⚛️\n\n#Serpentshrine #TriumphOfTheAdversary #BlackMetal #USBM #DDDOct17 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my4exzbvr2ly",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-18T00:46:56.012Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicc2fvwwgftk56udy5ecb6ydtpzykadriiwjhdscd36ihp7h7sh6y",
+      "createdAt": "2026-10-18T01:06:42.221Z",
+      "id": 313,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my4darou6kly",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 4th, 2026⬅️\n\nOMNIKOLOSS - Quantum Fleshdrive 🇩🇪⚛️\n\n3rd album from German Electronic-Infused Black Metal outfit⚛️\n\nBC➡️omnikoloss.bandcamp.com/album/quantu...⚛️\n\n#Omnikoloss #QuantumFleshdrive #ElectronicBlack #csquaredmm2 #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my4darou6kly",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-18T00:16:02.554Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiflf7xl6sisoozv5lk5olvnqkq4emzb27s4zkf3ie6ikkmdo67btu",
+      "createdAt": "2026-10-18T01:06:42.221Z",
+      "id": 312,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my4aj5pfucly",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nLEADBELCHER - Heaven’s Bloated Corpse 🇮🇪⚛️\n\nDebut album from Irish Death Metal outfit⚛️\n\nBC➡️leadbelcher.bandcamp.com ⚛️\n\n#Leadbelcher #HeavensBloatedCorpse #DeathMetal #IrishDeathMetal #DDDOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my4aj5pfucly",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-17T23:27:02.365Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiel7orp6dvz3vln3emvgw3dlywbimcvca2xavsdsu7wp3n7ue6nsa",
+      "createdAt": "2026-10-18T01:06:42.221Z",
+      "id": 311,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my47rcr7xcly",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nIRILLION - Egledhron EP 🇻🇪⚛️\n\n6 Track EP from Venezuelan Raw Atmospheric Black Metal outfit⚛️\n\nBC➡️dir666.bandcamp.com/album/egledhron⚛️\n\n#Irillion #EgledhronEP #RawBlackMetal #AtmosphericBlackMetal #DDDOct16 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my47rcr7xcly",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-17T23:13:42.361Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiage2dbasec3lp5af7auhfwqso7dksgbpzbtntfmiozxvmq4dhhym",
+      "createdAt": "2026-10-18T01:06:42.221Z",
+      "id": 310,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my473q4t2sly",
       "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nPRIMITIVE RAGE - Holy Light EP 🇺🇸⚛️\n\n3 Track EP from Springfield, Missouri, U.S. Grindcore/Hardcore outfit⚛️\n\nBC➡️primitiveragehc.bandcamp.com/album/holy-l...⚛️*NYP!!\n\n#PrimitiveRage #HolyLightEP #Grindcore #Hardcore #DDDOct16 #KMäN",
