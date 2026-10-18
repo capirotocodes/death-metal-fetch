@@ -2,8 +2,256 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my5fcq6z2cjx",
-  "updatedAt": "2026-10-18T14:25:29.366Z",
+  "updatedAt": "2026-10-18T17:29:37.915Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95493",
+      "text": "Serpentshrine - Triumph Of The Adversary (2026)\nBands: Serpentshrine | Genres: Black Metal | Countries: US",
+      "artist": "Serpentshrine",
+      "title": "Triumph Of The Adversary (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95493",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T17:10:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQy9beJJ89.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 331,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95492",
+      "text": "Serpentshrine - Allegiance To The Myth (2022)\nBands: Serpentshrine | Genres: Black Metal | Countries: US",
+      "artist": "Serpentshrine",
+      "title": "Allegiance To The Myth (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95492",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T17:07:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aLlvOwEz6.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 330,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95491",
+      "text": "Eternal Katastrophy - Eternal War (2026)\nBands: Eternal Katastrophy | Genres: Death Metal | Countries: AO",
+      "artist": "Eternal Katastrophy",
+      "title": "Eternal War (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95491",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:52:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/O9lzX6LPwMk.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 329,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95476",
+      "text": "Parthenoid - The War For Earth [EP] (2025)\nBands: Parthenoid | Genres: Black Metal | Countries: US",
+      "artist": "Parthenoid",
+      "title": "The War For Earth [EP] (2025)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95476",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:40:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEAoPYMwAY.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 328,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95475",
+      "text": "Parthenoid - Catacombs 2024 [EP] (2024)\nBands: Parthenoid | Genres: Black Metal | Countries: US",
+      "artist": "Parthenoid",
+      "title": "Catacombs 2024 [EP] (2024)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95475",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:39:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdLxkaa8zr.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 327,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95208",
+      "text": "Vér - A Féreg Pusztulása (2026)\nBands: Vér | Genres: Death Metal | Countries: HU",
+      "artist": "Vér",
+      "title": "A Féreg Pusztulása (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95208",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:15:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVZeN-9Pn6.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 326,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95488",
+      "text": "Klava - Aciago [Demo] (2026)\nBands: Klava | Genres: Black Metal | Countries: AR",
+      "artist": "Klava",
+      "title": "Aciago [Demo] (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95488",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:15:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJz_X8DVbo_.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 325,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94724",
+      "text": "Grotesqueries - Nightmare Delirium [EP] (2026)\nBands: Grotesqueries | Genres: Death Metal | Countries: US",
+      "artist": "Grotesqueries",
+      "title": "Nightmare Delirium [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94724",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:15:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGEk_BPXqd.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 324,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95483",
+      "text": "Hautakammio - Pimeyden Valtakunta (2014)\nBands: Hautakammio | Genres: Black Metal | Countries: FI",
+      "artist": "Hautakammio",
+      "title": "Pimeyden Valtakunta (2014)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95483",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:08:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gD_vPeAvea.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 323,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95482",
+      "text": "Ulver - Nattens Madrigal - Aatte Hymne Til Ulven I Manden (1997)\nBands: Ulver | Genres: Black Metal, Folk Metal | Countries: NO",
+      "artist": "Ulver",
+      "title": "Nattens Madrigal - Aatte Hymne Til Ulven I Manden (1997)",
+      "genres": [
+        "Black Metal",
+        "Folk Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95482",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T16:05:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEAwJMbBwq.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 322,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95481",
+      "text": "Burzum - Burzum / Aske [Compilation] (2010)\nBands: Burzum | Genres: Black Metal | Countries: NO",
+      "artist": "Burzum",
+      "title": "Burzum / Aske [Compilation] (2010)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95481",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T15:59:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkyqPAPDWa.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 321,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95480",
+      "text": "Genocide Kommando - Black Metal Supremacy (2002)\nBands: Genocide Kommando | Genres: Black Metal | Countries: FR",
+      "artist": "Genocide Kommando",
+      "title": "Black Metal Supremacy (2002)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95480",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T15:54:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqnWokD8Qk.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 320,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95487",
+      "text": "Traqueomalácia - Perfurações Necrópsicas Ilógicas (2026)\nBands: Traqueomalácia | Genres: Goregrind | Countries: BR",
+      "artist": "Traqueomalácia",
+      "title": "Perfurações Necrópsicas Ilógicas (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95487",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T15:22:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGBOnExnzb.webp",
+      "createdAt": "2026-10-18T17:29:37.915Z",
+      "source": "deathgrind",
+      "id": 319,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95486",
       "text": "Evil Church - Subjugating The Faith&apos;s Crawlers... (2010)\nBands: Evil Church | Genres: Black Metal | Countries: BR",
