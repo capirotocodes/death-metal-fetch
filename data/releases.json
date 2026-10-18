@@ -2,8 +2,65 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my5fcq6z2cjx",
-  "updatedAt": "2026-10-18T10:53:16.649Z",
+  "updatedAt": "2026-10-18T14:25:29.366Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95486",
+      "text": "Evil Church - Subjugating The Faith&apos;s Crawlers... (2010)\nBands: Evil Church | Genres: Black Metal | Countries: BR",
+      "artist": "Evil Church",
+      "title": "Subjugating The Faith&apos;s Crawlers... (2010)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95486",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T14:22:29.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gwQkZKmkR.webp",
+      "createdAt": "2026-10-18T14:25:29.366Z",
+      "source": "deathgrind",
+      "id": 318,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95485",
+      "text": "Endless Demise - Past The Point Of Punishment (2014)\nBands: Endless Demise | Genres: Grindcore | Countries: US",
+      "artist": "Endless Demise",
+      "title": "Past The Point Of Punishment (2014)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95485",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T12:15:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJz_n-n-a_w.webp",
+      "createdAt": "2026-10-18T14:25:29.366Z",
+      "source": "deathgrind",
+      "id": 317,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95484",
+      "text": "Lobotomisation - Neuro-Torture (2026)\nBands: Lobotomisation | Genres: Slamming Brutal Death Metal | Countries: GB",
+      "artist": "Lobotomisation",
+      "title": "Neuro-Torture (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95484",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T12:13:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGBRJqZRmM.webp",
+      "createdAt": "2026-10-18T14:25:29.366Z",
+      "source": "deathgrind",
+      "id": 316,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95477",
       "text": "Caldo De Cabeza - Basura Humana [EP] (2024)\nBands: Caldo De Cabeza | Genres: Grindcore, Crust | Countries: CL",
