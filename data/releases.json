@@ -1,9 +1,65 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my6fk3pnk2jx",
-  "updatedAt": "2026-10-19T04:45:57.012Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my7wbumvr25t",
+  "updatedAt": "2026-10-19T10:38:17.257Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my7uprduzc5t",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️January 10th, 2027⬅️\n\nCHAOS MOTION - Chaos Motion 🇫🇷💢\n\n2nd album from French Avant-Garde / Technical Death Metal outfit💢\n\nBC➡️chaosmotionband.bandcamp.com/album/self-t...💢\n\n#ChaosMotion #AvantGardeTechnicalDeath #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3my7uprduzc5t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-19T10:06:38.337Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibjyhsh4ah5bgewgphc7sh54rbgvyrj4nqzgeiprv3punj4yhrm74",
+      "createdAt": "2026-10-19T10:38:16.621Z",
+      "id": 338,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95420",
+      "text": "Gazdasgrind - Gazdovská veselica (2010)\nBands: Gazdasgrind | Genres: Deathgrind | Countries: SK",
+      "artist": "Gazdasgrind",
+      "title": "Gazdovská veselica (2010)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95420",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T08:36:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLJvwZ96Wp.webp",
+      "createdAt": "2026-10-19T10:38:17.257Z",
+      "source": "deathgrind",
+      "id": 340,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95501",
+      "text": "Neural Implosion - Galactic Cannibalism [EP] (2009)\nBands: Neural Implosion | Genres: Death Metal | Countries: US",
+      "artist": "Neural Implosion",
+      "title": "Galactic Cannibalism [EP] (2009)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95501",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T08:35:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeLvgYqgjQ.webp",
+      "createdAt": "2026-10-19T10:38:17.257Z",
+      "source": "deathgrind",
+      "id": 339,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95500",
       "text": "Karathadragal - Invocations Beyond The Reach Of Mortal Mouths [EP] (2025)\nBands: Karathadragal | Genres: Blackened Death Metal | Countries: US",
