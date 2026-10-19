@@ -1,9 +1,141 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my7wbumvr25t",
-  "updatedAt": "2026-10-19T17:11:14.932Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myavnahln25t",
+  "updatedAt": "2026-10-19T21:34:30.165Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95510",
+      "text": "Incestuous - Brass Knuckle Abortion [EP] (2026)\nBands: Incestuous | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Incestuous",
+      "title": "Brass Knuckle Abortion [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95510",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T20:31:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8qmVRQ_gn.webp",
+      "createdAt": "2026-10-19T21:34:30.165Z",
+      "source": "deathgrind",
+      "id": 352,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95509",
+      "text": "Dead For Days - Creating Murderous Domain [Reissue] (2026)\nBands: Dead For Days | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Dead For Days",
+      "title": "Creating Murderous Domain [Reissue] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95509",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T20:28:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xq_xAOog8R.webp",
+      "createdAt": "2026-10-19T21:34:30.165Z",
+      "source": "deathgrind",
+      "id": 351,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myavnahln25t",
+      "text": "👑MOUNTAIN KINGS3⃣5⃣4⃣👑\n\nSubmission: BRUTALITY - Screams of Anguish 🇺🇸(1993)\n\nAn overlooked pillar of Florida Death Metal, SOA fused technical precision, crushing heaviness, and dark atmosphere into a blueprint for the genre's next wave. Underrated then, revered now. #MK354👑",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": false,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myavnahln25t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-19T19:55:47.004Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidu4hyb36c35gv4h5yinxry34opkpygibnbf5yh7vigxjalasvx7u",
+      "createdAt": "2026-10-19T21:34:29.176Z",
+      "id": 346,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95508",
+      "text": "Enmity - Deceased Feast [Demo] (2000)\nBands: Enmity | Genres: Blasting Brutal Death Metal | Countries: US",
+      "artist": "Enmity",
+      "title": "Deceased Feast [Demo] (2000)",
+      "genres": [
+        "Blasting Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95508",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T19:52:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLbOLwQOgG.webp",
+      "createdAt": "2026-10-19T21:34:30.165Z",
+      "source": "deathgrind",
+      "id": 350,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95507",
+      "text": "Eroded - In (1994)\nBands: Eroded | Genres: Deathgrind | Countries: JP",
+      "artist": "Eroded",
+      "title": "In (1994)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95507",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T18:14:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gjv6QMEye.webp",
+      "createdAt": "2026-10-19T21:34:30.165Z",
+      "source": "deathgrind",
+      "id": 349,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95506",
+      "text": "Vyr Muk - Crosses Above The Ruins / Хрести Над Руїнами [EP] (2026)\nBands: Vyr Muk | Genres: Blackened Death Metal | Countries: UA",
+      "artist": "Vyr Muk",
+      "title": "Crosses Above The Ruins / Хрести Над Руїнами [EP] (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95506",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T17:25:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRBwVXjpOY.webp",
+      "createdAt": "2026-10-19T21:34:30.165Z",
+      "source": "deathgrind",
+      "id": 348,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95504",
+      "text": "Burzum - Hvis Lyset Tar Oss (1994)\nBands: Burzum | Genres: Black Metal | Countries: NO",
+      "artist": "Burzum",
+      "title": "Hvis Lyset Tar Oss (1994)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95504",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T17:17:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKo6Q-mblYv.webp",
+      "createdAt": "2026-10-19T21:34:30.165Z",
+      "source": "deathgrind",
+      "id": 347,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95497",
       "text": "Satyricon - The Shadowthrone [Remastered] (2021)\nBands: Satyricon | Genres: Black Metal | Countries: NO",
