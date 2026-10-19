@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my6fk3pnk2jx",
-  "updatedAt": "2026-10-19T00:03:35.032Z",
+  "updatedAt": "2026-10-19T04:45:57.012Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95500",
+      "text": "Karathadragal - Invocations Beyond The Reach Of Mortal Mouths [EP] (2025)\nBands: Karathadragal | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Karathadragal",
+      "title": "Invocations Beyond The Reach Of Mortal Mouths [EP] (2025)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95500",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-19T00:31:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlLYapRg9D.webp",
+      "createdAt": "2026-10-19T04:45:57.012Z",
+      "source": "deathgrind",
+      "id": 337,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95499",
       "text": "Satanice - Erectoctomy (2023)\nBands: Satanice | Genres: Brutal Deathcore | Countries: MX",
