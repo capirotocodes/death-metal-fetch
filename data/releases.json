@@ -2,8 +2,46 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3my6fk3pnk2jx",
-  "updatedAt": "2026-10-18T21:55:29.556Z",
+  "updatedAt": "2026-10-19T00:03:35.032Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95499",
+      "text": "Satanice - Erectoctomy (2023)\nBands: Satanice | Genres: Brutal Deathcore | Countries: MX",
+      "artist": "Satanice",
+      "title": "Erectoctomy (2023)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95499",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T23:44:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeL7dZbjAd.webp",
+      "createdAt": "2026-10-19T00:03:35.032Z",
+      "source": "deathgrind",
+      "id": 336,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95498",
+      "text": "Horror Paradise - Extinción De La Raza Humana [EP] (2011)\nBands: Horror Paradise | Genres: Technical Brutal Death Metal | Countries: MX",
+      "artist": "Horror Paradise",
+      "title": "Extinción De La Raza Humana [EP] (2011)",
+      "genres": [
+        "Technical Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95498",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-18T23:22:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gD_lYvqeaL.webp",
+      "createdAt": "2026-10-19T00:03:35.032Z",
+      "source": "deathgrind",
+      "id": 335,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95479",
       "text": "Graven - Perished And Forgotten (2002)\nBands: Graven | Genres: Black Metal | Countries: DE",
