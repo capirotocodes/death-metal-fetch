@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
-  "updatedAt": "2026-10-20T19:32:24.047Z",
+  "updatedAt": "2026-10-20T22:42:37.277Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95528",
+      "text": "Insert! - Hallows Slams [EP] (2026)\nBands: Insert! | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Insert!",
+      "title": "Hallows Slams [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95528",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T21:04:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7avKQkga67.webp",
+      "createdAt": "2026-10-20T22:42:37.277Z",
+      "source": "deathgrind",
+      "id": 373,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95527",
       "text": "Basic Torture Process - Infinite Despair [EP] (2014)\nBands: Basic Torture Process | Genres: Goregrind, Grindcore | Countries: CZ",
