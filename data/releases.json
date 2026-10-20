@@ -1,9 +1,83 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myavnahln25t",
-  "updatedAt": "2026-10-19T21:34:30.165Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
+  "updatedAt": "2026-10-20T10:20:45.033Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 3rd, 2026⬅️\n\nNIHILO - ABYSS 🇨🇭⚛️\n\n5th album from Bern, Swiss Death Metal outfit⚛️\n\nBC➡️nihilo.bandcamp.com/album/abyss-2⚛️\n\n#Nihilo #Abyss #DeathMetal #XtreemMusic666 #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myceidkvs2xx",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-20T09:54:08.352Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreih3dn2ymfuqfkv6jxpmpp2vinxctueua5rq2d7y6enlwvj7kxyuzi",
+      "createdAt": "2026-10-20T10:20:44.025Z",
+      "id": 355,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mycebnlfocxx",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 13th, 2026⬅️\n\nARTIFICIAL BRAIN - Antillia 🇺🇸⚛️\n\n4th album from Richmond, VA, U.S. Technical/Progressive Death Metal outfit⚛️\n\nBC➡️artificialbrain.bandcamp.com/album/antillia⚛️*NT\n\n#ArtificialBrain #Antillia #TechnicalProgDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mycebnlfocxx",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-20T09:50:23.973Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiac4jhmzujxjhqrny3xc67lmwxriowjaojltc2fbcubppgjdkcjg4",
+      "createdAt": "2026-10-20T10:20:44.025Z",
+      "id": 354,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myccjwid2cxx",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 27th, 2026⬅️\n\nBREEDING CHAOS - Dimensional Demise 🇫🇷⚛️\n\n2nd album from Marseille, French Melodic Death Metal outfit⚛️\n\nBC➡️greatdanerecords.bandcamp.com/album/dimens... ⚛️\n\n#BreedingChaos #DimensionalDemise #Greatdanerecs #MDM #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myccjwid2cxx",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-20T09:19:14.261Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifmix4fvfpfhd25sc4t2sjv7rul2cvzkfwqbpqenbzgvbbxvcdgca",
+      "createdAt": "2026-10-20T10:20:44.025Z",
+      "id": 353,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95524",
+      "text": "Phlegmesis / Rotten Organs - Death Gore [Split] (2026)\nBands: Phlegmesis, Rotten Organs | Genres: Death Metal, Goregrind | Countries: US, ES",
+      "artist": "Phlegmesis / Rotten Organs",
+      "title": "Death Gore [Split] (2026)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95524",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T08:25:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/Yxyz78PRmmV.webp",
+      "createdAt": "2026-10-20T10:20:45.033Z",
+      "source": "deathgrind",
+      "id": 356,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95510",
       "text": "Incestuous - Brass Knuckle Abortion [EP] (2026)\nBands: Incestuous | Genres: Brutal Death Metal | Countries: US",
