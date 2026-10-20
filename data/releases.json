@@ -2,8 +2,129 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
-  "updatedAt": "2026-10-20T10:20:45.033Z",
+  "updatedAt": "2026-10-20T15:19:19.643Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95511",
+      "text": "Carrion Crawler - Blubber Mound [Demo] (1998)\nBands: Carrion Crawler | Genres: Brutal Death Metal, Grindcore, Noise | Countries: US",
+      "artist": "Carrion Crawler",
+      "title": "Blubber Mound [Demo] (1998)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95511",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T12:49:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gjJ99Yn-r.webp",
+      "createdAt": "2026-10-20T15:19:19.643Z",
+      "source": "deathgrind",
+      "id": 362,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95512",
+      "text": "Carrion Crawler - Noize In Da Hood (2001)\nBands: Carrion Crawler | Genres: Brutal Death Metal, Grindcore | Countries: US",
+      "artist": "Carrion Crawler",
+      "title": "Noize In Da Hood (2001)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95512",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T12:49:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8qOgxlYKn.webp",
+      "createdAt": "2026-10-20T15:19:19.643Z",
+      "source": "deathgrind",
+      "id": 361,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95513",
+      "text": "Carrion Crawler - Rot Crumble Collapse (2005)\nBands: Carrion Crawler | Genres: Brutal Death Metal, Grindcore | Countries: US",
+      "artist": "Carrion Crawler",
+      "title": "Rot Crumble Collapse (2005)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95513",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T12:49:27.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8qO9w-kBJ.webp",
+      "createdAt": "2026-10-20T15:19:19.643Z",
+      "source": "deathgrind",
+      "id": 360,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95514",
+      "text": "Blood For Betrayal / Harlekin - Split You Up [EP] (2022)\nBands: Blood For Betrayal, Harlekin | Genres: Death Metal, Beatdown Hardcore | Countries: DE",
+      "artist": "Blood For Betrayal / Harlekin",
+      "title": "Split You Up [EP] (2022)",
+      "genres": [
+        "Death Metal",
+        "Beatdown Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95514",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T12:49:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRBqvGO9a9.webp",
+      "createdAt": "2026-10-20T15:19:19.643Z",
+      "source": "deathgrind",
+      "id": 359,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95515",
+      "text": "Slurp - Slurp (2021)\nBands: Slurp | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Slurp",
+      "title": "Slurp (2021)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95515",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T12:48:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69rvKeRbRq.webp",
+      "createdAt": "2026-10-20T15:19:19.643Z",
+      "source": "deathgrind",
+      "id": 358,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95516",
+      "text": "Harlekin - The Beast [EP] (2018)\nBands: Harlekin | Genres: Death Metal, Beatdown Hardcore | Countries: DE",
+      "artist": "Harlekin",
+      "title": "The Beast [EP] (2018)",
+      "genres": [
+        "Death Metal",
+        "Beatdown Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95516",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T12:48:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_qaPDWzNw.webp",
+      "createdAt": "2026-10-20T15:19:19.643Z",
+      "source": "deathgrind",
+      "id": 357,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 3rd, 2026⬅️\n\nNIHILO - ABYSS 🇨🇭⚛️\n\n5th album from Bern, Swiss Death Metal outfit⚛️\n\nBC➡️nihilo.bandcamp.com/album/abyss-2⚛️\n\n#Nihilo #Abyss #DeathMetal #XtreemMusic666 #TheUpcomingTerror26 #KMäN",
