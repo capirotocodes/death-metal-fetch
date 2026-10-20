@@ -2,8 +2,204 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
-  "updatedAt": "2026-10-20T15:19:19.643Z",
+  "updatedAt": "2026-10-20T19:32:24.047Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95527",
+      "text": "Basic Torture Process - Infinite Despair [EP] (2014)\nBands: Basic Torture Process | Genres: Goregrind, Grindcore | Countries: CZ",
+      "artist": "Basic Torture Process",
+      "title": "Infinite Despair [EP] (2014)",
+      "genres": [
+        "Goregrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95527",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:38:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLbgMOjwVq.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 372,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95523",
+      "text": "Burzum - Filosofem (1996)\nBands: Burzum | Genres: Black Metal | Countries: NO",
+      "artist": "Burzum",
+      "title": "Filosofem (1996)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95523",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:23:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6o7wbBqzo.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 371,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95522",
+      "text": "Burzum - Det Som Engang Var (1993)\nBands: Burzum | Genres: Black Metal | Countries: NO",
+      "artist": "Burzum",
+      "title": "Det Som Engang Var (1993)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95522",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:21:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQk_8wRnYJ.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 370,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95521",
+      "text": "Odal - Welten Mutter (2021)\nBands: Odal | Genres: Black Metal, Folk Metal | Countries: DE",
+      "artist": "Odal",
+      "title": "Welten Mutter (2021)",
+      "genres": [
+        "Black Metal",
+        "Folk Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95521",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:19:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeyWbALmbV.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 369,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95520",
+      "text": "Odal - Geistes Unruh (2016)\nBands: Odal | Genres: Black Metal, Folk Metal | Countries: DE",
+      "artist": "Odal",
+      "title": "Geistes Unruh (2016)",
+      "genres": [
+        "Black Metal",
+        "Folk Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95520",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:19:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw67kMEjgxo.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 368,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95519",
+      "text": "Odal - Zornes Heimat (2008)\nBands: Odal | Genres: Black Metal, Folk Metal | Countries: DE",
+      "artist": "Odal",
+      "title": "Zornes Heimat (2008)",
+      "genres": [
+        "Black Metal",
+        "Folk Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95519",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:18:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOgKe7jVBz.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 367,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95518",
+      "text": "Odal - ...Wilde Kraft (2005)\nBands: Odal | Genres: Black Metal, Folk Metal | Countries: DE",
+      "artist": "Odal",
+      "title": "...Wilde Kraft (2005)",
+      "genres": [
+        "Black Metal",
+        "Folk Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95518",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:18:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzA9xZbW8_.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 366,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95517",
+      "text": "Odal - Sturmes Brut [Remastered] (2009)\nBands: Odal | Genres: Black Metal, Folk Metal | Countries: DE",
+      "artist": "Odal",
+      "title": "Sturmes Brut [Remastered] (2009)",
+      "genres": [
+        "Black Metal",
+        "Folk Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95517",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T16:17:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7jkAp8jnXj.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 365,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95526",
+      "text": "Amanite - The Dance Of The Datura (2026)\nBands: Amanite | Genres: Death Metal | Countries: FR",
+      "artist": "Amanite",
+      "title": "The Dance Of The Datura (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95526",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T15:38:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xq_pYOQnaG.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 364,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95525",
+      "text": "Nasty Face - Life [EP] (2026)\nBands: Nasty Face | Genres: Goregrind | Countries: CH",
+      "artist": "Nasty Face",
+      "title": "Life [EP] (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95525",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-20T15:25:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNeRelo_ke.webp",
+      "createdAt": "2026-10-20T19:32:24.047Z",
+      "source": "deathgrind",
+      "id": 363,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95511",
       "text": "Carrion Crawler - Blubber Mound [Demo] (1998)\nBands: Carrion Crawler | Genres: Brutal Death Metal, Grindcore, Noise | Countries: US",
