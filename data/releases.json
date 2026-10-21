@@ -2,8 +2,277 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myev5xyzgsms",
-  "updatedAt": "2026-10-21T11:55:23.122Z",
+  "updatedAt": "2026-10-21T16:58:58.774Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95533",
+      "text": "Sargeist - Death Veneration [EP] (2019)\nBands: Sargeist | Genres: Black Metal | Countries: FI",
+      "artist": "Sargeist",
+      "title": "Death Veneration [EP] (2019)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95533",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T16:20:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGpYLYxx6Z.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 390,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95532",
+      "text": "Sargeist - The Rebirth Of A Cursed Existence [Compilation] (2013)\nBands: Sargeist | Genres: Black Metal | Countries: FI",
+      "artist": "Sargeist",
+      "title": "The Rebirth Of A Cursed Existence [Compilation] (2013)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95532",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T16:20:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQkz_oJvK9.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 389,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95531",
+      "text": "Sargeist - Disciple Of The Heinous Path (2005)\nBands: Sargeist | Genres: Black Metal | Countries: FI",
+      "artist": "Sargeist",
+      "title": "Disciple Of The Heinous Path (2005)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95531",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T16:19:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKopVdxQe9d.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 388,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95534",
+      "text": "Triumphator - Wings Of Antichrist [Reissue] (2017)\nBands: Triumphator | Genres: Black Metal | Countries: SE",
+      "artist": "Triumphator",
+      "title": "Wings Of Antichrist [Reissue] (2017)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95534",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T16:19:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxy8DXOwX8.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 387,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95530",
+      "text": "Nehëmah - Requiem Tenebrae (2004)\nBands: Nehëmah | Genres: Black Metal | Countries: FR",
+      "artist": "Nehëmah",
+      "title": "Requiem Tenebrae (2004)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95530",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T16:19:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/PomnrxADRGL.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 386,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95529",
+      "text": "Nehëmah - Light Of A Dead Star (2002)\nBands: Nehëmah | Genres: Black Metal | Countries: FR",
+      "artist": "Nehëmah",
+      "title": "Light Of A Dead Star (2002)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95529",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T16:18:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_qGyjYbYQ.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 385,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95543",
+      "text": "Obituary - Xecutioner&apos;s Return (2026 Remaster) [Remastered] (2026)\nBands: Obituary | Genres: Death Metal | Countries: US",
+      "artist": "Obituary",
+      "title": "Xecutioner&apos;s Return (2026 Remaster) [Remastered] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95543",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T15:32:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeyBLwRVjp.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 384,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95542",
+      "text": "Obituary - Darkest Day (2026 Remaster) [Remastered] (2026)\nBands: Obituary | Genres: Death Metal | Countries: US",
+      "artist": "Obituary",
+      "title": "Darkest Day (2026 Remaster) [Remastered] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95542",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T15:30:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw67qG8zdLA.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 383,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94030",
+      "text": "Abyssus - The Reign (2026)\nBands: Abyssus | Genres: Death Metal | Countries: GR",
+      "artist": "Abyssus",
+      "title": "The Reign (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94030",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T15:20:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldNdZgeajn.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 382,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95541",
+      "text": "Nugreth - Nugreth [EP] (2026)\nBands: Nugreth | Genres: Death Metal, Technical Death Metal | Countries: US",
+      "artist": "Nugreth",
+      "title": "Nugreth [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95541",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T14:51:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQkBnkPGLJ.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 381,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95540",
+      "text": "Putrid Cavemen - Crawling In Guts [EP] (2026)\nBands: Putrid Cavemen | Genres: Death Metal | Countries: FR",
+      "artist": "Putrid Cavemen",
+      "title": "Crawling In Guts [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95540",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T14:32:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkl9JMAXME.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 380,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95539",
+      "text": "Anoint - A Visceral Hatred For Humankind [EP] (2026)\nBands: Anoint | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Anoint",
+      "title": "A Visceral Hatred For Humankind [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95539",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T14:23:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdxG9eRMvM.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 379,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95538",
+      "text": "Anoint - Charred Body Eucharist [Single] (2026)\nBands: Anoint | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Anoint",
+      "title": "Charred Body Eucharist [Single] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95538",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T14:13:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGp-6-GMvy.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 378,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95537",
+      "text": "Kuvotus - Vivisectionist [EP] (2026)\nBands: Kuvotus | Genres: Deathgrind | Countries: FI",
+      "artist": "Kuvotus",
+      "title": "Vivisectionist [EP] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95537",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T14:02:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gjPq_bQQ-.webp",
+      "createdAt": "2026-10-21T16:58:58.774Z",
+      "source": "deathgrind",
+      "id": 377,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myeuathkokms",
       "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️\n➡️January 15th, 2027⬅️\n\nDYSTOPIA A.D. - Wasteland Empire 🇺🇸💢\n\n3rd album from Jersey City, U.S Melodic Death Metal outfit💢\n\nBC➡️dystopiaad.bandcamp.com/album/wastel... 💢\n\n#DystopiaAD #WastelandEmpire #MelodicDeathMetal #TheUpcomingTerror27 #KMäN",
