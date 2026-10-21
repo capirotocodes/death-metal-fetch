@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
-  "updatedAt": "2026-10-20T22:42:37.277Z",
+  "updatedAt": "2026-10-21T06:04:40.408Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95536",
+      "text": "Bloodclot - Crunk 2 Death [EP] (2026)\nBands: Bloodclot | Genres: Slamming Brutal Death Metal | Countries: GB",
+      "artist": "Bloodclot",
+      "title": "Crunk 2 Death [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95536",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T02:23:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8qkmVkPLn.webp",
+      "createdAt": "2026-10-21T06:04:40.408Z",
+      "source": "deathgrind",
+      "id": 374,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95528",
       "text": "Insert! - Hallows Slams [EP] (2026)\nBands: Insert! | Genres: Slamming Brutal Death Metal | Countries: US",
