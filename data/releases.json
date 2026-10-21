@@ -1,9 +1,68 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myev5xyzgsms",
-  "updatedAt": "2026-10-21T16:58:58.774Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myfxcekr5sms",
+  "updatedAt": "2026-10-21T20:33:28.166Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95546",
+      "text": "Abyssic Evil - Alcoholic Satanism [EP] (2026)\nBands: Abyssic Evil | Genres: Black Metal, Thrash Metal | Countries: NO",
+      "artist": "Abyssic Evil",
+      "title": "Alcoholic Satanism [EP] (2026)",
+      "genres": [
+        "Black Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95546",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T18:52:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pPLwDJxMy.webp",
+      "createdAt": "2026-10-21T20:33:28.166Z",
+      "source": "deathgrind",
+      "id": 393,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95545",
+      "text": "Temple Nightside - Cenotaph Severance (2026)\nBands: Temple Nightside | Genres: Blackened Death Metal | Countries: AU",
+      "artist": "Temple Nightside",
+      "title": "Cenotaph Severance (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95545",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T18:24:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7jk9Da_XEV.webp",
+      "createdAt": "2026-10-21T20:33:28.166Z",
+      "source": "deathgrind",
+      "id": 392,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95544",
+      "text": "General Surgery - Semi Retired Splattered & Shattered Artifacts [Compilation] (2025)\nBands: General Surgery | Genres: Death Metal, Goregrind | Countries: SE",
+      "artist": "General Surgery",
+      "title": "Semi Retired Splattered & Shattered Artifacts [Compilation] (2025)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95544",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T17:11:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/Jlde6nVyXNv.webp",
+      "createdAt": "2026-10-21T20:33:28.166Z",
+      "source": "deathgrind",
+      "id": 391,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95533",
       "text": "Sargeist - Death Veneration [EP] (2019)\nBands: Sargeist | Genres: Black Metal | Countries: FI",
