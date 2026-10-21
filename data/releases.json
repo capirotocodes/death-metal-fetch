@@ -1,9 +1,46 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myceidkvs2xx",
-  "updatedAt": "2026-10-21T06:04:40.408Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myev5xyzgsms",
+  "updatedAt": "2026-10-21T11:55:23.122Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myeuathkokms",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️\n➡️January 15th, 2027⬅️\n\nDYSTOPIA A.D. - Wasteland Empire 🇺🇸💢\n\n3rd album from Jersey City, U.S Melodic Death Metal outfit💢\n\nBC➡️dystopiaad.bandcamp.com/album/wastel... 💢\n\n#DystopiaAD #WastelandEmpire #MelodicDeathMetal #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myeuathkokms",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-21T09:41:35.930Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieajpmd6iy4l62lrxiez7ysfhrv6r5dr5m6vzibddase3vlzkyady",
+      "createdAt": "2026-10-21T11:55:22.181Z",
+      "id": 375,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95535",
+      "text": "Ampolla - Vida Grotesca (2025)\nBands: Ampolla | Genres: Goregrind | Countries: US",
+      "artist": "Ampolla",
+      "title": "Vida Grotesca (2025)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95535",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-21T08:00:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/Kxego_xw9nK.webp",
+      "createdAt": "2026-10-21T11:55:23.122Z",
+      "source": "deathgrind",
+      "id": 376,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95536",
       "text": "Bloodclot - Crunk 2 Death [EP] (2026)\nBands: Bloodclot | Genres: Slamming Brutal Death Metal | Countries: GB",
