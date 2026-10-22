@@ -2,8 +2,28 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myfxcekr5sms",
-  "updatedAt": "2026-10-21T20:33:28.166Z",
+  "updatedAt": "2026-10-22T01:56:58.855Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95547",
+      "text": "Hallucinogenics Extreme Anxiety - Jacuzzi Of Human Limbs And Visceras (2025)\nBands: Hallucinogenics Extreme Anxiety | Genres: Slamming Brutal Death Metal, Noise | Countries: AR, MX",
+      "artist": "Hallucinogenics Extreme Anxiety",
+      "title": "Jacuzzi Of Human Limbs And Visceras (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95547",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T01:01:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVDB_w9ZGX.webp",
+      "createdAt": "2026-10-22T01:56:58.855Z",
+      "source": "deathgrind",
+      "id": 394,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95546",
       "text": "Abyssic Evil - Alcoholic Satanism [EP] (2026)\nBands: Abyssic Evil | Genres: Black Metal, Thrash Metal | Countries: NO",
