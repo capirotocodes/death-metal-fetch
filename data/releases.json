@@ -2,8 +2,28 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhg732r72xv",
-  "updatedAt": "2026-10-22T18:01:06.363Z",
+  "updatedAt": "2026-10-22T21:39:42.423Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95570",
+      "text": "Sequestrum / Torture Rack - Split [Split] (2026)\nBands: Sequestrum, Torture Rack | Genres: Death Metal, Goregrind | Countries: DK, US",
+      "artist": "Sequestrum / Torture Rack",
+      "title": "Split [Split] (2026)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95570",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T20:06:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnokZpD97m.webp",
+      "createdAt": "2026-10-22T21:39:42.423Z",
+      "source": "deathgrind",
+      "id": 423,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95569",
       "text": "Desinence Mortification - 15 Years Of Grind Sacrifice (1993-2008) [Compilation] (2008)\nBands: Desinence Mortification | Genres: Deathgrind | Countries: HR",
