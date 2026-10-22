@@ -1,9 +1,135 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myfxcekr5sms",
-  "updatedAt": "2026-10-22T07:34:27.316Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhg732r72xv",
+  "updatedAt": "2026-10-22T13:09:52.806Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhg732r72xv",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 11th, 2026⬅️\n\nOBITUARY - Xecutioner's Return/Darkest Day (Remastered) 🇺🇸⚛️\n\nRemastered albums from FL, U.S Death Metal Masters!⚛️\n\nBC➡️obituary.bandcamp.com/album/darkes...⚛️*ALT\n\n#obituarytheband #Darkest #Executioner #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myhg732r72xv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T10:08:03.620Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigxgefbfc4zp6c7w2tacsz2j3tbpcflwupj62kdjehgguf5s4x22a",
+      "createdAt": "2026-10-22T13:09:52.806Z",
+      "id": 402,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhfswgk7kxv",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️March 26th, 2027⬅️\n\nVESSELES - Home (Reclaimed) 🇺🇸⚛️\n\nDebut album from Santa Clara, CA, U.S Symphonic Black Metal outfit⚛️\n\nBC➡️vesseles.bandcamp.com/track/until-...⚛️*\n\n#Vesseles #HomeReclaimed #SymphonicBlackMetal #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myhfswgk7kxv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T10:01:16.110Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreih6nvrjpm3voc3g6fpgfbhvhk3ew4whgyzpllm7itw4ldlo4bnoye",
+      "createdAt": "2026-10-22T13:09:52.806Z",
+      "id": 401,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhdcynwwsxv",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nTHE NOX ENTITY - DÄAHL Descend 🇧🇪⚛️\n\nDebut album from Belgian Black Metal outfit⚛️*Lhaäd/Wolven\n\nBC➡️thenoxentity.bandcamp.com/album/d-ahl-...⚛️\n\n#TheNoxEntity #DaaahlDescend #BlackMetal #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myhdcynwwsxv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T09:16:34.095Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigvdglnkl3ha462y2ohk5myrcmylt7aribwhjlejl3qdjjn7l7gam",
+      "createdAt": "2026-10-22T13:09:52.806Z",
+      "id": 400,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhdch4l32xv",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️March 12th, 2027⬅️\n\nDEAD END FINLAND - Carbon 🇫🇮⚛️\n\n6th album from Helsinki, Finnish Melodic Death Metal outfit⚛️\n\nBC➡️deadendfinland.bandcamp.com/track/mercy-...⚛️*\n\n#deadendfinland #Carbon #MelodicDeathMetal #InverseRecords #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myhdch4l32xv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T09:16:15.700Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreie5rsjg37xyop6krbnuwc7okq63ptyebmbwlqlvkdqdzdiblqemy4",
+      "createdAt": "2026-10-22T13:09:52.806Z",
+      "id": 399,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhclmsn6kxv",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nSOILWORK - Night Whispers & Shining Lights (single) 🇸🇪⚛️\n\nSingle from Skåne, Swedish Melodic Death Metal outfit⚛️\n\nBFAN➡️soilwork.bfan.link/night-whispe...⚛️\n\n#Soilwork #NightWhispersAndShiningLights #NuclearBlastAus #MelodicDeathMetal #DDDOct22 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": false,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myhclmsn6kxv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T09:03:29.914Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidkw6jbu6octsqdk7wvp4vuothh633qxh4vofrtvzpcijk3sezp6m",
+      "createdAt": "2026-10-22T13:09:52.806Z",
+      "id": 398,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhcftfa22xv",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nEMBRACE THE MADDNESS - Looming Encroachment of the Multiversal Diagonalizer 🇺🇸⚛️\n\n7th album from Kansas City, Missouri, U.S. Death Metal project⚛️\n\nBC➡️embracethemaddness.bandcamp.com/album/loomin...⚛️\n\n#EmbraceTheMaddness #Looming #DeathMetal #DDDOct20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myhcftfa22xv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T09:00:15.488Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigfcahteko4bnfpughzyl46jbvx7jml7g5ffwhyyohwt7cjx5wig4",
+      "createdAt": "2026-10-22T13:09:52.806Z",
+      "id": 397,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhbssmbg2xv",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nCASKET DWELLER - River of Slumber 🇬🇷⚛️\n\nDebut album from Athens, Greek Death Metal outfit⚛️\n\nBC➡️nuclearwinterrecords.bandcamp.com/album/river-...⚛️\n\n#CasketDweller #RiverOfSlumber #DeathMetal #NuclearWinterRecords #DDDOct22 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myhbssmbg2xv",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T08:49:37.136Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieavlpvmn4lcadj6evvgsbdyob76rdrlzjfy6oaamfyraz5znfbru",
+      "createdAt": "2026-10-22T13:09:52.806Z",
+      "id": 396,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95551",
       "text": "Stabwound - Bloodsoaked Boundaries [Compilation] (2026)\nBands: Stabwound | Genres: Brutal Death Metal | Countries: SE",
