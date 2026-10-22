@@ -2,8 +2,390 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhg732r72xv",
-  "updatedAt": "2026-10-22T13:09:52.806Z",
+  "updatedAt": "2026-10-22T18:01:06.363Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95569",
+      "text": "Desinence Mortification - 15 Years Of Grind Sacrifice (1993-2008) [Compilation] (2008)\nBands: Desinence Mortification | Genres: Deathgrind | Countries: HR",
+      "artist": "Desinence Mortification",
+      "title": "15 Years Of Grind Sacrifice (1993-2008) [Compilation] (2008)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95569",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T17:43:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNeY_kReMp.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 422,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95568",
+      "text": "Desinence Mortification - Cancerous Mankind [Compilation] (2020)\nBands: Desinence Mortification | Genres: Deathgrind | Countries: HR",
+      "artist": "Desinence Mortification",
+      "title": "Cancerous Mankind [Compilation] (2020)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95568",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T17:36:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEoMYlLx8N.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 421,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95567",
+      "text": "Ragweed - The Motherfucking Blue One [EP] (2023)\nBands: Ragweed | Genres: Deathgrind | Countries: US",
+      "artist": "Ragweed",
+      "title": "The Motherfucking Blue One [EP] (2023)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95567",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T17:23:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEoMerenrL.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 420,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95566",
+      "text": "Beaten To Death - Vntrve (2026)\nBands: Beaten To Death | Genres: Grindcore | Countries: NO",
+      "artist": "Beaten To Death",
+      "title": "Vntrve (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95566",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T16:54:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlDYVBEGpZ.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 419,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95565",
+      "text": "Podreiras - Never Too Late [EP] (2013)\nBands: Podreiras | Genres: Deathgrind | Countries: BR",
+      "artist": "Podreiras",
+      "title": "Never Too Late [EP] (2013)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95565",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T16:44:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeyYaWJqXx.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 418,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95564",
+      "text": "Tempest - Obscure Hallucinations [EP] (2025)\nBands: Tempest | Genres: Death Metal | Countries: MX",
+      "artist": "Tempest",
+      "title": "Obscure Hallucinations [EP] (2025)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95564",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T16:20:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEomxOvDp8.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 417,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95563",
+      "text": "Tempest - Unending Torment [EP] (2023)\nBands: Tempest | Genres: Death Metal | Countries: MX",
+      "artist": "Tempest",
+      "title": "Unending Torment [EP] (2023)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95563",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T16:18:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwxjjMpmy6.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 416,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95562",
+      "text": "Swallower - Swallower [EP] (2026)\nBands: Swallower | Genres: Slamming Brutal Death Metal | Countries: AU",
+      "artist": "Swallower",
+      "title": "Swallower [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95562",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T16:04:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xq_-9Dr_VP.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 415,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95558",
+      "text": "Vargsang - Throne Of The Forgotten (2005)\nBands: Vargsang | Genres: Black Metal | Countries: DE",
+      "artist": "Vargsang",
+      "title": "Throne Of The Forgotten (2005)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95558",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:41:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlDj8exrEV.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 414,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95557",
+      "text": "Vargsang - Call Of The Nightwolves (2003)\nBands: Vargsang | Genres: Black Metal | Countries: DE",
+      "artist": "Vargsang",
+      "title": "Call Of The Nightwolves (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95557",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:41:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_qRWVobJw.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 413,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95556",
+      "text": "Bekhira - L&apos;élu Du Mal (2005)\nBands: Bekhira | Genres: Black Metal | Countries: FR",
+      "artist": "Bekhira",
+      "title": "L&apos;élu Du Mal (2005)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95556",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:41:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNeQvGe-ke.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 412,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95555",
+      "text": "Algor - Úder Pohanského Hnevu (2003)\nBands: Algor | Genres: Black Metal | Countries: SK",
+      "artist": "Algor",
+      "title": "Úder Pohanského Hnevu (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95555",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:41:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9aOynvLAz.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 411,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95554",
+      "text": "Abduction - All Pain As Penance (2019)\nBands: Abduction | Genres: Black Metal | Countries: GB",
+      "artist": "Abduction",
+      "title": "All Pain As Penance (2019)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95554",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:40:35.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVDOoMMbJd.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 410,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95553",
+      "text": "Dark Funeral - Vobiscum Satanas [Reissue] (2013)\nBands: Dark Funeral | Genres: Black Metal | Countries: SE",
+      "artist": "Dark Funeral",
+      "title": "Vobiscum Satanas [Reissue] (2013)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95553",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:32:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLbQwxnpLO.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 409,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95552",
+      "text": "Emperor - Wrath Of The Tyrant [Demo] (2020)\nBands: Emperor | Genres: Black Metal | Countries: NO",
+      "artist": "Emperor",
+      "title": "Wrath Of The Tyrant [Demo] (2020)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95552",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:31:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlDXxKlgV-.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 408,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95550",
+      "text": "Krallice - Inorganic Rites (2024)\nBands: Krallice | Genres: Black Metal | Countries: US",
+      "artist": "Krallice",
+      "title": "Inorganic Rites (2024)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95550",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:29:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKaxdZLYG7.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 407,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95549",
+      "text": "Krallice - Crystalline Exhaustion (2022)\nBands: Krallice | Genres: Black Metal | Countries: US",
+      "artist": "Krallice",
+      "title": "Crystalline Exhaustion (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95549",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:29:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOgBPVlr8A.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 406,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95548",
+      "text": "Krallice - Psychagogue (2022)\nBands: Krallice | Genres: Black Metal | Countries: US",
+      "artist": "Krallice",
+      "title": "Psychagogue (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95548",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T15:29:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLba8XWEXv.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 405,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95560",
+      "text": "Obscura Qalma - Immortality Through Ashes (2026)\nBands: Obscura Qalma | Genres: Blackened Death Metal, Progressive Death Metal | Countries: IT",
+      "artist": "Obscura Qalma",
+      "title": "Immortality Through Ashes (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Progressive Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95560",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T13:38:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnP7RXJnbJ.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 404,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95559",
+      "text": "Absolute Darkness - Witness To A Dying World (2026)\nBands: Absolute Darkness | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Absolute Darkness",
+      "title": "Witness To A Dying World (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95559",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-22T13:31:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLbnpgQp6O.webp",
+      "createdAt": "2026-10-22T18:01:06.363Z",
+      "source": "deathgrind",
+      "id": 403,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhg732r72xv",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 11th, 2026⬅️\n\nOBITUARY - Xecutioner's Return/Darkest Day (Remastered) 🇺🇸⚛️\n\nRemastered albums from FL, U.S Death Metal Masters!⚛️\n\nBC➡️obituary.bandcamp.com/album/darkes...⚛️*ALT\n\n#obituarytheband #Darkest #Executioner #TheUpcomingTerror26 #KMäN",
