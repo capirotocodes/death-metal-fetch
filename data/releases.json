@@ -2,8 +2,103 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myj3fxpet522",
-  "updatedAt": "2026-10-23T05:00:12.094Z",
+  "updatedAt": "2026-10-23T09:58:04.539Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95580",
+      "text": "Shunt - Pregnant With Pus [EP] (2025)\nBands: Shunt | Genres: Deathgrind | Countries: US",
+      "artist": "Shunt",
+      "title": "Pregnant With Pus [EP] (2025)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95580",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T09:09:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbApRpOaJ9.webp",
+      "createdAt": "2026-10-23T09:58:04.539Z",
+      "source": "deathgrind",
+      "id": 442,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95579",
+      "text": "Shunt - Mesenteric Torsion (2026)\nBands: Shunt | Genres: Deathgrind | Countries: US",
+      "artist": "Shunt",
+      "title": "Mesenteric Torsion (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95579",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T08:57:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxEYmkvqZB.webp",
+      "createdAt": "2026-10-23T09:58:04.539Z",
+      "source": "deathgrind",
+      "id": 441,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95578",
+      "text": "Casket Dweller - River Of Slumber (2026)\nBands: Casket Dweller | Genres: Death Metal | Countries: GR",
+      "artist": "Casket Dweller",
+      "title": "River Of Slumber (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95578",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T08:05:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69rbXvYbwv.webp",
+      "createdAt": "2026-10-23T09:58:04.539Z",
+      "source": "deathgrind",
+      "id": 440,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95577",
+      "text": "Spearhead - Into the Killing Field [EP] (2026)\nBands: Spearhead | Genres: Death Metal | Countries: DE",
+      "artist": "Spearhead",
+      "title": "Into the Killing Field [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95577",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T07:45:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69rb-ovr8n.webp",
+      "createdAt": "2026-10-23T09:58:04.539Z",
+      "source": "deathgrind",
+      "id": 439,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95576",
+      "text": "Dr. Blood&apos;s Orgy Of Gore - Demo [Demo] (2026)\nBands: Dr. Blood&apos;s Orgy Of Gore | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Dr. Blood&apos;s Orgy Of Gore",
+      "title": "Demo [Demo] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95576",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T07:35:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGpEVyz9JX.webp",
+      "createdAt": "2026-10-23T09:58:04.539Z",
+      "source": "deathgrind",
+      "id": 438,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95572",
       "text": "Leng Tch&apos;e - Hammered Into Collapse [EP] (2026)\nBands: Leng Tch&apos;e | Genres: Deathgrind | Countries: BE",
