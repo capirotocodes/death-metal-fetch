@@ -1,9 +1,81 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myhg732r72xv",
-  "updatedAt": "2026-10-22T21:39:42.423Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myiv54zmwc2g",
+  "updatedAt": "2026-10-23T00:12:11.040Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myiuotuh2y2a",
+      "text": "FULL FORCE FRIDAY:🆕October 23rd 1⃣6⃣🎧\n\nWYRM CHASM - Wyrm Chasm 🇺🇸⚛️\n\nDebut album from Dallas, Texas, U.S. Black Metal outfit⚛️\n\nBC➡️wyrmchasm.bandcamp.com/album/wyrm-c...⚛️\n\n#WyrmChasm #BlackMetal #ClawHammerPR #FFFOct23 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myiuotuh2y2a",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiaofqfur42tcie44i7bxtdlfusmlildzyrnjy74nupikgl4nlwbjy",
+      "createdAt": "2026-10-23T00:12:11.040Z",
+      "id": 427,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myiryyjcsr2f",
+      "text": "FULL FORCE FRIDAY:🆕October 23rd 1⃣0⃣🎧\n\nABYSSUS - The Reign 🇬🇷⚛️\n\n3rd album from Athens, Greek Death Metal outfit⚛️\n\nBC➡️ff-abyssus.bandcamp.com/album/the-reign⚛️\n\n#Abyssus #TheReign #DeathMetal #FireflashRecords #FFFOct23 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myiryyjcsr2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T23:12:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihrzmy5ddqgkezmw62mneytgno3jhtmaq3ohuhc542gseevounsse",
+      "createdAt": "2026-10-23T00:12:11.040Z",
+      "id": 426,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myipri7zqi2n",
+      "text": "FULL FORCE FRIDAY:🆕October 23rd 5⃣🎧\n\nSOLILOQUIUM - Upheaval 🇸🇪⚛️\n\n6th album from Swedish Melodic Doom / Death Metal outfit⚛️\n\nBC➡️soliloquium.bandcamp.com/album/upheaval ⚛️\n\n#Soliloquium #Upheaval #MelodicDoomDeathMetal\n#MeuseMusic #FFFOct23 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myipri7zqi2n",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T22:32:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifbvwwf7nq3zjxd5ky3jr66bw4zzgsh2aoyiewy3xczf2s333ldm4",
+      "createdAt": "2026-10-23T00:12:11.040Z",
+      "id": 425,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myiouvql7i26",
+      "text": "FULL FORCE FRIDAY:🆕October 23rd 3⃣🎧\n\nWOLVES IN THE THRONE ROOM - Estuary 🇺🇸⚛️\n\n8th album from Olympia, WA, U.S Atmospheric Black Metal outfit⚛️\n\nBC➡️wolvesinthethroneroom.bandcamp.com/album/estuar...⚛️\n\n#WolvesInTheThroneRoom #Estuary #AtmoBM #centurymedia #FFFOct23 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myiouvql7i26",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-22T22:16:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidxdusrrsedoqd2cjcu4rpp7nrxcstghk7fian7ii4boytuzfpkwq",
+      "createdAt": "2026-10-23T00:12:11.040Z",
+      "id": 424,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95570",
       "text": "Sequestrum / Torture Rack - Split [Split] (2026)\nBands: Sequestrum, Torture Rack | Genres: Death Metal, Goregrind | Countries: DK, US",
