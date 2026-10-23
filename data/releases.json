@@ -1,9 +1,139 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myj3fxpet522",
-  "updatedAt": "2026-10-23T09:58:04.539Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myk24u3las2m",
+  "updatedAt": "2026-10-23T14:55:24.961Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95581",
+      "text": "Arkham Circle - The Void Within [Demo] (2026)\nBands: Arkham Circle | Genres: Death Metal | Countries: DE",
+      "artist": "Arkham Circle",
+      "title": "The Void Within [Demo] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95581",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T13:53:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnwNeQwpQ6.webp",
+      "createdAt": "2026-10-23T14:55:24.961Z",
+      "source": "deathgrind",
+      "id": 449,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95575",
+      "text": "Tulus - Pure Black Energy [Reissue] (2019)\nBands: Tulus | Genres: Black Metal | Countries: NO",
+      "artist": "Tulus",
+      "title": "Pure Black Energy [Reissue] (2019)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95575",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T11:31:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoPGdrzLvd.webp",
+      "createdAt": "2026-10-23T14:55:24.961Z",
+      "source": "deathgrind",
+      "id": 448,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95574",
+      "text": "Nöldr - Chaotic Mysticism From The Tormented Silence (2023)\nBands: Nöldr | Genres: Black Metal | Countries: BR",
+      "artist": "Nöldr",
+      "title": "Chaotic Mysticism From The Tormented Silence (2023)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95574",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T11:31:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRBdzJrgJn.webp",
+      "createdAt": "2026-10-23T14:55:24.961Z",
+      "source": "deathgrind",
+      "id": 447,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95573",
+      "text": "Abigor - Apokalypse [EP] (1997)\nBands: Abigor | Genres: Black Metal | Countries: AT",
+      "artist": "Abigor",
+      "title": "Apokalypse [EP] (1997)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95573",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T11:31:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjey_xnvaVQ.webp",
+      "createdAt": "2026-10-23T14:55:24.961Z",
+      "source": "deathgrind",
+      "id": 446,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myjzu6xa5c2m",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 13th, 2026⬅️\n\nASSUMPTION - Paradox Of The Arrow 🇮🇹⚛️\n\n3rd album from Bologna, Italian Doom/Death Metal outfit⚛️\n\nBC➡️20buckspin.bandcamp.com/album/parado...⚛️*NT\n\n#Assumption #ParadoxOfTheArrow #DoomDeath #20buckspinlabel #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myjzu6xa5c2m",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-23T11:05:12.913Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieblvw67njztmhammsu3r2potbcg2z53rj36hog4ho5v4eedhpweu",
+      "createdAt": "2026-10-23T14:55:24.135Z",
+      "id": 445,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myjz7shcw22m",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 6th, 2026⬅️\n\nMYSTICAL DEATH - Across 🇳🇱⚛️\n\nDebut album from Amsterdam, Dutch Technical/ Progressive Death Metal outfit⚛️\n\nBC➡️mysticaldeathrr.bandcamp.com/track/across⚛️*\n\n#MysticalDeath #Across #TechProgDeath #RottweilerRec #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myjz7shcw22m",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-23T10:53:48.720Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreib2fbmevhxlkt5ph6hzeg7wcips7ejhtkg575ox4zs7ptjyupd3qu",
+      "createdAt": "2026-10-23T14:55:24.135Z",
+      "id": 444,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myjxzscov22m",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 4th, 2026⬅️\n\nNECRONAUTICAL - The Second Death 🇬🇧⚛️\n\n5th album from Manchester, UK Black Metal outfit⚛️\n\nYT➡️\"Enemy Of The Grave\" www.youtube.com/watch?v=PzOY...⚛️*\n\n#Necronautical #TheSecondDeath #VendettaRec #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3myjxzscov22m",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-23T10:32:33.500Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibtq45dlezp7zgtbwhlzx4d6ybsntatowyhg2rjvgzt5s7a2ft6a4",
+      "createdAt": "2026-10-23T14:55:24.135Z",
+      "id": 443,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95580",
       "text": "Shunt - Pregnant With Pus [EP] (2025)\nBands: Shunt | Genres: Deathgrind | Countries: US",
