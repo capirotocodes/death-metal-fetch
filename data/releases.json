@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myk24u3las2m",
-  "updatedAt": "2026-10-23T19:00:09.876Z",
+  "updatedAt": "2026-10-23T22:02:41.744Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95585",
+      "text": "Virology - Sequential Malformations (2026)\nBands: Virology | Genres: Technical Death Metal | Countries: GB",
+      "artist": "Virology",
+      "title": "Sequential Malformations (2026)",
+      "genres": [
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95585",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-23T19:28:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoblvKkz8_.webp",
+      "createdAt": "2026-10-23T22:02:41.744Z",
+      "source": "deathgrind",
+      "id": 453,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95584",
       "text": "Sathanas - Black Earth [Reissue] (2026)\nBands: Sathanas | Genres: Blackened Death Metal | Countries: US",
