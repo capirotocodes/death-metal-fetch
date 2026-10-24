@@ -2,8 +2,295 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myk24u3las2m",
-  "updatedAt": "2026-10-23T22:02:41.744Z",
+  "updatedAt": "2026-10-24T13:37:49.535Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95600",
+      "text": "Kess&apos;khtak - Inbreeding (2015)\nBands: Kess&apos;khtak | Genres: Deathgrind | Countries: CH",
+      "artist": "Kess&apos;khtak",
+      "title": "Inbreeding (2015)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95600",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T13:13:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJz7EWWPlkk.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 468,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95598",
+      "text": "Pendrak - Pendrak (2018)\nBands: Pendrak | Genres: Grindcore, Powerviolence | Countries: FR",
+      "artist": "Pendrak",
+      "title": "Pendrak (2018)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95598",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T13:12:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKoxPoEk-9g.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 467,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95599",
+      "text": "T-800 - Destroying Human Supremacy (2026)\nBands: T-800 | Genres: Death Metal | Countries: CO",
+      "artist": "T-800",
+      "title": "Destroying Human Supremacy (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95599",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T11:23:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_wKxarQg8.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 466,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95597",
+      "text": "Horornisdiphonevalley - ノアの箱舟 e.p [EP] (2024)\nBands: Horornisdiphonevalley | Genres: Grindcore | Countries: JP",
+      "artist": "Horornisdiphonevalley",
+      "title": "ノアの箱舟 e.p [EP] (2024)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95597",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:50:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/O9lrMxZxgJR.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 465,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95596",
+      "text": "The Anointing Maelstrom - Winds Of The Pestilent Vortex (2020)\nBands: The Anointing Maelstrom | Genres: Blackened Death Metal | Countries: US",
+      "artist": "The Anointing Maelstrom",
+      "title": "Winds Of The Pestilent Vortex (2020)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95596",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:36:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGW8zw-G6w.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 464,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95595",
+      "text": "Marduk - World Funeral [Remastered] (2014)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "World Funeral [Remastered] (2014)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95595",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:33:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8xepXAYRY.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 463,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95594",
+      "text": "Marduk - La Grande Danse Macabre [Remastered] (2014)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "La Grande Danse Macabre [Remastered] (2014)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95594",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:33:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKoxP7EpdRE.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 462,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95592",
+      "text": "Marduk - Panzer Division Marduk [Remastered] (2008)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "Panzer Division Marduk [Remastered] (2008)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95592",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:33:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7azjjJyggX.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 461,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95591",
+      "text": "Marduk - Nightwing [Reissue] (2008)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "Nightwing [Reissue] (2008)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95591",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:32:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbAQejplOe.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 460,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95590",
+      "text": "Marduk - Heaven Shall Burn... When We Are Gathered [Remastered] (2004)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "Heaven Shall Burn... When We Are Gathered [Remastered] (2004)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95590",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:32:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7eqQxlOXP.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 459,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95589",
+      "text": "Marduk - Opus Nocturne [Remastered] (2007)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "Opus Nocturne [Remastered] (2007)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95589",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:32:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_w8WYqP-z.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 458,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95588",
+      "text": "Marduk - Those Of The Unlight [Remastered] (2007)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "Those Of The Unlight [Remastered] (2007)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95588",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:32:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdBRBpRJwr.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 457,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95587",
+      "text": "Marduk - Dark Endless [Reissue] (2012)\nBands: Marduk | Genres: Black Metal | Countries: SE",
+      "artist": "Marduk",
+      "title": "Dark Endless [Reissue] (2012)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95587",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T10:32:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKoxJGMGPXP.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 456,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95586",
+      "text": "Barbed Wire Sandwich - Nothing Feels Wrong If Your Eyes Aren&apos;t Staring Back At Me [Demo] (2025)\nBands: Barbed Wire Sandwich | Genres: Brutal Deathcore, Beatdown Hardcore | Countries: US",
+      "artist": "Barbed Wire Sandwich",
+      "title": "Nothing Feels Wrong If Your Eyes Aren&apos;t Staring Back At Me [Demo] (2025)",
+      "genres": [
+        "Brutal Deathcore",
+        "Beatdown Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95586",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T09:51:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGW9grPqwP.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 455,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95593",
+      "text": "Garden Of Eyes - Augur Of Ebrietas [EP] (2026)\nBands: Garden Of Eyes | Genres: Death Metal | Countries: GB",
+      "artist": "Garden Of Eyes",
+      "title": "Augur Of Ebrietas [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95593",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T09:49:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69ygQMaOoL.webp",
+      "createdAt": "2026-10-24T13:37:49.535Z",
+      "source": "deathgrind",
+      "id": 454,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95585",
       "text": "Virology - Sequential Malformations (2026)\nBands: Virology | Genres: Technical Death Metal | Countries: GB",
