@@ -2,8 +2,103 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myk24u3las2m",
-  "updatedAt": "2026-10-24T17:00:48.419Z",
+  "updatedAt": "2026-10-24T19:30:56.991Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95607",
+      "text": "Slamskies - The Beating [Single] (2025)\nBands: Slamskies | Genres: Slamming Brutal Death Metal | Countries: GR",
+      "artist": "Slamskies",
+      "title": "The Beating [Single] (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95607",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T19:30:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/O9lr_BNlo_G.webp",
+      "createdAt": "2026-10-24T19:30:56.991Z",
+      "source": "deathgrind",
+      "id": 477,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95606",
+      "text": "Slamskies - Nine To Yo Dome [EP] (2025)\nBands: Slamskies | Genres: Slamming Brutal Death Metal | Countries: GR",
+      "artist": "Slamskies",
+      "title": "Nine To Yo Dome [EP] (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95606",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T19:15:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWre9NebMA.webp",
+      "createdAt": "2026-10-24T19:30:56.991Z",
+      "source": "deathgrind",
+      "id": 476,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95605",
+      "text": "Slamskies - Greek Gangsta Slam Mixtape (2026)\nBands: Slamskies | Genres: Slamming Brutal Death Metal | Countries: GR",
+      "artist": "Slamskies",
+      "title": "Greek Gangsta Slam Mixtape (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95605",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T19:01:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdBo9NqKK9.webp",
+      "createdAt": "2026-10-24T19:30:56.991Z",
+      "source": "deathgrind",
+      "id": 475,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95604",
+      "text": "Slamskies - New Athens Killaz (2026)\nBands: Slamskies | Genres: Slamming Brutal Death Metal | Countries: GR",
+      "artist": "Slamskies",
+      "title": "New Athens Killaz (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95604",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T17:57:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkqRPaplJO.webp",
+      "createdAt": "2026-10-24T19:30:56.991Z",
+      "source": "deathgrind",
+      "id": 474,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95603",
+      "text": "Scalding - Exordium [Reissue] (2026)\nBands: Scalding | Genres: Black Metal | Countries: CA",
+      "artist": "Scalding",
+      "title": "Exordium [Reissue] (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95603",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T17:20:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKgVL-ODPA.webp",
+      "createdAt": "2026-10-24T19:30:56.991Z",
+      "source": "deathgrind",
+      "id": 473,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95602",
       "text": "Dinosaurs Before Dark - Slammy Boy Rex (2026)\nBands: Dinosaurs Before Dark | Genres: Slamming Brutal Death Metal | Countries: US",
