@@ -2,8 +2,85 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myk24u3las2m",
-  "updatedAt": "2026-10-24T13:37:49.535Z",
+  "updatedAt": "2026-10-24T17:00:48.419Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95602",
+      "text": "Dinosaurs Before Dark - Slammy Boy Rex (2026)\nBands: Dinosaurs Before Dark | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Dinosaurs Before Dark",
+      "title": "Slammy Boy Rex (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95602",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T15:26:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldmVborj6X.webp",
+      "createdAt": "2026-10-24T17:00:48.419Z",
+      "source": "deathgrind",
+      "id": 472,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95601",
+      "text": "V.A. - The Last Gore And Testament Of Rompeprop [Compilation] (2023)\nBands: V.A. | Genres: Deathgrind, Goregrind",
+      "artist": "V.A.",
+      "title": "The Last Gore And Testament Of Rompeprop [Compilation] (2023)",
+      "genres": [
+        "Deathgrind",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95601",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T15:14:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJz7EjjPZZK.webp",
+      "createdAt": "2026-10-24T17:00:48.419Z",
+      "source": "deathgrind",
+      "id": 471,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95059",
+      "text": "Tumorflesh Rejection - Beneath The Moor, The Ancient Dwells (2026)\nBands: Tumorflesh Rejection | Genres: Slamming Brutal Death Metal | Countries: RU",
+      "artist": "Tumorflesh Rejection",
+      "title": "Beneath The Moor, The Ancient Dwells (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95059",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T14:49:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_n6a9KZ7b.webp",
+      "createdAt": "2026-10-24T17:00:48.419Z",
+      "source": "deathgrind",
+      "id": 470,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95092",
+      "text": "Esophagus - Kaail [EP] (2026)\nBands: Esophagus | Genres: Slamming Brutal Death Metal | Countries: CL",
+      "artist": "Esophagus",
+      "title": "Kaail [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95092",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-24T14:43:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOr_RpalEL.webp",
+      "createdAt": "2026-10-24T17:00:48.419Z",
+      "source": "deathgrind",
+      "id": 469,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95600",
       "text": "Kess&apos;khtak - Inbreeding (2015)\nBands: Kess&apos;khtak | Genres: Deathgrind | Countries: CH",
