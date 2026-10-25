@@ -2,8 +2,217 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynz4yrmes6n",
-  "updatedAt": "2026-10-25T04:51:50.041Z",
+  "updatedAt": "2026-10-25T13:56:42.105Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95629",
+      "text": "Ancient Existence - Night Eternal (2003)\nBands: Ancient Existence | Genres: Death Metal | Countries: DE",
+      "artist": "Ancient Existence",
+      "title": "Night Eternal (2003)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95629",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T13:27:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQok_rbyvd.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 504,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95628",
+      "text": "Odz Manouk - Odz Manouk [Reissue] (2012)\nBands: Odz Manouk | Genres: Black Metal | Countries: US",
+      "artist": "Odz Manouk",
+      "title": "Odz Manouk [Reissue] (2012)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95628",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T12:09:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWrB-LwWlA.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 503,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95626",
+      "text": "Туман - Transylvanian Dreams (2005)\nBands: Туман | Genres: Black Metal | Countries: HU",
+      "artist": "Туман",
+      "title": "Transylvanian Dreams (2005)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95626",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T11:17:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/Yxy6oV9vV8b.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 502,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95627",
+      "text": "Judas Iscariot - Thy Dying Light (1996)\nBands: Judas Iscariot | Genres: Black Metal | Countries: US",
+      "artist": "Judas Iscariot",
+      "title": "Thy Dying Light (1996)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95627",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T11:17:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6vBye-YmM.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 501,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95623",
+      "text": "Spectral Wound - A Diabolic Thirst (2021)\nBands: Spectral Wound | Genres: Black Metal | Countries: CA",
+      "artist": "Spectral Wound",
+      "title": "A Diabolic Thirst (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95623",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T11:11:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6v_-dz-AP.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 500,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95622",
+      "text": "Heinous - Ritual, Blood And Mysterious Dawn (2022)\nBands: Heinous | Genres: Black Metal | Countries: BE",
+      "artist": "Heinous",
+      "title": "Ritual, Blood And Mysterious Dawn (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95622",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T11:11:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqWGJDbqoP.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 499,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95621",
+      "text": "Helleruin - Devils, Death And Dark Arts (2023)\nBands: Helleruin | Genres: Black Metal | Countries: NL",
+      "artist": "Helleruin",
+      "title": "Devils, Death And Dark Arts (2023)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95621",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T11:10:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQo-ZMBEwe.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 498,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95620",
+      "text": "Havohej - Dethrone The Son Of God (1993)\nBands: Havohej | Genres: Black Metal | Countries: US",
+      "artist": "Havohej",
+      "title": "Dethrone The Son Of God (1993)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95620",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T11:10:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdBjDXz6lP.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 497,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95619",
+      "text": "Spectral Wound - Songs Of Blood And Mire (2024)\nBands: Spectral Wound | Genres: Black Metal | Countries: CA",
+      "artist": "Spectral Wound",
+      "title": "Songs Of Blood And Mire (2024)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95619",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T11:10:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLjpVnoQNv.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 496,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95618",
+      "text": "Αχέροντας - Theosis (2010)\nBands: Αχέροντας | Genres: Black Metal | Countries: GR",
+      "artist": "Αχέροντας",
+      "title": "Theosis (2010)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95618",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T10:04:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDYEJOY8r6.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 495,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95617",
+      "text": "Beherit - Drawing Down The Moon (1993)\nBands: Beherit | Genres: Black Metal | Countries: FI",
+      "artist": "Beherit",
+      "title": "Drawing Down The Moon (1993)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95617",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T10:04:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKoxGJLYrey.webp",
+      "createdAt": "2026-10-25T13:56:42.105Z",
+      "source": "deathgrind",
+      "id": 494,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95615",
       "text": "Vorerophile - I Love You For What You Have Inside [EP] (2026)\nBands: Vorerophile | Genres: Goregrind | Countries: MX",
