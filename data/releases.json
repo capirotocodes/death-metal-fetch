@@ -1,9 +1,83 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynuea7lpc6n",
-  "updatedAt": "2026-10-25T00:12:09.978Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynz4yrmes6n",
+  "updatedAt": "2026-10-25T04:51:50.041Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95615",
+      "text": "Vorerophile - I Love You For What You Have Inside [EP] (2026)\nBands: Vorerophile | Genres: Goregrind | Countries: MX",
+      "artist": "Vorerophile",
+      "title": "I Love You For What You Have Inside [EP] (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95615",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T02:48:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7eb7NpbO6.webp",
+      "createdAt": "2026-10-25T04:51:50.041Z",
+      "source": "deathgrind",
+      "id": 493,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynz4yrmes6n",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nCISZA - Untrodden Paths of Satan 🇵🇱⚛️\n\n2nd album from Warsaw, Polish Post-Black Metal outfit⚛️\n\nBC➡️cisza.bandcamp.com/album/untrod...⚛️\n\n#Cisza #UntroddenPathsOfSatan #PostBlackMetal #DDDOct23 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mynz4yrmes6n",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-25T01:02:53.639Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiffzrdhck5f3wzc4mug3t4gzpggffql4kou2cvhproelgjcrvbmqa",
+      "createdAt": "2026-10-25T04:51:49.414Z",
+      "id": 491,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynyxya5ws6n",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nA DISTORTED UTOPIA - An Heir to All the Ills of Flesh 🇬🇧⚛️\n\n2nd album from Leicester, UK Technical Melodic Death Metal project⚛️\n\nBC➡️adistortedutopia.bandcamp.com/album/an-hei...⚛️\n\n#ADistortedUtopia #AnHeirToAllTheIllsOfFlesh #TechnicalMelodicDeathMetal #DDDOct23 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mynyxya5ws6n",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-25T01:00:05.295Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreif67jst76ezypr5e5ui7llarnhead5ulpoi25uidi54jonsbnnkru",
+      "createdAt": "2026-10-25T04:51:49.414Z",
+      "id": 490,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95614",
+      "text": "Die Pigeon Die - Ripped From V To A (2007)\nBands: Die Pigeon Die | Genres: Goregrind | Countries: AU",
+      "artist": "Die Pigeon Die",
+      "title": "Ripped From V To A (2007)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95614",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T00:52:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE-QXX_nxp.webp",
+      "createdAt": "2026-10-25T04:51:50.041Z",
+      "source": "deathgrind",
+      "id": 492,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynuea7lpc6n",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nGOLGOTHAN REMAINS - Born From Darkness Absolute 🇦🇺⚛️\n\n3rd album from Sydney, Australian Death Metal outfit⚛️\n\nBC➡️darkdescentrecords.bandcamp.com/album/born-f...⚛️\n\n#GolgothanRemains #BornFromDarkness #DeathMetal #TheUpcomingTerror26 #KMäN",
