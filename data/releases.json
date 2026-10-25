@@ -2,8 +2,164 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynz4yrmes6n",
-  "updatedAt": "2026-10-25T13:56:42.105Z",
+  "updatedAt": "2026-10-25T17:34:26.832Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95637",
+      "text": "Spektrum - From The Abyssal Depths [EP] (2026)\nBands: Spektrum | Genres: Death Metal | Countries: CL",
+      "artist": "Spektrum",
+      "title": "From The Abyssal Depths [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95637",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T17:15:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9j7QDoPrL.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 512,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95636",
+      "text": "Inquisition - Into The Infernal Regions Of The Ancient Cult (1998)\nBands: Inquisition | Genres: Black Metal | Countries: CO",
+      "artist": "Inquisition",
+      "title": "Into The Infernal Regions Of The Ancient Cult (1998)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95636",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T17:02:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7ee7yzj8M.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 511,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95635",
+      "text": "Inquisition - Invoking The Majestic Throne Of Satan (2002)\nBands: Inquisition | Genres: Black Metal | Countries: CO",
+      "artist": "Inquisition",
+      "title": "Invoking The Majestic Throne Of Satan (2002)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95635",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T16:53:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkqqvwLagE.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 510,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95633",
+      "text": "Summoning - Stronghold (1999)\nBands: Summoning | Genres: Black Metal | Countries: AT",
+      "artist": "Summoning",
+      "title": "Stronghold (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95633",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T16:43:02.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGWWxDxY-y.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 509,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95632",
+      "text": "Spectral Wound - Infernal Decadence (2018)\nBands: Spectral Wound | Genres: Black Metal | Countries: CA",
+      "artist": "Spectral Wound",
+      "title": "Infernal Decadence (2018)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95632",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T16:42:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLjjjAJg-G.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 508,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95630",
+      "text": "Homo Putridus - pissing in the name [EP] (2026)\nBands: Homo Putridus | Genres: Grindcore, Powerviolence, Mathcore | Countries: DE",
+      "artist": "Homo Putridus",
+      "title": "pissing in the name [EP] (2026)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence",
+        "Mathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95630",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T16:02:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKoxxVJxqdg.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 507,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95625",
+      "text": "Creamface - Tied Down and Fucked Hard (2005)\nBands: Creamface | Genres: Porngrind, Grindcore | Countries: FI",
+      "artist": "Creamface",
+      "title": "Tied Down and Fucked Hard (2005)",
+      "genres": [
+        "Porngrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95625",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T15:02:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_wB8XNMlN.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 506,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95616",
+      "text": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma / Carcinomas Of Unknown Primary Origin / Rectal Abscess Infection Discharge / Hydrocephalus - 4 Way Gorenoise Split [Split] (2015)\nBands: Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma, Carcinomas Of Unknown Primary Origin, Rectal Abscess Infection Discharge, Hydrocephalus | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma / Carcinomas Of Unknown Primary Origin / Rectal Abscess Infection Discharge / Hydrocephalus",
+      "title": "4 Way Gorenoise Split [Split] (2015)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95616",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T14:57:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/Yxy6bOP7Kob.webp",
+      "createdAt": "2026-10-25T17:34:26.832Z",
+      "source": "deathgrind",
+      "id": 505,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95629",
       "text": "Ancient Existence - Night Eternal (2003)\nBands: Ancient Existence | Genres: Death Metal | Countries: DE",
