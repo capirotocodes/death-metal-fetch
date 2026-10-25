@@ -1,9 +1,106 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mynz4yrmes6n",
-  "updatedAt": "2026-10-25T19:59:24.501Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
+  "updatedAt": "2026-10-25T22:29:21.501Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95649",
+      "text": "The Tombless - Violator of Decaying Fleash (2026)\nBands: The Tombless | Genres: Death Metal | Countries: DK",
+      "artist": "The Tombless",
+      "title": "Violator of Decaying Fleash (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95649",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T21:09:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6golg8mEj9.webp",
+      "createdAt": "2026-10-25T22:29:21.501Z",
+      "source": "deathgrind",
+      "id": 524,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95647",
+      "text": "Inquisition - Nefarious Dismal Orations (2007)\nBands: Inquisition | Genres: Black Metal | Countries: CO",
+      "artist": "Inquisition",
+      "title": "Nefarious Dismal Orations (2007)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95647",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T20:26:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvByBzyWkK.webp",
+      "createdAt": "2026-10-25T22:29:21.501Z",
+      "source": "deathgrind",
+      "id": 523,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95648",
+      "text": "Grave Hex - Domain Of Foul Rebirths [EP] (2026)\nBands: Grave Hex | Genres: Death Metal | Countries: FI",
+      "artist": "Grave Hex",
+      "title": "Domain Of Foul Rebirths [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95648",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T20:25:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvByB7A7-y.webp",
+      "createdAt": "2026-10-25T22:29:21.501Z",
+      "source": "deathgrind",
+      "id": 522,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95646",
+      "text": "Permanent Headache - Permanent Headache [EP] (2020)\nBands: Permanent Headache | Genres: Grindcore, Crust | Countries: IT",
+      "artist": "Permanent Headache",
+      "title": "Permanent Headache [EP] (2020)",
+      "genres": [
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95646",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T20:16:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeR96peAQA9.webp",
+      "createdAt": "2026-10-25T22:29:21.501Z",
+      "source": "deathgrind",
+      "id": 521,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95645",
+      "text": "Permanent Headache - The Second Coming [EP] (2020)\nBands: Permanent Headache | Genres: Grindcore, Crust | Countries: IT",
+      "artist": "Permanent Headache",
+      "title": "The Second Coming [EP] (2020)",
+      "genres": [
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95645",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-25T20:08:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNldqG_WQM.webp",
+      "createdAt": "2026-10-25T22:29:21.501Z",
+      "source": "deathgrind",
+      "id": 520,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95644",
       "text": "Prolapso / Permanent Headache - Prolapso / Permanent Headache [Split] (2020)\nBands: Prolapso, Permanent Headache | Genres: Grindcore | Countries: CO, IT",
