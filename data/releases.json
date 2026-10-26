@@ -2,8 +2,240 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-25T22:29:21.501Z",
+  "updatedAt": "2026-10-26T11:26:41.942Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95676",
+      "text": "Emanation - Destined Cruelty [EP] (2026)\nBands: Emanation | Genres: Brutal Death Metal, Hardcore | Countries: US",
+      "artist": "Emanation",
+      "title": "Destined Cruelty [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95676",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T09:50:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE-MD9a7ee.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 536,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95669",
+      "text": "Hydrocephalus - The Never Ceasing Passion Of A Pathologist [EP] (2013)\nBands: Hydrocephalus | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Hydrocephalus",
+      "title": "The Never Ceasing Passion Of A Pathologist [EP] (2013)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95669",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T08:53:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnwZandODd.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 535,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95668",
+      "text": "Hydrocephalus - Extirpation Of Necrotizing Rectal Enterocolitis [Demo] (2016)\nBands: Hydrocephalus | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Hydrocephalus",
+      "title": "Extirpation Of Necrotizing Rectal Enterocolitis [Demo] (2016)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95668",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T08:52:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbAZB7989e.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 534,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95667",
+      "text": "Hydrocephalus - Exposing Oneself For the Love of Anatomy [Demo] (2016)\nBands: Hydrocephalus | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Hydrocephalus",
+      "title": "Exposing Oneself For the Love of Anatomy [Demo] (2016)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95667",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T08:52:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_wZnOQzZw.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 533,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95665",
+      "text": "Sadistic - Surrounded By Evil [EP] (2016)\nBands: Sadistic | Genres: Death Metal | Countries: CL",
+      "artist": "Sadistic",
+      "title": "Surrounded By Evil [EP] (2016)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95665",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T08:52:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_wZlJpMab.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 532,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95664",
+      "text": "Blood Oath / Sepulcrum / Phantom / Nigromancia - Evoking The Abominations [Split] (2025)\nBands: Blood Oath, Sepulcrum, Phantom, Nigromancia | Genres: Death Metal | Countries: CL",
+      "artist": "Blood Oath / Sepulcrum / Phantom / Nigromancia",
+      "title": "Evoking The Abominations [Split] (2025)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95664",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T08:52:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zE-woxA--e.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 531,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95675",
+      "text": "Wound Stench - Aesthetic Of Violence [EP] (2026)\nBands: Wound Stench | Genres: Deathgrind | Countries: US",
+      "artist": "Wound Stench",
+      "title": "Aesthetic Of Violence [EP] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95675",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T08:10:29.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKgwnJXWVG.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 530,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95674",
+      "text": "Crypt - Crypt [EP] (1996)\nBands: Crypt | Genres: Death Metal | Countries: AU",
+      "artist": "Crypt",
+      "title": "Crypt [EP] (1996)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95674",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T07:54:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw6dDznJqkN.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 529,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95673",
+      "text": "Crypt - El-Niño (1998)\nBands: Crypt | Genres: Death Metal | Countries: AU",
+      "artist": "Crypt",
+      "title": "El-Niño (1998)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95673",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T07:46:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGdrwoyNmr.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 528,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95672",
+      "text": "Primordial Agony - Depths Of Homicide [EP] (2026)\nBands: Primordial Agony | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Primordial Agony",
+      "title": "Depths Of Homicide [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95672",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T07:45:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeD7lb_DXL.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 527,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95671",
+      "text": "Crypt - Chilling Madness [Single] (2024)\nBands: Crypt | Genres: Death Metal | Countries: AU",
+      "artist": "Crypt",
+      "title": "Chilling Madness [Single] (2024)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95671",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T07:34:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWrJ7RpWyZ.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 526,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95670",
+      "text": "Enema Shower - Sadomazoo [EP] (2020)\nBands: Enema Shower | Genres: Goregrind | Countries: SK",
+      "artist": "Enema Shower",
+      "title": "Sadomazoo [EP] (2020)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95670",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T06:12:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnwLKbGLpm.webp",
+      "createdAt": "2026-10-26T11:26:41.942Z",
+      "source": "deathgrind",
+      "id": 525,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95649",
       "text": "The Tombless - Violator of Decaying Fleash (2026)\nBands: The Tombless | Genres: Death Metal | Countries: DK",
