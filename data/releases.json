@@ -2,8 +2,28 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-26T17:35:15.913Z",
+  "updatedAt": "2026-10-26T21:54:59.249Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95679",
+      "text": "Sepulchromancy - Hell Crisis [EP] (2023)\nBands: Sepulchromancy | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Sepulchromancy",
+      "title": "Hell Crisis [EP] (2023)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95679",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T19:30:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNlxwQqYXw.webp",
+      "createdAt": "2026-10-26T21:54:59.249Z",
+      "source": "deathgrind",
+      "id": 553,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95663",
       "text": "Paysage d&apos;Hiver - Das Tor [Demo] (2013)\nBands: Paysage d&apos;Hiver | Genres: Black Metal | Countries: CH",
