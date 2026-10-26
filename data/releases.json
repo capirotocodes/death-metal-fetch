@@ -2,8 +2,312 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-26T11:26:41.942Z",
+  "updatedAt": "2026-10-26T17:35:15.913Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95663",
+      "text": "Paysage d&apos;Hiver - Das Tor [Demo] (2013)\nBands: Paysage d&apos;Hiver | Genres: Black Metal | Countries: CH",
+      "artist": "Paysage d&apos;Hiver",
+      "title": "Das Tor [Demo] (2013)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95663",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:06:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLj-eBZvKa.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 552,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95662",
+      "text": "Paysage d&apos;Hiver - Nacht [Demo] (2004)\nBands: Paysage d&apos;Hiver | Genres: Black Metal | Countries: CH",
+      "artist": "Paysage d&apos;Hiver",
+      "title": "Nacht [Demo] (2004)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95662",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:06:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKm9wKzKaYr.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 551,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95661",
+      "text": "Paysage d&apos;Hiver - Winterkälte [Demo] (2001)\nBands: Paysage d&apos;Hiver | Genres: Black Metal | Countries: CH",
+      "artist": "Paysage d&apos;Hiver",
+      "title": "Winterkälte [Demo] (2001)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95661",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:06:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDYvZLgn76.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 550,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95659",
+      "text": "Paysage d&apos;Hiver - Kristall & Isa [Demo] (2000)\nBands: Paysage d&apos;Hiver | Genres: Black Metal | Countries: CH",
+      "artist": "Paysage d&apos;Hiver",
+      "title": "Kristall & Isa [Demo] (2000)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95659",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:06:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldmOw7vPrN.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 549,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95655",
+      "text": "Summoning - Let Mortal Heroes Sing Your Fame (2001)\nBands: Summoning | Genres: Black Metal | Countries: AT",
+      "artist": "Summoning",
+      "title": "Let Mortal Heroes Sing Your Fame (2001)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95655",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:05:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwDQYpeLoJ.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 548,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95654",
+      "text": "Summoning - Dol Guldur (1997)\nBands: Summoning | Genres: Black Metal | Countries: AT",
+      "artist": "Summoning",
+      "title": "Dol Guldur (1997)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95654",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:05:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/Yxy6QAXyg9X.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 547,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95653",
+      "text": "Summoning - Minas Morgul (1995)\nBands: Summoning | Genres: Black Metal | Countries: AT",
+      "artist": "Summoning",
+      "title": "Minas Morgul (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95653",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:05:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGWOA7lzVV.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 546,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95652",
+      "text": "Summoning - Lugburz (1995)\nBands: Summoning | Genres: Black Metal | Countries: AT",
+      "artist": "Summoning",
+      "title": "Lugburz (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95652",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T17:04:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldmOPoqnJX.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 545,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95677",
+      "text": "Ventriloquist - Repossession Of A Sinner / Kuru [Single] (2026)\nBands: Ventriloquist | Genres: Death Metal | Countries: US",
+      "artist": "Ventriloquist",
+      "title": "Repossession Of A Sinner / Kuru [Single] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95677",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T16:22:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnwndmew-n.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 544,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95658",
+      "text": "Nornír - Skuld (2023)\nBands: Nornír | Genres: Black Metal | Countries: DE",
+      "artist": "Nornír",
+      "title": "Skuld (2023)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95658",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T16:08:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/Yxy6QzOmAxb.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 543,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95657",
+      "text": "Ulfberht - L&apos;aube D&apos;une Nouvelle Ère... (2015)\nBands: Ulfberht | Genres: Black Metal | Countries: FR",
+      "artist": "Ulfberht",
+      "title": "L&apos;aube D&apos;une Nouvelle Ère... (2015)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95657",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T16:08:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8x6-eqB6G.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 542,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95656",
+      "text": "Infernal - Under The Hellsign [Compilation] (2018)\nBands: Infernal | Genres: Blackened Death Metal | Countries: SE",
+      "artist": "Infernal",
+      "title": "Under The Hellsign [Compilation] (2018)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95656",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T16:08:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/PomvQYVd7an.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 541,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95651",
+      "text": "Krater - Urere (2016)\nBands: Krater | Genres: Black Metal | Countries: DE",
+      "artist": "Krater",
+      "title": "Urere (2016)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95651",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T16:07:12.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxEQwGNrr8.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 540,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95650",
+      "text": "Todestriebe - Vicarius Filii Dei (2015)\nBands: Todestriebe | Genres: Black Metal | Countries: RU",
+      "artist": "Todestriebe",
+      "title": "Vicarius Filii Dei (2015)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95650",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T16:06:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGWO9Brmae.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 539,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95666",
+      "text": "Sadistic - Rotting Eternal (2022)\nBands: Sadistic | Genres: Death Metal | Countries: CL",
+      "artist": "Sadistic",
+      "title": "Rotting Eternal (2022)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95666",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T12:20:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnwZb6xQnn.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 538,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95660",
+      "text": "Phantom - Scriptum Thelema (2024)\nBands: Phantom | Genres: Death Metal | Countries: CL",
+      "artist": "Phantom",
+      "title": "Scriptum Thelema (2024)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95660",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-26T12:20:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeR9O7EpVEJ.webp",
+      "createdAt": "2026-10-26T17:35:15.913Z",
+      "source": "deathgrind",
+      "id": 537,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95676",
       "text": "Emanation - Destined Cruelty [EP] (2026)\nBands: Emanation | Genres: Brutal Death Metal, Hardcore | Countries: US",
