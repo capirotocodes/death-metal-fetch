@@ -2,8 +2,103 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-26T21:54:59.249Z",
+  "updatedAt": "2026-10-27T06:43:48.877Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95688",
+      "text": "Zyklon-B - Blood Must Be Shed [EP] (2004)\nBands: Zyklon-B | Genres: Black Metal | Countries: NO",
+      "artist": "Zyklon-B",
+      "title": "Blood Must Be Shed [EP] (2004)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95688",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T06:23:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWgAkVVqlB.webp",
+      "createdAt": "2026-10-27T06:43:48.877Z",
+      "source": "deathgrind",
+      "id": 558,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95687",
+      "text": "IT - Ceremony Of Godslaying (2012)\nBands: IT | Genres: Black Metal | Countries: RU",
+      "artist": "IT",
+      "title": "Ceremony Of Godslaying (2012)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95687",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T06:22:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxebEDWGEA9.webp",
+      "createdAt": "2026-10-27T06:43:48.877Z",
+      "source": "deathgrind",
+      "id": 557,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95682",
+      "text": "Descent To Destruction - Vengeance By Way Of Firepower [EP] (2026)\nBands: Descent To Destruction | Genres: Blackened Death Metal | Countries: SE",
+      "artist": "Descent To Destruction",
+      "title": "Vengeance By Way Of Firepower [EP] (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95682",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T06:20:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvB6AKkVz9.webp",
+      "createdAt": "2026-10-27T06:43:48.877Z",
+      "source": "deathgrind",
+      "id": 556,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95681",
+      "text": "Descent To Destruction - Descend [Demo] (2025)\nBands: Descent To Destruction | Genres: Blackened Death Metal | Countries: SE",
+      "artist": "Descent To Destruction",
+      "title": "Descend [Demo] (2025)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95681",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T06:20:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDYzPRBvA-.webp",
+      "createdAt": "2026-10-27T06:43:48.877Z",
+      "source": "deathgrind",
+      "id": 555,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95685",
+      "text": "Rancid Mass - Demo 2026\nBands: Rancid Mass | Genres: Brutal Death Metal | Countries: GB",
+      "artist": "Rancid Mass",
+      "title": "Demo 2026",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95685",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T01:22:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGdvvXPLB9.webp",
+      "createdAt": "2026-10-27T06:43:48.877Z",
+      "source": "deathgrind",
+      "id": 554,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95679",
       "text": "Sepulchromancy - Hell Crisis [EP] (2023)\nBands: Sepulchromancy | Genres: Death Metal, Thrash Metal | Countries: US",
