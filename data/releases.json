@@ -2,8 +2,125 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-27T18:23:32.586Z",
+  "updatedAt": "2026-10-27T22:32:04.520Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95703",
+      "text": "Disemboweled Rotting Cadaver - Born in the Depths of Vomit Inducing Disgust (2026)\nBands: Disemboweled Rotting Cadaver | Genres: Death Metal | Countries: US",
+      "artist": "Disemboweled Rotting Cadaver",
+      "title": "Born in the Depths of Vomit Inducing Disgust (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95703",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T22:01:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwN8nnXyXnA.webp",
+      "createdAt": "2026-10-27T22:32:04.520Z",
+      "source": "deathgrind",
+      "id": 573,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95702",
+      "text": "Autophagy - Neurotic Behavior [EP] (2020)\nBands: Autophagy | Genres: Death Metal | Countries: CL",
+      "artist": "Autophagy",
+      "title": "Neurotic Behavior [EP] (2020)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95702",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T19:38:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69mW6KdZZl.webp",
+      "createdAt": "2026-10-27T22:32:04.520Z",
+      "source": "deathgrind",
+      "id": 572,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95701",
+      "text": "Agonal State - Infrasonic Rot [EP] (2026)\nBands: Agonal State | Genres: Death Metal | Countries: US",
+      "artist": "Agonal State",
+      "title": "Infrasonic Rot [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95701",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T19:16:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvqOpQELDZ.webp",
+      "createdAt": "2026-10-27T22:32:04.520Z",
+      "source": "deathgrind",
+      "id": 571,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95700",
+      "text": "Dethrashed - The Weight Of The Vortex (2026)\nBands: Dethrashed | Genres: Death Metal, Thrash Metal | Countries: GE",
+      "artist": "Dethrashed",
+      "title": "The Weight Of The Vortex (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95700",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T19:04:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_pXdxAqpo.webp",
+      "createdAt": "2026-10-27T22:32:04.520Z",
+      "source": "deathgrind",
+      "id": 570,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95698",
+      "text": "Lathe - On The Topic Of Mass Extinction [Demo] (2026)\nBands: Lathe | Genres: Death Metal, Doom Metal, Sludge | Countries: IE",
+      "artist": "Lathe",
+      "title": "On The Topic Of Mass Extinction [Demo] (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal",
+        "Sludge"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95698",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T18:50:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8lGlW6vrn.webp",
+      "createdAt": "2026-10-27T22:32:04.520Z",
+      "source": "deathgrind",
+      "id": 569,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95697",
+      "text": "Cavernous Maw - Ancestral Lands Beyond The Antarctic Ice Wall [EP] (2026)\nBands: Cavernous Maw | Genres: Death Metal | Countries: US",
+      "artist": "Cavernous Maw",
+      "title": "Ancestral Lands Beyond The Antarctic Ice Wall [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95697",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T18:32:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKGLnQEPYA.webp",
+      "createdAt": "2026-10-27T22:32:04.520Z",
+      "source": "deathgrind",
+      "id": 568,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95695",
       "text": "Cavernous Maw - Primitive [EP] (2025)\nBands: Cavernous Maw | Genres: Death Metal | Countries: US",
