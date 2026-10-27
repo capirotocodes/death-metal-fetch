@@ -2,8 +2,106 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-27T12:45:13.388Z",
+  "updatedAt": "2026-10-27T18:23:32.586Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95695",
+      "text": "Cavernous Maw - Primitive [EP] (2025)\nBands: Cavernous Maw | Genres: Death Metal | Countries: US",
+      "artist": "Cavernous Maw",
+      "title": "Primitive [EP] (2025)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95695",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T18:07:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldaPgAdzeJ.webp",
+      "createdAt": "2026-10-27T18:23:32.586Z",
+      "source": "deathgrind",
+      "id": 567,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95694",
+      "text": "Veret - Coven Of Sodoma (2026)\nBands: Veret | Genres: Blackened Death Metal, Thrash Metal | Countries: FI",
+      "artist": "Veret",
+      "title": "Coven Of Sodoma (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95694",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T16:21:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6j7mkAjyM.webp",
+      "createdAt": "2026-10-27T18:23:32.586Z",
+      "source": "deathgrind",
+      "id": 566,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95693",
+      "text": "Morta Skuld - Dying Remains / As Humanity Fades [Compilation] (1995)\nBands: Morta Skuld | Genres: Death Metal | Countries: US",
+      "artist": "Morta Skuld",
+      "title": "Dying Remains / As Humanity Fades [Compilation] (1995)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95693",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T15:21:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdpWpdAEYE.webp",
+      "createdAt": "2026-10-27T18:23:32.586Z",
+      "source": "deathgrind",
+      "id": 565,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95691",
+      "text": "Convulsing - Errata (&apos;19 LP Re-Master) [Remastered] (2019)\nBands: Convulsing | Genres: Blackened Death Metal | Countries: AU",
+      "artist": "Convulsing",
+      "title": "Errata (&apos;19 LP Re-Master) [Remastered] (2019)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95691",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T15:20:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKGMAQzrg6.webp",
+      "createdAt": "2026-10-27T18:23:32.586Z",
+      "source": "deathgrind",
+      "id": 564,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95690",
+      "text": "Siberian Hell Sounds / Convulsing - Siberian Hell Sounds / Convulsing [Split] (2017)\nBands: Siberian Hell Sounds, Convulsing | Genres: Grindcore, Black Metal, Death Metal | Countries: AU",
+      "artist": "Siberian Hell Sounds / Convulsing",
+      "title": "Siberian Hell Sounds / Convulsing [Split] (2017)",
+      "genres": [
+        "Grindcore",
+        "Black Metal",
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95690",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T15:19:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwN8OBzxWOG.webp",
+      "createdAt": "2026-10-27T18:23:32.586Z",
+      "source": "deathgrind",
+      "id": 563,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95689",
       "text": "Nomenmortis - Promo 2009\nBands: Nomenmortis | Genres: Brutal Death Metal, Grindcore | Countries: SK",
