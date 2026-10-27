@@ -2,8 +2,88 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-27T06:43:48.877Z",
+  "updatedAt": "2026-10-27T12:45:13.388Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95689",
+      "text": "Nomenmortis - Promo 2009\nBands: Nomenmortis | Genres: Brutal Death Metal, Grindcore | Countries: SK",
+      "artist": "Nomenmortis",
+      "title": "Promo 2009",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95689",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T11:12:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69mwVBAOxL.webp",
+      "createdAt": "2026-10-27T12:45:13.388Z",
+      "source": "deathgrind",
+      "id": 562,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95684",
+      "text": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma - Vomiting Whore Piss (2023)\nBands: Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma",
+      "title": "Vomiting Whore Piss (2023)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95684",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T09:46:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGWEobja8w.webp",
+      "createdAt": "2026-10-27T12:45:13.388Z",
+      "source": "deathgrind",
+      "id": 561,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95686",
+      "text": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma - Dissected Then Molested (2023)\nBands: Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma",
+      "title": "Dissected Then Molested (2023)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95686",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T09:43:29.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbopRP6LKA.webp",
+      "createdAt": "2026-10-27T12:45:13.388Z",
+      "source": "deathgrind",
+      "id": 560,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95683",
+      "text": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma - Pulped Hooker Roadkill (2022)\nBands: Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Agonizing Excess Bowel Acid Dissolving the Intestines Causing Massive Organ Trauma",
+      "title": "Pulped Hooker Roadkill (2022)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95683",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-27T09:42:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwD8aJqDOB.webp",
+      "createdAt": "2026-10-27T12:45:13.388Z",
+      "source": "deathgrind",
+      "id": 559,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95688",
       "text": "Zyklon-B - Blood Must Be Shed [EP] (2004)\nBands: Zyklon-B | Genres: Black Metal | Countries: NO",
