@@ -1,9 +1,202 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mywm3kcro2q4",
-  "updatedAt": "2026-10-28T15:09:32.734Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myxkv2ysysq4",
+  "updatedAt": "2026-10-28T20:18:50.606Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95721",
+      "text": "Neuronal Autolysis - Necroputrefactive Desecration [EP] (2026)\nBands: Neuronal Autolysis | Genres: Goregrind, Black Metal | Countries: CO",
+      "artist": "Neuronal Autolysis",
+      "title": "Necroputrefactive Desecration [EP] (2026)",
+      "genres": [
+        "Goregrind",
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95721",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T19:46:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ97LaJZk8L.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 598,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95725",
+      "text": "Absolute Darkness - Failure Of State (2022)\nBands: Absolute Darkness | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Absolute Darkness",
+      "title": "Failure Of State (2022)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95725",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T19:28:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_pnAv8ZZl.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 597,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95724",
+      "text": "Altar Of Flesh - The God Standard (2017)\nBands: Altar Of Flesh | Genres: Death Metal | Countries: US",
+      "artist": "Altar Of Flesh",
+      "title": "The God Standard (2017)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95724",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T19:13:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGomjqzmGw.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 596,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95719",
+      "text": "Out Of Hand - Post Grind (2026)\nBands: Out Of Hand | Genres: Death Metal, Thrash Metal | Countries: PR",
+      "artist": "Out Of Hand",
+      "title": "Post Grind (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95719",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T16:46:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pBRNnkZ6_.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 595,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95710",
+      "text": "Aara - Eiger (2024)\nBands: Aara | Genres: Black Metal | Countries: CH",
+      "artist": "Aara",
+      "title": "Eiger (2024)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95710",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T16:06:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7anj86rJ8W.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 594,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95715",
+      "text": "Katharsis - Fourth Reich [EP] (2009)\nBands: Katharsis | Genres: Black Metal | Countries: DE",
+      "artist": "Katharsis",
+      "title": "Fourth Reich [EP] (2009)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95715",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T16:04:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKGPoBaqZA.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 593,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95714",
+      "text": "Katharsis - VVorldVVithoutEnd (2006)\nBands: Katharsis | Genres: Black Metal | Countries: DE",
+      "artist": "Katharsis",
+      "title": "VVorldVVithoutEnd (2006)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95714",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T16:04:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEnKYpyYb8.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 592,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95713",
+      "text": "Katharsis - Kruzifixxion (2003)\nBands: Katharsis | Genres: Black Metal | Countries: DE",
+      "artist": "Katharsis",
+      "title": "Kruzifixxion (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95713",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T16:03:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkgpY-OvKZ.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 591,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95712",
+      "text": "Katharsis - 666 [Reissue] (2004)\nBands: Katharsis | Genres: Black Metal | Countries: DE",
+      "artist": "Katharsis",
+      "title": "666 [Reissue] (2004)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95712",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T16:03:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdpvKaOBdK.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 590,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95352",
+      "text": "Lethal Pursuer - Lethal Pursuer [EP] (2026)\nBands: Lethal Pursuer | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Lethal Pursuer",
+      "title": "Lethal Pursuer [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95352",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T15:41:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOV_jrxzdA.webp",
+      "createdAt": "2026-10-28T20:18:50.606Z",
+      "source": "deathgrind",
+      "id": 589,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mywm3kcro2q4",
       "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️January 15th, 2027⬅️\n\nCARNAL GHOUL - Feed the Vault 🇩🇪💢\n\n2nd album from Hesse, German Death Metal outfit💢\n\nBC➡️carnalghoul-de.bandcamp.com/album/feed-t...💢\n\n#CarnalGhoul #FeedTheVault #DeathMetal #TestimonyRecs #OldSchoolDeathMetal #TheUpcomingTerror27 #KMäN",
