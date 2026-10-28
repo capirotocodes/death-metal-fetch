@@ -2,8 +2,104 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mypz6qklrkp6",
-  "updatedAt": "2026-10-27T22:32:04.520Z",
+  "updatedAt": "2026-10-28T08:09:30.154Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95717",
+      "text": "Impermanent - Foul Emission Of A Decaying World [EP] (2026)\nBands: Impermanent | Genres: Brutal Death Metal, Hardcore | Countries: GB",
+      "artist": "Impermanent",
+      "title": "Foul Emission Of A Decaying World [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95717",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T08:04:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkgVjE-OzE.webp",
+      "createdAt": "2026-10-28T08:09:30.154Z",
+      "source": "deathgrind",
+      "id": 578,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95709",
+      "text": "Clandestine Blaze - Consecration Of The Blood (2025)\nBands: Clandestine Blaze | Genres: Black Metal | Countries: FI",
+      "artist": "Clandestine Blaze",
+      "title": "Consecration Of The Blood (2025)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95709",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T02:32:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwrWz_Lw_x.webp",
+      "createdAt": "2026-10-28T08:09:30.154Z",
+      "source": "deathgrind",
+      "id": 577,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95708",
+      "text": "Clandestine Blaze - Resacralize The Unknown (2023)\nBands: Clandestine Blaze | Genres: Black Metal | Countries: FI",
+      "artist": "Clandestine Blaze",
+      "title": "Resacralize The Unknown (2023)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95708",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T02:32:12.000Z",
+      "notified": false,
+      "coverUrl": "covers/beL6R6-omNa.webp",
+      "createdAt": "2026-10-28T08:09:30.154Z",
+      "source": "deathgrind",
+      "id": 576,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95707",
+      "text": "Clandestine Blaze - Secrets Of Laceration (2021)\nBands: Clandestine Blaze | Genres: Black Metal | Countries: FI",
+      "artist": "Clandestine Blaze",
+      "title": "Secrets Of Laceration (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95707",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T02:31:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gdBoKbLJP.webp",
+      "createdAt": "2026-10-28T08:09:30.154Z",
+      "source": "deathgrind",
+      "id": 575,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95705",
+      "text": "Godless North - Summon The Age Of Supremacy (2001)\nBands: Godless North | Genres: Black Metal | Countries: CA",
+      "artist": "Godless North",
+      "title": "Summon The Age Of Supremacy (2001)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95705",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-28T02:31:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6jMKoGXbP.webp",
+      "createdAt": "2026-10-28T08:09:30.154Z",
+      "source": "deathgrind",
+      "id": 574,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95703",
       "text": "Disemboweled Rotting Cadaver - Born in the Depths of Vomit Inducing Disgust (2026)\nBands: Disemboweled Rotting Cadaver | Genres: Death Metal | Countries: US",
