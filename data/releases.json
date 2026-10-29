@@ -1,9 +1,108 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myxkv2ysysq4",
-  "updatedAt": "2026-10-29T06:18:22.670Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myyzffgfycat",
+  "updatedAt": "2026-10-29T13:34:15.074Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95740",
+      "text": "Ereboros - From Oblivion To The Grave (2026)\nBands: Ereboros | Genres: Blackened Death Metal | Countries: BR",
+      "artist": "Ereboros",
+      "title": "From Oblivion To The Grave (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95740",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T13:25:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGD7koY8pd.webp",
+      "createdAt": "2026-10-29T13:34:15.074Z",
+      "source": "deathgrind",
+      "id": 606,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95739",
+      "text": "Mystification - Cosmic Disclosure (2026)\nBands: Mystification | Genres: Brutal Death Metal, Black Metal | Countries: MX",
+      "artist": "Mystification",
+      "title": "Cosmic Disclosure (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95739",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T12:08:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKomrnpQVmO.webp",
+      "createdAt": "2026-10-29T13:34:15.074Z",
+      "source": "deathgrind",
+      "id": 605,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95729",
+      "text": "Deified Corpse - Meateater [Demo] (2026)\nBands: Deified Corpse | Genres: Brutal Death Metal, Goregrind | Countries: CA",
+      "artist": "Deified Corpse",
+      "title": "Meateater [Demo] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95729",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T10:29:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pB69N88eP.webp",
+      "createdAt": "2026-10-29T13:34:15.074Z",
+      "source": "deathgrind",
+      "id": 604,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95723",
+      "text": "Imminent End - Flesh Exporter (2024)\nBands: Imminent End | Genres: Deathgrind, Powerviolence | Countries: US",
+      "artist": "Imminent End",
+      "title": "Flesh Exporter (2024)",
+      "genres": [
+        "Deathgrind",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95723",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T10:29:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeqEAzoAGl.webp",
+      "createdAt": "2026-10-29T13:34:15.074Z",
+      "source": "deathgrind",
+      "id": 603,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95720",
+      "text": "Imminent End - Demo [Demo] (2023)\nBands: Imminent End | Genres: Deathgrind, Powerviolence | Countries: US",
+      "artist": "Imminent End",
+      "title": "Demo [Demo] (2023)",
+      "genres": [
+        "Deathgrind",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95720",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T10:28:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/Jlday6_qgLJ.webp",
+      "createdAt": "2026-10-29T13:34:15.074Z",
+      "source": "deathgrind",
+      "id": 602,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95728",
       "text": "Mentality - The Inexperienced Butcher [Demo] (1996)\nBands: Mentality | Genres: Technical Brutal Death Metal, Grindcore | Countries: SK",
