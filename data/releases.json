@@ -1,9 +1,210 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myyzffgfycat",
-  "updatedAt": "2026-10-29T19:15:32.028Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2g62ydk32i",
+  "updatedAt": "2026-10-29T23:30:47.262Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2fpr46fg2i",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣1⃣🎧\n\nBLACK ROYAL - Abyssian 🇫🇮⚛️\n\n4th album from Tampere, Finnish Heavy/Sludge/Groove Death Metal outfit⚛️\n\nBC➡️blackroyal.bandcamp.com/album/abyssian⚛️\n\n#BlackRoyal #Abyssian #SludgeDeath #MTheoryAudio #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2fpr46fg2i",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T23:20:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihuy2ywjt6gjpxgitavtrorlmmzj5asaett3zx2olpdihlwjtk4rq",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 622,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2fbgpcmy2f",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣0⃣🎧\n\nINVULTATION - Inferno Descends 🇺🇸⚛️\n\n4th album from Columbus, Ohio, U.S. Bestial Death Metal outfit⚛️\n\nBC➡️sentientruin.bandcamp.com/album/infern...⚛️\n\n#Invultation #InfernoDescends #BestialDeath #SentientRuin #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2fbgpcmy2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T23:12:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreic4zbo63yybtv335zwgaxvi42ekw4mbobi2h6snqtol3pycp43fie",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 621,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2et63p6z2h",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 9⃣🎧\n\nELDFÖDD - The Night Belongs to the Dead 🇸🇪⚛️\n\nDebut album from Stockholm, Swedish Death Metal outfit⚛️\n\nBC➡️edgedcircleproductions.bandcamp.com/album/the-ni...⚛️\n\n#Eldfödd #TheNightBelongsToThe #DeathMetal #CircleEdged #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2et63p6z2h",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T23:04:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiblpugwf5oio7dso4cckp3hubvwaseeqjal6dwbrfgofdz2gn3p2a",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 620,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2eetp6va2f",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 8⃣🎧\n\nCRYPTORIUM - Through The Bowels Of Ceaseless Dissonance 🇸🇪⚛️\n\n2nd album from Stockholm, Swedish Death Metal outfit⚛️\n\nBC➡️cryptorium-label.bandcamp.com/album/throug...⚛️\n\n#Cryptorium #ThroughTheBowels #transcendingobs #DeathMetal #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2eetp6va2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T22:56:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiec5cuaxzco33rgmo3vjq2xpp3t6bj3tl5vv7j2ms7udvy6zgw65u",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 619,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2dwk4svi2v",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 7⃣🎧\n\nDEATHWARDS - Realms of Sin 🇨🇱⚛️\n\nDebut album from Rancagua, Chilean Death/Thrash Metal outfit⚛️\n\nBC➡️deathwards.bandcamp.com/album/realms...⚛️\n\n#Deathwards #RealmsOfSin #DeathMetal #ThrashMetal #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2dwk4svi2v",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T22:48:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiee4fsk7azcfzbmxfogbn34phlo3vycssdlzsupmgcd3qfcta6swu",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 618,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2czz3v3a24",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 5⃣🎧\n\nEREBOROS - From Oblivion to the Grave 🇧🇷⚛️\n\nDebut album from Rio De Janeiro, Brazilian Death Metal outfit⚛️\n\nAL➡️album.link/i/6814663104⚛️\n\n#Ereboros #FromOblivionToTheGrave #DeathMetal #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2czz3v3a24",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T22:32:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiatbxmfg7jeybs6u4iavlyzebdiy47x237ke77p2ujyc55f5ou47y",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 617,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2boykbab2i",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 2⃣🎧\n\nDREAM UNENDING - Certain Uncertainties 🇺🇸🇨🇦⚛️\n\n3rd album from U.S./Canadian Atmospheric Doom/Death Metal collaboration⚛️\n\nBC➡️20buckspin.bandcamp.com/album/certai...⚛️\n\n#DreamUnending #Certain #AtmoDoomDeath #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2boykbab2i",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T22:08:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreid7ll6olujtji7zqs4a7it757awiihey32nrokcx774ulgcjso7be",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 616,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/93937",
+      "text": "Cryptorium - Through The Bowels Of Ceaseless Dissonance (2026)\nBands: Cryptorium | Genres: Death Metal | Countries: SE",
+      "artist": "Cryptorium",
+      "title": "Through The Bowels Of Ceaseless Dissonance (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/93937",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T20:57:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDq6n7PMbk.webp",
+      "createdAt": "2026-10-29T23:30:47.262Z",
+      "source": "deathgrind",
+      "id": 625,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz22lzeuucat",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️\n➡️February 19th, 2027⬅️\n\n200 STAB WOUNDS - Lowest Form 🇺🇸💢\n\n3rd album from Cleveland, Ohio, U.S Death Metal outfit💢\n\nBC➡️200stabwounds.bandcamp.com/album/lowest...💢*New Track!\n\n#200StabWounds #LowestForm #MetalBlade #DeathMetal #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz22lzeuucat",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T20:01:08.189Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicayacrjq227pjf4cyxxgvoscjid5epr4glac5ro3locflsvz6mfm",
+      "createdAt": "2026-10-29T23:30:45.215Z",
+      "id": 615,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94507",
+      "text": "Traumatomy - Ascension Of The Ineffable (2026)\nBands: Traumatomy | Genres: Slamming Brutal Death Metal | Countries: RU, JP",
+      "artist": "Traumatomy",
+      "title": "Ascension Of The Ineffable (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94507",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T19:42:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQGrWgNz_Y.webp",
+      "createdAt": "2026-10-29T23:30:47.262Z",
+      "source": "deathgrind",
+      "id": 624,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95749",
+      "text": "Necrokazii - Necrokazii!! [EP] (2026)\nBands: Necrokazii | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Necrokazii",
+      "title": "Necrokazii!! [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95749",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T19:22:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69mkkmya6Z.webp",
+      "createdAt": "2026-10-29T23:30:47.262Z",
+      "source": "deathgrind",
+      "id": 623,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95748",
       "text": "Slam Band - The Album (2026)\nBands: Slam Band | Genres: Slamming Deathcore | Countries: US",
