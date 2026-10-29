@@ -2,8 +2,162 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3myyzffgfycat",
-  "updatedAt": "2026-10-29T13:34:15.074Z",
+  "updatedAt": "2026-10-29T19:15:32.028Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95748",
+      "text": "Slam Band - The Album (2026)\nBands: Slam Band | Genres: Slamming Deathcore | Countries: US",
+      "artist": "Slam Band",
+      "title": "The Album (2026)",
+      "genres": [
+        "Slamming Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95748",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T18:49:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/beL6-orM87N.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 614,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95747",
+      "text": "Mortual / Noroth - Noroth / Mortual [Split] (2026)\nBands: Mortual, Noroth | Genres: Death Metal | Countries: CR, US",
+      "artist": "Mortual / Noroth",
+      "title": "Noroth / Mortual [Split] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95747",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T17:04:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDmOnP_gDW.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 613,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95746",
+      "text": "Sedición - Alimentados En El Odio (2026)\nBands: Sedición | Genres: Death Metal | Countries: CO",
+      "artist": "Sedición",
+      "title": "Alimentados En El Odio (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95746",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T16:55:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnzl-xXewx.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 612,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95745",
+      "text": "Triac - In The Blue Room [EP] (2008)\nBands: Triac | Genres: Grindcore | Countries: US",
+      "artist": "Triac",
+      "title": "In The Blue Room [EP] (2008)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95745",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T16:47:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmykEgx7EB.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 611,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95744",
+      "text": "Repugnant Extirpation - Surgical Facial Resection [EP] (2026)\nBands: Repugnant Extirpation | Genres: Goregrind | Countries: US",
+      "artist": "Repugnant Extirpation",
+      "title": "Surgical Facial Resection [EP] (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95744",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T16:36:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGoMOdJzKw.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 610,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95743",
+      "text": "Myxococcus - Forensic Mycology Vision of Fungi on Decomposing Corpses (2025)\nBands: Myxococcus | Genres: Goregrind, Noise | Countries: CL",
+      "artist": "Myxococcus",
+      "title": "Forensic Mycology Vision of Fungi on Decomposing Corpses (2025)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95743",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T14:53:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzxneLLm7W.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 609,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95742",
+      "text": "Embrace Of Thorns / Invocation - Invoking The Noumenon / Crushing The Feeble Messianic Embrace [Split] (2026)\nBands: Embrace Of Thorns, Invocation | Genres: Black Metal, Death Metal | Countries: GR, CL",
+      "artist": "Embrace Of Thorns / Invocation",
+      "title": "Invoking The Noumenon / Crushing The Feeble Messianic Embrace [Split] (2026)",
+      "genres": [
+        "Black Metal",
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95742",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T14:15:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVBWxMlzx6.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 608,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95741",
+      "text": "The Curse Made Flesh - To Each Their Hell (2026)\nBands: The Curse Made Flesh | Genres: Progressive Death Metal | Countries: NL",
+      "artist": "The Curse Made Flesh",
+      "title": "To Each Their Hell (2026)",
+      "genres": [
+        "Progressive Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95741",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-29T13:41:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKomrEeVz8d.webp",
+      "createdAt": "2026-10-29T19:15:32.028Z",
+      "source": "deathgrind",
+      "id": 607,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95740",
       "text": "Ereboros - From Oblivion To The Grave (2026)\nBands: Ereboros | Genres: Blackened Death Metal | Countries: BR",
