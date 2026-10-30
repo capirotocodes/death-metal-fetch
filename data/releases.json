@@ -1,9 +1,397 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2g62ydk32i",
-  "updatedAt": "2026-10-29T23:30:47.262Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2p4foxh52f",
+  "updatedAt": "2026-10-30T02:59:20.775Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2oodkpsn2h",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 3⃣1⃣🎧\n\nDEAD TWILIGHT - Totentaz 🇫🇷⚛️\n\n4th album from Genoa, Italian Death Metal outfit⚛️\n\nBC➡️greatdanerecords.bandcamp.com/album/totentaz ⚛️\n\n#DeadTwilight #Totentaz #DeathMetal #Greatdanerecs #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2oodkpsn2h",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T02:00:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibo5t3c45zxpv3fxshieum53vxw63p6wq6cicdwza7loas2dzne6y",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 637,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2nrakpk52f",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 2⃣9⃣🎧\n\nTRAUMATOMY - Ascension Of The Ineffable 🇷🇺⚛️\n\nNew album from Russian Slamming Brutal Death Metal outfit⚛️\n\nBC➡️gorehouseproductions.bandcamp.com/album/ascens... ⚛️\n\n#Traumatomy #AscensionOfTheIneffable #SlammingBrutalDeath #GoreHouse #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2nrakpk52f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T01:44:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiebs2fovxtvhpf3iga3ytq7ff3ut62sb5f7ebikrewhw6d6gnp6sm",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 636,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2lxzsrby2t",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 2⃣5⃣🎧\n\nBEFOULED MALEDICTION - Desperate Necromancy 🇺🇸⚛️\n\nDebut album from US Black Metal project⚛️\n\nBC➡️ordovampyrorientis.bandcamp.com/album/desper...⚛️\n\n#BefouledMalediction #DesperateNecromancy #BlackMetal #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2lxzsrby2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T01:12:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigpcwlvr6qrohz5hl5uscosguyvw6stkzaiazw6zzd5gpjt6siwhu",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 635,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2kn3u2ws27",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 2⃣2⃣🎧\n\nDARKEST HOUR - Suffer Divine 🇺🇸⚛️\n\n10th album from Washington, D.C. ,U.S Melodic Death Metal/Metalcore outfit⚛️\n\nBC➡️officialdarkesthour.bandcamp.com/album/suffer...⚛️\n\n#darkesthourrock #SufferDivine #MelodicDeath #Metalcore #MNRKHeavy #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2kn3u2ws27",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T00:48:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreib4arglfasjzpqdafxyr2obwmgg3qtxejs2vcqzp5xy2cevqsqupy",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 634,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2k6rzet42s",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 2⃣1⃣🎧\n\nACHERONTAS - For The Blood Of Tiamat - Praxis I 🇬🇷⚛️\n\nNew album from Greek Black Metal outfit⚛️\n\nBC➡️osmoseproductions.bandcamp.com/album/for-th...⚛️\n\n#Acherontas #ForTheBloodOfTiamat #BlackMetal #OsmoseProd #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2k6rzet42s",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T00:40:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreig2aoajv7eistisfxvd7a4c72mq5qosskjtxlvd3qy33vvbfqo7hu",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 633,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2jqi6ogo2l",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 2⃣0⃣🎧\n\nSOMNENT - Heirloom 🇺🇸⚛️\n\n3rd album from Orlando, Florida, U.S. Melodic Doom/Death Metal outfit⚛️\n\nBC➡️arduamusic.bandcamp.com/album/heirloom⚛️\n\n#Somnent #Heirloom #MelodicDoomDeathMetal #arduamusic #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2jqi6ogo2l",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T00:32:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicecwsdljqqktqthbvvr3te4hq4ehjfgv46mebehjp7vj67hrfsoa",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 632,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2jc5k7w427",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣9⃣🎧\n\nTROLLDOM - Tronen 🇸🇪⚛️\n\n3rd album from Nyköping, Swedish Atmospheric Black Metal outfit⚛️\n\nBC➡️ironboneheadproductions.bandcamp.com ⚛️\n\n#Trolldom #Tronen #AtmosphericBlackMetal @DebemurMorti #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2jc5k7w427",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T00:24:00.000Z",
+      "notified": true,
+      "coverUrl": null,
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 631,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95738",
+      "text": "Arckanum - Antikosmos (2008)\nBands: Arckanum | Genres: Black Metal | Countries: SE",
+      "artist": "Arckanum",
+      "title": "Antikosmos (2008)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95738",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:18:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxywwrQMYDM.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 646,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95737",
+      "text": "Arckanum - Kostogher (1997)\nBands: Arckanum | Genres: Black Metal | Countries: SE",
+      "artist": "Arckanum",
+      "title": "Kostogher (1997)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95737",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:17:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxboopLdoZO.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 645,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95736",
+      "text": "Arckanum - Fran Marder (1995)\nBands: Arckanum | Genres: Black Metal | Countries: SE",
+      "artist": "Arckanum",
+      "title": "Fran Marder (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95736",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:17:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvqB6APPEZ.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 644,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95735",
+      "text": "Urgehal - Goatcraft Torment (2006)\nBands: Urgehal | Genres: Black Metal | Countries: NO",
+      "artist": "Urgehal",
+      "title": "Goatcraft Torment (2006)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95735",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:17:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGDdpppno9.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 643,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95734",
+      "text": "Urgehal - Through Thick Fog Till Death (2003)\nBands: Urgehal | Genres: Black Metal | Countries: NO",
+      "artist": "Urgehal",
+      "title": "Through Thick Fog Till Death (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95734",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:16:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_pWv-A77o.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 642,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95732",
+      "text": "Setherial - Hell Eternal (1999)\nBands: Setherial | Genres: Black Metal | Countries: SE",
+      "artist": "Setherial",
+      "title": "Hell Eternal (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95732",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:16:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxebnNLwXZR.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 641,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2itvqovs26",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣8⃣🎧\n\nMASTIC SCUM - VOID 🇦🇹⚛️\n\n7th album from Wien, Austrian Brutal Death Metal/Grindcore/Crossover outfit⚛️\n\nBC➡️masticscum.bandcamp.com/album/void⚛️\n\n#MasticScum #VOID #BrutalDeath #Grindcore #Crossover #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2itvqovs26",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T00:16:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicqqryxowktbgq45xw2bm7elioxo25ewj5rq3uhg25kifjdryiori",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 630,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95733",
+      "text": "Setherial - Ekpyrosis (2010)\nBands: Setherial | Genres: Black Metal | Countries: SE",
+      "artist": "Setherial",
+      "title": "Ekpyrosis (2010)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95733",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:15:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDO9mJWooKQ.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 640,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95731",
+      "text": "Setherial - Lords Of The Nightrealm (1998)\nBands: Setherial | Genres: Black Metal | Countries: SE",
+      "artist": "Setherial",
+      "title": "Lords Of The Nightrealm (1998)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95731",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:15:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/beL6jZQjrrO.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 639,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95730",
+      "text": "The Black - The Priest Of Satan [Reissue] (1995)\nBands: The Black | Genres: Black Metal | Countries: SE",
+      "artist": "The Black",
+      "title": "The Priest Of Satan [Reissue] (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95730",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T00:14:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7anzlV9Lp-.webp",
+      "createdAt": "2026-10-30T02:59:20.775Z",
+      "source": "deathgrind",
+      "id": 638,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2ifll4wy2f",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣7⃣🎧\n\nNOROTH / MÖRTUAL - Split 🇺🇸 🇨🇷⚛️\n\nSplit album from U.S. / Costa Rican Death Metal outfits⚛️\n\nBC➡️night-terrors-records.bandcamp.com/album/noroth...⚛️\n\n#Noroth #Mörtual #DeathMetal #NightTerrorsRec #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2ifll4wy2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T00:08:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifdndux4rc4nirvu3ko5cndj4vmqywfocp464yypxco7s3rfss7hi",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 629,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2hxc4hpb24",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣6⃣🎧\n\nDUNGEON SERPENT - Lamentations Of The Shadowkingdoms 🇨🇦⚛️\n\n2nd album from Vancouver, BC, Canadian Melodic Death Metal outfit⚛️\n\nBC➡️dungeonserpentmdm.bandcamp.com/album/lament...⚛️\n\n#DungeonSerpent #Lamentations #MDM #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2hxc4hpb24",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihv54k57jwkx3mz5nbh5hkhtcvh2fiangly6jq4nadigbvzgzl6iu",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 628,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2hiyrscv2t",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣5⃣🎧\n\nGRAVE HEX - Domain of Foul Rebirths EP 🇫🇮⚛️\n\n5 Track EP from Helsinki, Finnish Death Metal outfit⚛️\n\nBC➡️night-terrors-records.bandcamp.com/album/grave-...⚛️\n\n#GraveHex #DomainOfFoulRebirthsEP #DeathMetal #NightTerrors #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2hiyrscv2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T23:52:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreic655dnxb7retzlyyryj2kkh3ihodb6hyhqjaxwul5ehl6k7ummua",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 627,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2h2nshgi2s",
+      "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣4⃣🎧\n\nGROTESQUERIES - Nightmare Delirium EP 🇺🇸⚛️\n\n4 Track EP from Boston, MA, U.S. Death Metal outfit⚛️\n\nBC➡️caligarirecords.bandcamp.com/album/nightm...⚛️\n\n#Grotesqueries #NightmareDelirium #DeathMetal #CaligariRecords #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz2h2nshgi2s",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-29T23:44:00.000Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiep4hjyzjmvstvuughd4gglzse3nr5rzmkfvj67cshvt77bxrwcby",
+      "createdAt": "2026-10-30T02:59:18.056Z",
+      "id": 626,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2fpr46fg2i",
       "text": "FULL FORCE FRIDAY:🆕October 30th 1⃣1⃣🎧\n\nBLACK ROYAL - Abyssian 🇫🇮⚛️\n\n4th album from Tampere, Finnish Heavy/Sludge/Groove Death Metal outfit⚛️\n\nBC➡️blackroyal.bandcamp.com/album/abyssian⚛️\n\n#BlackRoyal #Abyssian #SludgeDeath #MTheoryAudio #FFFOct30 #KMäN",
