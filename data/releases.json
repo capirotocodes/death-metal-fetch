@@ -1,9 +1,429 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3ez3alrkat",
-  "updatedAt": "2026-10-30T09:53:33.962Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3q5lkj5kat",
+  "updatedAt": "2026-10-30T16:37:33.672Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95770",
+      "text": "Dethelm - Realm Of Violence (2026)\nBands: Dethelm | Genres: Blackened Death Metal | Countries: JP",
+      "artist": "Dethelm",
+      "title": "Realm Of Violence (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95770",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T16:05:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDO9LPQkMXN.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 672,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95768",
+      "text": "Vampires And Leeches - Figures Of Souls [EP] (2026)\nBands: Vampires And Leeches | Genres: Progressive Death Metal, Technical Death Metal | Countries: CA",
+      "artist": "Vampires And Leeches",
+      "title": "Figures Of Souls [EP] (2026)",
+      "genres": [
+        "Progressive Death Metal",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95768",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T15:59:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldappjrzEX.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 671,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95767",
+      "text": "Perfect Suffering - Imperial Majesty [EP] (2026)\nBands: Perfect Suffering | Genres: Death Metal | Countries: US",
+      "artist": "Perfect Suffering",
+      "title": "Imperial Majesty [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95767",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T15:55:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkgwXEOAav.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 670,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95766",
+      "text": "Arcanat - Inhuman Action [EP] (2026)\nBands: Arcanat | Genres: Slamming Brutal Death Metal | Countries: FR, CZ",
+      "artist": "Arcanat",
+      "title": "Inhuman Action [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95766",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T15:48:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVBeMBoJzB.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 669,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95756",
+      "text": "3XA - Una Cesta De Gatitos [EP] (2014)\nBands: 3XA | Genres: Goregrind, Noise | Countries: US",
+      "artist": "3XA",
+      "title": "Una Cesta De Gatitos [EP] (2014)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95756",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T15:46:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoAneg-zVL.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 668,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95765",
+      "text": "Besotten - Eye Of The Monolithicrypt (2026)\nBands: Besotten | Genres: Death Metal, Doom Metal | Countries: US",
+      "artist": "Besotten",
+      "title": "Eye Of The Monolithicrypt (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95765",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T15:43:27.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwN8ZYMgeOn.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 667,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95351",
+      "text": "Mastic Scum - Void (2026)\nBands: Mastic Scum | Genres: Brutal Death Metal, Grindcore | Countries: AT",
+      "artist": "Mastic Scum",
+      "title": "Void (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95351",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T14:47:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/PombxJLo9lD.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 666,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94418",
+      "text": "Eldfödd - The Night Belongs To The Dead (2026)\nBands: Eldfödd | Genres: Death Metal | Countries: SE",
+      "artist": "Eldfödd",
+      "title": "The Night Belongs To The Dead (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94418",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T14:34:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeGvE7EmpV.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 665,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95377",
+      "text": "Invultation - Inferno Descends (2026)\nBands: Invultation | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Invultation",
+      "title": "Inferno Descends (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95377",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T14:28:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6g8ZoPqwpD.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 664,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95755",
+      "text": "I Shit On Your Face / Wounded By Life - Coprollection / Wounded By Life [Split] (2007)\nBands: I Shit On Your Face, Wounded By Life | Genres: Goregrind | Countries: BR",
+      "artist": "I Shit On Your Face / Wounded By Life",
+      "title": "Coprollection / Wounded By Life [Split] (2007)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95755",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T13:06:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69mNzdrA-8.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 663,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95754",
+      "text": "H.P.V. - Rotblaster (2026)\nBands: H.P.V. | Genres: Grindcore, Goregrind | Countries: CA",
+      "artist": "H.P.V.",
+      "title": "Rotblaster (2026)",
+      "genres": [
+        "Grindcore",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95754",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T12:57:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw6EDNpYLpA.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 662,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95753",
+      "text": "Bowel Leakage - Deathning Grind [EP] (2023)\nBands: Bowel Leakage | Genres: Goregrind, Deathgrind | Countries: BY",
+      "artist": "Bowel Leakage",
+      "title": "Deathning Grind [EP] (2023)",
+      "genres": [
+        "Goregrind",
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95753",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T12:57:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmy6A6mKmk.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 661,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95752",
+      "text": "Limb Abscess - Gorglic Spewe Oasis [EP] (2023)\nBands: Limb Abscess | Genres: Brutal Death Metal, Goregrind | Countries: RU",
+      "artist": "Limb Abscess",
+      "title": "Gorglic Spewe Oasis [EP] (2023)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95752",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T12:56:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEnaMOObjg.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 660,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95751",
+      "text": "Upcoming Devastation - The Origin Of Human Disease [Demo] (2023)\nBands: Upcoming Devastation | Genres: Brutal Deathcore | Countries: ES",
+      "artist": "Upcoming Devastation",
+      "title": "The Origin Of Human Disease [Demo] (2023)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95751",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T12:56:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69mDkbKNbL.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 659,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95750",
+      "text": "First Days Of Humanity - Nonhuman (2023)\nBands: First Days Of Humanity | Genres: Goregrind | Countries: US",
+      "artist": "First Days Of Humanity",
+      "title": "Nonhuman (2023)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95750",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T12:55:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEngdpWy-Y.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 658,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3q5lkj5kat",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️December 11th, 2026⬅️   \n\nNORDJEVEL - Damnous 🇳🇴⚛️   \n\n4th album from Oslo, Norwegian Black Metal outfit⚛️\n\nBC➡️nordjevel.bandcamp.com/album/damnous⚛️\n\n#Nordjevel #Damnous #BlackMetal #SeasonOfMist #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz3q5lkj5kat",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T11:59:25.990Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreic6igftbhwksaqcmtjdwkmgqqth6wkg2mt2newfhbikufdf4stitm",
+      "createdAt": "2026-10-30T16:37:31.826Z",
+      "id": 656,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3pke3ez2at",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 13th, 2026⬅️   \n\nFADING LIGHT - The Spell of a New Dawn 🇩🇪⚛️\n\nDebut album from Rottweil, German Symphonic Black Metal outfit⚛️\n\nBC➡️fadinglightmetal.bandcamp.com/album/the-sp...⚛️\n\n#FadingLight #TheSpellOfANewDawn #SymphonicBlack #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz3pke3ez2at",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T11:48:40.620Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreig6incek74hqdfmfv34kxpwp3ypxgulli7qdcaz4idgy2vbdit4um",
+      "createdAt": "2026-10-30T16:37:31.826Z",
+      "id": 655,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3oq2prdsat",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 27th, 2026⬅️  \n\nMONOVOID - Dissolving the Brain 🇬🇧⚛️\n\nDebut album from Brighton, UK Progressive Sludge/Death Metal outfit⚛️\n\nBC➡️monovoiduk.bandcamp.com/track/ruinou...⚛️*\n\n#Monovoid #DissolvingTheBrain #ProgSludgeDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz3oq2prdsat",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T11:33:58.387Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicn4n3xybmx3ssgchmashkoae6fosj2v7zmvoqoubgdidbnwiqblq",
+      "createdAt": "2026-10-30T16:37:31.826Z",
+      "id": 654,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95762",
+      "text": "Casket Breath - Comprehension Denied [EP] (2026)\nBands: Casket Breath | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Casket Breath",
+      "title": "Comprehension Denied [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95762",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T11:21:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzxPxvDXve.webp",
+      "createdAt": "2026-10-30T16:37:33.672Z",
+      "source": "deathgrind",
+      "id": 657,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3nhelkjsat",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 27th, 2026⬅️\n\nLAVA INVOCATOR - Oblivion [EP] 🇺🇦⚛️\n\n5 Track EP from Dnipro, Ukrainian Black Metal outfit⚛️\n\nBC➡️satanath.bandcamp.com/album/sat434... ⚛️\n\n#LavaInvocator #Oblivion #BlackMetal #satanathrecords  #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz3nhelkjsat",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T11:11:13.003Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiaxpvlgpe2zwanbokecsjjqu2dfnet7rlcavzhipsrd5yed3yvqri",
+      "createdAt": "2026-10-30T16:37:31.826Z",
+      "id": 653,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3ncw5zpkat",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 1st, 2026⬅️\n\nDECIDUOUS FOREST - Hymns of Time 🇦🇺⚛️\n\n2nd album from Brisbane, Australian Atmospheric Black Metal outfit⚛️\n\nBC➡️deciduousforest.bandcamp.com/album/hymns-...⚛️\n\n#DeciduousForest #HymnsOfTime #AtmosphericBlackMetal #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz3ncw5zpkat",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T11:08:43.662Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreia2aayzbzmquewdv2m4ee2t2runcvrxurrd4g77jqhmk6clsidyfq",
+      "createdAt": "2026-10-30T16:37:31.826Z",
+      "id": 652,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3myzxsj2at",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 4th, 2026⬅️\n\nFERNDAL - Asuras 🇩🇪⚛️\n\n3rd album from Münster, German Melodic Black Metal outfit⚛️\n\nYT➡️'Asuras' youtu.be/gn4H4qHNJR4...⚛️*Studio footage\n\n#Ferndal #Asuras #MelodicBlackMetal #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz3myzxsj2at",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T11:03:12.108Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicvzy3wyzja3sbnhw3c5qp7a7rvn5vc7xod5ebbkof5eumhx2g4i4",
+      "createdAt": "2026-10-30T16:37:31.826Z",
+      "id": 651,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95761",
       "text": "TheCheeseBurgerPicnic - Nausea (2024)\nBands: TheCheeseBurgerPicnic | Genres: Grindcore, Mathcore, Technical Death Metal | Countries: US",
