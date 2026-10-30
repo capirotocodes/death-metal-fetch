@@ -2,8 +2,184 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3q5lkj5kat",
-  "updatedAt": "2026-10-30T16:37:33.672Z",
+  "updatedAt": "2026-10-30T21:06:12.169Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95776",
+      "text": "Soul Devourment / Caassimolar - Scientific Necromancy [Split] (2026)\nBands: Soul Devourment, Caassimolar | Genres: Death Metal | Countries: US, JP",
+      "artist": "Soul Devourment / Caassimolar",
+      "title": "Scientific Necromancy [Split] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95776",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T19:06:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7arw-gEbWX.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 681,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94861",
+      "text": "Odious Sanction - Overwhelming Hatred For Humanity (2026)\nBands: Odious Sanction | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Odious Sanction",
+      "title": "Overwhelming Hatred For Humanity (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94861",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T18:50:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWlPjzBElQ.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 680,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95774",
+      "text": "Dead Twilight - Totentanz (2026)\nBands: Dead Twilight | Genres: Brutal Death Metal | Countries: IT",
+      "artist": "Dead Twilight",
+      "title": "Totentanz (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95774",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T18:19:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxAYmR_L7E.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 679,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95759",
+      "text": "Puppyectomy - It&apos;s A Doggy Dog World (2026)\nBands: Puppyectomy | Genres: Grindcore, Goregrind | Countries: US",
+      "artist": "Puppyectomy",
+      "title": "It&apos;s A Doggy Dog World (2026)",
+      "genres": [
+        "Grindcore",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95759",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T18:16:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRALxVX67Y.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 678,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95773",
+      "text": "Cadaverous Odour - Sickening Hallucinations Of Altered Existence (2026)\nBands: Cadaverous Odour | Genres: Brutal Death Metal, Grindcore | Countries: US",
+      "artist": "Cadaverous Odour",
+      "title": "Sickening Hallucinations Of Altered Existence (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95773",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T18:15:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG7ga6Ex_9.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 677,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95772",
+      "text": "Flesh Tomb - Beneath The Unsinking Black Sun Through The Boundless Gloom...Our Journey Continues [Compilation] (2026)\nBands: Flesh Tomb | Genres: Brutal Death Metal, Hardcore | Countries: US",
+      "artist": "Flesh Tomb",
+      "title": "Beneath The Unsinking Black Sun Through The Boundless Gloom...Our Journey Continues [Compilation] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95772",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T18:15:02.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_N8lqXjLo.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 676,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94283",
+      "text": "Tormentous - Siege Bastards (2026)\nBands: Tormentous | Genres: Deathgrind | Countries: US",
+      "artist": "Tormentous",
+      "title": "Siege Bastards (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94283",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T18:09:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/PomOyeXQJ8z.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 675,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95699",
+      "text": "Desecrated Extinction - Human Matriphagy (2026)\nBands: Desecrated Extinction | Genres: Slamming Brutal Death Metal | Countries: GB",
+      "artist": "Desecrated Extinction",
+      "title": "Human Matriphagy (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95699",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T18:09:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDmrObaxVm.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 674,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95771",
+      "text": "Amnesia - Eternal Phobia (2026)\nBands: Amnesia | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Amnesia",
+      "title": "Eternal Phobia (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95771",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T17:34:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xq9ajvMnd_.webp",
+      "createdAt": "2026-10-30T21:06:12.169Z",
+      "source": "deathgrind",
+      "id": 673,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95770",
       "text": "Dethelm - Realm Of Violence (2026)\nBands: Dethelm | Genres: Blackened Death Metal | Countries: JP",
