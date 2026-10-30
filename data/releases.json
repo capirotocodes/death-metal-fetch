@@ -1,9 +1,89 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2p4foxh52f",
-  "updatedAt": "2026-10-30T02:59:20.775Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3ez3alrkat",
+  "updatedAt": "2026-10-30T09:53:33.962Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95761",
+      "text": "TheCheeseBurgerPicnic - Nausea (2024)\nBands: TheCheeseBurgerPicnic | Genres: Grindcore, Mathcore, Technical Death Metal | Countries: US",
+      "artist": "TheCheeseBurgerPicnic",
+      "title": "Nausea (2024)",
+      "genres": [
+        "Grindcore",
+        "Mathcore",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95761",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T09:33:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxebeXeMgn9.webp",
+      "createdAt": "2026-10-30T09:53:33.962Z",
+      "source": "deathgrind",
+      "id": 650,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95760",
+      "text": "DeathFuckingWound - Teratoma Haruspex (2026)\nBands: DeathFuckingWound | Genres: Black Metal, Grindcore, Crust | Countries: FI",
+      "artist": "DeathFuckingWound",
+      "title": "Teratoma Haruspex (2026)",
+      "genres": [
+        "Black Metal",
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95760",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T09:01:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldadkNr9ov.webp",
+      "createdAt": "2026-10-30T09:53:33.962Z",
+      "source": "deathgrind",
+      "id": 649,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95758",
+      "text": "ChewingGlass - Haters Of The Scene (2026)\nBands: ChewingGlass | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "ChewingGlass",
+      "title": "Haters Of The Scene (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95758",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T05:04:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7an9JwXPzq.webp",
+      "createdAt": "2026-10-30T09:53:33.962Z",
+      "source": "deathgrind",
+      "id": 648,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95757",
+      "text": "Trituration - Vortex Of Pulverized Flesh (2026)\nBands: Trituration | Genres: Slamming Brutal Death Metal | Countries: PY",
+      "artist": "Trituration",
+      "title": "Vortex Of Pulverized Flesh (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95757",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T04:41:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzxwYAD8WE.webp",
+      "createdAt": "2026-10-30T09:53:33.962Z",
+      "source": "deathgrind",
+      "id": 647,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz2oodkpsn2h",
       "text": "FULL FORCE FRIDAY:🆕October 30th 3⃣1⃣🎧\n\nDEAD TWILIGHT - Totentaz 🇫🇷⚛️\n\n4th album from Genoa, Italian Death Metal outfit⚛️\n\nBC➡️greatdanerecords.bandcamp.com/album/totentaz ⚛️\n\n#DeadTwilight #Totentaz #DeathMetal #Greatdanerecs #FFFOct30 #KMäN",
