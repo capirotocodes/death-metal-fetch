@@ -2,8 +2,144 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz5kn5qns2at",
-  "updatedAt": "2026-10-31T13:30:19.122Z",
+  "updatedAt": "2026-10-31T17:55:19.072Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95820",
+      "text": "Goat Rider - Savage Steel [EP] (2025)\nBands: Goat Rider | Genres: Black Metal, Thrash Metal | Countries: CR",
+      "artist": "Goat Rider",
+      "title": "Savage Steel [EP] (2025)",
+      "genres": [
+        "Black Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95820",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T17:31:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNK9Rg6_yGA.webp",
+      "createdAt": "2026-10-31T17:55:19.072Z",
+      "source": "deathgrind",
+      "id": 727,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95819",
+      "text": "Flesh Prison - Full Of Hate And Lies [EP] (2024)\nBands: Flesh Prison | Genres: Death Metal | Countries: US",
+      "artist": "Flesh Prison",
+      "title": "Full Of Hate And Lies [EP] (2024)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95819",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T17:23:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbvDBbPlRB.webp",
+      "createdAt": "2026-10-31T17:55:19.072Z",
+      "source": "deathgrind",
+      "id": 726,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95818",
+      "text": "Sanguine Imperator - Immortal Horrors (2026)\nBands: Sanguine Imperator | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Sanguine Imperator",
+      "title": "Immortal Horrors (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95818",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T16:41:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw69bx-jNlP.webp",
+      "createdAt": "2026-10-31T17:55:19.072Z",
+      "source": "deathgrind",
+      "id": 725,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95817",
+      "text": "Sankara - Soul Destruction (2026)\nBands: Sankara | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Sankara",
+      "title": "Soul Destruction (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95817",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T16:13:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeR6WdWOgOR.webp",
+      "createdAt": "2026-10-31T17:55:19.072Z",
+      "source": "deathgrind",
+      "id": 724,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95816",
+      "text": "Lamenting Satanas - Scorn (2024)\nBands: Lamenting Satanas | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Lamenting Satanas",
+      "title": "Scorn (2024)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95816",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T15:57:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGReNMyZAP.webp",
+      "createdAt": "2026-10-31T17:55:19.072Z",
+      "source": "deathgrind",
+      "id": 723,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95814",
+      "text": "Kakothanasy / Cyclothymia - Kakothanasy / Cyclothymia [Split] (2026)\nBands: Kakothanasy, Cyclothymia | Genres: Brutal Death Metal, Death Metal, Grindcore | Countries: CH, US, CA",
+      "artist": "Kakothanasy / Cyclothymia",
+      "title": "Kakothanasy / Cyclothymia [Split] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95814",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T15:36:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzDGDWZJoZ.webp",
+      "createdAt": "2026-10-31T17:55:19.072Z",
+      "source": "deathgrind",
+      "id": 722,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95811",
+      "text": "Rev3rent - She Let The World Run Rampant (2026)\nBands: Rev3rent | Genres: Brutal Deathcore | Countries: US",
+      "artist": "Rev3rent",
+      "title": "She Let The World Run Rampant (2026)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95811",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T14:59:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9d8VnNXZL.webp",
+      "createdAt": "2026-10-31T17:55:19.072Z",
+      "source": "deathgrind",
+      "id": 721,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95810",
       "text": "False Body - Tomorrow Starts Without You (2026)\nBands: False Body | Genres: Grindcore, Powerviolence | Countries: CA",
