@@ -2,8 +2,414 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz5kn5qns2at",
-  "updatedAt": "2026-10-31T06:50:29.036Z",
+  "updatedAt": "2026-10-31T13:30:19.122Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95810",
+      "text": "False Body - Tomorrow Starts Without You (2026)\nBands: False Body | Genres: Grindcore, Powerviolence | Countries: CA",
+      "artist": "False Body",
+      "title": "Tomorrow Starts Without You (2026)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95810",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T12:50:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8pVvJezMQ.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 720,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95809",
+      "text": "Redneck Stomp - Territorial Mutilation [EP] (2026)\nBands: Redneck Stomp | Genres: Death Metal | Countries: IT",
+      "artist": "Redneck Stomp",
+      "title": "Territorial Mutilation [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95809",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T12:06:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQjlAW_dEb.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 719,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95799",
+      "text": "Chamber Of Unlight - Realm Of The Night (2021)\nBands: Chamber Of Unlight | Genres: Black Metal | Countries: FI",
+      "artist": "Chamber Of Unlight",
+      "title": "Realm Of The Night (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95799",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:48:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOeKmkN77X.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 718,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95808",
+      "text": "Repuked - Nunc Est Bibendum [EP] (2026)\nBands: Repuked | Genres: Death Metal | Countries: SE",
+      "artist": "Repuked",
+      "title": "Nunc Est Bibendum [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95808",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:47:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxA696gjEx.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 717,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95801",
+      "text": "Paimon - Offerings To The Great Plague (2021)\nBands: Paimon | Genres: Black Metal | Countries: PL",
+      "artist": "Paimon",
+      "title": "Offerings To The Great Plague (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95801",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:37:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDNPNYKrx6.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 716,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95800",
+      "text": "Evil - Legenda Neskrotných Živlov (2013)\nBands: Evil | Genres: Black Metal | Countries: SK",
+      "artist": "Evil",
+      "title": "Legenda Neskrotných Živlov (2013)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95800",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:36:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7arWnynoR7.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 715,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95797",
+      "text": "1928 - L&apos;appel Du Spectre (2025)\nBands: 1928 | Genres: Black Metal | Countries: FR",
+      "artist": "1928",
+      "title": "L&apos;appel Du Spectre (2025)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95797",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:35:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6n8JvnX7P.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 714,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95778",
+      "text": "3XA - Bacterial Infection Exacerbates Gastritis [EP] (2015)\nBands: 3XA | Genres: Goregrind, Noise | Countries: US",
+      "artist": "3XA",
+      "title": "Bacterial Infection Exacerbates Gastritis [EP] (2015)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95778",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:35:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxekQOMMJWa.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 713,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95796",
+      "text": "Aesthus - Hänen Temppelinsä Varjoissa (2022)\nBands: Aesthus | Genres: Black Metal | Countries: FI",
+      "artist": "Aesthus",
+      "title": "Hänen Temppelinsä Varjoissa (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95796",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:34:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDNP8mAVYZ.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 712,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95785",
+      "text": "Hammer Of Gore - Beheaded And Stuffed With Feces [Demo] (2022)\nBands: Hammer Of Gore | Genres: Death Metal | Countries: DE",
+      "artist": "Hammer Of Gore",
+      "title": "Beheaded And Stuffed With Feces [Demo] (2022)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95785",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:34:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmDKRDWnk7.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 711,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95807",
+      "text": "Sleep Throne - We Were Never Meant To Be Here (2026)\nBands: Sleep Throne | Genres: Blackened Death Metal, Doom Metal | Countries: US",
+      "artist": "Sleep Throne",
+      "title": "We Were Never Meant To Be Here (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95807",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:34:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6glElolxy9.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 710,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95782",
+      "text": "Judgement-Day - Sounds Like Heaven, But Hurts Like Hell [EP] (2023)\nBands: Judgement-Day | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Judgement-Day",
+      "title": "Sounds Like Heaven, But Hurts Like Hell [EP] (2023)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95782",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:33:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnEbwMYKLV.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 709,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95781",
+      "text": "A.T.E.R. / Tormentum - A.T.E.R./Tormentum [Split] (2023)\nBands: A.T.E.R., Tormentum | Genres: Death Metal, Crust | Countries: CA, MX",
+      "artist": "A.T.E.R. / Tormentum",
+      "title": "A.T.E.R./Tormentum [Split] (2023)",
+      "genres": [
+        "Death Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95781",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:33:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldjEvRNdoa.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 708,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95780",
+      "text": "Tormentum - Stench Of Hell [EP] (2023)\nBands: Tormentum | Genres: Death Metal, Crust | Countries: MX",
+      "artist": "Tormentum",
+      "title": "Stench Of Hell [EP] (2023)",
+      "genres": [
+        "Death Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95780",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:33:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6glvbOpPlj.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 707,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95779",
+      "text": "Scattered Teeth - Grind Over Matter (2026)\nBands: Scattered Teeth | Genres: Grindcore, Powerviolence | Countries: US",
+      "artist": "Scattered Teeth",
+      "title": "Grind Over Matter (2026)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95779",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:33:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzDBnvmjmZ.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 706,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95777",
+      "text": "3XA - Confe(ct)ssions Of A Serial Cannibal [EP] (2014)\nBands: 3XA | Genres: Goregrind, Noise | Countries: US",
+      "artist": "3XA",
+      "title": "Confe(ct)ssions Of A Serial Cannibal [EP] (2014)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95777",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:32:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zENZNzMpbp.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 705,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95806",
+      "text": "Human Obliteration - Fatigue (2026)\nBands: Human Obliteration | Genres: Deathgrind | Countries: US",
+      "artist": "Human Obliteration",
+      "title": "Fatigue (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95806",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:19:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeR6xp6mwJR.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 704,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95805",
+      "text": "Tranatopsy - Nearly Devoured (2026)\nBands: Tranatopsy | Genres: Death Metal | Countries: MX",
+      "artist": "Tranatopsy",
+      "title": "Nearly Devoured (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95805",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T11:09:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69qxQpKzLW.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 703,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95803",
+      "text": "Masticated Whores - Fetishizing Female Torture (2026)\nBands: Masticated Whores | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Masticated Whores",
+      "title": "Fetishizing Female Torture (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95803",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T10:33:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmDnqWp96A.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 702,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95804",
+      "text": "Corpse Maggot Crew / Pimpectomy - Slamnation, Vol. 1: Down 2 Tha Wire [Split] (2026)\nBands: Corpse Maggot Crew, Pimpectomy | Genres: Slamming Brutal Death Metal | Countries: AU",
+      "artist": "Corpse Maggot Crew / Pimpectomy",
+      "title": "Slamnation, Vol. 1: Down 2 Tha Wire [Split] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95804",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T10:23:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypo_7qp99qj.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 701,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95802",
+      "text": "Catharsis - Ithnayn (2026)\nBands: Catharsis | Genres: Death Metal | Countries: BE",
+      "artist": "Catharsis",
+      "title": "Ithnayn (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95802",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T09:08:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG79xA9oga.webp",
+      "createdAt": "2026-10-31T13:30:19.122Z",
+      "source": "deathgrind",
+      "id": 700,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz5kn5qns2at",
       "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nREMAINS OF THE TYRANT - Sepulchral [EP] 🇺🇸⚛️\n\n4 Track EP from St. Louis, Missouri, U.S. Technical Death Metal / Deathcore outfit⚛️\n\nBC➡️remainsofthetyrant.bandcamp.com ⚛️\n\n#ROTTmetal #Sepulchral #TechnicalDeath #Deathcore #DDDFebOct31 #KMäN",
