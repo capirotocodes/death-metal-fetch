@@ -2,8 +2,86 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz5kn5qns2at",
-  "updatedAt": "2026-10-31T17:55:19.072Z",
+  "updatedAt": "2026-10-31T21:16:29.663Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95824",
+      "text": "Arckanum - Beswærilsin (2026)\nBands: Arckanum | Genres: Black Metal | Countries: SE",
+      "artist": "Arckanum",
+      "title": "Beswærilsin (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95824",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T20:26:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7aRBR9NeP.webp",
+      "createdAt": "2026-10-31T21:16:29.663Z",
+      "source": "deathgrind",
+      "id": 731,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95823",
+      "text": "Devils Gap - Monumental Carnage [EP] (2026)\nBands: Devils Gap | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Devils Gap",
+      "title": "Monumental Carnage [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95823",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T19:28:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEN7ApPmJy.webp",
+      "createdAt": "2026-10-31T21:16:29.663Z",
+      "source": "deathgrind",
+      "id": 730,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95822",
+      "text": "Lone Gunmen - Adrift [EP] (2026)\nBands: Lone Gunmen | Genres: Death Metal, Groove Metal | Countries: DE",
+      "artist": "Lone Gunmen",
+      "title": "Adrift [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Groove Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95822",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T19:09:02.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_odNNnzez.webp",
+      "createdAt": "2026-10-31T21:16:29.663Z",
+      "source": "deathgrind",
+      "id": 729,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95821",
+      "text": "Vomiphilia - La Montagna Del Dio Cannibale [EP] (2026)\nBands: Vomiphilia | Genres: Death Metal, Goregrind | Countries: US",
+      "artist": "Vomiphilia",
+      "title": "La Montagna Del Dio Cannibale [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95821",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T18:50:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnqMMMvX79.webp",
+      "createdAt": "2026-10-31T21:16:29.663Z",
+      "source": "deathgrind",
+      "id": 728,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95820",
       "text": "Goat Rider - Savage Steel [EP] (2025)\nBands: Goat Rider | Genres: Black Metal, Thrash Metal | Countries: CR",
