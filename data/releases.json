@@ -1,9 +1,141 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz3q5lkj5kat",
-  "updatedAt": "2026-10-30T21:06:12.169Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz4xvzimzkat",
+  "updatedAt": "2026-10-31T00:49:19.560Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95788",
+      "text": "Necroseminal Spatter - Sick Ways To Sodomy [EP] (2026)\nBands: Necroseminal Spatter | Genres: Deathgrind | Countries: US",
+      "artist": "Necroseminal Spatter",
+      "title": "Sick Ways To Sodomy [EP] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95788",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T00:15:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLake6W_Na.webp",
+      "createdAt": "2026-10-31T00:49:19.560Z",
+      "source": "deathgrind",
+      "id": 688,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz4xeullxsat",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nARCKANUM - Beswærilsin 🇸🇪⚛️\n\n10th album (9 years on) from Mora, Dalarna, Swedish Black Metal outfit⚛️\n\nBC➡️arckanumdarknessshallrise.bandcamp.com/album/besw-r...⚛️\n\n#Arckanum #Beswaerilsin #BlackMetal #DarknessShallRise #DDDOct31 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz4xeullxsat",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T23:41:26.275Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidjb67nsqzxjcf3g2gc2ewkm5lebzfpzvvzj2fbbm3r7hsyar77zq",
+      "createdAt": "2026-10-31T00:49:18.921Z",
+      "id": 683,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95787",
+      "text": "Enduring Torment - Rotting Souls (2026)\nBands: Enduring Torment | Genres: Brutal Death Metal | Countries: CH, US",
+      "artist": "Enduring Torment",
+      "title": "Rotting Souls (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95787",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T23:27:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjexjqYVwwp.webp",
+      "createdAt": "2026-10-31T00:49:19.560Z",
+      "source": "deathgrind",
+      "id": 687,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz4vlxuov2at",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nMORTGRIM - Evangelium Luciferianum 🇭🇺⚛️\n\n2nd album from Budapest, Hungarian Black Metal project⚛️\n\nBC➡️mortgrim.bandcamp.com ⚛️\n\n#Mortgrim #EvangeliumLuciferianum #BlackMetal #AlexFetzner #DDDOct31 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mz4vlxuov2at",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-10-30T23:09:37.116Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiaabmzetsxq5tckrrdddrxqjsc6gbbnooomondsvd4bf6bhjd2tde",
+      "createdAt": "2026-10-31T00:49:18.921Z",
+      "id": 682,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95786",
+      "text": "Sulfuric Cautery / Group Think - Split [Split] (2026)\nBands: Sulfuric Cautery, Group Think | Genres: Goregrind | Countries: US",
+      "artist": "Sulfuric Cautery / Group Think",
+      "title": "Split [Split] (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95786",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T23:09:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvyW9qEJjy.webp",
+      "createdAt": "2026-10-31T00:49:19.560Z",
+      "source": "deathgrind",
+      "id": 686,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95784",
+      "text": "Putrid Stu - Poopee [EP] (2026)\nBands: Putrid Stu | Genres: Goregrind, Brutal Death Metal | Countries: US",
+      "artist": "Putrid Stu",
+      "title": "Poopee [EP] (2026)",
+      "genres": [
+        "Goregrind",
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95784",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T22:51:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGRZYodMQ-.webp",
+      "createdAt": "2026-10-31T00:49:19.560Z",
+      "source": "deathgrind",
+      "id": 685,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95783",
+      "text": "Septic Womb - Flesh Rot (2026)\nBands: Septic Womb | Genres: Death Metal | Countries: US",
+      "artist": "Septic Womb",
+      "title": "Flesh Rot (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95783",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-30T22:27:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7jm7zbmPBB.webp",
+      "createdAt": "2026-10-31T00:49:19.560Z",
+      "source": "deathgrind",
+      "id": 684,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95776",
       "text": "Soul Devourment / Caassimolar - Scientific Necromancy [Split] (2026)\nBands: Soul Devourment, Caassimolar | Genres: Death Metal | Countries: US, JP",
