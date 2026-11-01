@@ -1,9 +1,29 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz5kn5qns2at",
-  "updatedAt": "2026-10-31T21:16:29.663Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz7gf5ahasw3",
+  "updatedAt": "2026-11-01T00:20:32.026Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95825",
+      "text": "Proclamation - Effortless Dismemberment (2026)\nBands: Proclamation | Genres: Goregrind, Noise | Countries: AR",
+      "artist": "Proclamation",
+      "title": "Effortless Dismemberment (2026)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95825",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-10-31T21:22:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjex8jOLqap.webp",
+      "createdAt": "2026-11-01T00:20:32.026Z",
+      "source": "deathgrind",
+      "id": 732,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95824",
       "text": "Arckanum - Beswærilsin (2026)\nBands: Arckanum | Genres: Black Metal | Countries: SE",
