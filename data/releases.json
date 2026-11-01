@@ -2,8 +2,104 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzaiepyoosw3",
-  "updatedAt": "2026-11-01T13:50:15.851Z",
+  "updatedAt": "2026-11-01T18:49:23.451Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95826",
+      "text": "Bloody Sadism / Pooyan Ahmadi / StaliNO / Datura - Collected Decay [Compilation] (2026)\nBands: Bloody Sadism, Pooyan Ahmadi, StaliNO, Datura | Genres: Brutal Death Metal, Death Metal | Countries: IR, RU",
+      "artist": "Bloody Sadism / Pooyan Ahmadi / StaliNO / Datura",
+      "title": "Collected Decay [Compilation] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95826",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T17:49:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEN7naDEX8.webp",
+      "createdAt": "2026-11-01T18:49:23.451Z",
+      "source": "deathgrind",
+      "id": 750,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95842",
+      "text": "Church Bizarre - Sinister Glorification (2006)\nBands: Church Bizarre | Genres: Blackened Death Metal | Countries: DK",
+      "artist": "Church Bizarre",
+      "title": "Sinister Glorification (2006)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95842",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T17:03:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeR6nXPJMKY.webp",
+      "createdAt": "2026-11-01T18:49:23.451Z",
+      "source": "deathgrind",
+      "id": 749,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95841",
+      "text": "Wrahha - Harbingers Of A Horrid Cleansing [Demo] (2024)\nBands: Wrahha | Genres: Blackened Death Metal | Countries: DE",
+      "artist": "Wrahha",
+      "title": "Harbingers Of A Horrid Cleansing [Demo] (2024)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95841",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T16:19:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnE-Y9AMj6.webp",
+      "createdAt": "2026-11-01T18:49:23.451Z",
+      "source": "deathgrind",
+      "id": 748,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95840",
+      "text": "Vortekke - Vortekke (2026)\nBands: Vortekke | Genres: Goregrind | Countries: NZ",
+      "artist": "Vortekke",
+      "title": "Vortekke (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95840",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T15:50:19.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_NDMAPD8W.webp",
+      "createdAt": "2026-11-01T18:49:23.451Z",
+      "source": "deathgrind",
+      "id": 747,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95839",
+      "text": "Strangulation Furrow - Sick Fantasies Made Flesh [EP] (2026)\nBands: Strangulation Furrow | Genres: Slamming Brutal Death Metal | Countries: RU",
+      "artist": "Strangulation Furrow",
+      "title": "Sick Fantasies Made Flesh [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95839",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T14:19:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxekGRyVABv.webp",
+      "createdAt": "2026-11-01T18:49:23.451Z",
+      "source": "deathgrind",
+      "id": 746,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95838",
       "text": "Fupa Goddess / Acidic Jizz - Dat Fupa Jizz [Split] (2023)\nBands: Fupa Goddess, Acidic Jizz | Genres: Goregrind | Countries: US",
