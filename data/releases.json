@@ -2,8 +2,67 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz7gf5ahasw3",
-  "updatedAt": "2026-11-01T00:20:32.026Z",
+  "updatedAt": "2026-11-01T06:42:04.796Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95833",
+      "text": "Binding Decree - Mala Of Entrails (2026)\nBands: Binding Decree | Genres: Brutal Death Metal | Countries: FR, US",
+      "artist": "Binding Decree",
+      "title": "Mala Of Entrails (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95833",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T06:18:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmDGvXkyAk.webp",
+      "createdAt": "2026-11-01T06:42:04.796Z",
+      "source": "deathgrind",
+      "id": 735,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95831",
+      "text": "Goremaul - Abysmally Irradiated [EP] (2026)\nBands: Goremaul | Genres: Slamming Brutal Death Metal, Goregrind, Instrumental | Countries: RU",
+      "artist": "Goremaul",
+      "title": "Abysmally Irradiated [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Goregrind",
+        "Instrumental"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95831",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T05:33:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKorDpP_QOy.webp",
+      "createdAt": "2026-11-01T06:42:04.796Z",
+      "source": "deathgrind",
+      "id": 734,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95827",
+      "text": "Disfigurement - Dawn Of Impurity [Single] (2026)\nBands: Disfigurement | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Disfigurement",
+      "title": "Dawn Of Impurity [Single] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95827",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T00:26:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6glRlqKDaR.webp",
+      "createdAt": "2026-11-01T06:42:04.796Z",
+      "source": "deathgrind",
+      "id": 733,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95825",
       "text": "Proclamation - Effortless Dismemberment (2026)\nBands: Proclamation | Genres: Goregrind, Noise | Countries: AR",
