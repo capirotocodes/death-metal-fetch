@@ -1,9 +1,204 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mz7gf5ahasw3",
-  "updatedAt": "2026-11-01T06:42:04.796Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzaiepyoosw3",
+  "updatedAt": "2026-11-01T13:50:15.851Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95838",
+      "text": "Fupa Goddess / Acidic Jizz - Dat Fupa Jizz [Split] (2023)\nBands: Fupa Goddess, Acidic Jizz | Genres: Goregrind | Countries: US",
+      "artist": "Fupa Goddess / Acidic Jizz",
+      "title": "Dat Fupa Jizz [Split] (2023)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95838",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T13:39:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnqGpoodP9.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 745,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95837",
+      "text": "Deterioration / Putrid Stu - Deterioration / Putrid Stu [Split] (2023)\nBands: Deterioration, Putrid Stu | Genres: Brutal Death Metal, Grindcore, Goregrind | Countries: US",
+      "artist": "Deterioration / Putrid Stu",
+      "title": "Deterioration / Putrid Stu [Split] (2023)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95837",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T13:38:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQjx_XDVPl.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 744,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95836",
+      "text": "Azaxul - Echoes Of Dreariness (2022)\nBands: Azaxul | Genres: Black Metal | Countries: DE",
+      "artist": "Azaxul",
+      "title": "Echoes Of Dreariness (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95836",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T12:36:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG7mazBlDv.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 743,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95503",
+      "text": "BBYB - deBBYBut (2009)\nBands: BBYB | Genres: Goregrind | Countries: CZ",
+      "artist": "BBYB",
+      "title": "deBBYBut (2009)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95503",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T11:30:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw6ljeOpEQy.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 742,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95835",
+      "text": "Corrupt Dead - The Undeadening [EP] (2026)\nBands: Corrupt Dead | Genres: Death Metal | Countries: US",
+      "artist": "Corrupt Dead",
+      "title": "The Undeadening [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95835",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T09:58:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldjyAvp_dg.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 741,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95834",
+      "text": "Skin - Integrity Through Violence [EP] (2026)\nBands: Skin | Genres: Death Metal, Hardcore | Countries: CA",
+      "artist": "Skin",
+      "title": "Integrity Through Violence [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95834",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T09:50:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnEKQaxnRJ.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 740,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95832",
+      "text": "Guro - Anticristo (2020)\nBands: Guro | Genres: Deathgrind | Countries: BR",
+      "artist": "Guro",
+      "title": "Anticristo (2020)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95832",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T08:11:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbvnw_wQvB.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 739,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95830",
+      "text": "Akkolyte - Clues in the Chaospile (2011)\nBands: Akkolyte | Genres: Grindcore, Thrash Metal | Countries: US",
+      "artist": "Akkolyte",
+      "title": "Clues in the Chaospile (2011)",
+      "genres": [
+        "Grindcore",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95830",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T08:11:29.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOe8vdZBxR.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 738,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95829",
+      "text": "Creamface - Scared, Wet...and Ready (2017)\nBands: Creamface | Genres: Grindcore, Porngrind | Countries: FI",
+      "artist": "Creamface",
+      "title": "Scared, Wet...and Ready (2017)",
+      "genres": [
+        "Grindcore",
+        "Porngrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95829",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T08:11:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGRggJO8oX.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 737,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95828",
+      "text": "Abdominal Pregnancy - Demo 2026\nBands: Abdominal Pregnancy | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Abdominal Pregnancy",
+      "title": "Demo 2026",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95828",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T08:10:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6glpdxDgEP.webp",
+      "createdAt": "2026-11-01T13:50:15.851Z",
+      "source": "deathgrind",
+      "id": 736,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95833",
       "text": "Binding Decree - Mala Of Entrails (2026)\nBands: Binding Decree | Genres: Brutal Death Metal | Countries: FR, US",
