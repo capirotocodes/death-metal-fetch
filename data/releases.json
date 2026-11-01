@@ -1,9 +1,123 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzaiepyoosw3",
-  "updatedAt": "2026-11-01T18:49:23.451Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzbuvp55akw3",
+  "updatedAt": "2026-11-01T22:40:51.553Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzbuvp55akw3",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nSTORMPYRE - On The Throne of a Forgotten God 🇫🇮⚛️\n\nDebut album from Turku, Finnish Black Metal outfit⚛️\n\nBC➡️stormpyre.bandcamp.com/album/on-the...⚛️\n\n#Stormpyre #OnTheThroneOfAForgot #BlackMetal #signal_rex #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzbuvp55akw3",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-01T22:40:28.450Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifass5vsetexv2pujbp7fzqr3z753kl2pt7wkeoo6frf6cozwxmqu",
+      "createdAt": "2026-11-01T22:40:50.632Z",
+      "id": 751,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95847",
+      "text": "Sacroment - New Age Aggression (2026)\nBands: Sacroment | Genres: Technical Death Metal, Blackened Death Metal | Countries: MT",
+      "artist": "Sacroment",
+      "title": "New Age Aggression (2026)",
+      "genres": [
+        "Technical Death Metal",
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95847",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T20:20:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxAoxwvVm8.webp",
+      "createdAt": "2026-11-01T22:40:51.553Z",
+      "source": "deathgrind",
+      "id": 756,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95846",
+      "text": "Gorged - Fucking The Dismembered [Demo] (2026)\nBands: Gorged | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Gorged",
+      "title": "Fucking The Dismembered [Demo] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95846",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T20:13:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlBJeEJ6eq.webp",
+      "createdAt": "2026-11-01T22:40:51.553Z",
+      "source": "deathgrind",
+      "id": 755,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95845",
+      "text": "Fibroma - Reduced To Sawdust (2026)\nBands: Fibroma | Genres: Death Metal | Countries: AR",
+      "artist": "Fibroma",
+      "title": "Reduced To Sawdust (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95845",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T20:09:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGRdNyeRv-.webp",
+      "createdAt": "2026-11-01T22:40:51.553Z",
+      "source": "deathgrind",
+      "id": 754,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95844",
+      "text": "Daemogog - Manifest Pulsing Sequelae (2026)\nBands: Daemogog | Genres: Blackened Death Metal | Countries: CA",
+      "artist": "Daemogog",
+      "title": "Manifest Pulsing Sequelae (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95844",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T19:32:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvymlWvNq9.webp",
+      "createdAt": "2026-11-01T22:40:51.553Z",
+      "source": "deathgrind",
+      "id": 753,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95843",
+      "text": "Bloed - &apos;t Regent [Demo] (2025)\nBands: Bloed | Genres: Blackened Death Metal | Countries: NL",
+      "artist": "Bloed",
+      "title": "&apos;t Regent [Demo] (2025)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95843",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T19:03:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNK9AOexVyV.webp",
+      "createdAt": "2026-11-01T22:40:51.553Z",
+      "source": "deathgrind",
+      "id": 752,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95826",
       "text": "Bloody Sadism / Pooyan Ahmadi / StaliNO / Datura - Collected Decay [Compilation] (2026)\nBands: Bloody Sadism, Pooyan Ahmadi, StaliNO, Datura | Genres: Brutal Death Metal, Death Metal | Countries: IR, RU",
