@@ -1,9 +1,378 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzcp2gkkk2w3",
-  "updatedAt": "2026-11-02T09:11:23.702Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzd3475fw2w3",
+  "updatedAt": "2026-11-02T19:32:05.784Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95870",
+      "text": "Six Brew Bantha - Intravenously Commodified (2014)\nBands: Six Brew Bantha | Genres: Grindcore | Countries: CA",
+      "artist": "Six Brew Bantha",
+      "title": "Intravenously Commodified (2014)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95870",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T19:24:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKorzYJX_zz.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 777,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95869",
+      "text": "Six Brew Bantha - Six Brew Bantha (2012)\nBands: Six Brew Bantha | Genres: Grindcore | Countries: CA",
+      "artist": "Six Brew Bantha",
+      "title": "Six Brew Bantha (2012)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95869",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T19:05:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_NOwqNQxW.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 776,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95868",
+      "text": "Endspace - First Contact (2026)\nBands: Endspace | Genres: Black Metal | Countries: CA",
+      "artist": "Endspace",
+      "title": "First Contact (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95868",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T18:49:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zENMjRjWoy.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 775,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95867",
+      "text": "Where Deprivation Lies - The Seven Agonies (2026)\nBands: Where Deprivation Lies | Genres: Technical Death Metal, Progressive Death Metal | Countries: GB",
+      "artist": "Where Deprivation Lies",
+      "title": "The Seven Agonies (2026)",
+      "genres": [
+        "Technical Death Metal",
+        "Progressive Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95867",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T17:25:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pJjrQzbP9.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 774,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95866",
+      "text": "Carceral - Descending Reprisal (2026)\nBands: Carceral | Genres: Progressive Death Metal, Technical Death Metal, Instrumental | Countries: BR",
+      "artist": "Carceral",
+      "title": "Descending Reprisal (2026)",
+      "genres": [
+        "Progressive Death Metal",
+        "Technical Death Metal",
+        "Instrumental"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95866",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T16:55:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmDdWN8p_A.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 773,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95860",
+      "text": "Dreamless Veil - Every Limb of the Flood (2024)\nBands: Dreamless Veil | Genres: Black Metal | Countries: US",
+      "artist": "Dreamless Veil",
+      "title": "Every Limb of the Flood (2024)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95860",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T16:11:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLaZPO8jnM.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 772,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95865",
+      "text": "Pyromancer - Absolute Dominion by Fire (2025)\nBands: Pyromancer | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Pyromancer",
+      "title": "Absolute Dominion by Fire (2025)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95865",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T15:50:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlBOKyz_AZ.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 771,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95864",
+      "text": "Ready for Death - Pay with Your Face (2025)\nBands: Ready for Death | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Ready for Death",
+      "title": "Pay with Your Face (2025)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95864",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T15:47:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_oAEPqVZ_.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 770,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95863",
+      "text": "Ready for Death - Ready for Death (2022)\nBands: Ready for Death | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Ready for Death",
+      "title": "Ready for Death (2022)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95863",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T15:47:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypo_8wZl9Vd.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 769,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95862",
+      "text": "Chronocide - Meditations (2015)\nBands: Chronocide | Genres: Black Metal, Grindcore | Countries: GB",
+      "artist": "Chronocide",
+      "title": "Meditations (2015)",
+      "genres": [
+        "Black Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95862",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T14:34:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_oZJa_OBB.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 768,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95861",
+      "text": "Chronocide - The Solitude of Man (2010)\nBands: Chronocide | Genres: Black Metal, Grindcore | Countries: GB",
+      "artist": "Chronocide",
+      "title": "The Solitude of Man (2010)",
+      "genres": [
+        "Black Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95861",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T14:30:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqNMM6MZjk.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 767,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95855",
+      "text": "HateSphere - Guillotine (2026)\nBands: HateSphere | Genres: Death Metal, Thrash Metal | Countries: DK",
+      "artist": "HateSphere",
+      "title": "Guillotine (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95855",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T13:06:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNK9QQrAnKY.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 766,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95854",
+      "text": "Hatchling - Spectral Contingency (2026)\nBands: Hatchling | Genres: Death Metal | Countries: US",
+      "artist": "Hatchling",
+      "title": "Spectral Contingency (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95854",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T13:01:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWmKXMnRVv.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 765,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95849",
+      "text": "Oxyphotobacteria Cyanobacterium / Infester - 2 Ways Split [Split] (2020)\nBands: Oxyphotobacteria Cyanobacterium, Infester | Genres: Goregrind | Countries: AR, US",
+      "artist": "Oxyphotobacteria Cyanobacterium / Infester",
+      "title": "2 Ways Split [Split] (2020)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95849",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T12:57:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbvLvwZEgb.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 764,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95848",
+      "text": "Bowel Rot - All You Need Is Hate (2013)\nBands: Bowel Rot | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Bowel Rot",
+      "title": "All You Need Is Hate (2013)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95848",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T12:56:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pJLG7eWlX.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 763,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95852",
+      "text": "Nekrarchon - Gehinnam (2016)\nBands: Nekrarchon | Genres: Blackened Death Metal | Countries: GR",
+      "artist": "Nekrarchon",
+      "title": "Gehinnam (2016)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95852",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T11:58:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8pp7GnGVA.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 762,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95858",
+      "text": "Glacial Tomb - Glacial Tomb (2018)\nBands: Glacial Tomb | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Glacial Tomb",
+      "title": "Glacial Tomb (2018)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95858",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T11:21:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxekXmlN_pk.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 761,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95856",
+      "text": "Crossed - Loathsome In Every Respect (2026)\nBands: Crossed | Genres: Grindcore | Countries: AU",
+      "artist": "Crossed",
+      "title": "Loathsome In Every Respect (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95856",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T10:29:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnqQ7QKonV.webp",
+      "createdAt": "2026-11-02T19:32:05.784Z",
+      "source": "deathgrind",
+      "id": 760,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzd2eyrz2sw3",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 27th, 2026⬅️\n\nNECROSHADE - The Last Dawn [EP] 🇫🇷⚛️\n\n6-track EP from Lille, French Death Metal outfit⚛️\n\nBC➡️cryptofdrgore.bandcamp.com/album/the-la...⚛️\n\n#Necroshade #TheLastDawn #DeathMetal #CryptofDrGore #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzd2eyrz2sw3",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-02T09:51:10.335Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifpl2sciajixrhgkxk4xy5difli3lgsgdf3wcfsm2577kqvvtgjem",
+      "createdAt": "2026-11-02T19:32:04.301Z",
+      "id": 759,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95850",
       "text": "Torn in Half - Demo 1995 [Demo] (2018)\nBands: Torn in Half | Genres: Death Metal | Countries: US",
