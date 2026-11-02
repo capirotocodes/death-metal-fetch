@@ -2,8 +2,47 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzbuvp55akw3",
-  "updatedAt": "2026-11-01T22:40:51.553Z",
+  "updatedAt": "2026-11-02T01:51:41.592Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95850",
+      "text": "Torn in Half - Demo 1995 [Demo] (2018)\nBands: Torn in Half | Genres: Death Metal | Countries: US",
+      "artist": "Torn in Half",
+      "title": "Demo 1995 [Demo] (2018)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95850",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T23:18:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_Nq8kPYK_.webp",
+      "createdAt": "2026-11-02T01:51:41.592Z",
+      "source": "deathgrind",
+      "id": 758,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95851",
+      "text": "Grotesque Deformity - Cirugía macabra [EP] (2010)\nBands: Grotesque Deformity | Genres: Brutal Death Metal, Goregrind | Countries: VE",
+      "artist": "Grotesque Deformity",
+      "title": "Cirugía macabra [EP] (2010)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95851",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-01T23:18:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjexyGAWDNd.webp",
+      "createdAt": "2026-11-02T01:51:41.592Z",
+      "source": "deathgrind",
+      "id": 757,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzbuvp55akw3",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nSTORMPYRE - On The Throne of a Forgotten God 🇫🇮⚛️\n\nDebut album from Turku, Finnish Black Metal outfit⚛️\n\nBC➡️stormpyre.bandcamp.com/album/on-the...⚛️\n\n#Stormpyre #OnTheThroneOfAForgot #BlackMetal #signal_rex #TheUpcomingTerror26 #KMäN",
