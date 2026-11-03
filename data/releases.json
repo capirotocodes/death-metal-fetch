@@ -1,9 +1,144 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzfidx7e4s45",
-  "updatedAt": "2026-11-03T09:17:23.122Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzfltam47245",
+  "updatedAt": "2026-11-03T17:15:26.327Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95885",
+      "text": "Abolishment Of Flesh - In The Presence Of Darkness (2021)\nBands: Abolishment Of Flesh | Genres: Death Metal, Technical Death Metal | Countries: US",
+      "artist": "Abolishment Of Flesh",
+      "title": "In The Presence Of Darkness (2021)",
+      "genres": [
+        "Death Metal",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95885",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T15:08:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvjWJEpnrd.webp",
+      "createdAt": "2026-11-03T17:15:26.327Z",
+      "source": "deathgrind",
+      "id": 794,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95436",
+      "text": "Nervochaos - Chaosmongers (2026)\nBands: Nervochaos | Genres: Death Metal | Countries: BR",
+      "artist": "Nervochaos",
+      "title": "Chaosmongers (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95436",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T14:08:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KGnA7y-KBd.webp",
+      "createdAt": "2026-11-03T17:15:26.327Z",
+      "source": "deathgrind",
+      "id": 793,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95884",
+      "text": "Ashes - On My Cursed Grave (2020)\nBands: Ashes | Genres: Death Metal | Countries: PL",
+      "artist": "Ashes",
+      "title": "On My Cursed Grave (2020)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95884",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T13:56:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJk78a8_wBE.webp",
+      "createdAt": "2026-11-03T17:15:26.327Z",
+      "source": "deathgrind",
+      "id": 792,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95883",
+      "text": "Torn Apart - Demo 2025\nBands: Torn Apart | Genres: Brutal Death Metal, Hardcore | Countries: GB",
+      "artist": "Torn Apart",
+      "title": "Demo 2025",
+      "genres": [
+        "Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95883",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T13:36:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbX8rxgjvb.webp",
+      "createdAt": "2026-11-03T17:15:26.327Z",
+      "source": "deathgrind",
+      "id": 791,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95881",
+      "text": "Klaïton - A Celebration Of Pain [EP] (2026)\nBands: Klaïton | Genres: Death Metal | Countries: NL",
+      "artist": "Klaïton",
+      "title": "A Celebration Of Pain [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95881",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T13:22:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOBaoPrnxQ.webp",
+      "createdAt": "2026-11-03T17:15:26.327Z",
+      "source": "deathgrind",
+      "id": 790,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95875",
+      "text": "Darkthrone - Under A Funeral Moon [Reissue] (2003)\nBands: Darkthrone | Genres: Black Metal | Countries: NO",
+      "artist": "Darkthrone",
+      "title": "Under A Funeral Moon [Reissue] (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95875",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T12:31:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw69Pg8yMRl.webp",
+      "createdAt": "2026-11-03T17:15:26.327Z",
+      "source": "deathgrind",
+      "id": 789,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95876",
+      "text": "Darkthrone - Transilvanian Hunger [Remastered] (2014)\nBands: Darkthrone | Genres: Black Metal | Countries: NO",
+      "artist": "Darkthrone",
+      "title": "Transilvanian Hunger [Remastered] (2014)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95876",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T12:31:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxlYNpPEne.webp",
+      "createdAt": "2026-11-03T17:15:26.327Z",
+      "source": "deathgrind",
+      "id": 788,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzfidx7e4s45",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 18th, 2026⬅️\n\nNΩX - Stases 🇫🇷⚛️\n\nDebut album from French Dissonant Black Metal project⚛️*Vindsval of Blut Aus Nord\n\nBC➡️blutausnord.bandcamp.com/album/stases ⚛️\n\n#NOX #Stases #DissonantBlackMetal #BlutAusNord #TheUpcomingTerror26 #KMäN",
