@@ -1,9 +1,66 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzd3475fw2w3",
-  "updatedAt": "2026-11-02T19:32:05.784Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mze4rp7ewcw3",
+  "updatedAt": "2026-11-03T01:49:52.999Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95874",
+      "text": "Abominog - Chaos Unleashed (2026 Mix) [Remastered] (2026)\nBands: Abominog | Genres: Death Metal | Countries: US",
+      "artist": "Abominog",
+      "title": "Chaos Unleashed (2026 Mix) [Remastered] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95874",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T20:30:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLaY8-v9qp.webp",
+      "createdAt": "2026-11-03T01:49:52.999Z",
+      "source": "deathgrind",
+      "id": 780,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95872",
+      "text": "Suffering Mind - Waste Farm (2015)\nBands: Suffering Mind | Genres: Grindcore | Countries: PL",
+      "artist": "Suffering Mind",
+      "title": "Waste Farm (2015)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95872",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T20:07:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxekpOwE-pv.webp",
+      "createdAt": "2026-11-03T01:49:52.999Z",
+      "source": "deathgrind",
+      "id": 779,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95871",
+      "text": "Suffering Mind / Six Brew Bantha - Suffering Mind / Six Brew Bantha [Split] (2013)\nBands: Suffering Mind, Six Brew Bantha | Genres: Grindcore | Countries: PL, CA",
+      "artist": "Suffering Mind / Six Brew Bantha",
+      "title": "Suffering Mind / Six Brew Bantha [Split] (2013)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95871",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-02T19:38:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpnEZqJORVZ.webp",
+      "createdAt": "2026-11-03T01:49:52.999Z",
+      "source": "deathgrind",
+      "id": 778,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95870",
       "text": "Six Brew Bantha - Intravenously Commodified (2014)\nBands: Six Brew Bantha | Genres: Grindcore | Countries: CA",
