@@ -1,9 +1,65 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzfltam47245",
-  "updatedAt": "2026-11-03T17:15:26.327Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzgubjrsms45",
+  "updatedAt": "2026-11-03T22:23:00.809Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzgraxcp3245",
+      "text": "👑MOUNTAIN KINGS3⃣6⃣0⃣👑\n\nOPETH - My Arms, Your Hearse 🇸🇪 (1998)\n\nA crucial transitional album, MAYH pushed the band deeper into progressive territory without sacrificing its Death Metal ferocity. This was Opeth sharpening and tightening its progressive vision. #MK360👑",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzgraxcp3245",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-03T21:18:29.844Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiaotd3wsulphszenjyjua3cbskzgxmidzqyth4f4x3fpv7uvgkpxy",
+      "createdAt": "2026-11-03T22:23:00.256Z",
+      "id": 795,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95887",
+      "text": "Horrification - Where Maggots Crawl (2026)\nBands: Horrification | Genres: Death Metal | Countries: PT",
+      "artist": "Horrification",
+      "title": "Where Maggots Crawl (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95887",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T21:03:29.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/gMQE6pyaZGY.webp",
+      "createdAt": "2026-11-03T22:23:00.809Z",
+      "source": "deathgrind",
+      "id": 797,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95886",
+      "text": "Suffering Mind - Messiah Of Extermination [Compilation] (2015)\nBands: Suffering Mind | Genres: Grindcore | Countries: PL",
+      "artist": "Suffering Mind",
+      "title": "Messiah Of Extermination [Compilation] (2015)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95886",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-03T17:17:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKxkJvygp6.webp",
+      "createdAt": "2026-11-03T22:23:00.809Z",
+      "source": "deathgrind",
+      "id": 796,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95885",
       "text": "Abolishment Of Flesh - In The Presence Of Darkness (2021)\nBands: Abolishment Of Flesh | Genres: Death Metal, Technical Death Metal | Countries: US",
