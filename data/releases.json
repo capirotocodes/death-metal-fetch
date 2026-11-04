@@ -1,9 +1,88 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzhpswtib245",
-  "updatedAt": "2026-11-04T17:53:44.698Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzj5bxxovc45",
+  "updatedAt": "2026-11-04T23:29:18.317Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95899",
+      "text": "Offal Grinder - Pummeled Steaming Grey Matter Splatter [EP] (2026)\nBands: Offal Grinder | Genres: Death Metal, Goregrind | Countries: GB",
+      "artist": "Offal Grinder",
+      "title": "Pummeled Steaming Grey Matter Splatter [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95899",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T19:32:16.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/YxymVGONajX.webp",
+      "createdAt": "2026-11-04T23:29:18.317Z",
+      "source": "deathgrind",
+      "id": 811,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95897",
+      "text": "Crucifixed - Crucifixed [Demo] (2026)\nBands: Crucifixed | Genres: Blackened Death Metal, Crust | Countries: US",
+      "artist": "Crucifixed",
+      "title": "Crucifixed [Demo] (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95897",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T18:32:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG_jZNAeDa.webp",
+      "createdAt": "2026-11-04T23:29:18.317Z",
+      "source": "deathgrind",
+      "id": 810,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95896",
+      "text": "Hinterkaifeck - Iniquitous Foul (2021)\nBands: Hinterkaifeck | Genres: Blackened Death Metal, Grindcore | Countries: AU",
+      "artist": "Hinterkaifeck",
+      "title": "Iniquitous Foul (2021)",
+      "genres": [
+        "Blackened Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95896",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T18:22:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG_jdbrzXd.webp",
+      "createdAt": "2026-11-04T23:29:18.317Z",
+      "source": "deathgrind",
+      "id": 809,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95889",
+      "text": "Griefspell - Enchantments of Dark Eternity (2022)\nBands: Griefspell | Genres: Black Metal | Countries: US",
+      "artist": "Griefspell",
+      "title": "Enchantments of Dark Eternity (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95889",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T18:06:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxeM9lz7r7R.webp",
+      "createdAt": "2026-11-04T23:29:18.317Z",
+      "source": "deathgrind",
+      "id": 808,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95894",
       "text": "Aztec Vampires - Macabre Tales Of Death And Darkness (2026)\nBands: Aztec Vampires | Genres: Death Metal | Countries: IT",
@@ -17,7 +96,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-04T17:52:18.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/EB7MY-z-RAD.webp",
+      "coverUrl": "covers/EB7MY-z-RAD.webp",
       "createdAt": "2026-11-04T17:53:44.698Z",
       "source": "deathgrind",
       "id": 807,
