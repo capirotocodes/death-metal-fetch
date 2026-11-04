@@ -1,9 +1,67 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzgubjrsms45",
-  "updatedAt": "2026-11-03T22:23:00.809Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzhpswtib245",
+  "updatedAt": "2026-11-04T09:54:28.439Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95891",
+      "text": "Federal Death Alliance - Nothing Sacred Survives (2026)\nBands: Federal Death Alliance | Genres: Deathcore | Countries: GB, US",
+      "artist": "Federal Death Alliance",
+      "title": "Nothing Sacred Survives (2026)",
+      "genres": [
+        "Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95891",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T08:58:08.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/beLyRKezQnW.webp",
+      "createdAt": "2026-11-04T09:54:28.439Z",
+      "source": "deathgrind",
+      "id": 800,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95890",
+      "text": "Volatile Ways - Is Going To Kill You [Single] (2026)\nBands: Volatile Ways | Genres: Brutal Death Metal, Beatdown Hardcore, Deathcore | Countries: AU",
+      "artist": "Volatile Ways",
+      "title": "Is Going To Kill You [Single] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Beatdown Hardcore",
+        "Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95890",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T08:27:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJznGZ-Y9Jw.webp",
+      "createdAt": "2026-11-04T09:54:28.439Z",
+      "source": "deathgrind",
+      "id": 799,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzhpswtib245",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 18th, 2026⬅️\n\nMORBIDITY - Cemetery Onslaught 🇺🇸⚛️\n\nDebut album from Chicago, Illinois, U.S. Death Metal outfit⚛️\n\nBC➡️morbiditydm.bandcamp.com/track/bursti...⚛️*\n\n#Morbidity #CemeteryOnslaught #DeathMetal #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzhpswtib245",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-04T06:25:25.580Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiacbmy3sf3adiexg4xsp7c53zmnu6ee5zslynndizmkefytcr5vbu",
+      "createdAt": "2026-11-04T09:54:27.977Z",
+      "id": 798,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzgraxcp3245",
       "text": "👑MOUNTAIN KINGS3⃣6⃣0⃣👑\n\nOPETH - My Arms, Your Hearse 🇸🇪 (1998)\n\nA crucial transitional album, MAYH pushed the band deeper into progressive territory without sacrificing its Death Metal ferocity. This was Opeth sharpening and tightening its progressive vision. #MK360👑",
@@ -35,7 +93,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-03T21:03:29.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/gMQE6pyaZGY.webp",
+      "coverUrl": "covers/gMQE6pyaZGY.webp",
       "createdAt": "2026-11-03T22:23:00.809Z",
       "source": "deathgrind",
       "id": 797,
