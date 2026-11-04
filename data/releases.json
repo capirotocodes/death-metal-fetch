@@ -2,8 +2,144 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzhpswtib245",
-  "updatedAt": "2026-11-04T09:54:28.439Z",
+  "updatedAt": "2026-11-04T17:53:44.698Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95894",
+      "text": "Aztec Vampires - Macabre Tales Of Death And Darkness (2026)\nBands: Aztec Vampires | Genres: Death Metal | Countries: IT",
+      "artist": "Aztec Vampires",
+      "title": "Macabre Tales Of Death And Darkness (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95894",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T17:52:18.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/EB7MY-z-RAD.webp",
+      "createdAt": "2026-11-04T17:53:44.698Z",
+      "source": "deathgrind",
+      "id": 807,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95882",
+      "text": "VA - Nordic Metal: A Tribute To Euronymous [Compilation] (1995)\nBands: VA | Genres: Black Metal",
+      "artist": "VA",
+      "title": "Nordic Metal: A Tribute To Euronymous [Compilation] (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95882",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T17:46:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8XdvYpnvj.webp",
+      "createdAt": "2026-11-04T17:53:44.698Z",
+      "source": "deathgrind",
+      "id": 806,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95880",
+      "text": "VA - True Kings Of Norway [Split] (2000)\nBands: Emperor, Dimmu Borgir, Immortal, Arcturus, Ancient | Genres: Symphonic Black Metal, Black Metal, Melodic Black Metal | Countries: NO",
+      "artist": "VA",
+      "title": "True Kings Of Norway [Split] (2000)",
+      "genres": [
+        "Symphonic Black Metal",
+        "Black Metal",
+        "Melodic Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95880",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T17:45:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zER6j6DX7Y.webp",
+      "createdAt": "2026-11-04T17:53:44.698Z",
+      "source": "deathgrind",
+      "id": 805,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95893",
+      "text": "Vomiting - Cadaveric Molestation [EP] (2026)\nBands: Vomiting | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Vomiting",
+      "title": "Cadaveric Molestation [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95893",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T17:38:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pXrkwMMr-.webp",
+      "createdAt": "2026-11-04T17:53:44.698Z",
+      "source": "deathgrind",
+      "id": 804,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95888",
+      "text": "2 Minuta Dreka / Mixomatosis - Welcome To The Vaseline Rodeo / Mixomatosis [Reissue] (2022)\nBands: 2 Minuta Dreka, Mixomatosis | Genres: Goregrind, Porngrind | Countries: MX",
+      "artist": "2 Minuta Dreka / Mixomatosis",
+      "title": "Welcome To The Vaseline Rodeo / Mixomatosis [Reissue] (2022)",
+      "genres": [
+        "Goregrind",
+        "Porngrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95888",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T15:40:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJznW-_MPZK.webp",
+      "createdAt": "2026-11-04T17:53:44.698Z",
+      "source": "deathgrind",
+      "id": 803,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95892",
+      "text": "Misanthropic Carnage - Demo 2008\nBands: Misanthropic Carnage | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Misanthropic Carnage",
+      "title": "Demo 2008",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95892",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T15:39:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9MWBnJKwz.webp",
+      "createdAt": "2026-11-04T17:53:44.698Z",
+      "source": "deathgrind",
+      "id": 802,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94744",
+      "text": "Nihilo - Abyss (2026)\nBands: Nihilo | Genres: Death Metal | Countries: CH",
+      "artist": "Nihilo",
+      "title": "Abyss (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94744",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-04T13:57:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVKJrdRqnx.webp",
+      "createdAt": "2026-11-04T17:53:44.698Z",
+      "source": "deathgrind",
+      "id": 801,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95891",
       "text": "Federal Death Alliance - Nothing Sacred Survives (2026)\nBands: Federal Death Alliance | Genres: Deathcore | Countries: GB, US",
@@ -17,7 +153,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-04T08:58:08.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/beLyRKezQnW.webp",
+      "coverUrl": "covers/beLyRKezQnW.webp",
       "createdAt": "2026-11-04T09:54:28.439Z",
       "source": "deathgrind",
       "id": 800,
