@@ -2,8 +2,207 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzkn5gfrmki5",
-  "updatedAt": "2026-11-05T11:36:19.217Z",
+  "updatedAt": "2026-11-05T19:01:49.460Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95903",
+      "text": "Ilsa - Corpse Fortress (2018)\nBands: Ilsa | Genres: Death Metal, Doom Metal, Crust | Countries: US",
+      "artist": "Ilsa",
+      "title": "Corpse Fortress (2018)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95903",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T18:56:31.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/pxbXnRxZxWz.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 837,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95920",
+      "text": "Skeletal Earth - Dreighphuck [EP] (1993)\nBands: Skeletal Earth | Genres: Death Metal, Thrash Metal, Crust | Countries: US",
+      "artist": "Skeletal Earth",
+      "title": "Dreighphuck [EP] (1993)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95920",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T17:22:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6XoMpzELz.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 836,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95922",
+      "text": "Split Second - Hunger For Violence [EP] (2026)\nBands: Split Second | Genres: Grindcore, Hardcore | Countries: HU",
+      "artist": "Split Second",
+      "title": "Hunger For Violence [EP] (2026)",
+      "genres": [
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95922",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T16:42:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQEkZxyeD7.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 835,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95921",
+      "text": "Nurser - Inherent (2026)\nBands: Nurser | Genres: Deathgrind | Countries: US",
+      "artist": "Nurser",
+      "title": "Inherent (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95921",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T16:06:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvjwbmaB7-.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 834,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95919",
+      "text": "Wingless - Vision Beyond Form (2026)\nBands: Wingless | Genres: Death Metal | Countries: PL",
+      "artist": "Wingless",
+      "title": "Vision Beyond Form (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95919",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T14:01:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG_n6pb9wx.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 833,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95918",
+      "text": "Monastery - Revenge Is Mine (2026)\nBands: Monastery | Genres: Death Metal | Countries: HU",
+      "artist": "Monastery",
+      "title": "Revenge Is Mine (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95918",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T13:52:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxymePv-Rap.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 832,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95914",
+      "text": "Skeletal Earth - Dē.ĕv&apos;ṓ.lū&apos;shŭn (1994)\nBands: Skeletal Earth | Genres: Death Metal, Thrash Metal, Crust | Countries: US",
+      "artist": "Skeletal Earth",
+      "title": "Dē.ĕv&apos;ṓ.lū&apos;shŭn (1994)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95914",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T13:47:12.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7MmKVpzgP.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 831,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95915",
+      "text": "Misanthropic Carnage - Promo 2008\nBands: Misanthropic Carnage | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Misanthropic Carnage",
+      "title": "Promo 2008",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95915",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T13:46:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvja-mjNjd.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 830,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95917",
+      "text": "Only Worms Left - Beneath The Earth, At One With Fear (2026)\nBands: Only Worms Left | Genres: Blackened Death Metal, Doom Metal | Countries: DE",
+      "artist": "Only Worms Left",
+      "title": "Beneath The Earth, At One With Fear (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95917",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T13:34:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoXLRjebGL.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 829,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95916",
+      "text": "Grand Harvest - Home (2026)\nBands: Grand Harvest | Genres: Death Metal, Doom Metal | Countries: SE",
+      "artist": "Grand Harvest",
+      "title": "Home (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95916",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T13:27:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlXLEoyQKP.webp",
+      "createdAt": "2026-11-05T19:01:49.460Z",
+      "source": "deathgrind",
+      "id": 828,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95912",
       "text": "Skeletal Earth - Eulogy For A Dying Fetus (1991)\nBands: Skeletal Earth | Genres: Death Metal, Thrash Metal, Crust | Countries: US",
@@ -19,7 +218,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-05T11:34:56.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/aNKx_Rr_y-L.webp",
+      "coverUrl": "covers/aNKx_Rr_y-L.webp",
       "createdAt": "2026-11-05T11:36:19.217Z",
       "source": "deathgrind",
       "id": 827,
