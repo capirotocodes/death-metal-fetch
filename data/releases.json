@@ -1,9 +1,311 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzj5bxxovc45",
-  "updatedAt": "2026-11-04T23:29:18.317Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzkn5gfrmki5",
+  "updatedAt": "2026-11-05T11:36:19.217Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95912",
+      "text": "Skeletal Earth - Eulogy For A Dying Fetus (1991)\nBands: Skeletal Earth | Genres: Death Metal, Thrash Metal, Crust | Countries: US",
+      "artist": "Skeletal Earth",
+      "title": "Eulogy For A Dying Fetus (1991)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95912",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T11:34:56.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/aNKx_Rr_y-L.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 827,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95913",
+      "text": "Entomophthora - Instinctual Disease (2024)\nBands: Entomophthora | Genres: Death Metal | Countries: NO",
+      "artist": "Entomophthora",
+      "title": "Instinctual Disease (2024)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95913",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T11:34:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pXZJ89wbV.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 826,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzklfbyr4ci5",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 26th, 2026⬅️\n\nNYRAK - Empires of Ash 🇧🇪⚛️\n\n4th album from Belgian Atmospheric Black Metal outfit⚛️\n\nBC➡️voidwandererproductions.bandcamp.com/album/empire...⚛️*New Track\n\n#Nyrak #EmpiresOfAsh #AtmosphericBlackMetal #BlackMetal #VWProd #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzklfbyr4ci5",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-05T09:44:11.773Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiey4gp6l244tmpyaxwtgpzrjt2dvlplwr57ibr5oufug4igpjxzsa",
+      "createdAt": "2026-11-05T11:36:17.012Z",
+      "id": 816,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzkjvc5twsi5",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️January 8th, 2027⬅️\n\nILLUSION OF FATE - Exsanguination EP [EP] 🇺🇸💢\n\n3 Track EP from Milwaukee, WI, U.S. Blackened Symphonic Death Metal outfit💢\n\nBC➡️illusionoffate.bandcamp.com/track/soulle...💢*\n\n#IllusionOfFate #ExsanguinationEP #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzkjvc5twsi5",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-05T09:17:21.327Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicf5gi45u7yotnt4t566r2twb45ipd6yy7p7eajf4kon7opym4wie",
+      "createdAt": "2026-11-05T11:36:17.012Z",
+      "id": 815,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzkj7c3sysi5",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️November 13th, 2026⬅️\n\nVIROLOGIST - Subjugation of Anthropoid Forms 🇺🇸⚛️\n\nDebut album from Simi Valley, CA, U.S. Brutal Death Metal outfit⚛️\n\nYT➡️youtu.be/8UkgYng6ZYk...⚛️*NT\n\n#Virologist #Subjugation #BrutalDeath #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzkj7c3sysi5",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-05T09:05:03.063Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihcl27wrfpzs5ns4mytc5ymevuw2rcl6dy2r754ior3fhlytuusqq",
+      "createdAt": "2026-11-05T11:36:17.012Z",
+      "id": 814,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzkinpwayci5",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nSACROMENT - New Age Aggression 🇲🇹⚛️\n\nDebut album from Maltese Brutal/Technical Death Metal outfit⚛️\n\nBC➡️elevaterecords1.bandcamp.com/album/new-ag...⚛️\n\n#Sacroment #NewAgeAggression #BrutalTechnicalDeathMetal #ElevateRecords #DDDOct31 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzkinpwayci5",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-05T08:55:13.581Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicg7v54g3phkpodfvs5qnn4k3og7o6zfhm4evaojovkd7owg47ogm",
+      "createdAt": "2026-11-05T11:36:17.012Z",
+      "id": 813,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzkieebh6si5",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nHELLSENT - Graveyard Harvest 🇷🇴⚛️\n\nReissued Debut (Aug '26) album from Bucharest, Romanian Death Metal outfit⚛️\n\nBC➡️blacksheeproll.bandcamp.com/album/gravey...⚛️\n\n#Hellsent #GraveyardHarvest #DeathMetal #Blacksheep #DDDNov4 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzkieebh6si5",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-05T08:49:59.375Z",
+      "notified": true,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiclarmorclrjz6l2xgjdnf47twajmd2jd2cy3tvemwnzbqszxhjb4",
+      "createdAt": "2026-11-05T11:36:17.012Z",
+      "id": 812,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95904",
+      "text": "Fulminate - Condemned to Insufferable Subjugation [Demo] (2023)\nBands: Fulminate | Genres: Goregrind | Countries: US",
+      "artist": "Fulminate",
+      "title": "Condemned to Insufferable Subjugation [Demo] (2023)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95904",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T08:26:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxle-Yb6Ka.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 825,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95902",
+      "text": "Homewrecker - Circle Of Death (2014)\nBands: Homewrecker | Genres: Death Metal | Countries: US",
+      "artist": "Homewrecker",
+      "title": "Circle Of Death (2014)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95902",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T08:25:27.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7j6KogoGNJ.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 824,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95911",
+      "text": "Mortuaire - Fléau Du Cosmos (2026)\nBands: Mortuaire | Genres: Death Metal, Doom Metal | Countries: FR",
+      "artist": "Mortuaire",
+      "title": "Fléau Du Cosmos (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95911",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T08:11:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbX-Bd7Nvd.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 823,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95910",
+      "text": "Delusional Violence - Deranged Desires [EP] (2026)\nBands: Delusional Violence | Genres: Slamming Brutal Deathcore | Countries: US",
+      "artist": "Delusional Violence",
+      "title": "Deranged Desires [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95910",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T04:17:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8Xyelb_7y.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 822,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95909",
+      "text": "Thermonuclear Abomination - Always Death [Demo] (2026)\nBands: Thermonuclear Abomination | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Thermonuclear Abomination",
+      "title": "Always Death [Demo] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95909",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T04:16:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRVyobMeWY.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 821,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95908",
+      "text": "Thermonuclear Abomination - Depravity Prevails (2026)\nBands: Thermonuclear Abomination | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Thermonuclear Abomination",
+      "title": "Depravity Prevails (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95908",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T04:16:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmZEk9bqLB.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 820,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95907",
+      "text": "Abolishment Of Flesh - Abolishment Of Flesh (2008)\nBands: Abolishment Of Flesh | Genres: Death Metal | Countries: US",
+      "artist": "Abolishment Of Flesh",
+      "title": "Abolishment Of Flesh (2008)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95907",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T04:15:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQEVg6bQoY.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 819,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95906",
+      "text": "Federal Death Alliance - Ashen Paradise [EP] (2026)\nBands: Federal Death Alliance | Genres: Brutal Deathcore | Countries: GB",
+      "artist": "Federal Death Alliance",
+      "title": "Ashen Paradise [EP] (2026)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95906",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T04:15:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw6MLxgqzPK.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 818,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95905",
+      "text": "Federal Death Alliance - Leave No Trace Of Human Life [EP] (2025)\nBands: Federal Death Alliance | Genres: Brutal Deathcore | Countries: GB",
+      "artist": "Federal Death Alliance",
+      "title": "Leave No Trace Of Human Life [EP] (2025)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95905",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T04:15:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRVyxpgodR.webp",
+      "createdAt": "2026-11-05T11:36:19.217Z",
+      "source": "deathgrind",
+      "id": 817,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95899",
       "text": "Offal Grinder - Pummeled Steaming Grey Matter Splatter [EP] (2026)\nBands: Offal Grinder | Genres: Death Metal, Goregrind | Countries: GB",
@@ -18,7 +320,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-04T19:32:16.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/YxymVGONajX.webp",
+      "coverUrl": "covers/YxymVGONajX.webp",
       "createdAt": "2026-11-04T23:29:18.317Z",
       "source": "deathgrind",
       "id": 811,
