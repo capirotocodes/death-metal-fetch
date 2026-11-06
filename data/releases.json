@@ -1,9 +1,345 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmgts4nnl2s",
-  "updatedAt": "2026-11-06T07:15:00.657Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mznab7htwsjb",
+  "updatedAt": "2026-11-06T15:11:34.401Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95934",
+      "text": "Carnifex - More Than Misery (2026)\nBands: Carnifex | Genres: Deathcore | Countries: US",
+      "artist": "Carnifex",
+      "title": "More Than Misery (2026)",
+      "genres": [
+        "Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95934",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T14:38:09.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/gMQENybPLAd.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 871,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95933",
+      "text": "Heinous Killings - Thou Will Suffer [Compilation] (2026)\nBands: Heinous Killings | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Heinous Killings",
+      "title": "Thou Will Suffer [Compilation] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95933",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T12:15:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbXYOvaXOA.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 870,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95932",
+      "text": "Övervåld - I Förbund Med Omoralen (2026)\nBands: Övervåld | Genres: Blackened Death Metal, Crust | Countries: SE",
+      "artist": "Övervåld",
+      "title": "I Förbund Med Omoralen (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95932",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T12:11:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnayPmwO6Y.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 869,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94483",
+      "text": "Violence Only - Violence Only [EP] (2026)\nBands: Violence Only | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Violence Only",
+      "title": "Violence Only [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94483",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T12:08:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLgZDKdXDW.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 868,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94541",
+      "text": "Obbrobrius - Usurped (2026)\nBands: Obbrobrius | Genres: Death Metal | Countries: IT",
+      "artist": "Obbrobrius",
+      "title": "Usurped (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94541",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T12:07:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxyRXKdDg8V.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 867,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn7xoy26kjb",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 1st, 2026⬅️\n\nSARNATH ETERNAL - Hymns of the Darker Paths 🇺🇦⚛️\n\n2nd album from Kharkiv, Ukrainian Black Metal outfit⚛️\n\nBC➡️archaic-sound.bandcamp.com/album/hymns-...⚛️\n\n#SarnathEternal #HymnsOfTheDarkerPaths #BlackMetal  #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn7xoy26kjb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T10:57:43.674Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifoqsfvbm7wmih7qi2lxaho7thzbpoo3frbcb2nktekuts3c6o7je",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 862,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn6fql6j2jb",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 20th, 2026⬅️\n\nBODYFARM - Battle Breed [Reissue] 🇳🇱⚛️\n\nReissued 3rd album ('15) from Amersfoort, Dutch Death Metal outfit⚛️\n\nBC➡️edgedcircleproductions.bandcamp.com/album/battle...⚛️\n\n#Bodyfarm #BattleBreed #DeathMetal #EdgedCircle #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn6fql6j2jb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T10:29:47.628Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiavdqllwheet5mjwskg233offekbkv4vy4yhxttitrpkfgovnwso4",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 861,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn5z6wggcjb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th ENCORE!🎧\n\nÖVERVÅLD - I Förbund Med Omoralen 🇸🇪⚛️\n\nDebut album from Sundsvall, Swedish Blackened Death Metal outfit⚛️\n\nBC➡️chaos-records.bandcamp.com/album/i-f-rb...⚛️\n\n#Overvald #IForbundMedOmoralen #BlackenedDeathMetal #ChaosRecs #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn5z6wggcjb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T10:22:46.469Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreig62fzpcbpmrmh25kvz4ffoe33uh26n3pdbd4l7og5xscd4xvxg7u",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 860,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn5go7kxsjb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th ENCORE!🎧\n\nHEXABROT - Live in Pesaro 2026 🇮🇹⚛️\n\n5 Track live release from Turin, Italian Progressive/Melodic Death Metal outfit⚛️\n\nBC➡️hexabrot.bandcamp.com/album/live-i...⚛️\n\n#Hexabrot #LiveInPesaro2026 #Progressive #MelodicDeath #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn5go7kxsjb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T10:12:24.963Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicufyx7uhbe76k5rjrz4zfomatgtm2izff4ccyhgz22ssdbzhkcmu",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 859,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn4mfotnsjb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th ENCORE!🎧\n\nTHŪN - IV: Changeling 🇬🇧⚛️\n\n4th album from London, UK Doom/Death Metal outfit⚛️\n\nBC➡️thundoom.bandcamp.com/album/iv-cha...⚛️\n\n#Thun #IVChangeling #DoomMetal #DeathMetal #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn4mfotnsjb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T09:57:43.611Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieintjua5aiba2dgunu22eqj76lhb2dmezsdiav25tl3x4jlgzpti",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 858,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn45nf7w2jb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th ENCORE!🎧\n\nGATES OF MOURNING - The Dominion of the Fallen Star 🇺🇸⚛️\n\n6th album from Orlando, Florida, US Black Metal project⚛️\n\nBC➡️gatesofmourning1.bandcamp.com/album/the-do...⚛️\n\n#GatesOfMourning #TheDominionOfTheFallenStar #BlackMetal #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn45nf7w2jb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T09:49:28.368Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiajuafr4dx2fp4kw7yfos4ja7mhw2nujdm6c77cao3fottr3xcb6m",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 857,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn3lew7t2jb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th ENCORE!🎧\n\nMYRDAL - Helvíti 🇩🇪⚛️\n\nReissued debut album ('24) from Leipzig, German Black Metal outfit⚛️\n\nBC➡️myrdal-kvlt.bandcamp.com/album/helv-ti⚛️*NYP!!\n\n#Myrdal #Helviti #BlackMetal #Independent #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn3lew7t2jb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T09:39:15.508Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibkjqmytvuey2ywyqq3vxvybjbxjqxraqe7x6xbuc7exvkera6qlq",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 856,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn3fvegc2jb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th ENCORE!🎧\n\nCELESTIAL BRAIN - Into the Aether Realms EP🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧⚛️\n\n4 Track EP from Scottish/UK Death Metal project⚛️\n\nBC➡️machorecord.bandcamp.com/album/into-t...⚛️\n\n#CelestialBrain #IntoTheAetherRealms #DeathMetal #MachoRecords #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn3fvegc2jb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T09:36:11.424Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreic2pn35nj5n3db6an72nn3ycogzxvvrislbed2jfhevjn5amyhr44",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 855,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzn2lxgvhsjb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th ENCORE!🎧\n\nASCENDED DEAD - Live Apocalypse 🇺🇸⚛️\n\n8 Track live album from San Diego, CA, U.S Death Metal outfit⚛️\n\nBC➡️carbonizedrecords.bandcamp.com/album/live-a...⚛️\n\n#AscendedDead #LiveApocalypse #DeathMetal #Carbon_Forms #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzn2lxgvhsjb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T09:21:41.187Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieurzvmbwwbqrw6g77fdyhyhftjrxm2wdfaxyr523iay2cwbjrsim",
+      "createdAt": "2026-11-06T15:11:31.789Z",
+      "id": 854,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95930",
+      "text": "Homewrecker - Hell Is Here Now (2018)\nBands: Homewrecker | Genres: Death Metal | Countries: US",
+      "artist": "Homewrecker",
+      "title": "Hell Is Here Now (2018)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95930",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T08:51:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJznZREBrgy.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 866,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95929",
+      "text": "Rigidity Spinal Deformity - Hypervirulence (2026)\nBands: Rigidity Spinal Deformity | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Rigidity Spinal Deformity",
+      "title": "Hypervirulence (2026)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95929",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T08:49:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9MBq7BDOg.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 865,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95928",
+      "text": "Defuncion - Bloody Thoughts [EP] (2026)\nBands: Defuncion | Genres: Death Metal | Countries: CO",
+      "artist": "Defuncion",
+      "title": "Bloody Thoughts [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95928",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T08:49:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLyyn-GeqA.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 864,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95927",
+      "text": "Tumour - Prepare To Putrefy [EP] (2006)\nBands: Tumour | Genres: Goregrind, Noise | Countries: NL",
+      "artist": "Tumour",
+      "title": "Prepare To Putrefy [EP] (2006)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95927",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T08:48:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoX_vg697d.webp",
+      "createdAt": "2026-11-06T15:11:34.401Z",
+      "source": "deathgrind",
+      "id": 863,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmgfdmvpa2h",
       "text": "FULL FORCE FRIDAY:🆕November 6th 4⃣3⃣🎧\n\nOCEAN OF ILLUSIONS - Nexus 🇺🇸⚛️\n\n6 Track EP from New Jersey, U.S. Death Metal outfit⚛️\n\nLINKS➡️oceanofillusions.bfan.link/nexus⚛️\n\n#OceanOfIllusions #Nexus #DeathMetal #FFFNov6 #KMäN",
@@ -287,7 +623,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-05T19:41:53.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/Pom9kzavnmo.webp",
+      "coverUrl": "covers/Pom9kzavnmo.webp",
       "createdAt": "2026-11-06T00:19:15.952Z",
       "source": "deathgrind",
       "id": 842,
