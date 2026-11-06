@@ -1,9 +1,100 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzkn5gfrmki5",
-  "updatedAt": "2026-11-05T19:01:49.460Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm44dsucp2f",
+  "updatedAt": "2026-11-06T00:19:15.952Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm44dsucp2f",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 1⃣8⃣🎧\n\nLES CHANTS DE NIHIL - Grains 🇫🇷⚛️\n\n5th album from Plérin, Brittany, French Black Metal outfit⚛️\n\nBC➡️ladlo.bandcamp.com/album/graines⚛️\n\n#LesChantsDeNihil #Grains #BlackMetal #Ladlo_prod #FFFNov06 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzm44dsucp2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T00:16:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihm34wry7zebvspp76zmvguhdayolnc4n7helqb6xb253ovkbcxiu",
+      "createdAt": "2026-11-06T00:19:14.375Z",
+      "id": 841,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm3o2ebmy2t",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 1⃣7⃣🎧\n\nARCTOS - A Path Apart 🇨🇦⚛️\n\n2nd album from Edmonton, Canadian Atmospheric Black/ Melodic Black Metal outfit⚛️\n\nBC➡️arctosofficial.bandcamp.com/album/a-path...⚛️\n\n#Arctos #APathApart #AtmosphericBlack #MelodicBlack  #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzm3o2ebmy2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T00:08:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiea2njlq6all4dsi6hepm75gnm5mzm7v2rg4dfzmx75np7ncqz3dy",
+      "createdAt": "2026-11-06T00:19:14.375Z",
+      "id": 840,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm2d5b3zk2t",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 1⃣4⃣🎧\n\nI HELVETE - Halla 🇫🇮⚛️\n\n3rd album from Seinäjoki, Finnish Melodic Death/Black Metal outfit⚛️\n\nBC➡️ihelvete.bandcamp.com/album/halla⚛️\n\n#iHelvete #Halla #MelodicDeathMetal #BlackMetal #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzm2d5b3zk2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-05T23:44:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieqqy322gukjwrwgxmzlqjpunm2n4ft2ch4tj63xppbaauunxdbve",
+      "createdAt": "2026-11-06T00:19:14.375Z",
+      "id": 839,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzlvg2ywlx2t",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 3⃣🎧\n\nHYPERION - Elysia 🇸🇪⚛️\n\n2nd album from Stockholm, Swedish Melodic Black/Death Metal outfit⚛️\n\nBC➡️hyperionswe.bandcamp.com/album/elysia ⚛️\n\n#Hyperion #Elysia #MelodicBlackDeathMetal #Willowtip\n#FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzlvg2ywlx2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-05T22:16:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieb64tsbtpjepog6y2wzjavtkgs6cqd547d5k3kkxs5n6kojdoday",
+      "createdAt": "2026-11-06T00:19:14.375Z",
+      "id": 838,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95926",
+      "text": "Tottal Tømming - Om hundre år er allting brennt!!! (2022)\nBands: Tottal Tømming | Genres: Grindcore | Countries: NO",
+      "artist": "Tottal Tømming",
+      "title": "Om hundre år er allting brennt!!! (2022)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95926",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-05T19:41:53.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/Pom9kzavnmo.webp",
+      "createdAt": "2026-11-06T00:19:15.952Z",
+      "source": "deathgrind",
+      "id": 842,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95903",
       "text": "Ilsa - Corpse Fortress (2018)\nBands: Ilsa | Genres: Death Metal, Doom Metal, Crust | Countries: US",
@@ -19,7 +110,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-05T18:56:31.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/pxbXnRxZxWz.webp",
+      "coverUrl": "covers/pxbXnRxZxWz.webp",
       "createdAt": "2026-11-05T19:01:49.460Z",
       "source": "deathgrind",
       "id": 837,
