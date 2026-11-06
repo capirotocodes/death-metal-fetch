@@ -1,9 +1,207 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm44dsucp2f",
-  "updatedAt": "2026-11-06T00:19:15.952Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmgts4nnl2s",
+  "updatedAt": "2026-11-06T07:15:00.657Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmgfdmvpa2h",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 4⃣3⃣🎧\n\nOCEAN OF ILLUSIONS - Nexus 🇺🇸⚛️\n\n6 Track EP from New Jersey, U.S. Death Metal outfit⚛️\n\nLINKS➡️oceanofillusions.bfan.link/nexus⚛️\n\n#OceanOfIllusions #Nexus #DeathMetal #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzmgfdmvpa2h",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T03:20:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihcbnzkghzddcj7aylmagqklp6a65yjlpxqorqajjg35elmxy2oyi",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 853,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmf2gasxx2f",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 3⃣8⃣🎧\n\nORBITAL GATE - Engineering His Planetary Dominion 🇺🇸⚛️\n\n4th album from Cary, Illinois, U.S Brutal Death Metal / Slam outfit⚛️\n\nBC➡️orbitalgate.bandcamp.com/album/engine...⚛️\n\n#OrbitalGate #EngineeringHisPlanet #BrutalDeathMetal #SlamMetal #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzmf2gasxx2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T02:56:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidz7cfxwyuvcxugfgtn5de64eele5dswsgo6rsoaymzbaamx45eti",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 852,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmem4eogi2n",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 3⃣7⃣🎧\n\nOVATE - Ruin 🇳🇴⚛️\n\n2nd album from Bergen, Norwegian Black Metal outfit⚛️\n\nBC➡️soulsellerrecords.bandcamp.com/album/r-in⚛️\n\n#Ovate #Ruin #BlackMetal #Soulsellerrec #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzmem4eogi2n",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T02:48:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidxrvyu54vp33y7y4czv4dxcu27xnk4gffjvdqsftky5dtxlvxypa",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 851,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmdpjjjpn2f",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 3⃣5⃣🎧\n\nOBBROBRIUS - Usurped 🇮🇹⚛️\n\n2nd album from Abruzzo, Italian Death Metal outfit⚛️\n\nBC➡️ overtheborderrecords.bandcamp.com ⚛️\n\n#Obbrobrius #Usurped #DeathMetal #OverTheBorderRecords #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzmdpjjjpn2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T02:32:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihyc7k2gm2i3nndcwi4piy4iictpjjw23hacnl7avuqdrz6ua6ite",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 850,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmdb7qn332n",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 3⃣4⃣🎧\n\nVIOLENCE ONLY - Violence Only EP 🇺🇸⚛️\n\n5 Track EP from Fort Wayne, Indiana, U.S Brutal Death Metal outfit⚛️\n\nBC➡️comatosemusic.bandcamp.com/album/violen...⚛️\n\n#ViolenceOnly #ViolenceOnly #BrutalDeathMetal #Comatose_Music #FFFNov06 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzmdb7qn332n",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T02:24:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibt25utadol3wnlqriffsodoyznal7be7ipy7f6ycxrjq6p7wez5e",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 849,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmazok6st2s",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 2⃣9⃣🎧\n\nHANNES GROSSMANN - Worlds Beyond The Sun 🇩🇪⚛️\n\n5th album from Nuremberg, German Progressive Technical Death Metal artist⚛️\n\nBC➡️hannesgrossmann.bandcamp.com/album/worlds...⚛️\n\n#HannesGrossmann #WorldsBeyondTheSun #ProgTechnicalDeath #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzmazok6st2s",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T01:44:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieittz2noguui77us37dt2pveia2bv72petungurkbdfg23gjpahe",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 848,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzmalfbcca2t",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 2⃣8⃣🎧\n\nARCHITECT OF SETH - Solitude Solaire 🇫🇷⚛️\n\n2nd album from Caen, French Technical Death Metal project⚛️\n\nBC➡️i-voidhangerrecords.bandcamp.com/album/solitu...⚛️\n\n#ArchitectOfSeth #SolitudeSolaire #TechnicalDeathMetal #IVH #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzmalfbcca2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T01:36:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiadgapb7ddk7425j3ofcch2mdo5yf4az3b7vm2rzs4ldcozcb2vom",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 847,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm6dtv3pz2f",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 2⃣3⃣🎧\n\nUNDERDARK - O Come Forth Annihilation 🇬🇧⚛️\n\n3rd album from UK Post-Black Metal outfit⚛️\n\nBC➡️underdark.bandcamp.com/album/o-come...⚛️\n\n#Underdark #OComeForthAnnihilation #PostBlackMetal #BlackMetal #churchroadrecs #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzm6dtv3pz2f",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T00:56:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibduyxznibnbmdabdl4wa54x6z2jfqa74uz3lfvodqaynsgbgapgu",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 846,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm5hacvbw2n",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 2⃣1⃣🎧\n\nNOCTURNIS - Drangsal 🇩🇪⚛️\n\n2nd album from Offenburg, German Black Metal outfit⚛️\n\nBC➡️fetznerdeathrecords.bandcamp.com/album/noctur...⚛️\n\n#Nocturnis #Drangsal #BlackMetal #AlexFetzner #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzm5hacvbw2n",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T00:40:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiedwwrnaqoflpyqa6cvcasouxmi7zy3puugcr7mtxn7gzpeqky2ri",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 845,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm4ywlcxj2t",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 2⃣0⃣🎧\n\nANNIHILUS MUNDI - The Dead Sea Scrolls 🇺🇸⚛️\n\n2nd album from Boston, MA, U.S. Progressive Death Metal outfit⚛️\n\nBC➡️annihilusmundi.bandcamp.com/album/the-de...⚛️\n\n#AnnihilusMundi #TheDeadSeaScrolls #ProgressiveDeath #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzm4ywlcxj2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T00:32:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihih3s3mwr5a44cx64uthxoucvsa4xoq7iaasknx627n7nahccfh4",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 844,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm4knqlrx2v",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 1⃣9⃣🎧\n\nPENNY COFFIN - Transitory Fragmentation 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧⚛️\n\nDebut album from Scotland, UK Death Metal outfit⚛️\n\nBC➡️pennycoffindeath.bandcamp.com/album/transi...⚛️\n\n#Pennycoffin1 #TransitoryFragmentation #DeathMetal #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzm4knqlrx2v",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T00:24:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreie4flrswaguvi6x4easbjr777hjd4ttxgz5hptrxnw5p5pxrfjncy",
+      "createdAt": "2026-11-06T07:15:00.657Z",
+      "id": 843,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzm44dsucp2f",
       "text": "FULL FORCE FRIDAY:🆕November 6th 1⃣8⃣🎧\n\nLES CHANTS DE NIHIL - Grains 🇫🇷⚛️\n\n5th album from Plérin, Brittany, French Black Metal outfit⚛️\n\nBC➡️ladlo.bandcamp.com/album/graines⚛️\n\n#LesChantsDeNihil #Grains #BlackMetal #Ladlo_prod #FFFNov06 #KMäN",
