@@ -2,8 +2,222 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mznab7htwsjb",
-  "updatedAt": "2026-11-06T15:11:34.401Z",
+  "updatedAt": "2026-11-06T20:56:39.369Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95946",
+      "text": "Schädelsammler - D.W. (2026)\nBands: Schädelsammler | Genres: Deathgrind, Noise | Countries: DE",
+      "artist": "Schädelsammler",
+      "title": "D.W. (2026)",
+      "genres": [
+        "Deathgrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95946",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T19:52:13.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/dwNAanblYAO.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 882,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95945",
+      "text": "Schädelsammler - Psychotic Instincts (2026)\nBands: Schädelsammler | Genres: Deathgrind, Noise | Countries: DE",
+      "artist": "Schädelsammler",
+      "title": "Psychotic Instincts (2026)",
+      "genres": [
+        "Deathgrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95945",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T19:46:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoXDRJWGr_.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 881,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95943",
+      "text": "Abyssal Worm - Human Cull (2026)\nBands: Abyssal Worm | Genres: Deathgrind | Countries: DE",
+      "artist": "Abyssal Worm",
+      "title": "Human Cull (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95943",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T18:59:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEREaNpvEq.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 880,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95942",
+      "text": "Vermianaevus - Vermianaevus (2026)\nBands: Vermianaevus | Genres: Blackened Death Metal | Countries: DE",
+      "artist": "Vermianaevus",
+      "title": "Vermianaevus (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95942",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T18:48:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7j6j6a7R6j.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 879,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95940",
+      "text": "Secterror - Apex Agony [EP] (2026)\nBands: Secterror | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Secterror",
+      "title": "Apex Agony [EP] (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95940",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T18:39:43.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLyLj_yNXp.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 878,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95939",
+      "text": "Nhevhrosy - Harshness [EP] (2026)\nBands: Nhevhrosy | Genres: Goregrind, Noise, Grindcore | Countries: IT",
+      "artist": "Nhevhrosy",
+      "title": "Harshness [EP] (2026)",
+      "genres": [
+        "Goregrind",
+        "Noise",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95939",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T18:33:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDMDaV_oxL.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 877,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95936",
+      "text": "Voidborn Synergy - Promo 2026\nBands: Voidborn Synergy | Genres: Technical Death Metal | Countries: BY",
+      "artist": "Voidborn Synergy",
+      "title": "Promo 2026",
+      "genres": [
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95936",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T17:51:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6XP-vgwqz.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 876,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95937",
+      "text": "Rat King - Lágrimas para el abismo [EP] (2026)\nBands: Rat King | Genres: Death Metal | Countries: US",
+      "artist": "Rat King",
+      "title": "Lágrimas para el abismo [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95937",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T17:48:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_M_ZaxNW-.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 875,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95008",
+      "text": "Orbital Gate - Engineering His Planetary Dominion (2026)\nBands: Orbital Gate | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Orbital Gate",
+      "title": "Engineering His Planetary Dominion (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95008",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T17:28:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQVY8vYjjb.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 874,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95931",
+      "text": "Penny Coffin - Transitory Fragmentation (2026)\nBands: Penny Coffin | Genres: Death Metal | Countries: GB",
+      "artist": "Penny Coffin",
+      "title": "Transitory Fragmentation (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95931",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T16:44:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVWMBkReL8.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 873,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95935",
+      "text": "Trichomoniasis - Live At NSE Fest 2025 (2026)\nBands: Trichomoniasis | Genres: Blasting Brutal Death Metal, Goregrind | Countries: US",
+      "artist": "Trichomoniasis",
+      "title": "Live At NSE Fest 2025 (2026)",
+      "genres": [
+        "Blasting Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95935",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-06T16:26:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/vZlXeKNr8_D.webp",
+      "createdAt": "2026-11-06T20:56:39.369Z",
+      "source": "deathgrind",
+      "id": 872,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95934",
       "text": "Carnifex - More Than Misery (2026)\nBands: Carnifex | Genres: Deathcore | Countries: US",
@@ -17,7 +231,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-06T14:38:09.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/gMQENybPLAd.webp",
+      "coverUrl": "covers/gMQENybPLAd.webp",
       "createdAt": "2026-11-06T15:11:34.401Z",
       "source": "deathgrind",
       "id": 871,
