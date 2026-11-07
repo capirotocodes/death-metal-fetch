@@ -2,8 +2,85 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzpagtp2y2zi",
-  "updatedAt": "2026-11-07T13:54:42.791Z",
+  "updatedAt": "2026-11-07T18:36:34.957Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95971",
+      "text": "Rotting Christ - Triarchy Of The Lost Lovers (1996)\nBands: Rotting Christ | Genres: Black Metal | Countries: GR",
+      "artist": "Rotting Christ",
+      "title": "Triarchy Of The Lost Lovers (1996)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95971",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T18:03:40.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/KxeOzLmkPna.webp",
+      "createdAt": "2026-11-07T18:36:34.957Z",
+      "source": "deathgrind",
+      "id": 893,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95970",
+      "text": "Satanic Warmaster - Drachenkreuz (2026)\nBands: Satanic Warmaster | Genres: Black Metal | Countries: FI",
+      "artist": "Satanic Warmaster",
+      "title": "Drachenkreuz (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95970",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T17:08:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDOPenLlOZ.webp",
+      "createdAt": "2026-11-07T18:36:34.957Z",
+      "source": "deathgrind",
+      "id": 892,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/93877",
+      "text": "Distant - Into Despair (2026)\nBands: Distant | Genres: Brutal Deathcore | Countries: NL",
+      "artist": "Distant",
+      "title": "Into Despair (2026)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/93877",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T15:19:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_xGxwXaqR.webp",
+      "createdAt": "2026-11-07T18:36:34.957Z",
+      "source": "deathgrind",
+      "id": 891,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95969",
+      "text": "Killing Twins - Killing Twins (2026)\nBands: Killing Twins | Genres: Death Metal, Thrash Metal | Countries: CA",
+      "artist": "Killing Twins",
+      "title": "Killing Twins (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95969",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T15:17:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKQdEaALXe.webp",
+      "createdAt": "2026-11-07T18:36:34.957Z",
+      "source": "deathgrind",
+      "id": 890,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95968",
       "text": "Corbin Impalement - Stabbed Through The Throat [EP] (2026)\nBands: Corbin Impalement | Genres: Goregrind, Grindcore | Countries: US",
@@ -18,7 +95,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-07T09:31:32.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/EB7OAV9E8Rk.webp",
+      "coverUrl": "covers/EB7OAV9E8Rk.webp",
       "createdAt": "2026-11-07T13:54:42.791Z",
       "source": "deathgrind",
       "id": 889,
