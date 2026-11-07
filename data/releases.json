@@ -1,9 +1,162 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzpagtp2y2zi",
-  "updatedAt": "2026-11-07T18:36:34.957Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzquwxkmdkbs",
+  "updatedAt": "2026-11-07T22:20:00.055Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95982",
+      "text": "Demiurgia - Nécrogenèse (2026)\nBands: Demiurgia | Genres: Death Metal | Countries: FR",
+      "artist": "Demiurgia",
+      "title": "Nécrogenèse (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95982",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T21:16:55.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/NJkQNeB_dZv.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 901,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95980",
+      "text": "Theotokos - Uncreated Light [EP] (2026)\nBands: Theotokos | Genres: Death Metal | Countries: US",
+      "artist": "Theotokos",
+      "title": "Uncreated Light [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95980",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T20:01:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNQWm-QmMM.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 900,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95977",
+      "text": "Master&apos;s Hammer - Šlágry (1995)\nBands: Master&apos;s Hammer | Genres: Black Metal | Countries: CZ",
+      "artist": "Master&apos;s Hammer",
+      "title": "Šlágry (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95977",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T19:32:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLQdXeReaN.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 899,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95976",
+      "text": "Master&apos;s Hammer - The Jilemnice Occultist (1993)\nBands: Master&apos;s Hammer | Genres: Black Metal | Countries: CZ",
+      "artist": "Master&apos;s Hammer",
+      "title": "The Jilemnice Occultist (1993)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95976",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T19:31:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDOBWgjN-k.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 898,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95975",
+      "text": "Master&apos;s Hammer - Ritual. (1991)\nBands: Master&apos;s Hammer | Genres: Black Metal | Countries: CZ",
+      "artist": "Master&apos;s Hammer",
+      "title": "Ritual. (1991)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95975",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T19:24:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm86_jldaal.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 897,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95973",
+      "text": "Varathron - Stygian Forces Of Scorn (2009)\nBands: Varathron | Genres: Black Metal | Countries: GR",
+      "artist": "Varathron",
+      "title": "Stygian Forces Of Scorn (2009)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95973",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T19:22:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVOgbBbr7q.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 896,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95972",
+      "text": "Rotting Christ - Aealo (2010)\nBands: Rotting Christ | Genres: Black Metal | Countries: GR",
+      "artist": "Rotting Christ",
+      "title": "Aealo (2010)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95972",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T19:22:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxyQWMOwLXX.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 895,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95974",
+      "text": "Kawir - To Uranus [EP] (2010)\nBands: Kawir | Genres: Folk Metal, Black Metal | Countries: GR",
+      "artist": "Kawir",
+      "title": "To Uranus [EP] (2010)",
+      "genres": [
+        "Folk Metal",
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95974",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T19:20:35.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeROPyKpKNY.webp",
+      "createdAt": "2026-11-07T22:20:00.055Z",
+      "source": "deathgrind",
+      "id": 894,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95971",
       "text": "Rotting Christ - Triarchy Of The Lost Lovers (1996)\nBands: Rotting Christ | Genres: Black Metal | Countries: GR",
@@ -17,7 +170,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-07T18:03:40.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/KxeOzLmkPna.webp",
+      "coverUrl": "covers/KxeOzLmkPna.webp",
       "createdAt": "2026-11-07T18:36:34.957Z",
       "source": "deathgrind",
       "id": 893,
