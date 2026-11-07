@@ -2,8 +2,47 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzpagtp2y2zi",
-  "updatedAt": "2026-11-07T06:57:31.656Z",
+  "updatedAt": "2026-11-07T13:54:42.791Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95968",
+      "text": "Corbin Impalement - Stabbed Through The Throat [EP] (2026)\nBands: Corbin Impalement | Genres: Goregrind, Grindcore | Countries: US",
+      "artist": "Corbin Impalement",
+      "title": "Stabbed Through The Throat [EP] (2026)",
+      "genres": [
+        "Goregrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95968",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T09:31:32.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/EB7OAV9E8Rk.webp",
+      "createdAt": "2026-11-07T13:54:42.791Z",
+      "source": "deathgrind",
+      "id": 889,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95967",
+      "text": "Three Knuckles Deep - Three Knuckles Deep (2026)\nBands: Three Knuckles Deep | Genres: Death Metal | Countries: US",
+      "artist": "Three Knuckles Deep",
+      "title": "Three Knuckles Deep (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95967",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-07T09:20:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDOgDWlYK6.webp",
+      "createdAt": "2026-11-07T13:54:42.791Z",
+      "source": "deathgrind",
+      "id": 888,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzopq4r4dsjb",
       "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️February 1st, 2027⬅️\n\nFLOATING - Firewatching 🇸🇪💢\n\n3rd album from Uppsala, Swedish Progressive Death Metal/Post-Punk outfit💢\n\nBC➡️floating-label.bandcamp.com/album/firewa...💢\n\n#Floating #Firewatching #ProgDeathPost #transcendingobs #TheUpcomingTerror27 #KMäN",
@@ -108,7 +147,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-06T19:52:13.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/dwNAanblYAO.webp",
+      "coverUrl": "covers/dwNAanblYAO.webp",
       "createdAt": "2026-11-06T20:56:39.369Z",
       "source": "deathgrind",
       "id": 882,
