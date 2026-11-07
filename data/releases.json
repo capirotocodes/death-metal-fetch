@@ -1,9 +1,45 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mznab7htwsjb",
-  "updatedAt": "2026-11-06T20:56:39.369Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzooa33df2jb",
+  "updatedAt": "2026-11-07T00:50:09.130Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzooa33df2jb",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️November 14th, 2026⬅️\n\nIRON FLESH - All Hail The Rotten Flesh 🇫🇷⚛️\n\n4th album from Bordeaux, French Death Metal outfit⚛️\n\nBC➡️ironflesh.bandcamp.com/album/all-ha...⚛️*\n\n#IronFlesh #AllHailTheRottenFlesh #DeathMetal #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzooa33df2jb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-07T00:45:36.924Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiajh3vueizmdlmytdnwrz4k466dpafgcmn7hcriv3nd5elplifys4",
+      "createdAt": "2026-11-07T00:50:09.130Z",
+      "id": 884,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzodt6qyukjb",
+      "text": "FULL FORCE FRIDAY:🆕November 6th 4⃣5⃣🎧\n\nBLINDHERD - Hubris 🇫🇷⚛️\n\n2nd album from Toulouse, Occitanie, French Melodic/Blackened Death Metal outfit⚛️\n\nBC➡️blindherd.bandcamp.com/album/hubris⚛️\n\n#Blindherd #Hubris #BlackenedMelodicDeath #FFFNov6 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzodt6qyukjb",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-06T21:39:27.154Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreih6365qtjoxn367ffzxmlq25hllib2k4oc5axj6bw2laxvmcm3m2i",
+      "createdAt": "2026-11-07T00:50:09.130Z",
+      "id": 883,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95946",
       "text": "Schädelsammler - D.W. (2026)\nBands: Schädelsammler | Genres: Deathgrind, Noise | Countries: DE",
