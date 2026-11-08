@@ -2,8 +2,47 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzquwxkmdkbs",
-  "updatedAt": "2026-11-07T22:20:00.055Z",
+  "updatedAt": "2026-11-08T08:03:17.282Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95984",
+      "text": "Sickflesh - Promo 2008\nBands: Sickflesh | Genres: Slamming Brutal Death Metal, Goregrind | Countries: CZ",
+      "artist": "Sickflesh",
+      "title": "Promo 2008",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95984",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T07:44:51.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/pxb9DqvbBee.webp",
+      "createdAt": "2026-11-08T08:03:17.282Z",
+      "source": "deathgrind",
+      "id": 903,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95983",
+      "text": "Disgusting Abomination - The Kingdom Is Torn to Shreds. This Is the Price for the Sins of the Great Ones. The Chapters [EP] (2026)\nBands: Disgusting Abomination | Genres: Slamming Deathcore | Countries: RU",
+      "artist": "Disgusting Abomination",
+      "title": "The Kingdom Is Torn to Shreds. This Is the Price for the Sins of the Great Ones. The Chapters [EP] (2026)",
+      "genres": [
+        "Slamming Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95983",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T07:44:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVOlK7j6vk.webp",
+      "createdAt": "2026-11-08T08:03:17.282Z",
+      "source": "deathgrind",
+      "id": 902,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95982",
       "text": "Demiurgia - Nécrogenèse (2026)\nBands: Demiurgia | Genres: Death Metal | Countries: FR",
@@ -17,7 +56,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-07T21:16:55.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/NJkQNeB_dZv.webp",
+      "coverUrl": "covers/NJkQNeB_dZv.webp",
       "createdAt": "2026-11-07T22:20:00.055Z",
       "source": "deathgrind",
       "id": 901,
