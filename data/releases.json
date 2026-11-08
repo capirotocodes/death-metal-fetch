@@ -1,9 +1,143 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzquwxkmdkbs",
-  "updatedAt": "2026-11-08T08:03:17.282Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzrzswcu4cbs",
+  "updatedAt": "2026-11-08T15:16:20.028Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95990",
+      "text": "Malignant Spirit - A Serpent To Devour, A Servant To Abhor (2026)\nBands: Malignant Spirit | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Malignant Spirit",
+      "title": "A Serpent To Devour, A Servant To Abhor (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95990",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T12:34:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/XGxQRL7rWAB.webp",
+      "createdAt": "2026-11-08T15:16:20.028Z",
+      "source": "deathgrind",
+      "id": 910,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95989",
+      "text": "Mystras - Empires Vanquished And Dismantled (2021)\nBands: Mystras | Genres: Black Metal | Countries: GR",
+      "artist": "Mystras",
+      "title": "Empires Vanquished And Dismantled (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95989",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T11:12:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOQzdBZWPX.webp",
+      "createdAt": "2026-11-08T15:16:20.028Z",
+      "source": "deathgrind",
+      "id": 909,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95988",
+      "text": "Nergal - The Wizard Of Nerath (1995)\nBands: Nergal | Genres: Black Metal | Countries: GR",
+      "artist": "Nergal",
+      "title": "The Wizard Of Nerath (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95988",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T11:11:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmkrro8zbA.webp",
+      "createdAt": "2026-11-08T15:16:20.028Z",
+      "source": "deathgrind",
+      "id": 908,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95925",
+      "text": "Slowrot - Ripe For The Guillotine [EP] (2026)\nBands: Slowrot | Genres: Deathgrind | Countries: AU",
+      "artist": "Slowrot",
+      "title": "Ripe For The Guillotine [EP] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95925",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T11:11:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQEbpjXdEb.webp",
+      "createdAt": "2026-11-08T15:16:20.028Z",
+      "source": "deathgrind",
+      "id": 907,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95987",
+      "text": "Starving - Scorching [EP] (2026)\nBands: Starving | Genres: Grindcore, Hardcore | Countries: US",
+      "artist": "Starving",
+      "title": "Scorching [EP] (2026)",
+      "genres": [
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95987",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T10:16:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG-jwqdqrw.webp",
+      "createdAt": "2026-11-08T15:16:20.028Z",
+      "source": "deathgrind",
+      "id": 906,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95986",
+      "text": "Deaf Aid - Death Throes of Human Existence (2026)\nBands: Deaf Aid | Genres: Death Metal | Countries: DE",
+      "artist": "Deaf Aid",
+      "title": "Death Throes of Human Existence (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95986",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T08:47:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKQPAkQ-x6.webp",
+      "createdAt": "2026-11-08T15:16:20.028Z",
+      "source": "deathgrind",
+      "id": 905,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95985",
+      "text": "Dawn And Demise - Eschatological Necrosis [EP] (2026)\nBands: Dawn And Demise | Genres: Technical Death Metal | Countries: US",
+      "artist": "Dawn And Demise",
+      "title": "Eschatological Necrosis [EP] (2026)",
+      "genres": [
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95985",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T08:18:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEOKLaZ_nN.webp",
+      "createdAt": "2026-11-08T15:16:20.028Z",
+      "source": "deathgrind",
+      "id": 904,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95984",
       "text": "Sickflesh - Promo 2008\nBands: Sickflesh | Genres: Slamming Brutal Death Metal, Goregrind | Countries: CZ",
@@ -18,7 +152,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-08T07:44:51.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/pxb9DqvbBee.webp",
+      "coverUrl": "covers/pxb9DqvbBee.webp",
       "createdAt": "2026-11-08T08:03:17.282Z",
       "source": "deathgrind",
       "id": 903,
