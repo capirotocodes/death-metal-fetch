@@ -2,8 +2,122 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzrzswcu4cbs",
-  "updatedAt": "2026-11-08T15:16:20.028Z",
+  "updatedAt": "2026-11-08T19:54:07.932Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95993",
+      "text": "Septos - Necroxia [EP] (2024)\nBands: Septos | Genres: Death Metal | Countries: AR",
+      "artist": "Septos",
+      "title": "Necroxia [EP] (2024)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95993",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T18:30:31.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/beLQrElzjMO.webp",
+      "createdAt": "2026-11-08T19:54:07.932Z",
+      "source": "deathgrind",
+      "id": 916,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95992",
+      "text": "Ascended Dead - Live Apocalypse [Live] (2026)\nBands: Ascended Dead | Genres: Death Metal | Countries: US",
+      "artist": "Ascended Dead",
+      "title": "Live Apocalypse [Live] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95992",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T18:01:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7jOYA77L7V.webp",
+      "createdAt": "2026-11-08T19:54:07.932Z",
+      "source": "deathgrind",
+      "id": 915,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95981",
+      "text": "Cultes Des Ghoules - Henbane, ...Or Sonic Compendium Of The Black Arts (2013)\nBands: Cultes Des Ghoules | Genres: Black Metal | Countries: PL",
+      "artist": "Cultes Des Ghoules",
+      "title": "Henbane, ...Or Sonic Compendium Of The Black Arts (2013)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95981",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T17:26:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6QxkGZxyd.webp",
+      "createdAt": "2026-11-08T19:54:07.932Z",
+      "source": "deathgrind",
+      "id": 914,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95979",
+      "text": "Beherit - Beast Of Beherit: Complete Worxxx [Compilation] (1999)\nBands: Beherit | Genres: Black Metal | Countries: FI",
+      "artist": "Beherit",
+      "title": "Beast Of Beherit: Complete Worxxx [Compilation] (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95979",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T17:25:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/_KG-eMND7Gw.webp",
+      "createdAt": "2026-11-08T19:54:07.932Z",
+      "source": "deathgrind",
+      "id": 913,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95991",
+      "text": "Μουχριτσα - Σάπιος Κόσμος (Rotten World) [Demo] (2026)\nBands: Μουχριτσα | Genres: Deathgrind | Countries: GR",
+      "artist": "Μουχριτσα",
+      "title": "Σάπιος Κόσμος (Rotten World) [Demo] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95991",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T16:50:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gQ-7ZgvMj.webp",
+      "createdAt": "2026-11-08T19:54:07.932Z",
+      "source": "deathgrind",
+      "id": 912,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95978",
+      "text": "Becrah - Βωμός μιας αλήθειας (2022)\nBands: Becrah | Genres: Black Metal | Countries: GR",
+      "artist": "Becrah",
+      "title": "Βωμός μιας αλήθειας (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95978",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T16:35:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7Oxo9WaN-.webp",
+      "createdAt": "2026-11-08T19:54:07.932Z",
+      "source": "deathgrind",
+      "id": 911,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95990",
       "text": "Malignant Spirit - A Serpent To Devour, A Servant To Abhor (2026)\nBands: Malignant Spirit | Genres: Blackened Death Metal | Countries: US",
@@ -17,7 +131,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-08T12:34:00.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/XGxQRL7rWAB.webp",
+      "coverUrl": "covers/XGxQRL7rWAB.webp",
       "createdAt": "2026-11-08T15:16:20.028Z",
       "source": "deathgrind",
       "id": 910,
