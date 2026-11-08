@@ -1,9 +1,46 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzrzswcu4cbs",
-  "updatedAt": "2026-11-08T19:54:07.932Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzt7jpd6hsbs",
+  "updatedAt": "2026-11-08T23:32:51.765Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95994",
+      "text": "Theotokos - Oracle Engine [Single] (2026)\nBands: Theotokos | Genres: Death Metal | Countries: US",
+      "artist": "Theotokos",
+      "title": "Oracle Engine [Single] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95994",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-08T21:57:38.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/AeROGeVNy-7.webp",
+      "createdAt": "2026-11-08T23:32:51.765Z",
+      "source": "deathgrind",
+      "id": 918,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzt7jpd6hsbs",
+      "text": "👑MOUNTAIN KINGS3⃣6⃣2⃣👑\n\nENTOMBED - Wolverine Blues 🇸🇪 (1993)\n\nWB saw Entombed forge the death ’n’ roll sound, blending Swedish Death Metal brutality with groove, swagger, and rock 'n' roll attitude. A bold reinvention that left a permanent mark on heavy music. #MK362👑",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": false,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzt7jpd6hsbs",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-08T20:05:52.707Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifjr3e66irrs5ftda33o4u3wujywk3wrjxdlt32hagkikwkczlhbi",
+      "createdAt": "2026-11-08T23:32:51.235Z",
+      "id": 917,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95993",
       "text": "Septos - Necroxia [EP] (2024)\nBands: Septos | Genres: Death Metal | Countries: AR",
@@ -17,7 +54,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-08T18:30:31.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/beLQrElzjMO.webp",
+      "coverUrl": "covers/beLQrElzjMO.webp",
       "createdAt": "2026-11-08T19:54:07.932Z",
       "source": "deathgrind",
       "id": 916,
