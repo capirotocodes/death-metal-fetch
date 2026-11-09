@@ -1,9 +1,103 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzt7jpd6hsbs",
-  "updatedAt": "2026-11-08T23:32:51.765Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzuppnrjhkbs",
+  "updatedAt": "2026-11-09T11:21:03.269Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzuozpf2fcbs",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nCAVE SERMON - Deeply Personal Sounds 🇦🇺⚛️\n\n4th album from Melbourne, Australian Post-Metal/Avant-Garde Black/Death Metal project⚛️\n\nBC➡️cavesermon.bandcamp.com/album/deeply...⚛️\n\n#CaveSermon #DeeplyPersonalSounds #PostMetal #AvantGardeMetal #DDDNov7 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzuozpf2fcbs",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-09T10:15:55.505Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigatztevzphf572xwom4c5fhprobpeo646cigwmgjvirt6enmeq34",
+      "createdAt": "2026-11-09T11:21:02.269Z",
+      "id": 921,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzuoh2mjjkbs",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nTHE DUSKFALL - The Everlasting Shadows 🇸🇪⚛️\n\n6th album from Luleå, Swedish Melodic Death Metal outfit⚛️\n\nBC➡️theduskfallthecirclefamily.bandcamp.com/album/the-ev...⚛️\n\n#TheDuskfall #TheEverlastingShadows #MelodicDeathMetal #DDDNov7 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzuoh2mjjkbs",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-09T10:05:29.750Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiaxlsvxtwhjiqxox7pjd7webcctxgp6xv7hxolizn4iyxffej7aji",
+      "createdAt": "2026-11-09T11:21:02.269Z",
+      "id": 920,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzuo7v7v52bs",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nANCIENT GATE - The Perpetual Silence 🇦🇷⚛️\n\n3rd album from Argentinian Black Metal project⚛️\n\nBC➡️ancientgate.bandcamp.com ⚛️\n\n#AncientGate #ThePerpetualSilence #BlackMetal #DDDNov8 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3mzuo7v7v52bs",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-09T10:01:29.212Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreie5hxhth4ga5vkiqvku5zdw7qlkbfu3bfeghxbwya7gblyehtmhmy",
+      "createdAt": "2026-11-09T11:21:02.269Z",
+      "id": 919,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95996",
+      "text": "Autohemofetishism - Vicious Humiliation Of A Disgusting Necrocunt (2026)\nBands: Autohemofetishism | Genres: Goregrind, Noise | Countries: ES",
+      "artist": "Autohemofetishism",
+      "title": "Vicious Humiliation Of A Disgusting Necrocunt (2026)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95996",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T07:47:02.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/kw6Q99JP__w.webp",
+      "createdAt": "2026-11-09T11:21:03.269Z",
+      "source": "deathgrind",
+      "id": 923,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95995",
+      "text": "Vomiturition - Expecto Resurrectionem Mortuorum [Demo] (1991)\nBands: Vomiturition | Genres: Old School Death Metal, Death Metal | Countries: FI",
+      "artist": "Vomiturition",
+      "title": "Expecto Resurrectionem Mortuorum [Demo] (1991)",
+      "genres": [
+        "Old School Death Metal",
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95995",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T07:46:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6Q9yQ-xzM.webp",
+      "createdAt": "2026-11-09T11:21:03.269Z",
+      "source": "deathgrind",
+      "id": 922,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95994",
       "text": "Theotokos - Oracle Engine [Single] (2026)\nBands: Theotokos | Genres: Death Metal | Countries: US",
@@ -17,7 +111,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-08T21:57:38.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/AeROGeVNy-7.webp",
+      "coverUrl": "covers/AeROGeVNy-7.webp",
       "createdAt": "2026-11-08T23:32:51.765Z",
       "source": "deathgrind",
       "id": 918,
