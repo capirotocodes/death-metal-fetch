@@ -1,9 +1,126 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzuppnrjhkbs",
-  "updatedAt": "2026-11-09T11:21:03.269Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzvq3yeuccbs",
+  "updatedAt": "2026-11-09T21:36:14.536Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96003",
+      "text": "Rotheads - Sepulchral Spore [EP] (2026)\nBands: Rotheads | Genres: Old School Death Metal | Countries: RO",
+      "artist": "Rotheads",
+      "title": "Sepulchral Spore [EP] (2026)",
+      "genres": [
+        "Old School Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96003",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T19:54:01.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/jjWVVbzrdmA.webp",
+      "createdAt": "2026-11-09T21:36:14.536Z",
+      "source": "deathgrind",
+      "id": 929,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96001",
+      "text": "Oriax - The Warp [Demo] (2024)\nBands: Oriax | Genres: Brutal Death Metal, Deathcore | Countries: US",
+      "artist": "Oriax",
+      "title": "The Warp [Demo] (2024)",
+      "genres": [
+        "Brutal Death Metal",
+        "Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96001",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T19:19:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_RRN-Bmpl.webp",
+      "createdAt": "2026-11-09T21:36:14.536Z",
+      "source": "deathgrind",
+      "id": 928,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96000",
+      "text": "Brain Injury Unit - Demo [Demo] (2025)\nBands: Brain Injury Unit | Genres: Brutal Deathcore | Countries: US",
+      "artist": "Brain Injury Unit",
+      "title": "Demo [Demo] (2025)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96000",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T18:59:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDOOGqbnGv.webp",
+      "createdAt": "2026-11-09T21:36:14.536Z",
+      "source": "deathgrind",
+      "id": 927,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95997",
+      "text": "Stromal Myoma - Complete Surgical Collection Methods Of Uterine And Reproductive Complications [Compilation] (2024)\nBands: Stromal Myoma | Genres: Goregrind, Noise | Countries: FR",
+      "artist": "Stromal Myoma",
+      "title": "Complete Surgical Collection Methods Of Uterine And Reproductive Complications [Compilation] (2024)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95997",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T17:43:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9OMkaGb6j.webp",
+      "createdAt": "2026-11-09T21:36:14.536Z",
+      "source": "deathgrind",
+      "id": 926,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95999",
+      "text": "Invirulant - The End Of Invirulant (2026)\nBands: Invirulant | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Invirulant",
+      "title": "The End Of Invirulant (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95999",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T17:24:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_RMRkMby_.webp",
+      "createdAt": "2026-11-09T21:36:14.536Z",
+      "source": "deathgrind",
+      "id": 925,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95998",
+      "text": "Jawz - Jawz [EP] (2024)\nBands: Jawz | Genres: Slamming Brutal Death Metal, Hardcore | Countries: US",
+      "artist": "Jawz",
+      "title": "Jawz [EP] (2024)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95998",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-09T17:11:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm86XxjPmye.webp",
+      "createdAt": "2026-11-09T21:36:14.536Z",
+      "source": "deathgrind",
+      "id": 924,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzuozpf2fcbs",
       "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nCAVE SERMON - Deeply Personal Sounds 🇦🇺⚛️\n\n4th album from Melbourne, Australian Post-Metal/Avant-Garde Black/Death Metal project⚛️\n\nBC➡️cavesermon.bandcamp.com/album/deeply...⚛️\n\n#CaveSermon #DeeplyPersonalSounds #PostMetal #AvantGardeMetal #DDDNov7 #KMäN",
@@ -72,7 +189,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-09T07:47:02.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/kw6Q99JP__w.webp",
+      "coverUrl": "covers/kw6Q99JP__w.webp",
       "createdAt": "2026-11-09T11:21:03.269Z",
       "source": "deathgrind",
       "id": 923,
