@@ -2,8 +2,85 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzvq3yeuccbs",
-  "updatedAt": "2026-11-10T12:23:30.265Z",
+  "updatedAt": "2026-11-10T19:56:57.591Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/94909",
+      "text": "Goreshower - Dismembered And Reassembled [EP] (2026)\nBands: Goreshower | Genres: Brutal Death Metal | Countries: CH",
+      "artist": "Goreshower",
+      "title": "Dismembered And Reassembled [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94909",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-10T18:42:12.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/WBwL8ePObgg.webp",
+      "createdAt": "2026-11-10T19:56:57.591Z",
+      "source": "deathgrind",
+      "id": 934,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96008",
+      "text": "Faith in Refusal - Every Tomorrow Sentenced Yesterday [EP] (2026)\nBands: Faith in Refusal | Genres: Deathgrind, Hardcore | Countries: US",
+      "artist": "Faith in Refusal",
+      "title": "Every Tomorrow Sentenced Yesterday [EP] (2026)",
+      "genres": [
+        "Deathgrind",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96008",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-10T17:24:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7a8kn7W6OK.webp",
+      "createdAt": "2026-11-10T19:56:57.591Z",
+      "source": "deathgrind",
+      "id": 933,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96007",
+      "text": "Vortekke - Weedwhacker Colonoscopy (2024)\nBands: Vortekke | Genres: Goregrind | Countries: NZ",
+      "artist": "Vortekke",
+      "title": "Weedwhacker Colonoscopy (2024)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96007",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-10T16:19:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_RYlXggXJ.webp",
+      "createdAt": "2026-11-10T19:56:57.591Z",
+      "source": "deathgrind",
+      "id": 932,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96005",
+      "text": "Abominate - Vocare Pulvere [EP] (2023)\nBands: Abominate | Genres: Brutal Death Metal | Countries: MX",
+      "artist": "Abominate",
+      "title": "Vocare Pulvere [EP] (2023)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96005",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-10T14:20:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOQyMaEqNN.webp",
+      "createdAt": "2026-11-10T19:56:57.591Z",
+      "source": "deathgrind",
+      "id": 931,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96004",
       "text": "Hunged - Hunged [Demo] (2026)\nBands: Hunged | Genres: Brutal Death Metal | Countries: AR",
@@ -17,7 +94,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-10T07:59:18.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/7zEOakWN9Qp.webp",
+      "coverUrl": "covers/7zEOakWN9Qp.webp",
       "createdAt": "2026-11-10T12:23:30.265Z",
       "source": "deathgrind",
       "id": 930,
