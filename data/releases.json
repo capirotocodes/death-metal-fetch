@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzvq3yeuccbs",
-  "updatedAt": "2026-11-10T19:56:57.591Z",
+  "updatedAt": "2026-11-11T00:32:52.412Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95901",
+      "text": "Αχέροντας - For The Blood Of Tiamat - Praxis I - XXX Years Anniversary Of Magick And Metamorphosis [EP] (2026)\nBands: Αχέροντας | Genres: Black Metal | Countries: GR",
+      "artist": "Αχέροντας",
+      "title": "For The Blood Of Tiamat - Praxis I - XXX Years Anniversary Of Magick And Metamorphosis [EP] (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95901",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-10T23:04:32.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/8ZGMlEoROLe.webp",
+      "createdAt": "2026-11-11T00:32:52.412Z",
+      "source": "deathgrind",
+      "id": 935,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/94909",
       "text": "Goreshower - Dismembered And Reassembled [EP] (2026)\nBands: Goreshower | Genres: Brutal Death Metal | Countries: CH",
@@ -17,7 +36,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-10T18:42:12.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/WBwL8ePObgg.webp",
+      "coverUrl": "covers/WBwL8ePObgg.webp",
       "createdAt": "2026-11-10T19:56:57.591Z",
       "source": "deathgrind",
       "id": 934,
