@@ -1,9 +1,88 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3mzzrvg63dsyx",
-  "updatedAt": "2026-11-11T15:21:50.279Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n22qpnfpisoz",
+  "updatedAt": "2026-11-11T22:11:35.793Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96016",
+      "text": "Entrañas - El bello aroma de la putrefacción (2026)\nBands: Entrañas | Genres: Deathgrind | Countries: MX",
+      "artist": "Entrañas",
+      "title": "El bello aroma de la putrefacción (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96016",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-11T18:18:23.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/jjWdqkVyrNo.webp",
+      "createdAt": "2026-11-11T22:11:35.793Z",
+      "source": "deathgrind",
+      "id": 941,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96015",
+      "text": "Rectal Wench - Alliance Of Anal Surfers Live & Shit (2024)\nBands: Rectal Wench | Genres: Goregrind, Porngrind | Countries: CN",
+      "artist": "Rectal Wench",
+      "title": "Alliance Of Anal Surfers Live & Shit (2024)",
+      "genres": [
+        "Goregrind",
+        "Porngrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96015",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-11T17:54:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6eMZdGLlX.webp",
+      "createdAt": "2026-11-11T22:11:35.793Z",
+      "source": "deathgrind",
+      "id": 940,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96014",
+      "text": "Mortuary Cave - Darkness Echoes (2026)\nBands: Mortuary Cave | Genres: Death Metal, Doom Metal, Sludge | Countries: CA",
+      "artist": "Mortuary Cave",
+      "title": "Darkness Echoes (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal",
+        "Sludge"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96014",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-11T17:27:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoywJ6mBLr.webp",
+      "createdAt": "2026-11-11T22:11:35.793Z",
+      "source": "deathgrind",
+      "id": 939,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94666",
+      "text": "Sinister - Lucid Nightmares (2026)\nBands: Sinister | Genres: Death Metal | Countries: NL",
+      "artist": "Sinister",
+      "title": "Lucid Nightmares (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94666",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-11T16:32:14.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_mXaaWRJb.webp",
+      "createdAt": "2026-11-11T22:11:35.793Z",
+      "source": "deathgrind",
+      "id": 938,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96012",
       "text": "Flesh Rendered Null - Grinding Death Blaster [EP] (2026)\nBands: Flesh Rendered Null | Genres: Death Metal | Countries: AU",
@@ -17,7 +96,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-11T13:56:51.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/Dw6XxgyDOZo.webp",
+      "coverUrl": "covers/Dw6XxgyDOZo.webp",
       "createdAt": "2026-11-11T15:21:50.279Z",
       "source": "deathgrind",
       "id": 937,
