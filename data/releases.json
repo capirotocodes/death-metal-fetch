@@ -2,8 +2,104 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n24b7ahg7kcx",
-  "updatedAt": "2026-11-12T11:20:11.146Z",
+  "updatedAt": "2026-11-12T19:03:28.313Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96025",
+      "text": "Layad - Iblis Penghasut [EP] (2026)\nBands: Layad | Genres: Death Metal | Countries: ID",
+      "artist": "Layad",
+      "title": "Iblis Penghasut [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96025",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-12T18:33:05.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/8ZGx-EXqa9y.webp",
+      "createdAt": "2026-11-12T19:03:28.313Z",
+      "source": "deathgrind",
+      "id": 948,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95966",
+      "text": "Iron Flesh - All Hail The Rotten Flesh (2026)\nBands: Iron Flesh | Genres: Death Metal | Countries: FR",
+      "artist": "Iron Flesh",
+      "title": "All Hail The Rotten Flesh (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95966",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-12T18:28:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvQWQwowjZ.webp",
+      "createdAt": "2026-11-12T19:03:28.313Z",
+      "source": "deathgrind",
+      "id": 947,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94287",
+      "text": "Crucivore - Desecration (2026)\nBands: Crucivore | Genres: Brutal Death Metal | Countries: PT",
+      "artist": "Crucivore",
+      "title": "Desecration (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94287",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-12T18:26:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJz-9PbQ7LE.webp",
+      "createdAt": "2026-11-12T19:03:28.313Z",
+      "source": "deathgrind",
+      "id": 946,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96024",
+      "text": "Ósserp - Les homilies del desengany [EP] (2026)\nBands: Ósserp | Genres: Deathgrind, Hardcore | Countries: ES",
+      "artist": "Ósserp",
+      "title": "Les homilies del desengany [EP] (2026)",
+      "genres": [
+        "Deathgrind",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96024",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-12T16:30:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWd8Y_X8wZ.webp",
+      "createdAt": "2026-11-12T19:03:28.313Z",
+      "source": "deathgrind",
+      "id": 945,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96023",
+      "text": "Discordant Meditation - Aborted Emanations (2026)\nBands: Discordant Meditation | Genres: Death Metal | Countries: US",
+      "artist": "Discordant Meditation",
+      "title": "Aborted Emanations (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96023",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-12T15:58:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gXGXEmXOe.webp",
+      "createdAt": "2026-11-12T19:03:28.313Z",
+      "source": "deathgrind",
+      "id": 944,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2465gk3372y",
       "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\n7th album from Groesbeek, Dutch Black Metal outfit⚛️\n\nBC➡️asgrauw.bandcamp.com/album/solips⚛️\n\n#Asgrauw #Solips #BlackMetal #voidwandererprod #DDDNov12 #KMäN",
@@ -53,7 +149,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-11T18:18:23.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/jjWdqkVyrNo.webp",
+      "coverUrl": "covers/jjWdqkVyrNo.webp",
       "createdAt": "2026-11-11T22:11:35.793Z",
       "source": "deathgrind",
       "id": 941,
