@@ -1,9 +1,45 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n22qpnfpisoz",
-  "updatedAt": "2026-11-11T22:11:35.793Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n24b7ahg7kcx",
+  "updatedAt": "2026-11-12T11:20:11.146Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2465gk3372y",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\n7th album from Groesbeek, Dutch Black Metal outfit⚛️\n\nBC➡️asgrauw.bandcamp.com/album/solips⚛️\n\n#Asgrauw #Solips #BlackMetal #voidwandererprod #DDDNov12 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2465gk3372y",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-12T09:35:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigvb2vzkfioflikqus52iytjox4dz7kgkguldxivzhvi6ju765nha",
+      "createdAt": "2026-11-12T11:20:11.146Z",
+      "id": 943,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2463uno3scx",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nASGRAUW - Solips 🇳🇱⚛️\n\n7th album from Groesbeek, Dutch Black Metal outfit⚛️\n\nBC➡️asgrauw.bandcamp.com/album/solips⚛️\n\n#Asgrauw #Solips #BlackMetal #voidwandererprod #DDDOct27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2463uno3scx",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-12T09:34:12.435Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigvb2vzkfioflikqus52iytjox4dz7kgkguldxivzhvi6ju765nha",
+      "createdAt": "2026-11-12T11:20:11.146Z",
+      "id": 942,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96016",
       "text": "Entrañas - El bello aroma de la putrefacción (2026)\nBands: Entrañas | Genres: Deathgrind | Countries: MX",
