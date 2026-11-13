@@ -2,8 +2,85 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n26qibwwqczh",
-  "updatedAt": "2026-11-13T15:26:13.986Z",
+  "updatedAt": "2026-11-13T21:31:56.762Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96037",
+      "text": "Purulentum - Horrendous Suppuration [Demo] (2026)\nBands: Purulentum | Genres: Death Metal | Countries: PL",
+      "artist": "Purulentum",
+      "title": "Horrendous Suppuration [Demo] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96037",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T17:52:27.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/beL-nbepqBG.webp",
+      "createdAt": "2026-11-13T21:31:56.762Z",
+      "source": "deathgrind",
+      "id": 985,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96036",
+      "text": "Cerebral Curse - Abominant Incarnations Of Sepulchral Depths (2026)\nBands: Cerebral Curse | Genres: Death Metal, Doom Metal | Countries: ES",
+      "artist": "Cerebral Curse",
+      "title": "Abominant Incarnations Of Sepulchral Depths (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96036",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T17:38:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeoKMKZXBg.webp",
+      "createdAt": "2026-11-13T21:31:56.762Z",
+      "source": "deathgrind",
+      "id": 984,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95944",
+      "text": "Oreamnos - In Ruins (2026)\nBands: Oreamnos | Genres: Death Metal | Countries: US",
+      "artist": "Oreamnos",
+      "title": "In Ruins (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95944",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T16:57:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldZvnlLv7a.webp",
+      "createdAt": "2026-11-13T21:31:56.762Z",
+      "source": "deathgrind",
+      "id": 983,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96035",
+      "text": "Magnicide - The Final TNT Session (2026)\nBands: Magnicide | Genres: Grindcore | Countries: SG",
+      "artist": "Magnicide",
+      "title": "The Final TNT Session (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96035",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T16:55:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwX_A8xXq_.webp",
+      "createdAt": "2026-11-13T21:31:56.762Z",
+      "source": "deathgrind",
+      "id": 982,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96034",
       "text": "Cadaveric Exhumation - Demo 2026\nBands: Cadaveric Exhumation | Genres: Slamming Brutal Death Metal | Countries: UA",
@@ -17,7 +94,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-13T14:26:00.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/7zEwwEZA8yN.webp",
+      "coverUrl": "covers/7zEwwEZA8yN.webp",
       "createdAt": "2026-11-13T15:26:13.986Z",
       "source": "deathgrind",
       "id": 981,
