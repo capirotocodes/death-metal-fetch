@@ -1,9 +1,200 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25z7p7npd2c",
-  "updatedAt": "2026-11-13T07:10:10.656Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n26qibwwqczh",
+  "updatedAt": "2026-11-13T15:26:13.986Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96034",
+      "text": "Cadaveric Exhumation - Demo 2026\nBands: Cadaveric Exhumation | Genres: Slamming Brutal Death Metal | Countries: UA",
+      "artist": "Cadaveric Exhumation",
+      "title": "Demo 2026",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96034",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T14:26:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/7zEwwEZA8yN.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 981,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/93838",
+      "text": "Fearthropod - Oathkeeper (2026)\nBands: Fearthropod | Genres: Death Metal | Countries: MX",
+      "artist": "Fearthropod",
+      "title": "Oathkeeper (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/93838",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T14:17:33.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWAVpGqbJE.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 980,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95631",
+      "text": "Sarcosuchus - De-Extinction (2026)\nBands: Sarcosuchus | Genres: Death Metal | Countries: US",
+      "artist": "Sarcosuchus",
+      "title": "De-Extinction (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95631",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T14:15:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNllepkXWw.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 979,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96006",
+      "text": "The Fallen Prophets - Cerebral Plague (2026)\nBands: The Fallen Prophets | Genres: Technical Death Metal, Death Metal | Countries: ZA",
+      "artist": "The Fallen Prophets",
+      "title": "Cerebral Plague (2026)",
+      "genres": [
+        "Technical Death Metal",
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96006",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T14:13:02.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxeORGa_D-v.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 978,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96022",
+      "text": "Sinistrum - The Hammer Of Conquest (2026)\nBands: Sinistrum | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Sinistrum",
+      "title": "The Hammer Of Conquest (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96022",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T14:10:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQ9wN-Qpjd.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 977,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96033",
+      "text": "Corpsecrator - Dehumanization Construction Line (2026)\nBands: Corpsecrator | Genres: Technical Brutal Death Metal | Countries: KZ",
+      "artist": "Corpsecrator",
+      "title": "Dehumanization Construction Line (2026)",
+      "genres": [
+        "Technical Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96033",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T11:49:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldXjPG-jXJ.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 976,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96002",
+      "text": "Virologist - Subjugation Of Anthropoid Forms (2026)\nBands: Virologist | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Virologist",
+      "title": "Subjugation Of Anthropoid Forms (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96002",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T11:48:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypommkOw-Dn.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 975,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94217",
+      "text": "Cutterred Flesh - The Shapes of Hidden Malice (2026)\nBands: Cutterred Flesh | Genres: Death Metal, Deathcore | Countries: CZ",
+      "artist": "Cutterred Flesh",
+      "title": "The Shapes of Hidden Malice (2026)",
+      "genres": [
+        "Death Metal",
+        "Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94217",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T11:46:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkNA_zakmO.webp",
+      "createdAt": "2026-11-13T15:26:13.986Z",
+      "source": "deathgrind",
+      "id": 974,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n26qibwwqczh",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️\n➡️January 29th, 2027⬅️\n\nENTRAILS - Memorial Garden 🇸🇪💢   \n\n9th album from Linneryd, Swedish Death Metal outfit💢\n\nYT➡️\"Apocalyptic Trauma\" www.youtube.com/watch?v=uyDl...💢*\n\n#Entrails #MemorialGarden #hammerheartrecs #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n26qibwwqczh",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T10:08:35.853Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiaaljl6shdzpjeiyrfvdqh4f2dtxh4qxbum3ajomvfwelj3objmam",
+      "createdAt": "2026-11-13T15:26:13.082Z",
+      "id": 973,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n26pnb77mkzh",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️December 4th, 2026⬅️\n\nNECRONAUTICAL - The Second Death 🇬🇧⚛️\n\n5th album from Manchester, UK Black Metal outfit⚛️\n\nBC➡️necronautical.bandcamp.com/album/the-se...⚛️\n\n#Necronautical #TheSecondDeath #VendettaRec #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n26pnb77mkzh",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T09:53:29.106Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreib4mk5vywnntvfp5xzkq4rod3jjzsczundysxuorlddbt5e4ra56i",
+      "createdAt": "2026-11-13T15:26:13.082Z",
+      "id": 972,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96032",
       "text": "Devoured - Congenital Bleeding Disorders [Demo] (2026)\nBands: Devoured | Genres: Goregrind | Countries: AR",
@@ -17,7 +208,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-13T07:04:48.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/mm8jlbo9xzj.webp",
+      "coverUrl": "covers/mm8jlbo9xzj.webp",
       "createdAt": "2026-11-13T07:10:10.656Z",
       "source": "deathgrind",
       "id": 971,
