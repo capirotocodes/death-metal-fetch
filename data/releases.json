@@ -1,9 +1,212 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25pt32ojj2p",
-  "updatedAt": "2026-11-13T00:29:17.162Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25z7p7npd2c",
+  "updatedAt": "2026-11-13T07:10:10.656Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96032",
+      "text": "Devoured - Congenital Bleeding Disorders [Demo] (2026)\nBands: Devoured | Genres: Goregrind | Countries: AR",
+      "artist": "Devoured",
+      "title": "Congenital Bleeding Disorders [Demo] (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96032",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T07:04:48.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/mm8jlbo9xzj.webp",
+      "createdAt": "2026-11-13T07:10:10.656Z",
+      "source": "deathgrind",
+      "id": 971,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96031",
+      "text": "Teitanblood - Purging Tongues [EP] (2022)\nBands: Teitanblood | Genres: Blackened Death Metal | Countries: ES",
+      "artist": "Teitanblood",
+      "title": "Purging Tongues [EP] (2022)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96031",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T06:07:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldXagXBEDo.webp",
+      "createdAt": "2026-11-13T07:10:10.656Z",
+      "source": "deathgrind",
+      "id": 970,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96030",
+      "text": "Sacramentary Abolishment - The Distracting Stone (1997)\nBands: Sacramentary Abolishment | Genres: Blackened Death Metal | Countries: CA",
+      "artist": "Sacramentary Abolishment",
+      "title": "The Distracting Stone (1997)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96030",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T06:07:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdnBM6pgNy.webp",
+      "createdAt": "2026-11-13T07:10:10.656Z",
+      "source": "deathgrind",
+      "id": 969,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96029",
+      "text": "Sacramentary Abolishment - Misanthropy [Demo] (1994)\nBands: Sacramentary Abolishment | Genres: Blackened Death Metal | Countries: CA",
+      "artist": "Sacramentary Abolishment",
+      "title": "Misanthropy [Demo] (1994)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96029",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T06:07:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_yWKlBkwo.webp",
+      "createdAt": "2026-11-13T07:10:10.656Z",
+      "source": "deathgrind",
+      "id": 968,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96028",
+      "text": "Impartial Dismemberment - Personification Of A Killer: Deluxe Edition [Compilation] (2022)\nBands: Impartial Dismemberment | Genres: Brutal Deathcore | Countries: US",
+      "artist": "Impartial Dismemberment",
+      "title": "Personification Of A Killer: Deluxe Edition [Compilation] (2022)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96028",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T06:06:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxeXgYkjKpk.webp",
+      "createdAt": "2026-11-13T07:10:10.656Z",
+      "source": "deathgrind",
+      "id": 967,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25yyda7ai2v",
+      "text": "FULL FORCE FRIDAY:🆕November 13th 4⃣0⃣🎧\n\nEPIDEMIC SCORN - Demolished Globe 🇩🇪⚛️\n\n7th abum from Annaberg-Buchholz, Saxony, German Death Metal outfit⚛️\n\nBC➡️epidemicscorn.bandcamp.com/album/demoli...⚛️\n\n#EpidemicScorn #Demolished #DeathMetal #FFFNov13 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n25yyda7ai2v",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T03:08:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifrf6jlcoqrdqchtk7wjmvlqnvuvyccpaetxaw7askzfohlztqu4q",
+      "createdAt": "2026-11-13T07:10:09.135Z",
+      "id": 966,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25xgbfwiu2v",
+      "text": "FULL FORCE FRIDAY:🆕November 13th 3⃣6⃣🎧\n\nANOMIC - The Spider’s Code 🇳🇱⚛️\n\nDebut album from Amsterdam, Dutch Thrash/Death Metal outfit⚛️\n\nBC➡️pestrecords.bandcamp.com/album/the-sp... ⚛️\n\n#Anomic #TheSpidersCode #ThrashDeathMetal #PestRecords #FFFNov13 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n25xgbfwiu2v",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T02:40:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibinv6arqiqkc3le64qxkc2dkbpwetks3c66m5lj6a4vcx4ik52aq",
+      "createdAt": "2026-11-13T07:10:09.135Z",
+      "id": 965,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25wxxarh72x",
+      "text": "FULL FORCE FRIDAY:🆕November 13th 3⃣5⃣🎧\n\nSARCOSUCHUS - De-Extinction 🇺🇸⚛️\n\nDebut album from Long Island, NY, U.S. Death Metal / Hardcore outfit⚛️\n\nBC➡️hpgd.bandcamp.com/album/de-ext...⚛️\n\n#Sarcosuchus #DeExtinction #DeathMetal #Hardcore #FFFNov13 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n25wxxarh72x",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T02:32:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiazhtxbrajdwlvt6fmt4owab42zddgexxsy3e7ap4kd3ouy7vfb64",
+      "createdAt": "2026-11-13T07:10:09.135Z",
+      "id": 964,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25v6qpgoq24",
+      "text": "FULL FORCE FRIDAY:🆕November 13th 3⃣1⃣🎧\n\nVINTERASKE - Nocturne 🇳🇴⚛️\n\nDebut album from German Black Metal outfit⚛️\n\nBC➡️vinteraske.bandcamp.com/album/nocturne ⚛️\n\n#Vinteraske #Nocturne #BlackMetal #FFFNov13 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n25v6qpgoq24",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T02:00:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifqeb44quvhkkbmhsth2spjonyiryusfh73w5okjsplwjhzv4ms2y",
+      "createdAt": "2026-11-13T07:10:09.135Z",
+      "id": 963,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25rmcgmpw2u",
+      "text": "FULL FORCE FRIDAY:🆕November 13th 2⃣3⃣🎧\n\nDISCORDANT MEDITATION - Aborted Emanations 🇸🇪⚛️\n\n2nd from Swedish Blackened Death Metal outfit⚛️\n\nBC➡️discordantmeditation.bandcamp.com/album/aborte...⚛️\n\n#DiscordantMeditation #AbortedEmanations #BlackenedDeathMetal #FFFNov13 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n25rmcgmpw2u",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T00:56:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidnbvu46lak232mqt6a5rj7hhhzdt6x6vsegv45wm272qlnt3c52i",
+      "createdAt": "2026-11-13T07:10:09.135Z",
+      "id": 962,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25qbfcko22p",
+      "text": "FULL FORCE FRIDAY:🆕November 13th 2️⃣0⃣🎧\n\nFADING LIGHT - The Spell of a New Dawn 🇩🇪⚛️\n\nDebut album from Rottweil, German Symphonic Black Metal outfit⚛️\n\nBC➡️fadinglightmetal.bandcamp.com/album/the-sp...⚛️\n\n#FadingLight #TheSpellOfANewDawn #SymphonicBlack #FFFNov13 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n25qbfcko22p",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T00:32:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidejjc5p6q7crldd766caacngqgacnu2x35ljajbrlav674qhrh3e",
+      "createdAt": "2026-11-13T07:10:09.135Z",
+      "id": 961,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n25pt32ojj2p",
       "text": "FULL FORCE FRIDAY:🆕November 13th 1⃣9⃣🎧\n\nOREAMNOS - In Ruins 🇺🇸⚛️\n\n2nd album from CA/NY, U.S Death Metal outfit⚛️\n\nBC➡️bloodymountainrecords.bandcamp.com/album/in-ruins⚛️\n\n#Oreamnos #InRuins #BloodyMountainRec #DeathMetal #FFFNov13 #KMäN",
@@ -54,7 +257,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-12T23:48:14.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/qgdnL--Gydp.webp",
+      "coverUrl": "covers/qgdnL--Gydp.webp",
       "createdAt": "2026-11-13T00:29:17.162Z",
       "source": "deathgrind",
       "id": 960,
