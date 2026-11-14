@@ -1,9 +1,28 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2af5my3lsx6",
-  "updatedAt": "2026-11-14T01:51:26.284Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2amkxxgf2x6",
+  "updatedAt": "2026-11-14T08:49:41.186Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96047",
+      "text": "Conqueror - Hammer Of Antichrist - History Of Annihilation [Compilation] (2003)\nBands: Conqueror | Genres: Blackened Death Metal | Countries: CA",
+      "artist": "Conqueror",
+      "title": "Hammer Of Antichrist - History Of Annihilation [Compilation] (2003)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96047",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T07:34:23.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/wKmwm_8jzwr.webp",
+      "createdAt": "2026-11-14T08:49:41.186Z",
+      "source": "deathgrind",
+      "id": 997,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2adw75akcx6",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 11th, 2026⬅️\n\nBURIAL REMAINS - Sacramental 🇳🇱⚛️\n\n4 Track EP from Drachten, Dutch Death Metal outfit⚛️\n\nBC➡️burialremainsofficial.bandcamp.com/album/sacram...⚛️\n\n#BurialRemains #Sacramental #DeathMetal #TheUpcomingTerror26 #KMäN",
@@ -35,7 +54,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-14T01:07:06.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/QNnXkBbEvyw.webp",
+      "coverUrl": "covers/QNnXkBbEvyw.webp",
       "createdAt": "2026-11-14T01:51:26.284Z",
       "source": "deathgrind",
       "id": 996,
