@@ -1,9 +1,215 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n26qibwwqczh",
-  "updatedAt": "2026-11-13T21:31:56.762Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2af5my3lsx6",
+  "updatedAt": "2026-11-14T01:51:26.284Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2adw75akcx6",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 11th, 2026⬅️\n\nBURIAL REMAINS - Sacramental 🇳🇱⚛️\n\n4 Track EP from Drachten, Dutch Death Metal outfit⚛️\n\nBC➡️burialremainsofficial.bandcamp.com/album/sacram...⚛️\n\n#BurialRemains #Sacramental #DeathMetal #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2adw75akcx6",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-14T01:29:03.509Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicd6a2tosaqt53icojs7oxmwidejjkakq6mmxccupwsv4tyw7f3hm",
+      "createdAt": "2026-11-14T01:51:24.695Z",
+      "id": 990,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96045",
+      "text": "Hour Of Penance - Promo 2000\nBands: Hour Of Penance | Genres: Technical Brutal Death Metal | Countries: IT",
+      "artist": "Hour Of Penance",
+      "title": "Promo 2000",
+      "genres": [
+        "Technical Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96045",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T01:07:06.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/QNnXkBbEvyw.webp",
+      "createdAt": "2026-11-14T01:51:26.284Z",
+      "source": "deathgrind",
+      "id": 996,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96044",
+      "text": "Orchidectomy - Demo 2008\nBands: Orchidectomy | Genres: Brutal Death Metal, Slamming Brutal Death Metal | Countries: CA",
+      "artist": "Orchidectomy",
+      "title": "Demo 2008",
+      "genres": [
+        "Brutal Death Metal",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96044",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T01:07:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWdQ8gD77E.webp",
+      "createdAt": "2026-11-14T01:51:26.284Z",
+      "source": "deathgrind",
+      "id": 995,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96046",
+      "text": "Karkosa - Esoterrorcult (2023)\nBands: Karkosa | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Karkosa",
+      "title": "Esoterrorcult (2023)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96046",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T00:06:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwN6Kd-Geky.webp",
+      "createdAt": "2026-11-14T01:51:26.284Z",
+      "source": "deathgrind",
+      "id": 994,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2a6upnazcx6",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️\n➡️January 29th, 2027⬅️\n\nMEMORIAM - Endgame 🇬🇧💢\n\n6th (and final) album from Birmingham, UK Death Metal outfit💢\n\nYT➡️'Point of No Return' youtu.be/d2R82hzEUsg...💢*NT\n\n#memoriamUK #Endgame #DeathMetal\n#ReaperEntertain #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2a6upnazcx6",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T23:58:44.993Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreienlxn7e5xo267wzqiowvkyzzgu5bb5kejund3utywt3ufcbquh2u",
+      "createdAt": "2026-11-14T01:51:24.695Z",
+      "id": 989,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2a5xnxbykx6",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 11th, 2026⬅️\n\nGRAFVITNIR - Útgardr 🇸🇪⚛️\n\n10th album from Stockholm, Swedish Melodic Black Metal outfit⚛️\n\nBC➡️regainrecords.bandcamp.com/album/tgardr ⚛️\n\n#Grafvitnir #Utgardr #MelodicBlackMetal #RegainRecords #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2a5xnxbykx6",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T23:42:30.146Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieizzzxgvhdy5ufnpslxdgztppe4plncjf7ywdljyaju3jjnjoyv4",
+      "createdAt": "2026-11-14T01:51:24.695Z",
+      "id": 988,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96043",
+      "text": "Revelation Of Doom - Unholy Goatfuck (2005)\nBands: Revelation Of Doom | Genres: Blackened Death Metal | Countries: PL",
+      "artist": "Revelation Of Doom",
+      "title": "Unholy Goatfuck (2005)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96043",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T23:41:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_g6yjqAk8.webp",
+      "createdAt": "2026-11-14T01:51:26.284Z",
+      "source": "deathgrind",
+      "id": 993,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96042",
+      "text": "Ildjarn - Forest Poetry (1996)\nBands: Ildjarn | Genres: Black Metal | Countries: NO",
+      "artist": "Ildjarn",
+      "title": "Forest Poetry (1996)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96042",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T23:37:12.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKXEDDdDGY.webp",
+      "createdAt": "2026-11-14T01:51:26.284Z",
+      "source": "deathgrind",
+      "id": 992,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96038",
+      "text": "Expectorate - Clinical Observation Of Progressive Organ Liquefaction In A Living Host [EP] (2026)\nBands: Expectorate | Genres: Death Metal, Goregrind | Countries: PL",
+      "artist": "Expectorate",
+      "title": "Clinical Observation Of Progressive Organ Liquefaction In A Living Host [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96038",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-13T23:24:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwXqPXp8pK.webp",
+      "createdAt": "2026-11-14T01:51:26.284Z",
+      "source": "deathgrind",
+      "id": 991,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2a3tj3qt2x6",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️January 24th, 2027⬅️\n\nSUBLATION - A Silence Grows 🇺🇸💢\n\n2nd album from Philadelphia, Pennsylvania, U.S. Technical Death Metal outfit💢\n\nBC➡️sublationband.bandcamp.com/album/a-sile...💢\n\n#Sublation #ASilenceGrows #TechnicalDeathMetal #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2a3tj3qt2x6",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T23:04:23.348Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihhe7odl4qpcoei7hinhqhdom72wcqqm5yenygnqkcipw25rwyw7a",
+      "createdAt": "2026-11-14T01:51:24.695Z",
+      "id": 987,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2a3ltboxcx6",
+      "text": "FULL FORCE FRIDAY:🆕November 13th ENCORE!🎧\n\nSAVAGE - Septic Tomb 🇳🇱⚛️\n\nDebut album from Groningen, Dutch Old School Death Metal outfit⚛️   \n\nBC➡️necrolatryrecords.bandcamp.com/album/septic...⚛️\n\n#Savage #SepticTomb #OldSchoolDeathMetal #DeathMetal #FFFNov13 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2a3ltboxcx6",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-13T23:00:05.593Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibnkgcepu5glgcnqnlceks6sxbliq7d72sho3qtjauvq2xywk56ia",
+      "createdAt": "2026-11-14T01:51:24.695Z",
+      "id": 986,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96037",
       "text": "Purulentum - Horrendous Suppuration [Demo] (2026)\nBands: Purulentum | Genres: Death Metal | Countries: PL",
@@ -17,7 +223,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-13T17:52:27.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/beL-nbepqBG.webp",
+      "coverUrl": "covers/beL-nbepqBG.webp",
       "createdAt": "2026-11-13T21:31:56.762Z",
       "source": "deathgrind",
       "id": 985,
