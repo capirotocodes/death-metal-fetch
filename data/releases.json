@@ -2,8 +2,27 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2amkxxgf2x6",
-  "updatedAt": "2026-11-14T08:49:41.186Z",
+  "updatedAt": "2026-11-14T15:41:17.087Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96048",
+      "text": "Murderous - Head Destroyed By Vise [EP] (2026)\nBands: Murderous | Genres: Death Metal | Countries: BR",
+      "artist": "Murderous",
+      "title": "Head Destroyed By Vise [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96048",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T08:57:27.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/kw6edwQ68o8.webp",
+      "createdAt": "2026-11-14T15:41:17.087Z",
+      "source": "deathgrind",
+      "id": 998,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96047",
       "text": "Conqueror - Hammer Of Antichrist - History Of Annihilation [Compilation] (2003)\nBands: Conqueror | Genres: Blackened Death Metal | Countries: CA",
@@ -17,7 +36,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-14T07:34:23.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/wKmwm_8jzwr.webp",
+      "coverUrl": "covers/wKmwm_8jzwr.webp",
       "createdAt": "2026-11-14T08:49:41.186Z",
       "source": "deathgrind",
       "id": 997,
