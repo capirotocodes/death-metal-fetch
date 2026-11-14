@@ -2,8 +2,201 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2amkxxgf2x6",
-  "updatedAt": "2026-11-14T15:41:17.087Z",
+  "updatedAt": "2026-11-14T20:08:11.669Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96058",
+      "text": "Anomic - Opacity [EP] (2024)\nBands: Anomic | Genres: Death Metal, Thrash Metal | Countries: NL",
+      "artist": "Anomic",
+      "title": "Opacity [EP] (2024)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96058",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T19:32:15.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/gMQZmGRNb7b.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1008,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96057",
+      "text": "Teitanblood - Black Putrescence Of Evil [Compilation] (2009)\nBands: Teitanblood | Genres: Blackened Death Metal | Countries: ES",
+      "artist": "Teitanblood",
+      "title": "Black Putrescence Of Evil [Compilation] (2009)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96057",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T18:40:44.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwN-wKBRmBG.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1007,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96056",
+      "text": "Alma Muerta - Brain Eater [EP] (2026)\nBands: Alma Muerta | Genres: Death Metal | Countries: AR",
+      "artist": "Alma Muerta",
+      "title": "Brain Eater [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96056",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T18:17:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKZNxM9nXX.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1006,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96055",
+      "text": "Nest Of Scum - External Forces [EP] (2026)\nBands: Nest Of Scum | Genres: Death Metal | Countries: GB",
+      "artist": "Nest Of Scum",
+      "title": "External Forces [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96055",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T17:49:27.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLZeoZXykA.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1005,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96054",
+      "text": "Ferox - Slaughtered From Beyond [EP] (2026)\nBands: Ferox | Genres: Death Metal, Goregrind | Countries: GB",
+      "artist": "Ferox",
+      "title": "Slaughtered From Beyond [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96054",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T17:45:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pQ_Re_exX.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1004,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96053",
+      "text": "Vulture - Apostasy Campaign (2026)\nBands: Vulture | Genres: Death Metal | Countries: BR",
+      "artist": "Vulture",
+      "title": "Apostasy Campaign (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96053",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T17:40:04.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDegd_Zka-.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1003,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96052",
+      "text": "Parlamentarisk Sodomi - De Anarkistiske An(N)Aler (2009)\nBands: Parlamentarisk Sodomi | Genres: Grindcore | Countries: NO",
+      "artist": "Parlamentarisk Sodomi",
+      "title": "De Anarkistiske An(N)Aler (2009)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96052",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T17:10:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69Z6AOjLRW.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1002,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96051",
+      "text": "Apartment 213 - Collected Violence (2017)\nBands: Apartment 213 | Genres: Grindcore, Hardcore | Countries: US",
+      "artist": "Apartment 213",
+      "title": "Collected Violence (2017)",
+      "genres": [
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96051",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T17:06:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQZMmPWo7l.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1001,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96050",
+      "text": "Proletarian Death Hammer - Arming The Oppressed [EP] (2026)\nBands: Proletarian Death Hammer | Genres: Blackened Death Metal | Countries: ES",
+      "artist": "Proletarian Death Hammer",
+      "title": "Arming The Oppressed [EP] (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96050",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T16:36:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzZywbDd8_.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 1000,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96049",
+      "text": "Assück - Anticapital / Blindspot / +3 [Compilation] (1994)\nBands: Assück | Genres: Grindcore | Countries: US",
+      "artist": "Assück",
+      "title": "Anticapital / Blindspot / +3 [Compilation] (1994)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96049",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T15:54:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRvqaErpPR.webp",
+      "createdAt": "2026-11-14T20:08:11.669Z",
+      "source": "deathgrind",
+      "id": 999,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96048",
       "text": "Murderous - Head Destroyed By Vise [EP] (2026)\nBands: Murderous | Genres: Death Metal | Countries: BR",
@@ -17,7 +210,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-14T08:57:27.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/kw6edwQ68o8.webp",
+      "coverUrl": "covers/kw6edwQ68o8.webp",
       "createdAt": "2026-11-14T15:41:17.087Z",
       "source": "deathgrind",
       "id": 998,
