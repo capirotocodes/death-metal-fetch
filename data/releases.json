@@ -1,9 +1,29 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2amkxxgf2x6",
-  "updatedAt": "2026-11-14T20:08:11.669Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2cldalhwcer",
+  "updatedAt": "2026-11-14T23:57:24.718Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96060",
+      "text": "Mutilation - Desecrate [EP] (2026)\nBands: Mutilation | Genres: Slamming Brutal Deathcore, Beatdown Hardcore | Countries: US",
+      "artist": "Mutilation",
+      "title": "Desecrate [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Deathcore",
+        "Beatdown Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96060",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-14T23:33:41.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/PomZEWdwvrD.webp",
+      "createdAt": "2026-11-14T23:57:24.718Z",
+      "source": "deathgrind",
+      "id": 1009,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96058",
       "text": "Anomic - Opacity [EP] (2024)\nBands: Anomic | Genres: Death Metal, Thrash Metal | Countries: NL",
@@ -18,7 +38,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-14T19:32:15.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/gMQZmGRNb7b.webp",
+      "coverUrl": "covers/gMQZmGRNb7b.webp",
       "createdAt": "2026-11-14T20:08:11.669Z",
       "source": "deathgrind",
       "id": 1008,
