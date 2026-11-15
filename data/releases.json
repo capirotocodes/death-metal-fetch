@@ -2,8 +2,46 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2dmg57gg2er",
-  "updatedAt": "2026-11-15T19:42:12.614Z",
+  "updatedAt": "2026-11-15T23:33:24.951Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96077",
+      "text": "Scrotoplasty - Metamorphosis Of A Whisting Husk [EP] (2025)\nBands: Scrotoplasty | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Scrotoplasty",
+      "title": "Metamorphosis Of A Whisting Husk [EP] (2025)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96077",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T22:01:35.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/7zEgklDzVYN.webp",
+      "createdAt": "2026-11-15T23:33:24.951Z",
+      "source": "deathgrind",
+      "id": 1025,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96076",
+      "text": "Scrotoplasty - Consuming The Decay (2026)\nBands: Scrotoplasty | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Scrotoplasty",
+      "title": "Consuming The Decay (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96076",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T21:59:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKZV87WgbG.webp",
+      "createdAt": "2026-11-15T23:33:24.951Z",
+      "source": "deathgrind",
+      "id": 1024,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96075",
       "text": "Humanjuicer - The Filleting Element [EP] (2026)\nBands: Humanjuicer | Genres: Goregrind, Grindcore | Countries: PL",
@@ -18,7 +56,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-15T19:14:07.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/L6gKZvbrVk9.webp",
+      "coverUrl": "covers/L6gKZvbrVk9.webp",
       "createdAt": "2026-11-15T19:42:12.614Z",
       "source": "deathgrind",
       "id": 1023,
