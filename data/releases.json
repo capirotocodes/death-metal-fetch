@@ -2,8 +2,165 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2dmg57gg2er",
-  "updatedAt": "2026-11-15T13:59:18.333Z",
+  "updatedAt": "2026-11-15T19:42:12.614Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96075",
+      "text": "Humanjuicer - The Filleting Element [EP] (2026)\nBands: Humanjuicer | Genres: Goregrind, Grindcore | Countries: PL",
+      "artist": "Humanjuicer",
+      "title": "The Filleting Element [EP] (2026)",
+      "genres": [
+        "Goregrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96075",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T19:14:07.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/L6gKZvbrVk9.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1023,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96074",
+      "text": "Retortion Terror - Retortion Terror [EP] (2018)\nBands: Retortion Terror | Genres: Grindcore | Countries: JP",
+      "artist": "Retortion Terror",
+      "title": "Retortion Terror [EP] (2018)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96074",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T18:38:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKZPZQoYKX.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1022,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96073",
+      "text": "Dødsengel - Imperator (2012)\nBands: Dødsengel | Genres: Black Metal | Countries: NO",
+      "artist": "Dødsengel",
+      "title": "Imperator (2012)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96073",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T18:23:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxZPv6bb-q.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1021,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96072",
+      "text": "Blut Aus Nord - Odinist - The Destruction Of Reason By Illumination (2007)\nBands: Blut Aus Nord | Genres: Black Metal | Countries: FR",
+      "artist": "Blut Aus Nord",
+      "title": "Odinist - The Destruction Of Reason By Illumination (2007)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96072",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T18:11:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxeJZ76_gk9.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1020,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96071",
+      "text": "Blut Aus Nord - The Work Which Transforms God (2013)\nBands: Blut Aus Nord | Genres: Black Metal | Countries: FR",
+      "artist": "Blut Aus Nord",
+      "title": "The Work Which Transforms God (2013)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96071",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T18:11:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_kGbLkBaV.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1019,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96070",
+      "text": "Saccage - Chronophage (2026)\nBands: Saccage | Genres: Black Metal, Thrash Metal, Crust | Countries: CA",
+      "artist": "Saccage",
+      "title": "Chronophage (2026)",
+      "genres": [
+        "Black Metal",
+        "Thrash Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96070",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T15:20:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvZVJlxyAR.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1018,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96069",
+      "text": "Necromutilator - The Annihilation Chalice (2026)\nBands: Necromutilator | Genres: Blackened Death Metal, Thrash Metal | Countries: IT",
+      "artist": "Necromutilator",
+      "title": "The Annihilation Chalice (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96069",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T15:09:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKZON6YDoG.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1017,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96068",
+      "text": "Assumption - Paradox Of The Arrow (2026)\nBands: Assumption | Genres: Death Metal, Doom Metal | Countries: IT, SI",
+      "artist": "Assumption",
+      "title": "Paradox Of The Arrow (2026)",
+      "genres": [
+        "Death Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96068",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T14:07:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoQe-KJVOr.webp",
+      "createdAt": "2026-11-15T19:42:12.614Z",
+      "source": "deathgrind",
+      "id": 1016,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96067",
       "text": "Neid - Still Offensive [EP] (2024)\nBands: Neid | Genres: Grindcore | Countries: IT",
@@ -17,7 +174,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-15T12:34:52.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/WBwZWZoLAwB.webp",
+      "coverUrl": "covers/WBwZWZoLAwB.webp",
       "createdAt": "2026-11-15T13:59:18.333Z",
       "source": "deathgrind",
       "id": 1015,
