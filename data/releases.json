@@ -1,9 +1,47 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2cu7yok2ker",
-  "updatedAt": "2026-11-15T06:10:15.936Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2dmg57gg2er",
+  "updatedAt": "2026-11-15T13:59:18.333Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96067",
+      "text": "Neid - Still Offensive [EP] (2024)\nBands: Neid | Genres: Grindcore | Countries: IT",
+      "artist": "Neid",
+      "title": "Still Offensive [EP] (2024)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96067",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T12:34:52.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/WBwZWZoLAwB.webp",
+      "createdAt": "2026-11-15T13:59:18.333Z",
+      "source": "deathgrind",
+      "id": 1015,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96066",
+      "text": "Neid - Anthems To The Dissonance (Discography 2007-2020) [Compilation] (2020)\nBands: Neid | Genres: Grindcore | Countries: IT",
+      "artist": "Neid",
+      "title": "Anthems To The Dissonance (Discography 2007-2020) [Compilation] (2020)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96066",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T12:28:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWvZojLwP7Z.webp",
+      "createdAt": "2026-11-15T13:59:18.333Z",
+      "source": "deathgrind",
+      "id": 1014,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96064",
       "text": "Deathspell Omega - Mass Grave Aesthetics [EP] (2008)\nBands: Deathspell Omega | Genres: Black Metal | Countries: FR",
@@ -17,7 +55,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-15T04:02:46.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/AeRvZ6NDZqP.webp",
+      "coverUrl": "covers/AeRvZ6NDZqP.webp",
       "createdAt": "2026-11-15T06:10:15.936Z",
       "source": "deathgrind",
       "id": 1013,
