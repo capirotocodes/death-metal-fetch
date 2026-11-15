@@ -1,9 +1,85 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2cldalhwcer",
-  "updatedAt": "2026-11-14T23:57:24.718Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2cu7yok2ker",
+  "updatedAt": "2026-11-15T06:10:15.936Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96064",
+      "text": "Deathspell Omega - Mass Grave Aesthetics [EP] (2008)\nBands: Deathspell Omega | Genres: Black Metal | Countries: FR",
+      "artist": "Deathspell Omega",
+      "title": "Mass Grave Aesthetics [EP] (2008)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96064",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T04:02:46.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/AeRvZ6NDZqP.webp",
+      "createdAt": "2026-11-15T06:10:15.936Z",
+      "source": "deathgrind",
+      "id": 1013,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96063",
+      "text": "Deathspell Omega - Veritas Diaboli Manet In Aeternum: Chaining The Katechon [EP] (2008)\nBands: Deathspell Omega | Genres: Black Metal | Countries: FR",
+      "artist": "Deathspell Omega",
+      "title": "Veritas Diaboli Manet In Aeternum: Chaining The Katechon [EP] (2008)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96063",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T04:02:27.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRvZ9Ak6vz.webp",
+      "createdAt": "2026-11-15T06:10:15.936Z",
+      "source": "deathgrind",
+      "id": 1012,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96062",
+      "text": "Blut Aus Nord - MoRT (2006)\nBands: Blut Aus Nord | Genres: Black Metal | Countries: FR",
+      "artist": "Blut Aus Nord",
+      "title": "MoRT (2006)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96062",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T04:01:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQZ_xe9JVe.webp",
+      "createdAt": "2026-11-15T06:10:15.936Z",
+      "source": "deathgrind",
+      "id": 1011,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96061",
+      "text": "Christorment - Refinement/Atonement [Single] (2026)\nBands: Christorment | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Christorment",
+      "title": "Refinement/Atonement [Single] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96061",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-15T00:29:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/gMQZ6vn-7xp.webp",
+      "createdAt": "2026-11-15T06:10:15.936Z",
+      "source": "deathgrind",
+      "id": 1010,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96060",
       "text": "Mutilation - Desecrate [EP] (2026)\nBands: Mutilation | Genres: Slamming Brutal Deathcore, Beatdown Hardcore | Countries: US",
@@ -18,7 +94,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-14T23:33:41.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/PomZEWdwvrD.webp",
+      "coverUrl": "covers/PomZEWdwvrD.webp",
       "createdAt": "2026-11-14T23:57:24.718Z",
       "source": "deathgrind",
       "id": 1009,
