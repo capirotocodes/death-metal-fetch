@@ -1,9 +1,68 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2dmg57gg2er",
-  "updatedAt": "2026-11-15T23:33:24.951Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2gcpyklk24v",
+  "updatedAt": "2026-11-16T11:39:03.159Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96081",
+      "text": "VA - A Tribute To Possessed : Seven Burning Churches [Compilation] (2016)\nBands: Pyre, Decease, Violentor, Bestiality, Hell Patrol, Septory, Terrör Striker, Січгарт, Grond, Castrum, Regressive | Genres: Death Metal, Thrash Metal | Countries: RU",
+      "artist": "VA",
+      "title": "A Tribute To Possessed : Seven Burning Churches [Compilation] (2016)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96081",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-16T09:47:56.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/_KGZm_RB_KG.webp",
+      "createdAt": "2026-11-16T11:39:03.159Z",
+      "source": "deathgrind",
+      "id": 1028,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96079",
+      "text": "Sublation - On the Advancement of Decay [EP] (2023)\nBands: Sublation | Genres: Technical Death Metal | Countries: US",
+      "artist": "Sublation",
+      "title": "On the Advancement of Decay [EP] (2023)",
+      "genres": [
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96079",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-16T07:53:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_ZNROabAB.webp",
+      "createdAt": "2026-11-16T11:39:03.159Z",
+      "source": "deathgrind",
+      "id": 1027,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96080",
+      "text": "The Ruins Of Beverast - Foulest Semen Of A Sheltered Elite (2009)\nBands: The Ruins Of Beverast | Genres: Black Metal, Doom Metal | Countries: DE",
+      "artist": "The Ruins Of Beverast",
+      "title": "Foulest Semen Of A Sheltered Elite (2009)",
+      "genres": [
+        "Black Metal",
+        "Doom Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96080",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-16T06:32:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwZdLNn6-B.webp",
+      "createdAt": "2026-11-16T11:39:03.159Z",
+      "source": "deathgrind",
+      "id": 1026,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96077",
       "text": "Scrotoplasty - Metamorphosis Of A Whisting Husk [EP] (2025)\nBands: Scrotoplasty | Genres: Slamming Brutal Death Metal | Countries: US",
@@ -17,7 +76,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-15T22:01:35.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/7zEgklDzVYN.webp",
+      "coverUrl": "covers/7zEgklDzVYN.webp",
       "createdAt": "2026-11-15T23:33:24.951Z",
       "source": "deathgrind",
       "id": 1025,
