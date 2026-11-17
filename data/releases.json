@@ -2,8 +2,28 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2hdqxmaa2yw",
-  "updatedAt": "2026-11-16T21:16:19.270Z",
+  "updatedAt": "2026-11-17T04:07:32.635Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96100",
+      "text": "MP5K - Deranged Stockholm Syndrome [Demo] (2021)\nBands: MP5K | Genres: Brutal Death Metal, Slamming Brutal Death Metal | Countries: SE",
+      "artist": "MP5K",
+      "title": "Deranged Stockholm Syndrome [Demo] (2021)",
+      "genres": [
+        "Brutal Death Metal",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96100",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-16T23:38:45.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/EB7zaBV7MzB.webp",
+      "createdAt": "2026-11-17T04:07:32.635Z",
+      "source": "deathgrind",
+      "id": 1048,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2hddlzkjkyw",
       "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️January 22nd, 2027⬅️\n\nVOIDSPIRE - The Endless Loss 🇳🇴💢\n\nDebut album from Oslo, Norwegian Atmospheric Death Metal outfit💢\n\nBC➡️everlastingspew.bandcamp.com/album/the-en...💢\n\n#Voidspire #TheEndlessLoss #DeathMetal #EverlastingSpew #TheUpcomingTerror27 #KMäN",
@@ -35,7 +55,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-16T19:55:07.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/lG_Zwv_rJJz.webp",
+      "coverUrl": "covers/lG_Zwv_rJJz.webp",
       "createdAt": "2026-11-16T21:16:19.270Z",
       "source": "deathgrind",
       "id": 1047,
