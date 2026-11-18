@@ -1,9 +1,377 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2jz62na3cvt",
-  "updatedAt": "2026-11-18T03:31:39.053Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2ldldvuzkxt",
+  "updatedAt": "2026-11-18T12:18:59.927Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96156",
+      "text": "Aara - Triade I: Eos (2021)\nBands: Aara | Genres: Black Metal | Countries: CH",
+      "artist": "Aara",
+      "title": "Triade I: Eos (2021)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96156",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T12:17:47.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/Dw6rJZ6Pj9R.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1101,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96141",
+      "text": "Worship Death - Arise From The Cemetery [EP] (2017)\nBands: Worship Death | Genres: Death Metal | Countries: CL",
+      "artist": "Worship Death",
+      "title": "Arise From The Cemetery [EP] (2017)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96141",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T10:59:54.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmQmwaZk6a.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1100,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96152",
+      "text": "The Ana Frank Pimps - The Ana Frank Pimps [Demo] (2010)\nBands: The Ana Frank Pimps | Genres: Grindcore | Countries: CL",
+      "artist": "The Ana Frank Pimps",
+      "title": "The Ana Frank Pimps [Demo] (2010)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96152",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T10:57:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pQKzO6nLy.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1099,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96148",
+      "text": "Pissing The Mainstream - Waiting to Explode (2023)\nBands: Pissing The Mainstream | Genres: Deathgrind | Countries: ID",
+      "artist": "Pissing The Mainstream",
+      "title": "Waiting to Explode (2023)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96148",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T10:56:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRvdwbkNJP.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1098,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96144",
+      "text": "Morstice - Deathography 1992-1995 [Compilation] (2011)\nBands: Morstice | Genres: Death Metal | Countries: GB",
+      "artist": "Morstice",
+      "title": "Deathography 1992-1995 [Compilation] (2011)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96144",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T10:56:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_k_d_6v9V.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1097,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96143",
+      "text": "Worship Death - Live Death [Live] (2021)\nBands: Worship Death | Genres: Death Metal | Countries: CL",
+      "artist": "Worship Death",
+      "title": "Live Death [Live] (2021)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96143",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T10:56:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_k_k8eBEW.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1096,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96142",
+      "text": "Worship Death - Rehearsal From The Grave [Demo] (2018)\nBands: Worship Death | Genres: Death Metal | Countries: CL",
+      "artist": "Worship Death",
+      "title": "Rehearsal From The Grave [Demo] (2018)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96142",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T10:56:18.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_k_yDXEDJ.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1095,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96140",
+      "text": "Worship Death - Promo MMXV [Demo] (2015)\nBands: Worship Death | Genres: Death Metal | Countries: CL",
+      "artist": "Worship Death",
+      "title": "Promo MMXV [Demo] (2015)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96140",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T10:56:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwN-NQvW_yA.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1094,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2lbxecdw2xt",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 18th, 2026⬅️\n\nVIOLENT TESTIMONY - Annihilate EP 🇺🇸⚛️\n\n6 Track EP from Cheyenne, Wyoming, U.S. Grindcore/ Death/Thrash Metal outfit⚛️\n\nBC➡️hpgd.bandcamp.com/album/annihi...⚛️\n\n#ViolentTestimony #Annihilate @hpgd666 #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2lbxecdw2xt",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-18T09:53:12.112Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibamvtbgn77oz7lj2egqg732o7gjbpmz4jnvdoxldbaka66kiqqse",
+      "createdAt": "2026-11-18T12:18:59.298Z",
+      "id": 1084,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2l6lsbbdkxt",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️January 15th, 2027⬅️\n\nDEUS DECEPTOR - Eternal Eclipse 🇫🇮💢\n\nDebut album from Rovaniemi, Finnish Melodic Death Metal outfit💢\n\nBC➡️deusdeceptorband.bandcamp.com/album/eterna...💢\n\n#DeusDeceptor #Eternal #MelodicDeath #InverseRecords #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2l6lsbbdkxt",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-18T08:53:02.878Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiarrkc7ies3exwdyyvrgqh7yvdtg54io4giaywsdry6ezyoa3grqy",
+      "createdAt": "2026-11-18T12:18:59.298Z",
+      "id": 1083,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96146",
+      "text": "Skin Removal - Skin Removal [Demo] (2026)\nBands: Skin Removal | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Skin Removal",
+      "title": "Skin Removal [Demo] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96146",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T08:17:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_ZJkRxrv7.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1093,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96157",
+      "text": "Repulsive Feast / Eraser - Faces Of Atrocity [Split] (2026)\nBands: Repulsive Feast, Eraser | Genres: Death Metal, Grindcore | Countries: DE, IT",
+      "artist": "Repulsive Feast / Eraser",
+      "title": "Faces Of Atrocity [Split] (2026)",
+      "genres": [
+        "Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96157",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T07:30:23.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWypYajMAE.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1092,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96155",
+      "text": "Aara - Triade II: Hemera (2022)\nBands: Aara | Genres: Black Metal | Countries: CH",
+      "artist": "Aara",
+      "title": "Triade II: Hemera (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96155",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T06:16:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6zAramE7z.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1091,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96154",
+      "text": "Aara - Phthonos [EP] (2022)\nBands: Aara | Genres: Black Metal | Countries: CH",
+      "artist": "Aara",
+      "title": "Phthonos [EP] (2022)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96154",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T06:10:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKm-RJB6Pn.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1090,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96153",
+      "text": "Aara - Triade III: Nyx (2023)\nBands: Aara | Genres: Black Metal | Countries: CH",
+      "artist": "Aara",
+      "title": "Triade III: Nyx (2023)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96153",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T06:10:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldAJxRL6Ka.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1089,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96149",
+      "text": "Spazz - Dwarf Jester Rising (1994)\nBands: Spazz | Genres: Powerviolence, Grindcore, Hardcore | Countries: US",
+      "artist": "Spazz",
+      "title": "Dwarf Jester Rising (1994)",
+      "genres": [
+        "Powerviolence",
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96149",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T06:08:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmQvMGvgaB.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1088,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96151",
+      "text": "No Comment - 87-93 [Compilation] (1999)\nBands: No Comment | Genres: Powerviolence, Grindcore, Hardcore | Countries: US",
+      "artist": "No Comment",
+      "title": "87-93 [Compilation] (1999)",
+      "genres": [
+        "Powerviolence",
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96151",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T06:08:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOZ6qdMRnR.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1087,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96150",
+      "text": "Despise You - West Side Horizons [Compilation] (1999)\nBands: Despise You | Genres: Powerviolence, Grindcore, Hardcore | Countries: US",
+      "artist": "Despise You",
+      "title": "West Side Horizons [Compilation] (1999)",
+      "genres": [
+        "Powerviolence",
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96150",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T06:07:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_kYW7REB_.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1086,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96147",
+      "text": "Infest - Live KXLU [Live] (2001)\nBands: Infest | Genres: Powerviolence, Grindcore, Hardcore | Countries: US",
+      "artist": "Infest",
+      "title": "Live KXLU [Live] (2001)",
+      "genres": [
+        "Powerviolence",
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96147",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T06:06:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeQPKKN8-V.webp",
+      "createdAt": "2026-11-18T12:18:59.927Z",
+      "source": "deathgrind",
+      "id": 1085,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96121",
       "text": "Maniac Butcher - Masakr (2010)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
@@ -17,7 +385,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-17T22:44:51.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/8ZGjxq76KEe.webp",
+      "coverUrl": "covers/8ZGjxq76KEe.webp",
       "createdAt": "2026-11-18T03:31:39.053Z",
       "source": "deathgrind",
       "id": 1082,
