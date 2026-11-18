@@ -1,9 +1,297 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2ldldvuzkxt",
-  "updatedAt": "2026-11-18T12:18:59.927Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2merhd6ckgc",
+  "updatedAt": "2026-11-18T20:51:06.470Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96164",
+      "text": "Embryonic Devourment - Prime Specimens [Compilation] (2026)\nBands: Embryonic Devourment | Genres: Technical Brutal Death Metal | Countries: US",
+      "artist": "Embryonic Devourment",
+      "title": "Prime Specimens [Compilation] (2026)",
+      "genres": [
+        "Technical Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96164",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T17:56:13.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/RKoMndAbdVE.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1116,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96158",
+      "text": "Gynecrology - Testiculartillery [EP] (2002)\nBands: Gynecrology | Genres: Brutal Death Metal, Grindcore | Countries: FR",
+      "artist": "Gynecrology",
+      "title": "Testiculartillery [EP] (2002)",
+      "genres": [
+        "Brutal Death Metal",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96158",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T17:52:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLnkvYEmnM.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1115,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96163",
+      "text": "Thorwald / Pulmonary Fibrosis - Medical Dissector / Pulmonary Fibrosis [Split] (2003)\nBands: Thorwald, Pulmonary Fibrosis | Genres: Grindcore, Death Metal, Goregrind | Countries: SK, FR",
+      "artist": "Thorwald / Pulmonary Fibrosis",
+      "title": "Medical Dissector / Pulmonary Fibrosis [Split] (2003)",
+      "genres": [
+        "Grindcore",
+        "Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96163",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T17:21:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRokM8mepP.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1114,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96162",
+      "text": "Ultratumba - Secta del odio (2014)\nBands: Ultratumba | Genres: Death Metal | Countries: ES",
+      "artist": "Ultratumba",
+      "title": "Secta del odio (2014)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96162",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:23:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aEAQB_kGk.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1113,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96117",
+      "text": "Maniac Butcher - Live In Germany [Live] (2003)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Live In Germany [Live] (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96117",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:10:56.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKZQzeEP-G.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1112,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96114",
+      "text": "Maniac Butcher - Live In Open Hell [Live] (1999)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Live In Open Hell [Live] (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96114",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:10:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/mm8Z6K7_Ozn.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1111,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96112",
+      "text": "Maniac Butcher - Live In Annaberg [Live] (1997)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Live In Annaberg [Live] (1997)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96112",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:10:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/M7jLODRjOlD.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1110,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96123",
+      "text": "Maniac Butcher / Dark Storm - Black Horns Of Saaz [Split] (1995)\nBands: Maniac Butcher, Dark Storm | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher / Dark Storm",
+      "title": "Black Horns Of Saaz [Split] (1995)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96123",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:10:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnZXN_XJXm.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1109,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96122",
+      "text": "Maniac Butcher - Metal From Hell [EP] (2012)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Metal From Hell [EP] (2012)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96122",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:09:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbZm8B7-o9.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1108,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96124",
+      "text": "Maniac Butcher / Sezarbil / Inferno - Proti Všem... [Split] (1999)\nBands: Maniac Butcher, Sezarbil, Inferno | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher / Sezarbil / Inferno",
+      "title": "Proti Všem... [Split] (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96124",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:08:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDevgEnnnL.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1107,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96120",
+      "text": "Maniac Butcher - The Beast / Dva Tisice Let [EP] (2006)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "The Beast / Dva Tisice Let [EP] (2006)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96120",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:07:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGjx7oZZDV.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1106,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96119",
+      "text": "Maniac Butcher - The Best Of / A Tribute To Maniac Butcher [Compilation] (2003)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "The Best Of / A Tribute To Maniac Butcher [Compilation] (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96119",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T16:06:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJkMZEmePE-.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1105,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96161",
+      "text": "Aara - En Ergô Einai (2020)\nBands: Aara | Genres: Black Metal | Countries: CH",
+      "artist": "Aara",
+      "title": "En Ergô Einai (2020)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96161",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T15:55:53.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGx9OYQe9Nx.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1104,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96160",
+      "text": "Excruciating Disembowelment - Mechanical Separation [Demo] (2026)\nBands: Excruciating Disembowelment | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Excruciating Disembowelment",
+      "title": "Mechanical Separation [Demo] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96160",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T14:32:15.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGbkQxEnle.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1103,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96159",
+      "text": "Decimation - Evils Of Mankind (2026)\nBands: Decimation | Genres: Death Metal | Countries: CO",
+      "artist": "Decimation",
+      "title": "Evils Of Mankind (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96159",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-18T13:44:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/JldANEwBvpX.webp",
+      "createdAt": "2026-11-18T20:51:06.470Z",
+      "source": "deathgrind",
+      "id": 1102,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96156",
       "text": "Aara - Triade I: Eos (2021)\nBands: Aara | Genres: Black Metal | Countries: CH",
@@ -17,7 +305,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-18T12:17:47.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/Dw6rJZ6Pj9R.webp",
+      "coverUrl": "covers/Dw6rJZ6Pj9R.webp",
       "createdAt": "2026-11-18T12:18:59.927Z",
       "source": "deathgrind",
       "id": 1101,
