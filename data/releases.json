@@ -2,8 +2,161 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2jz62na3cvt",
-  "updatedAt": "2026-11-17T21:53:53.283Z",
+  "updatedAt": "2026-11-18T03:31:39.053Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96121",
+      "text": "Maniac Butcher - Masakr (2010)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Masakr (2010)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96121",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:44:51.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/8ZGjxq76KEe.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1082,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96118",
+      "text": "Maniac Butcher - Immortal Death / The Incapable Carrion [Compilation] (2003)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Immortal Death / The Incapable Carrion [Compilation] (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96118",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:44:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoQmGydZml.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1081,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96116",
+      "text": "Maniac Butcher - Epitaph - The Final Onslaught Of Maniac Butcher (2000)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Epitaph - The Final Onslaught Of Maniac Butcher (2000)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96116",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:40:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxyZQL6jVLK.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1080,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96115",
+      "text": "Maniac Butcher - Invaze (1999)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Invaze (1999)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96115",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:39:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOZQ6RZmmN.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1079,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96113",
+      "text": "Maniac Butcher - Černá Krev (2003)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Černá Krev (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96113",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:39:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOZQyjpjEV.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1078,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96111",
+      "text": "Maniac Butcher - Krvestřeb [Reissue] (2003)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Krvestřeb [Reissue] (2003)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96111",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:37:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6ZQ6v-_6o.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1077,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96110",
+      "text": "Maniac Butcher - Barbarians [Reissue] (2007)\nBands: Maniac Butcher | Genres: Black Metal | Countries: CZ",
+      "artist": "Maniac Butcher",
+      "title": "Barbarians [Reissue] (2007)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96110",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:37:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnZQnbPamd.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1076,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96145",
+      "text": "Crucifucked - Never Forget (2026)\nBands: Crucifucked | Genres: Death Metal, Crust | Countries: ES",
+      "artist": "Crucifucked",
+      "title": "Never Forget (2026)",
+      "genres": [
+        "Death Metal",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96145",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-17T22:17:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gDeWdLQoe6.webp",
+      "createdAt": "2026-11-18T03:31:39.053Z",
+      "source": "deathgrind",
+      "id": 1075,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96139",
       "text": "Trauma - Paradigma: Demi Hidup Tak Perlu Harus Mati [Reissue] (2014)\nBands: Trauma | Genres: Death Metal | Countries: ID",
@@ -17,7 +170,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-17T20:00:16.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/9x_k_ZGjDr_.webp",
+      "coverUrl": "covers/9x_k_ZGjDr_.webp",
       "createdAt": "2026-11-17T21:53:53.283Z",
       "source": "deathgrind",
       "id": 1074,
