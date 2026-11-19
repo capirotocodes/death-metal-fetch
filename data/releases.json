@@ -2,8 +2,143 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2nnsyqrtsqy",
-  "updatedAt": "2026-11-19T10:41:50.620Z",
+  "updatedAt": "2026-11-19T19:11:34.063Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96174",
+      "text": "Imperial Triumphant - Goldstar (2025)\nBands: Imperial Triumphant | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Imperial Triumphant",
+      "title": "Goldstar (2025)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96174",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T18:12:53.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/Yxya-7qXJBO.webp",
+      "createdAt": "2026-11-19T19:11:34.063Z",
+      "source": "deathgrind",
+      "id": 1125,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96173",
+      "text": "Vile Creation - Dawn Of The Vile (2026)\nBands: Vile Creation | Genres: Death Metal | Countries: SE",
+      "artist": "Vile Creation",
+      "title": "Dawn Of The Vile (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96173",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T18:12:07.000Z",
+      "notified": false,
+      "coverUrl": "covers/VWv7YKeZpay.webp",
+      "createdAt": "2026-11-19T19:11:34.063Z",
+      "source": "deathgrind",
+      "id": 1124,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96172",
+      "text": "Burt / 1st Class Collapse - Burt x 1st Class Collapse [Split] (2023)\nBands: Burt, 1st Class Collapse | Genres: Grindcore, Hardcore | Countries: DE",
+      "artist": "Burt / 1st Class Collapse",
+      "title": "Burt x 1st Class Collapse [Split] (2023)",
+      "genres": [
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96172",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T17:29:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gDLKoqqL-.webp",
+      "createdAt": "2026-11-19T19:11:34.063Z",
+      "source": "deathgrind",
+      "id": 1123,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96171",
+      "text": "Maceration - Mercy To The Miserable (2026)\nBands: Maceration | Genres: Death Metal | Countries: DK",
+      "artist": "Maceration",
+      "title": "Mercy To The Miserable (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96171",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T14:22:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGbl8ZMr_X.webp",
+      "createdAt": "2026-11-19T19:11:34.063Z",
+      "source": "deathgrind",
+      "id": 1122,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96170",
+      "text": "Casket Feeder - Paralysis [EP] (2026)\nBands: Casket Feeder | Genres: Death Metal, Hardcore | Countries: GB",
+      "artist": "Casket Feeder",
+      "title": "Paralysis [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96170",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T14:12:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRoamOZjQ8.webp",
+      "createdAt": "2026-11-19T19:11:34.063Z",
+      "source": "deathgrind",
+      "id": 1121,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96169",
+      "text": "Golgothan Remains - Born From Darkness Absolute (2026)\nBands: Golgothan Remains | Genres: Death Metal | Countries: AU",
+      "artist": "Golgothan Remains",
+      "title": "Born From Darkness Absolute (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96169",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T14:04:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/6gD9jqdqQm6.webp",
+      "createdAt": "2026-11-19T19:11:34.063Z",
+      "source": "deathgrind",
+      "id": 1120,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95812",
+      "text": "Artificial Brain - Antillia (2026)\nBands: Artificial Brain | Genres: Technical Death Metal | Countries: US",
+      "artist": "Artificial Brain",
+      "title": "Antillia (2026)",
+      "genres": [
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95812",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T12:55:48.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeR6WD_QOEO.webp",
+      "createdAt": "2026-11-19T19:11:34.063Z",
+      "source": "deathgrind",
+      "id": 1119,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96167",
       "text": "Induration - Dysphoric Rumination [EP] (2026)\nBands: Induration | Genres: Brutal Death Metal, Slamming Brutal Death Metal | Countries: US",
@@ -18,7 +153,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-19T08:12:50.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/7zEaLdYRWaA.webp",
+      "coverUrl": "covers/7zEaLdYRWaA.webp",
       "createdAt": "2026-11-19T10:41:50.620Z",
       "source": "deathgrind",
       "id": 1118,
