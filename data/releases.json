@@ -1,9 +1,49 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2merhd6ckgc",
-  "updatedAt": "2026-11-18T20:51:06.470Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2nnsyqrtsqy",
+  "updatedAt": "2026-11-19T10:41:50.620Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96167",
+      "text": "Induration - Dysphoric Rumination [EP] (2026)\nBands: Induration | Genres: Brutal Death Metal, Slamming Brutal Death Metal | Countries: US",
+      "artist": "Induration",
+      "title": "Dysphoric Rumination [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96167",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T08:12:50.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/7zEaLdYRWaA.webp",
+      "createdAt": "2026-11-19T10:41:50.620Z",
+      "source": "deathgrind",
+      "id": 1118,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96165",
+      "text": "VA - Putrefaction Still In Progress: A Tribute To Last Days Of Humanity [Compilation] (2026)\nBands: VA | Genres: Goregrind, Noise | Countries: US",
+      "artist": "VA",
+      "title": "Putrefaction Still In Progress: A Tribute To Last Days Of Humanity [Compilation] (2026)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96165",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T06:56:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/8ZGbDZOYbbX.webp",
+      "createdAt": "2026-11-19T10:41:50.620Z",
+      "source": "deathgrind",
+      "id": 1117,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96164",
       "text": "Embryonic Devourment - Prime Specimens [Compilation] (2026)\nBands: Embryonic Devourment | Genres: Technical Brutal Death Metal | Countries: US",
@@ -17,7 +57,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-18T17:56:13.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/RKoMndAbdVE.webp",
+      "coverUrl": "covers/RKoMndAbdVE.webp",
       "createdAt": "2026-11-18T20:51:06.470Z",
       "source": "deathgrind",
       "id": 1116,
