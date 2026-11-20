@@ -2,8 +2,123 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2qfbjurb27p",
-  "updatedAt": "2026-11-20T17:51:21.595Z",
+  "updatedAt": "2026-11-20T23:53:25.697Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96199",
+      "text": "Barbarian Prophecies - Echoes (2026)\nBands: Barbarian Prophecies | Genres: Blackened Death Metal | Countries: ES",
+      "artist": "Barbarian Prophecies",
+      "title": "Echoes (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96199",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T21:01:53.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/QNnLQVxqDMn.webp",
+      "createdAt": "2026-11-20T23:53:25.697Z",
+      "source": "deathgrind",
+      "id": 1178,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96200",
+      "text": "Resist - God&apos;s Evil Cycle [EP] (2026)\nBands: Resist | Genres: Blackened Death Metal | Countries: ID",
+      "artist": "Resist",
+      "title": "God&apos;s Evil Cycle [EP] (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96200",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T21:00:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/PomKQwv8bWL.webp",
+      "createdAt": "2026-11-20T23:53:25.697Z",
+      "source": "deathgrind",
+      "id": 1177,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96198",
+      "text": "Days Of Desolation - Days Of Desolation (2013)\nBands: Days Of Desolation | Genres: Grindcore, Crust | Countries: BE",
+      "artist": "Days Of Desolation",
+      "title": "Days Of Desolation (2013)",
+      "genres": [
+        "Grindcore",
+        "Crust"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96198",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T19:56:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBw_kebNqp6.webp",
+      "createdAt": "2026-11-20T23:53:25.697Z",
+      "source": "deathgrind",
+      "id": 1176,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96196",
+      "text": "Mother Brain - EP 2 [EP] (2010)\nBands: Mother Brain | Genres: Grindcore | Countries: US",
+      "artist": "Mother Brain",
+      "title": "EP 2 [EP] (2010)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96196",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T19:34:45.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69DqonVQoZ.webp",
+      "createdAt": "2026-11-20T23:53:25.697Z",
+      "source": "deathgrind",
+      "id": 1175,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96197",
+      "text": "Haemorrhage - Hospital Carnage [Deluxe Edition] (2011)\nBands: Haemorrhage | Genres: Goregrind | Countries: ES",
+      "artist": "Haemorrhage",
+      "title": "Hospital Carnage [Deluxe Edition] (2011)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96197",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T19:27:51.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpn7XlR8mDx.webp",
+      "createdAt": "2026-11-20T23:53:25.697Z",
+      "source": "deathgrind",
+      "id": 1174,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96195",
+      "text": "My Minds Mine - Between Soothing Consolation And Uncontrollable Madness [Reissue] (2026)\nBands: My Minds Mine | Genres: Grindcore | Countries: NL",
+      "artist": "My Minds Mine",
+      "title": "Between Soothing Consolation And Uncontrollable Madness [Reissue] (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96195",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T17:59:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBw_zJ8RJ-k.webp",
+      "createdAt": "2026-11-20T23:53:25.697Z",
+      "source": "deathgrind",
+      "id": 1173,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96194",
       "text": "Carrion Bride - Abomination Gateway [EP] (2022)\nBands: Carrion Bride | Genres: Death Metal | Countries: NZ",
@@ -17,7 +132,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-20T17:08:50.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/_KGk7nOyEqa.webp",
+      "coverUrl": "covers/_KGk7nOyEqa.webp",
       "createdAt": "2026-11-20T17:51:21.595Z",
       "source": "deathgrind",
       "id": 1172,
