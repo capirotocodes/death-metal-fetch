@@ -1,9 +1,244 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2nnsyqrtsqy",
-  "updatedAt": "2026-11-19T19:11:34.063Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pfreepog27",
+  "updatedAt": "2026-11-20T01:19:03.080Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pdy4wz3p2m",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 2⃣1⃣🎧\n\nBLIGHT REAPER - Otherworld Mortuary 🇺🇸⚛️\n\nDebut album from Salem, MA, U.S. Dark Grim Melodic Death Metal project⚛️\n\nBC➡️blightreaper.bandcamp.com/album/otherw...⚛️\n\n#BlightReaper #OtherworldMortuary #MelodicDeath #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2pdy4wz3p2m",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-20T00:40:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidynnzmac7yycc2j4mmtvcnkisjvta4ibc4ggqjntm636s5p6bdxu",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1137,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pdjt3ryj26",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 2⃣0⃣🎧\n\nSOULFALLEN - Uncharted Plains 🇫🇮⚛️\n\n4th album from Jyväskylä, Finnish Melodic Death Metal outfit⚛️\n\nBC➡️soulfallen.bandcamp.com/album/unchar...⚛️\n\n#Soulfallen #UnchartedPlains #MelodicDeath #InverseRecords #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2pdjt3ryj26",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-20T00:32:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreic5qt2qswg6zzovpygz7kdw6hsx5orb3iexghmt3johbgoqkzf5q4",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1136,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pcn7paum2i",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 1⃣8⃣🎧\n\nSOMN - Consecration 🇷🇺⚛️\n\n2nd album from Saint Petersburg, Russian Post-Black Metal outfit⚛️\n\nBC➡️artofpropaganda.bandcamp.com/album/consec...⚛️\n\n#Somn #Consecration #PostBlackMetal #AOPRecords #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2pcn7paum2i",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-20T00:16:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreialgwt3ywpekb4ntnzytvjeu34bec37uajz5rm3budusifpc3yw3m",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1135,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pc6wg43x2i",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 1⃣7⃣🎧\n\nREPLICANT / ELITIST - Indomitable Hostility 🇺🇸 🇩🇰⚛️\n\n8 track split album from U.S/Danish Death Metal outfits⚛️\n\nBC➡️replicantband.bandcamp.com/album/indomi...⚛️\n\n#Replicant #Elitist #Indomitable #transcendingobs #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2pc6wg43x2i",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-20T00:08:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidr4hamd3mm5cg2vp6eknedfehuwvnmsndia3tpirruixvfhunitq",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1134,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pbqmeyeu23",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 1⃣6⃣🎧\n\nOAKENTHRONE - Ad Silvam 🇬🇧⚛️\n\nDebut album from Manchester, GM, UK Black Metal outfit⚛️\n\nBC➡️vendetta-records.bandcamp.com/album/ad-silvam⚛️\n\n#Oakenthrone #AdSilvam #BlackMetal #VendettaRec #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2pbqmeyeu23",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-20T00:00:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreialtfn2xhjtl3uyxqjpb6pdzk5rqdlpqhz2ovnv5glh6zjg5d6cxi",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1133,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pbccf7672e",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 1⃣5⃣🎧\n\nSTORMPYRE - On The Throne of a Forgotten God 🇫🇮⚛️\n\nDebut album from Turku, Finnish Black Metal outfit⚛️\n\nBC➡️stormpyre.bandcamp.com/album/on-the...⚛️\n\n#Stormpyre #OnTheThroneOfAForgot #BlackMetal #signal_rex #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2pbccf7672e",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-19T23:52:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifass5vsetexv2pujbp7fzqr3z753kl2pt7wkeoo6frf6cozwxmqu",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1132,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2pafps5b22e",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 1⃣3⃣🎧\n\nPSYCHOPARALYSIS - Spectrum of Suffering 🇫🇮⚛️\n\n2nd album from Vantaa, Finnish Progressive Death Metal outfit⚛️\n\nBC➡️psychoparalysis.bandcamp.com/album/spectr...⚛️\n\n#Psychoparalysis #SpectrumOf #ProgressiveDeath #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2pafps5b22e",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-19T23:36:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidszxxcvpd3e3etwkbqupfdubvl2uhyrxwjyasb6kbl45cp7haj6y",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1131,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2p72rinup27",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 1⃣0⃣🎧\n\nGOLGOTHAN REMAINS - Born From Darkness Absolute 🇦🇺⚛️\n\n3rd album from Sydney, Australian Death Metal outfit⚛️\n\nBC➡️darkdescentrecords.bandcamp.com/album/born-f...⚛️\n\n#GolgothanRemains #BornFromDarkness #DeathMetal #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2p72rinup27",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-19T23:12:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreieexpvwkfmkfu5m5rw265nuweoeous6w7bpgmrvwnjxzccmxqyn2y",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1130,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2p665xyjd2m",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 8⃣🎧\n\nTHE NOX ENTITY - DÄAHL Descend 🇧🇪⚛️\n\nDebut album from Belgian Black Metal outfit⚛️*Lhaäd/Wolven\n\nBC➡️thenoxentity.bandcamp.com/album/d-ahl-...⚛️\n\n#TheNoxEntity #DaaahlDescend #BlackMetal #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2p665xyjd2m",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-19T22:56:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiebfizmm2empybojah5y63jf7iabs2g63ghqlxigl4ebaewqpbfui",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1129,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2p5bkkkpr2b",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 6⃣🎧\n\nEYES OF AGONY - When They Return 🇮🇹⚛️\n\nDebut album from Molise, Italian Death Metal outfit⚛️\n\nBC➡️awakeningrecordscn.bandcamp.com/album/when-t... ⚛️\n\n#EyesOfAgony #WhenTheyReturn #DeathMetal #Awakening_Rec #FFFOct30 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2p5bkkkpr2b",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-19T22:40:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihnnypunmwb4oi6ziuaskmm5jtbr73usghkk67ckexfhx73rcmdcu",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1128,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2p4tate5y2m",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 5⃣🎧\n\nMACERATION - Mercy to the Miserable 🇩🇰⚛️\n\n4th album from Esbjerg, Danish Death Metal outfit⚛️\n\nBC➡️maceration.bandcamp.com/album/mercy-... ⚛️\n\n#Maceration #MercyToTheMiserable #DeathMetal #EmanzipationP #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2p4tate5y2m",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-19T22:32:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiclbe2i7khzfe2f3woksz5fpbb6uxtiqycqa7g535uem3gzasg3qu",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1127,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2p4ewylxo2t",
+      "text": "FULL FORCE FRIDAY:🆕November 20th 4⃣🎧\n\nCELESTIAL SCOURGE - Exomia 🇳🇴⚛️\n\n2nd from Norwegian Technical / Brutal Death Metal outfit⚛️\n\nBC➡️celestialscourge.bandcamp.com/album/exomia⚛️\n\n#CelestialScourge #Exomia #TechnicalDeathMetal #timetokillrec #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2p4ewylxo2t",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-19T22:24:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifnrzjfrzehj3zxlexraut2eqq6lrkmlmzyp7yp75v26kiotncxu4",
+      "createdAt": "2026-11-20T01:19:01.283Z",
+      "id": 1126,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96176",
+      "text": "Disfiguring The Goddess - Soundscapes Of Death [EP] (2026)\nBands: Disfiguring The Goddess | Genres: Slamming Brutal Deathcore | Countries: US",
+      "artist": "Disfiguring The Goddess",
+      "title": "Soundscapes Of Death [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96176",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-19T21:26:30.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/aNKmqmEyG8L.webp",
+      "createdAt": "2026-11-20T01:19:03.080Z",
+      "source": "deathgrind",
+      "id": 1138,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96174",
       "text": "Imperial Triumphant - Goldstar (2025)\nBands: Imperial Triumphant | Genres: Blackened Death Metal | Countries: US",
@@ -17,7 +252,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-19T18:12:53.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/Yxya-7qXJBO.webp",
+      "coverUrl": "covers/Yxya-7qXJBO.webp",
       "createdAt": "2026-11-19T19:11:34.063Z",
       "source": "deathgrind",
       "id": 1125,
