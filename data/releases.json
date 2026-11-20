@@ -1,9 +1,414 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2q7xt6lxk7p",
-  "updatedAt": "2026-11-20T09:02:05.615Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2qfbjurb27p",
+  "updatedAt": "2026-11-20T17:51:21.595Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96194",
+      "text": "Carrion Bride - Abomination Gateway [EP] (2022)\nBands: Carrion Bride | Genres: Death Metal | Countries: NZ",
+      "artist": "Carrion Bride",
+      "title": "Abomination Gateway [EP] (2022)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96194",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T17:08:50.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/_KGk7nOyEqa.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1172,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96192",
+      "text": "Pestilence - Testimony Of The Ancients [Reissue] (2026)\nBands: Pestilence | Genres: Death Metal | Countries: NL",
+      "artist": "Pestilence",
+      "title": "Testimony Of The Ancients [Reissue] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96192",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T16:36:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOqelrEBlX.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1171,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96191",
+      "text": "Korpsesoturi - Korplish Sedamon (2026)\nBands: Korpsesoturi | Genres: Death Metal | Countries: FI",
+      "artist": "Korpsesoturi",
+      "title": "Korplish Sedamon (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96191",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T15:52:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69DmLrMbxR.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1170,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96189",
+      "text": "Wecamewithbrokenteeth - Discography: Unmastered [Compilation] (2019)\nBands: Wecamewithbrokenteeth | Genres: Deathcore, Grindcore, Hardcore | Countries: US",
+      "artist": "Wecamewithbrokenteeth",
+      "title": "Discography: Unmastered [Compilation] (2019)",
+      "genres": [
+        "Deathcore",
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96189",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T15:49:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxeBbXgRR-G.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1169,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96190",
+      "text": "Temple Of Bones - Walk The Winds [EP] (2026)\nBands: Temple Of Bones | Genres: Death Metal, Thrash Metal | Countries: US",
+      "artist": "Temple Of Bones",
+      "title": "Walk The Winds [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96190",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T15:48:50.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOq9J7BxLQ.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1168,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94397",
+      "text": "Celestial Scourge - Exomia (2026)\nBands: Celestial Scourge | Genres: Technical Brutal Death Metal | Countries: NO",
+      "artist": "Celestial Scourge",
+      "title": "Exomia (2026)",
+      "genres": [
+        "Technical Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94397",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T14:39:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOR9VMYeJQ.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1167,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94425",
+      "text": "Replicant / Elitist - Indomitable Hostility [Split] (2026)\nBands: Replicant, Elitist | Genres: Death Metal | Countries: US, DK",
+      "artist": "Replicant / Elitist",
+      "title": "Indomitable Hostility [Split] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94425",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T14:29:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEDqxZ7kaY.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1166,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94577",
+      "text": "Azarath - Scorn Eternal (2026)\nBands: Azarath | Genres: Blackened Death Metal | Countries: PL",
+      "artist": "Azarath",
+      "title": "Scorn Eternal (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94577",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T14:23:01.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqBoVKXQYP.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1165,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96185",
+      "text": "Pissing The Mainstream - Perang Urat Syaraf (2020)\nBands: Pissing The Mainstream | Genres: Deathgrind | Countries: ID",
+      "artist": "Pissing The Mainstream",
+      "title": "Perang Urat Syaraf (2020)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96185",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:09:38.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxyaeYMLXOb.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1164,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96184",
+      "text": "Pissing The Mainstream - The Megalomaniac Terror (2022)\nBands: Pissing The Mainstream | Genres: Deathgrind | Countries: ID",
+      "artist": "Pissing The Mainstream",
+      "title": "The Megalomaniac Terror (2022)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96184",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:09:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69DOnrAJGZ.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1163,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96183",
+      "text": "Orchidectomy - Live [Live] (2007)\nBands: Orchidectomy | Genres: Brutal Death Metal | Countries: CA",
+      "artist": "Orchidectomy",
+      "title": "Live [Live] (2007)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96183",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:09:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGx9o7oWKO8.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1162,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96182",
+      "text": "Brutal Pig - Porn Is Back (2023)\nBands: Brutal Pig | Genres: Goregrind, Porngrind | Countries: MX",
+      "artist": "Brutal Pig",
+      "title": "Porn Is Back (2023)",
+      "genres": [
+        "Goregrind",
+        "Porngrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96182",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:08:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdJ-WPDVMy.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1161,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96181",
+      "text": "UwU - All Women Born After 1993 [EP] (2024)\nBands: UwU | Genres: Goregrind, Slamming Brutal Death Metal | Countries: US",
+      "artist": "UwU",
+      "title": "All Women Born After 1993 [EP] (2024)",
+      "genres": [
+        "Goregrind",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96181",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:07:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBw_gAjZBKx.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1160,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96180",
+      "text": "UwU - Inner Machinations Of The Shoujo [Single] (2024)\nBands: UwU | Genres: Goregrind, Slamming Brutal Death Metal | Countries: US",
+      "artist": "UwU",
+      "title": "Inner Machinations Of The Shoujo [Single] (2024)",
+      "genres": [
+        "Goregrind",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96180",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:07:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKmvNYjpJY.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1159,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96179",
+      "text": "UwU - Schizoaffective Tunes For Bipolar Weeaboos [EP] (2024)\nBands: UwU | Genres: Goregrind, Slamming Brutal Death Metal | Countries: US",
+      "artist": "UwU",
+      "title": "Schizoaffective Tunes For Bipolar Weeaboos [EP] (2024)",
+      "genres": [
+        "Goregrind",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96179",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:07:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEaG6EvWX8.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1158,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96177",
+      "text": "My Minds Mine - Carve in the Holy Flesh [EP] (2025)\nBands: My Minds Mine | Genres: Grindcore | Countries: NL",
+      "artist": "My Minds Mine",
+      "title": "Carve in the Holy Flesh [EP] (2025)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96177",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T12:06:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdJjGE96y9.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1157,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95182",
+      "text": "Eyes Of Agony - When They Return (2026)\nBands: Eyes Of Agony | Genres: Old School Death Metal | Countries: IT",
+      "artist": "Eyes Of Agony",
+      "title": "When They Return (2026)",
+      "genres": [
+        "Old School Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95182",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T11:42:52.000Z",
+      "notified": false,
+      "coverUrl": "covers/z_pvPeBpoe9.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1156,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96188",
+      "text": "The Glorious Dead - S.O.S. - The Cemetery Paths Sessions [EP] (2026)\nBands: The Glorious Dead | Genres: Death Metal | Countries: US",
+      "artist": "The Glorious Dead",
+      "title": "S.O.S. - The Cemetery Paths Sessions [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96188",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T11:39:35.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWyn_bnED8.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1155,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96187",
+      "text": "Orate - Tempore Et Lokus (2026)\nBands: Orate | Genres: Death Metal | Countries: AR",
+      "artist": "Orate",
+      "title": "Tempore Et Lokus (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96187",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T11:33:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWynyN-KG9.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1154,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96186",
+      "text": "Human Disgrace - Spectral Visions of Universal Annihilation (2026)\nBands: Human Disgrace | Genres: Death Metal | Countries: MX",
+      "artist": "Human Disgrace",
+      "title": "Spectral Visions of Universal Annihilation (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96186",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-20T11:23:02.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVpDWNgQkq.webp",
+      "createdAt": "2026-11-20T17:51:21.595Z",
+      "source": "deathgrind",
+      "id": 1153,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2qa7dgwdc7p",
+      "text": "FULL FORCE FRIDAY:🆕November 20th ENCORE!🎧\n\nALKEMISTI / VICTIMARUM - Ylistys 🇫🇮⚛️\n\n7 Track split release from Helsinki/Turku Finnish Black Metal outfits⚛️\n\nBC➡️signalrex.bandcamp.com/album/ylistys ⚛️\n\n#Alkemisti #Victimarum #Ylistys #BlackMetal #signal_rex #FFFNov20 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2qa7dgwdc7p",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-20T09:05:10.857Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihbt5xhjr3w6jdpuykm2e3qoagjialhch5yrab6sasmjacrsgkuiu",
+      "createdAt": "2026-11-20T17:51:20.776Z",
+      "id": 1152,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96178",
       "text": "UwU - Vaginal Putrefaction [EP] (2020)\nBands: UwU | Genres: Goregrind, Slamming Brutal Death Metal | Countries: US",
@@ -18,7 +423,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-20T08:09:17.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/WBw_gEKov7k.webp",
+      "coverUrl": "covers/WBw_gEKov7k.webp",
       "createdAt": "2026-11-20T09:02:05.615Z",
       "source": "deathgrind",
       "id": 1151,
