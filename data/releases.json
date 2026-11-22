@@ -1,9 +1,125 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2suot7rvk27",
-  "updatedAt": "2026-11-22T16:19:45.783Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2wh2nddj26p",
+  "updatedAt": "2026-11-22T21:57:44.519Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96231",
+      "text": "Dopescab - 2 More Reasons To Hate Us [Demo] (2025)\nBands: Dopescab | Genres: Brutal Death Metal, Goregrind | Countries: US",
+      "artist": "Dopescab",
+      "title": "2 More Reasons To Hate Us [Demo] (2025)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96231",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T21:51:30.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/NJk6BZmezzz.webp",
+      "createdAt": "2026-11-22T21:57:44.519Z",
+      "source": "deathgrind",
+      "id": 1213,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2wh2nddj26p",
+      "text": "👑MOUNTAIN KINGS3⃣6⃣9⃣👑\n\nRIPPING CORPSE – Dreaming with the Dead 🇺🇸 (1991)\n\nVicious, technical, and years ahead of its time, DWTD pushed Death Metal into darker and more complex territory. Underground classic whose legacy continues to haunt the halls of the genre. #MK369👑",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": false,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2wh2nddj26p",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-22T20:23:48.075Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicnoxavunrgtdvvbcnyvcd7d7ife3azg3l34tmu56e56yyzl7sndm",
+      "createdAt": "2026-11-22T21:57:43.521Z",
+      "id": 1208,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96229",
+      "text": "Brutality - The Complete Demo Recordings 1987-1991 [Compilation] (2021)\nBands: Brutality | Genres: Death Metal | Countries: US",
+      "artist": "Brutality",
+      "title": "The Complete Demo Recordings 1987-1991 [Compilation] (2021)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96229",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T19:52:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gOeQqbbAe.webp",
+      "createdAt": "2026-11-22T21:57:44.519Z",
+      "source": "deathgrind",
+      "id": 1212,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96228",
+      "text": "Holocaust Necropsy - Holocaust Necropsy [Compilation] (2026)\nBands: Holocaust Necropsy | Genres: Death Metal, Brutal Death Metal | Countries: CA",
+      "artist": "Holocaust Necropsy",
+      "title": "Holocaust Necropsy [Compilation] (2026)",
+      "genres": [
+        "Death Metal",
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96228",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T17:49:16.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKoawbnAD6g.webp",
+      "createdAt": "2026-11-22T21:57:44.519Z",
+      "source": "deathgrind",
+      "id": 1211,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96227",
+      "text": "Brutality - 2003 Demo & Bonus Tracks [Demo] (2022)\nBands: Brutality | Genres: Death Metal | Countries: US",
+      "artist": "Brutality",
+      "title": "2003 Demo & Bonus Tracks [Demo] (2022)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96227",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T17:39:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/ZJzm-AbG66e.webp",
+      "createdAt": "2026-11-22T21:57:44.519Z",
+      "source": "deathgrind",
+      "id": 1210,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96225",
+      "text": "Anal Birth - Mutilated Infant (2008)\nBands: Anal Birth | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Anal Birth",
+      "title": "Mutilated Infant (2008)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96225",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T17:07:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJk6NvZqjOo.webp",
+      "createdAt": "2026-11-22T21:57:44.519Z",
+      "source": "deathgrind",
+      "id": 1209,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96222",
       "text": "Anal Birth - Dead Infant Sodomy [EP] (2024)\nBands: Anal Birth | Genres: Goregrind, Noise | Countries: US",
@@ -18,7 +134,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-22T16:05:19.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/_KGreoWrRjx.webp",
+      "coverUrl": "covers/_KGreoWrRjx.webp",
       "createdAt": "2026-11-22T16:19:45.783Z",
       "source": "deathgrind",
       "id": 1207,
