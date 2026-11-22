@@ -2,8 +2,207 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2suot7rvk27",
-  "updatedAt": "2026-11-21T20:52:36.848Z",
+  "updatedAt": "2026-11-22T16:19:45.783Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96222",
+      "text": "Anal Birth - Dead Infant Sodomy [EP] (2024)\nBands: Anal Birth | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Anal Birth",
+      "title": "Dead Infant Sodomy [EP] (2024)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96222",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T16:05:19.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/_KGreoWrRjx.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1207,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96224",
+      "text": "Pestilence - Spheres [Remastered] (2023)\nBands: Pestilence | Genres: Death Metal | Countries: NL",
+      "artist": "Pestilence",
+      "title": "Spheres [Remastered] (2023)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96224",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T15:49:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJk6NQa6RkZ.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1206,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96223",
+      "text": "Trituration - Vortex Of Pulverized Flesh (2026)\nBands: Trituration | Genres: Brutal Death Metal | Countries: PY",
+      "artist": "Trituration",
+      "title": "Vortex Of Pulverized Flesh (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96223",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T15:23:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEmrGbEXMy.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1205,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96221",
+      "text": "Killed - Victims Of The Present [EP] (2026)\nBands: Killed | Genres: Death Metal, Sludge | Countries: CA",
+      "artist": "Killed",
+      "title": "Victims Of The Present [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Sludge"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96221",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T11:48:42.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gO_XWprY-.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1204,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96220",
+      "text": "Kinski - Krone Der Erschöpfung (2024)\nBands: Kinski | Genres: Grindcore | Countries: DE",
+      "artist": "Kinski",
+      "title": "Krone Der Erschöpfung (2024)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96220",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T11:22:11.000Z",
+      "notified": false,
+      "coverUrl": "covers/Yxyl8zvor9w.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1203,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96219",
+      "text": "Jizzaster - Old School Pervert (2026)\nBands: Jizzaster | Genres: Brutal Death Metal, Goregrind, Grindcore | Countries: CZ",
+      "artist": "Jizzaster",
+      "title": "Old School Pervert (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96219",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T11:06:34.000Z",
+      "notified": false,
+      "coverUrl": "covers/xpneWMmXyxz.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1202,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96214",
+      "text": "3XA - An Invasive Inquest Of Sadistic Surgical Exhumation [EP] (2013)\nBands: 3XA | Genres: Goregrind, Noise | Countries: US",
+      "artist": "3XA",
+      "title": "An Invasive Inquest Of Sadistic Surgical Exhumation [EP] (2013)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96214",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T10:13:37.000Z",
+      "notified": false,
+      "coverUrl": "covers/GQ9xmgbvjXV.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1201,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96216",
+      "text": "Lack Of Interest - Trapped Inside (1999)\nBands: Lack Of Interest | Genres: Powerviolence, Hardcore, Grindcore | Countries: US",
+      "artist": "Lack Of Interest",
+      "title": "Trapped Inside (1999)",
+      "genres": [
+        "Powerviolence",
+        "Hardcore",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96216",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T10:13:09.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aEexgDARX.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1200,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96218",
+      "text": "Tumor - AAAAARGH THE 82 SONX - 50 MINUTES-CD [Compilation] (2024)\nBands: Tumor | Genres: Grindcore, Noise | Countries: DE",
+      "artist": "Tumor",
+      "title": "AAAAARGH THE 82 SONX - 50 MINUTES-CD [Compilation] (2024)",
+      "genres": [
+        "Grindcore",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96218",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T10:12:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/L6gOY-ZD-Ae.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1199,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96217",
+      "text": "Anal Birth - Infantbutchering (1996)\nBands: Anal Birth | Genres: Goregrind, Noise | Countries: US",
+      "artist": "Anal Birth",
+      "title": "Infantbutchering (1996)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96217",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T10:07:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbPxPby_gd.webp",
+      "createdAt": "2026-11-22T16:19:45.783Z",
+      "source": "deathgrind",
+      "id": 1198,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96215",
       "text": "Ingrowing - Ætherpartus [EP] (2009)\nBands: Ingrowing | Genres: Deathgrind | Countries: CZ",
@@ -17,7 +216,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-21T18:36:22.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/KxeBqmmRqbG.webp",
+      "coverUrl": "covers/KxeBqmmRqbG.webp",
       "createdAt": "2026-11-21T20:52:36.848Z",
       "source": "deathgrind",
       "id": 1197,
