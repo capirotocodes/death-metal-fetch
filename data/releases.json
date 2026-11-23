@@ -1,9 +1,242 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2xumsv72kgb",
-  "updatedAt": "2026-11-23T11:11:32.184Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2yxjfse6kol",
+  "updatedAt": "2026-11-23T22:42:20.750Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96251",
+      "text": "El Martillo De Las Brujas - Moon, Darkness And Power [EP] (2026)\nBands: El Martillo De Las Brujas | Genres: Death Metal | Countries: CO",
+      "artist": "El Martillo De Las Brujas",
+      "title": "Moon, Darkness And Power [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96251",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T20:34:16.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/6gDl8g9eJjm.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1233,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2ywp647hcol",
+      "text": "👑MOUNTAIN KINGS3⃣7⃣1⃣👑\n\nBATHORY - Bathory 🇸🇪 (1984)\n\nA revolutionary debut, one of the pillars of first-wave Black Metal, Bathory unleashed a new level of darkness, chaos, and extremity. Crude, malicious, and massively influential, its legacy remains untouchable. #MK371👑",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": false,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n2ywp647hcol",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-23T20:09:02.361Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreie7gcaukk7puaqrnd2yeecdvb2b4nkobrquzoo4noeu7lwvqzucni",
+      "createdAt": "2026-11-23T22:42:19.761Z",
+      "id": 1222,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96250",
+      "text": "Defunto - Puking Profits (2026)\nBands: Defunto | Genres: Goregrind, Grindcore | Countries: BR",
+      "artist": "Defunto",
+      "title": "Puking Profits (2026)",
+      "genres": [
+        "Goregrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96250",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T19:30:40.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRzDyGkEBP.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1232,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96249",
+      "text": "Toxic Monstrosity - Stenching Rot [EP] (2026)\nBands: Toxic Monstrosity | Genres: Deathgrind | Countries: CA",
+      "artist": "Toxic Monstrosity",
+      "title": "Stenching Rot [EP] (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96249",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T19:23:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/jjWJ-lowPgQ.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1231,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96246",
+      "text": "Pooyan Ahmadi / Ijje WijkstraI - Where Nothing Grows [Split] (2026)\nBands: Pooyan Ahmadi, Ijje WijkstraI | Genres: Grindcore | Countries: IR, NL",
+      "artist": "Pooyan Ahmadi / Ijje WijkstraI",
+      "title": "Where Nothing Grows [Split] (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96246",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T18:27:30.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVA8OXvMqq.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1230,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96247",
+      "text": "Hacksaw Tracheotomy - Tome Of Diabolical Torments Vol. 1 [EP] (2026)\nBands: Hacksaw Tracheotomy | Genres: Slamming Brutal Death Metal | Countries: GB",
+      "artist": "Hacksaw Tracheotomy",
+      "title": "Tome Of Diabolical Torments Vol. 1 [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96247",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T18:02:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_oEyD8WZw.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1229,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96242",
+      "text": "S.C.A.T. - The Greatest Shits (2016)\nBands: S.C.A.T. | Genres: Brutal Death Metal, Goregrind, Porngrind | Countries: RU",
+      "artist": "S.C.A.T.",
+      "title": "The Greatest Shits (2016)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind",
+        "Porngrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96242",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T13:11:36.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOAEBdWMKQ.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1228,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96241",
+      "text": "Cranial Incisored - My Sperm In Vain [Demo] (1999)\nBands: Cranial Incisored | Genres: Brutal Death Metal | Countries: ID",
+      "artist": "Cranial Incisored",
+      "title": "My Sperm In Vain [Demo] (1999)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96241",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T13:11:10.000Z",
+      "notified": false,
+      "coverUrl": "covers/NJk6Ryk6yAR.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1227,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96243",
+      "text": "Harsh - Reality (2000)\nBands: Harsh | Genres: Powerviolence, Grindcore, Hardcore | Countries: FI",
+      "artist": "Harsh",
+      "title": "Reality (2000)",
+      "genres": [
+        "Powerviolence",
+        "Grindcore",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96243",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T13:11:00.000Z",
+      "notified": false,
+      "coverUrl": "covers/rje7pgjZ6gV.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1226,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96237",
+      "text": "K9 Hemorrhoids / Lymphoedema - Food for the Animals [Split] (2026)\nBands: K9 Hemorrhoids, Lymphoedema | Genres: Goregrind, Noise | Countries: US, IE",
+      "artist": "K9 Hemorrhoids / Lymphoedema",
+      "title": "Food for the Animals [Split] (2026)",
+      "genres": [
+        "Goregrind",
+        "Noise"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96237",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T13:10:20.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxkPrXa6Yn.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1225,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96245",
+      "text": "UnderRot - Introduction To Slamology 101 [EP] (2026)\nBands: UnderRot | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "UnderRot",
+      "title": "Introduction To Slamology 101 [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96245",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T12:43:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLxr7-BYaW.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1224,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96244",
+      "text": "Åderlåtning - Count The Mutilated [Demo] (2026)\nBands: Åderlåtning | Genres: Brutal Death Metal | Countries: SE",
+      "artist": "Åderlåtning",
+      "title": "Count The Mutilated [Demo] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96244",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T12:31:46.000Z",
+      "notified": false,
+      "coverUrl": "covers/Dw6D-egYG8R.webp",
+      "createdAt": "2026-11-23T22:42:20.750Z",
+      "source": "deathgrind",
+      "id": 1223,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96239",
       "text": "Mad God - Wrongful Death II: The Title Track [EP] (2026)\nBands: Mad God | Genres: Brutal Deathcore, Deathgrind | Countries: CA",
@@ -18,7 +251,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-23T05:40:07.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/KxeNVm9YXPY.webp",
+      "coverUrl": "covers/KxeNVm9YXPY.webp",
       "createdAt": "2026-11-23T11:11:32.184Z",
       "source": "deathgrind",
       "id": 1221,
