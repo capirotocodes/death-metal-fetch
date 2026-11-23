@@ -2,8 +2,104 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2wh2nddj26p",
-  "updatedAt": "2026-11-22T21:57:44.519Z",
+  "updatedAt": "2026-11-23T02:30:48.845Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96235",
+      "text": "Bubblegum Chainsaw - Kawaii Brutality (2024)\nBands: Bubblegum Chainsaw | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Bubblegum Chainsaw",
+      "title": "Kawaii Brutality (2024)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96235",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-23T00:23:29.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/Dw6DbjJQd-Z.webp",
+      "createdAt": "2026-11-23T02:30:48.845Z",
+      "source": "deathgrind",
+      "id": 1218,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96234",
+      "text": "Chemicalology - Vaporous Reptilian Transmutation [EP] (2026)\nBands: Chemicalology | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Chemicalology",
+      "title": "Vaporous Reptilian Transmutation [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96234",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T22:51:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/KxeNj9zV6jv.webp",
+      "createdAt": "2026-11-23T02:30:48.845Z",
+      "source": "deathgrind",
+      "id": 1217,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96233",
+      "text": "Swamped - Bayou Burial [EP] (2026)\nBands: Swamped | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Swamped",
+      "title": "Bayou Burial [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96233",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T22:49:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbPkWMbMbB.webp",
+      "createdAt": "2026-11-23T02:30:48.845Z",
+      "source": "deathgrind",
+      "id": 1216,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96232",
+      "text": "Fluids of Torments - Thanatomorphose (2026)\nBands: Fluids of Torments | Genres: Slamming Brutal Death Metal | Countries: RU",
+      "artist": "Fluids of Torments",
+      "title": "Thanatomorphose (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96232",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T22:48:57.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_o9xWMnjQ.webp",
+      "createdAt": "2026-11-23T02:30:48.845Z",
+      "source": "deathgrind",
+      "id": 1215,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96230",
+      "text": "Creamface - Cum on Clothes (2013)\nBands: Creamface | Genres: Porngrind, Grindcore | Countries: FI",
+      "artist": "Creamface",
+      "title": "Cum on Clothes (2013)",
+      "genres": [
+        "Porngrind",
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96230",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-22T22:18:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxkBRBG_kE.webp",
+      "createdAt": "2026-11-23T02:30:48.845Z",
+      "source": "deathgrind",
+      "id": 1214,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96231",
       "text": "Dopescab - 2 More Reasons To Hate Us [Demo] (2025)\nBands: Dopescab | Genres: Brutal Death Metal, Goregrind | Countries: US",
@@ -18,7 +114,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-22T21:51:30.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/NJk6BZmezzz.webp",
+      "coverUrl": "covers/NJk6BZmezzz.webp",
       "createdAt": "2026-11-22T21:57:44.519Z",
       "source": "deathgrind",
       "id": 1213,
