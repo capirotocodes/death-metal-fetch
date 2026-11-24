@@ -1,9 +1,237 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n2yxjfse6kol",
-  "updatedAt": "2026-11-24T06:29:28.133Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n32fobbcjcnk",
+  "updatedAt": "2026-11-24T18:13:22.030Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96258",
+      "text": "Disfigured / Scythe Of Grim - Disfigured x Scythe Of Grim - Tour Split [Split] (2026)\nBands: Disfigured, Scythe Of Grim | Genres: Brutal Deathcore, Beatdown Hardcore | Countries: US",
+      "artist": "Disfigured / Scythe Of Grim",
+      "title": "Disfigured x Scythe Of Grim - Tour Split [Split] (2026)",
+      "genres": [
+        "Brutal Deathcore",
+        "Beatdown Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96258",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T17:15:16.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/L6gOX-nEBaD.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1246,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96261",
+      "text": "Nuclear Vomit - Koryto (2011)\nBands: Nuclear Vomit | Genres: Deathgrind | Countries: PL",
+      "artist": "Nuclear Vomit",
+      "title": "Koryto (2011)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96261",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T16:30:31.000Z",
+      "notified": false,
+      "coverUrl": "covers/beLx-DAwZNa.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1245,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96260",
+      "text": "Upper Decker - Demo Promo 2026 [Promo] (2026)\nBands: Upper Decker | Genres: Brutal Death Metal | Countries: FR",
+      "artist": "Upper Decker",
+      "title": "Demo Promo 2026 [Promo] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96260",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T16:27:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/WBwjXqaenNK.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1244,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96259",
+      "text": "Dirge - Inherent Suffering (2026)\nBands: Dirge | Genres: Grindcore, Powerviolence | Countries: CA",
+      "artist": "Dirge",
+      "title": "Inherent Suffering (2026)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96259",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T15:53:26.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xq8jw97MyO.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1243,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96257",
+      "text": "Cadaver Carnivore - Darkest Effigy Of Anathemic Desires (2026)\nBands: Cadaver Carnivore | Genres: Death Metal | Countries: RU",
+      "artist": "Cadaver Carnivore",
+      "title": "Darkest Effigy Of Anathemic Desires (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96257",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T12:46:12.000Z",
+      "notified": false,
+      "coverUrl": "covers/lG_LWqlePaL.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1242,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96256",
+      "text": "Skin Harvest - Beneath Human Skin [EP] (2026)\nBands: Skin Harvest | Genres: Brutal Deathcore | Countries: DE",
+      "artist": "Skin Harvest",
+      "title": "Beneath Human Skin [EP] (2026)",
+      "genres": [
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96256",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T10:11:41.000Z",
+      "notified": false,
+      "coverUrl": "covers/o7aOrZLoJm-.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1241,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96255",
+      "text": "Chikatiloctomy - Ripping Through The Torture Dream [EP] (2026)\nBands: Chikatiloctomy | Genres: Slamming Brutal Death Metal | Countries: RU",
+      "artist": "Chikatiloctomy",
+      "title": "Ripping Through The Torture Dream [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96255",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T10:00:13.000Z",
+      "notified": false,
+      "coverUrl": "covers/pxbPvomAWq9.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1240,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96240",
+      "text": "Pigtails - Young And Curious (2019)\nBands: Pigtails | Genres: Porngrind, Goregrind | Countries: MX",
+      "artist": "Pigtails",
+      "title": "Young And Curious (2019)",
+      "genres": [
+        "Porngrind",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96240",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T09:51:21.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOAEXawLDA.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1239,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96252",
+      "text": "Monastat 7 - Now Available Without A Prescription (1994)\nBands: Monastat 7 | Genres: Grindcore | Countries: US",
+      "artist": "Monastat 7",
+      "title": "Now Available Without A Prescription (1994)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96252",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T09:48:32.000Z",
+      "notified": false,
+      "coverUrl": "covers/AeRz6Da8RdO.webp",
+      "createdAt": "2026-11-24T18:13:22.030Z",
+      "source": "deathgrind",
+      "id": 1238,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n32djhrmdsnk",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nDELIQUESCE - (dis)harmony 🇦🇺⚛️\n\n6 Track EP from Melbourne, Australian Brutal Death Metal outfit⚛️\n\nBC➡️viciousinstinctrecords.bandcamp.com/album/dis-ha...⚛️\n\n#Deliquesce #disharmony #BrutalDeathMetal #DeathMetal #ViciousInstinctRec #DDDNov24 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n32djhrmdsnk",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-24T09:31:09.555Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreibiljzl6rij3v3wsx5szurjtwa5uefepfve3wbcsef5i62btjc5si",
+      "createdAt": "2026-11-24T18:13:21.324Z",
+      "id": 1237,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n32d5odq5snk",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nVANANIDR - Of Pagan Blood 🇸🇪⚛️\n\n6th album from Stockholm, Swedish Melodic Black/Death Metal outfit⚛️\n\nBC➡️vananidr.bandcamp.com/album/of-pag...⚛️\n\n#Vananidr #OfPaganBlood #MelodicBlackDeathMetal #DDDNov24 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n32d5odq5snk",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-24T09:24:33.787Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreidkji33pfd62el37uh3r6w3hc27cvi4ri3yzq3i36v6puqnb4fbxq",
+      "createdAt": "2026-11-24T18:13:21.324Z",
+      "id": 1236,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n32c55xbr2nk",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nBLACK BIRCH - Grief 🇸🇪⚛️\n\n2nd album from Malmo, Skåne, Swedish Atmospheric Black Metal outfit⚛️\n\nBC➡️blackbirch.bandcamp.com/album/grief-2⚛️\n\n#BlackBirch #Grief #AtmosphericBlackMetal #DDDNov24 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n32c55xbr2nk",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-24T09:06:22.860Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiggziz24rqkhny75os3xxjwgydeenj7fz72djl6j7vmcpa5hsgwwu",
+      "createdAt": "2026-11-24T18:13:21.324Z",
+      "id": 1235,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96253",
       "text": "Travølta / Days Of Desolation - Days Of Desolation / Travølta [Split] (2016)\nBands: Travølta, Days Of Desolation | Genres: Grindcore, Crust, Hardcore | Countries: BE",
@@ -19,7 +247,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-23T23:29:15.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/RKoagYAaL7m.webp",
+      "coverUrl": "covers/RKoagYAaL7m.webp",
       "createdAt": "2026-11-24T06:29:28.133Z",
       "source": "deathgrind",
       "id": 1234,
