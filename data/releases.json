@@ -1,9 +1,47 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n33ijzkix2nk",
-  "updatedAt": "2026-11-25T02:35:12.288Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n34zqxoqh2nk",
+  "updatedAt": "2026-11-25T11:47:15.972Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96264",
+      "text": "Noises - Werther Effect [EP] (2026)\nBands: Noises | Genres: Grindcore | Countries: CZ",
+      "artist": "Noises",
+      "title": "Werther Effect [EP] (2026)",
+      "genres": [
+        "Grindcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96264",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T06:42:18.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/9x_o_7mjxjl.webp",
+      "createdAt": "2026-11-25T11:47:15.972Z",
+      "source": "deathgrind",
+      "id": 1251,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96263",
+      "text": "Daïgoro - The Other Moon (2013)\nBands: Daïgoro | Genres: Deathgrind | Countries: CH",
+      "artist": "Daïgoro",
+      "title": "The Other Moon (2013)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96263",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T05:01:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/7zEmxoExAGe.webp",
+      "createdAt": "2026-11-25T11:47:15.972Z",
+      "source": "deathgrind",
+      "id": 1250,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96262",
       "text": "Mgła - Traitors To The Human Cause (2026)\nBands: Mgła | Genres: Black Metal | Countries: PL",
@@ -17,7 +55,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-25T00:04:31.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/pxbPYAAqxoB.webp",
+      "coverUrl": "covers/pxbPYAAqxoB.webp",
       "createdAt": "2026-11-25T02:35:12.288Z",
       "source": "deathgrind",
       "id": 1249,
