@@ -1,9 +1,87 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n34zqxoqh2nk",
-  "updatedAt": "2026-11-25T11:47:15.972Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n35x72b57syr",
+  "updatedAt": "2026-11-25T21:28:34.002Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95210",
+      "text": "Necrofagore - Where The Shadows Spread Death And Desolation (2026)\nBands: Necrofagore | Genres: Death Metal | Countries: PE",
+      "artist": "Necrofagore",
+      "title": "Where The Shadows Spread Death And Desolation (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95210",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T18:15:13.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/BJVZeMEKMEx.webp",
+      "createdAt": "2026-11-25T21:28:34.002Z",
+      "source": "deathgrind",
+      "id": 1255,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96268",
+      "text": "Neural Indent - Encephalogrammaton: Before The Appearance Of The Epiphenomena Of Space And Time (2026)\nBands: Neural Indent | Genres: Brutal Death Metal, Goregrind | Countries: US",
+      "artist": "Neural Indent",
+      "title": "Encephalogrammaton: Before The Appearance Of The Epiphenomena Of Space And Time (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96268",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T16:40:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/EB7_VQJXoAM.webp",
+      "createdAt": "2026-11-25T21:28:34.002Z",
+      "source": "deathgrind",
+      "id": 1254,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96266",
+      "text": "S.C.A.T. - Apopatophobia (2011)\nBands: S.C.A.T. | Genres: Brutal Death Metal, Goregrind | Countries: RU",
+      "artist": "S.C.A.T.",
+      "title": "Apopatophobia (2011)",
+      "genres": [
+        "Brutal Death Metal",
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96266",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T15:26:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/RKozkOAw_8k.webp",
+      "createdAt": "2026-11-25T21:28:34.002Z",
+      "source": "deathgrind",
+      "id": 1253,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96267",
+      "text": "Celestial Burial - Oni Bloodbath (2026)\nBands: Celestial Burial | Genres: Deathgrind | Countries: AU",
+      "artist": "Celestial Burial",
+      "title": "Oni Bloodbath (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96267",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T15:21:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxJYqjJWva.webp",
+      "createdAt": "2026-11-25T21:28:34.002Z",
+      "source": "deathgrind",
+      "id": 1252,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96264",
       "text": "Noises - Werther Effect [EP] (2026)\nBands: Noises | Genres: Grindcore | Countries: CZ",
@@ -17,7 +95,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-25T06:42:18.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/9x_o_7mjxjl.webp",
+      "coverUrl": "covers/9x_o_7mjxjl.webp",
       "createdAt": "2026-11-25T11:47:15.972Z",
       "source": "deathgrind",
       "id": 1251,
