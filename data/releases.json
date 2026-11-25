@@ -1,9 +1,65 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n32fobbcjcnk",
-  "updatedAt": "2026-11-24T18:13:22.030Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n33ijzkix2nk",
+  "updatedAt": "2026-11-25T02:35:12.288Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96262",
+      "text": "Mgła - Traitors To The Human Cause (2026)\nBands: Mgła | Genres: Black Metal | Countries: PL",
+      "artist": "Mgła",
+      "title": "Traitors To The Human Cause (2026)",
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96262",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T00:04:31.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/pxbPYAAqxoB.webp",
+      "createdAt": "2026-11-25T02:35:12.288Z",
+      "source": "deathgrind",
+      "id": 1249,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n33hutkelcnk",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nMGŁA - Traitors to the Human Cause 🇵🇱⚛️\n\n5th album from Kraków, Polish Black Metal outfit⚛️\n\nBC➡️no-solace.bandcamp.com/album/traito...⚛️\n\n#Mgla #TraitorsToTheHumanCause #BlackMetal #NoSolace #DDDNov24 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n33hutkelcnk",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-24T20:21:45.705Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiclyij3jrrbj2yloliu3mbu7kvucnwdohu4cprkkdyzjcnqdmavt4",
+      "createdAt": "2026-11-25T02:35:11.796Z",
+      "id": 1247,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96226",
+      "text": "Carnal Savagery - Sickening Acts Of Barbarity (2026)\nBands: Carnal Savagery | Genres: Death Metal | Countries: SE",
+      "artist": "Carnal Savagery",
+      "title": "Sickening Acts Of Barbarity (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96226",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-24T19:01:03.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_oZgywGRl.webp",
+      "createdAt": "2026-11-25T02:35:12.288Z",
+      "source": "deathgrind",
+      "id": 1248,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96258",
       "text": "Disfigured / Scythe Of Grim - Disfigured x Scythe Of Grim - Tour Split [Split] (2026)\nBands: Disfigured, Scythe Of Grim | Genres: Brutal Deathcore, Beatdown Hardcore | Countries: US",
@@ -18,7 +74,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-24T17:15:16.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/L6gOX-nEBaD.webp",
+      "coverUrl": "covers/L6gOX-nEBaD.webp",
       "createdAt": "2026-11-24T18:13:22.030Z",
       "source": "deathgrind",
       "id": 1246,
