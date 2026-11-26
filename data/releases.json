@@ -1,9 +1,29 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n35x72b57syr",
-  "updatedAt": "2026-11-25T21:28:34.002Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n36chsgrkcyr",
+  "updatedAt": "2026-11-26T03:44:59.183Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96270",
+      "text": "Energumen - Dissolution Impulse (2026)\nBands: Energumen | Genres: Blackened Death Metal, Technical Death Metal | Countries: CH",
+      "artist": "Energumen",
+      "title": "Dissolution Impulse (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Technical Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96270",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-25T21:55:08.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/M7jrJ-kAvVV.webp",
+      "createdAt": "2026-11-26T03:44:59.183Z",
+      "source": "deathgrind",
+      "id": 1256,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95210",
       "text": "Necrofagore - Where The Shadows Spread Death And Desolation (2026)\nBands: Necrofagore | Genres: Death Metal | Countries: PE",
@@ -17,7 +37,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-25T18:15:13.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/BJVZeMEKMEx.webp",
+      "coverUrl": "covers/BJVZeMEKMEx.webp",
       "createdAt": "2026-11-25T21:28:34.002Z",
       "source": "deathgrind",
       "id": 1255,
