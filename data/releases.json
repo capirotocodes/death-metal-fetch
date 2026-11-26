@@ -1,9 +1,175 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n36chsgrkcyr",
-  "updatedAt": "2026-11-26T03:44:59.183Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n37gkbkki2ll",
+  "updatedAt": "2026-11-26T13:15:05.901Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96274",
+      "text": "Velodensity - O.C.D. (2026)\nBands: Velodensity | Genres: Brutal Death Metal | Countries: VN",
+      "artist": "Velodensity",
+      "title": "O.C.D. (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96274",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-26T13:09:06.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/dwNYRgGZx6G.webp",
+      "createdAt": "2026-11-26T13:15:05.901Z",
+      "source": "deathgrind",
+      "id": 1265,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96273",
+      "text": "Butchery - Rhythm Zero (2026)\nBands: Butchery | Genres: Death Metal | Countries: VN",
+      "artist": "Butchery",
+      "title": "Rhythm Zero (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96273",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-26T12:54:47.000Z",
+      "notified": false,
+      "coverUrl": "covers/kw6YM6YBwad.webp",
+      "createdAt": "2026-11-26T13:15:05.901Z",
+      "source": "deathgrind",
+      "id": 1264,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96272",
+      "text": "UnderRot - How To Slam: For Dumbasses. [EP] (2026)\nBands: UnderRot | Genres: Slamming Brutal Death Metal, Brutal Deathcore | Countries: US",
+      "artist": "UnderRot",
+      "title": "How To Slam: For Dumbasses. [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96272",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-26T11:41:58.000Z",
+      "notified": false,
+      "coverUrl": "covers/eDOYnxGA_jz.webp",
+      "createdAt": "2026-11-26T13:15:05.901Z",
+      "source": "deathgrind",
+      "id": 1263,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n37gkbkki2ll",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 19th, 2026⬅️\n\nPURUS - Tempus Puritatis MLP 🇩🇪⚛️\n\nDebut 4-Track mini-album from German Black Metal outfit⚛️\n\nYT➡️youtu.be/11hLelDd9t4...⚛️*\n\n#Purus #TempusPuritatis #BlackMetal #PTF #AstralNightmareRecords #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n37gkbkki2ll",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-26T10:08:36.504Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihrsxkdk3b3qmrytuwex44ded44ptj565blprh2eegatuxep6orxu",
+      "createdAt": "2026-11-26T13:15:04.697Z",
+      "id": 1262,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n37f3lpj7kll",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 31st, 2026⬅️\n\nIMMORTAL FLAME - Warth Of Satan 🇸🇪⚛️\n\nDebut album from Sala, Swedish Black Metal outfit⚛️\n\nBC➡️murderrecords.bandcamp.com/album/warth-...⚛️\n\n#ImmortalFlame #WarthOfSatan #BlackMetal #MurderRecords #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n37f3lpj7kll",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-26T09:42:30.094Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreihdf4tsvtbckeq2vccz2ryppxzuepif5bdlhlm6pbfqc2b22g4oq4",
+      "createdAt": "2026-11-26T13:15:04.697Z",
+      "id": 1261,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n37epcc7s2ll",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nASTRAL LORE - Astral Lore II 🇵🇹🇫🇷⚛️\n\n2nd album from Portuguese/French Black Metal outfit⚛️\n\nBC➡️astrallorenp.bandcamp.com/album/astral...⚛️\n\n#AstralLore #AstralLoreII #BlackMetal  #Naturmacht_Prod #DDDNov25 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n37epcc7s2ll",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-26T09:35:37.568Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiewxfhtugxezqahhoxdwwruyk7reqedd2inqlfn4wochzicyxq5qi",
+      "createdAt": "2026-11-26T13:15:04.697Z",
+      "id": 1260,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n37egbhp2cll",
+      "text": "2⃣0⃣2⃣7⃣: THE UPCOMING TERROR ⚔️ \n➡️March 19th, 2027⬅️\n\nLIGHTS TO REMAIN - Shattered Reality 🇫🇮💢\n\n2nd album from Lappeenranta, Finnish Melodic Death Metal outfit💢\n\nBC➡️lightstoremain.bandcamp.com/track/remnan...💢*\n\n#LightsToRemain #ShatteredReality #MelodicDeath #InverseRecords #TheUpcomingTerror27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n37egbhp2cll",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-26T09:30:34.709Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreifx3jo7w6zqcniebqtxqu4or63fc4g4pzjyt7lvvm7o32dudhtnqy",
+      "createdAt": "2026-11-26T13:15:04.697Z",
+      "id": 1259,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n37duo5pykll",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nCELESTIAL BURIAL - Oni Bloodbath ⚛️\n\n3rd album from Adelaide, Australian Death Metal/Deathcore outfit⚛️\n\nBC➡️grindheadrecords.bandcamp.com/album/oni-bl...⚛️\n\n#CelestialBurial #OniBloodbath #GrindheadRec #Deathcore #DeathMetal #DDDNov26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n37duo5pykll",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-26T09:20:44.034Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreib5efjgekgeh7ept35u6rew5cgxhebv57wtlbbnxpuukhdqbiezau",
+      "createdAt": "2026-11-26T13:15:04.697Z",
+      "id": 1258,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n37dlydtgkll",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nNYRAK - Empires of Ash 🇧🇪⚛️\n\n4th album from Belgian Atmospheric Black Metal outfit⚛️\n\nBC➡️voidwandererproductions.bandcamp.com/album/empire...⚛️\n\n#Nyrak #EmpiresOfAsh #AtmosphericBlackMetal #BlackMetal #VWProd #DDDNov26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n37dlydtgkll",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-26T09:15:52.726Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreighubgv7dyb44gblcm2hno2p7fbiloyxjfoawkg2xab7v5qlfqe5i",
+      "createdAt": "2026-11-26T13:15:04.697Z",
+      "id": 1257,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96270",
       "text": "Energumen - Dissolution Impulse (2026)\nBands: Energumen | Genres: Blackened Death Metal, Technical Death Metal | Countries: CH",
@@ -18,7 +184,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-25T21:55:08.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/M7jrJ-kAvVV.webp",
+      "coverUrl": "covers/M7jrJ-kAvVV.webp",
       "createdAt": "2026-11-26T03:44:59.183Z",
       "source": "deathgrind",
       "id": 1256,
