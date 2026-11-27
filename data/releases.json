@@ -1,9 +1,219 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3bw3yhxrkni",
-  "updatedAt": "2026-11-27T14:14:50.430Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3dats5dgceg",
+  "updatedAt": "2026-11-27T22:46:58.068Z",
   "releases": [
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3daidmbdseg",
+      "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 17th, 2026⬅️\n\nKARNER - Zebrest:Zintrest 🇦🇹⚛️\n\n2nd album from Villach, Austrian Black Metal outfit⚛️\n\nYT➡️youtu.be/hNqniilMRnE...⚛️\n\n#Karner #ZebrestZintrest #BlackMetal #FolterRecords #ImperativePR #TheUpcomingTerror26 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n3daidmbdseg",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-27T22:30:48.051Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreiflzap6qm3rjulzyjdmkbguu23bcorfd52q5dnav6nos6donoawpe",
+      "createdAt": "2026-11-27T22:46:56.904Z",
+      "id": 1299,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3d4ela53ceg",
+      "text": "DETH DEKK DOMINIONS:🎧🆕🎧\n\nFLAGG - Death Sermon 🇫🇮⚛️\n\n4th album from Turku, Finnish Black Metal outfit⚛️\n\nBC➡️flaggofficial.bandcamp.com/album/death-...⚛️\n\n#Flagg #DeathSermon #BlackMetal #PTF #DDDNov28 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n3d4ela53ceg",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-27T21:17:06.857Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreigsrq4yndlw64m5lwujktb76yc5tbtvjqhmlprako3n7z7xoae35e",
+      "createdAt": "2026-11-27T22:46:56.904Z",
+      "id": 1298,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96292",
+      "text": "Six Chambers - Eternal Malice Within [EP] (2026)\nBands: Six Chambers | Genres: Death Metal, Hardcore | Countries: US",
+      "artist": "Six Chambers",
+      "title": "Eternal Malice Within [EP] (2026)",
+      "genres": [
+        "Death Metal",
+        "Hardcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96292",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T20:51:11.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/ypoYPyANKXl.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1308,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96291",
+      "text": "Embalmed - The Excruciating Pain Of Torture [EP] (2026)\nBands: Embalmed | Genres: Brutal Death Metal, Slamming Brutal Death Metal | Countries: US",
+      "artist": "Embalmed",
+      "title": "The Excruciating Pain Of Torture [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal",
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96291",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T20:25:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/9x_OqDzNpwW.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1307,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96290",
+      "text": "AfterDismantling / Cystgurgle - Cystgurgling Dismantlement [Split] (2026)\nBands: AfterDismantling, Cystgurgle | Genres: Goregrind | Countries: JP, TH",
+      "artist": "AfterDismantling / Cystgurgle",
+      "title": "Cystgurgling Dismantlement [Split] (2026)",
+      "genres": [
+        "Goregrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96290",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T18:34:17.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69YOy68-Qn.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1306,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96289",
+      "text": "Beneath Humanity - Beneath Rotting Humans (2026)\nBands: Beneath Humanity | Genres: Deathgrind | Countries: CN",
+      "artist": "Beneath Humanity",
+      "title": "Beneath Rotting Humans (2026)",
+      "genres": [
+        "Deathgrind"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96289",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T17:19:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoYJGAPVgL.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1305,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95634",
+      "text": "Savage - Malignant Reveries (2026)\nBands: Savage | Genres: Death Metal | Countries: NL",
+      "artist": "Savage",
+      "title": "Malignant Reveries (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95634",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T16:36:59.000Z",
+      "notified": false,
+      "coverUrl": "covers/rjeDDQrVnpQ.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1304,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/95394",
+      "text": "Deliquesce - (Dis)Harmony [EP] (2026)\nBands: Deliquesce | Genres: Brutal Death Metal | Countries: AU",
+      "artist": "Deliquesce",
+      "title": "(Dis)Harmony [EP] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95394",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T16:32:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/QNnew6lPVOY.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1303,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/94927",
+      "text": "PeelingFlesh - PeelingFlesh (2026)\nBands: PeelingFlesh | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "PeelingFlesh",
+      "title": "PeelingFlesh (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/94927",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T16:29:28.000Z",
+      "notified": false,
+      "coverUrl": "covers/n69QWOQOwwl.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1302,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96288",
+      "text": "Vulnificus - Inclination (Deluxe) [Deluxe Edition] (2026)\nBands: Vulnificus | Genres: Brutal Death Metal | Countries: US",
+      "artist": "Vulnificus",
+      "title": "Inclination (Deluxe) [Deluxe Edition] (2026)",
+      "genres": [
+        "Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96288",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T16:12:06.000Z",
+      "notified": false,
+      "coverUrl": "covers/XGxJoeAb8d8.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1301,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96285",
+      "text": "Funebre Devastation - The Verminous Spawn (2026)\nBands: Funebre Devastation | Genres: Blackened Death Metal, Thrash Metal | Countries: ES",
+      "artist": "Funebre Devastation",
+      "title": "The Verminous Spawn (2026)",
+      "genres": [
+        "Blackened Death Metal",
+        "Thrash Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96285",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T16:04:22.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqy7dwnbXJ.webp",
+      "createdAt": "2026-11-27T22:46:58.068Z",
+      "source": "deathgrind",
+      "id": 1300,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/95775",
       "text": "Necroshade - The Last Dawn [EP] (2026)\nBands: Necroshade | Genres: Death Metal | Countries: FR",
@@ -17,7 +227,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-27T11:36:39.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/mm8pAVLWxaY.webp",
+      "coverUrl": "covers/mm8pAVLWxaY.webp",
       "createdAt": "2026-11-27T14:14:50.430Z",
       "source": "deathgrind",
       "id": 1297,
