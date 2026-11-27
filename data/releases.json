@@ -1,9 +1,104 @@
 {
   "version": 1,
   "handle": "kmanriffs.bsky.social",
-  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3bby2cfvm2w",
-  "updatedAt": "2026-11-27T04:29:30.318Z",
+  "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3bw3yhxrkni",
+  "updatedAt": "2026-11-27T14:14:50.430Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/95775",
+      "text": "Necroshade - The Last Dawn [EP] (2026)\nBands: Necroshade | Genres: Death Metal | Countries: FR",
+      "artist": "Necroshade",
+      "title": "The Last Dawn [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/95775",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T11:36:39.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/mm8pAVLWxaY.webp",
+      "createdAt": "2026-11-27T14:14:50.430Z",
+      "source": "deathgrind",
+      "id": 1297,
+      "seen": false
+    },
+    {
+      "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3bulybbnkni",
+      "text": "FULL FORCE FRIDAY:🆕November 27th ENCORE!🎧\n\nVINTERLAND - Welcome My Last Chapter (Anniversary Edition) 🇸🇪⚛️\n\n30th Anniversary reissue from Kvicksund, Swedish Melodic Black Metal outfit⚛️\n\nBC➡️vinterland.bandcamp.com/album/welcom... ⚛️\n\n#Vinterland #WelcomeMyLast #BlackLodge #FFFNov27 #KMäN",
+      "artist": null,
+      "title": null,
+      "genres": [
+        "Black Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://bsky.app/profile/kmanriffs.bsky.social/post/3n3bulybbnkni",
+      "authorHandle": "kmanriffs.bsky.social",
+      "postedAt": "2026-11-27T09:25:25.734Z",
+      "notified": false,
+      "coverUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:owo6xj5jlftohcjyqdu7bdxo/bafkreicuqmh2qlwsqttipvmer7verszpfogxmswtlrg4slo4r5ozunxpz4",
+      "createdAt": "2026-11-27T14:14:49.945Z",
+      "id": 1293,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96286",
+      "text": "Pendrak - Pendrak (2026)\nBands: Pendrak | Genres: Grindcore, Powerviolence | Countries: FR",
+      "artist": "Pendrak",
+      "title": "Pendrak (2026)",
+      "genres": [
+        "Grindcore",
+        "Powerviolence"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96286",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T09:12:39.000Z",
+      "notified": false,
+      "coverUrl": "covers/dwNYqZJBpVe.webp",
+      "createdAt": "2026-11-27T14:14:50.430Z",
+      "source": "deathgrind",
+      "id": 1296,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96284",
+      "text": "Intrepid - Becoming [EP] (2026)\nBands: Intrepid | Genres: Death Metal | Countries: EE",
+      "artist": "Intrepid",
+      "title": "Becoming [EP] (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96284",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T06:27:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/BJVdyDWlk9L.webp",
+      "createdAt": "2026-11-27T14:14:50.430Z",
+      "source": "deathgrind",
+      "id": 1295,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96283",
+      "text": "Corpse Hunters - Dismemberment Squad (2026)\nBands: Corpse Hunters | Genres: Death Metal | Countries: FR",
+      "artist": "Corpse Hunters",
+      "title": "Dismemberment Squad (2026)",
+      "genres": [
+        "Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96283",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T05:11:49.000Z",
+      "notified": false,
+      "coverUrl": "covers/YxyKVbaw-p7.webp",
+      "createdAt": "2026-11-27T14:14:50.430Z",
+      "source": "deathgrind",
+      "id": 1294,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3bbqqjddy2b",
       "text": "FULL FORCE FRIDAY:🆕November 27th 5⃣0⃣🎧\n\nSVÆKLING - Det Som Trives i Mørket 🇩🇰⚛️\n\nDebut album from Danish Atmospheric Black Metal outfit⚛️\n\nBC➡️svaekling666.bandcamp.com/album/det-so...⚛️\n\n#Svaekling #DetSomTrivesIMorket #BlackMetal #FFFNov27 #KMäN",
@@ -396,7 +491,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-26T21:41:47.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/dwNYoRAAEep.webp",
+      "coverUrl": "covers/dwNYoRAAEep.webp",
       "createdAt": "2026-11-26T22:27:12.984Z",
       "source": "deathgrind",
       "id": 1274,
