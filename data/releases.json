@@ -2,8 +2,66 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3dats5dgceg",
-  "updatedAt": "2026-11-27T22:46:58.068Z",
+  "updatedAt": "2026-11-28T04:39:12.986Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96296",
+      "text": "Geomagnetic Deterioration - Exoskeletal Overlords Of The Carcass Sphere [EP] (2026)\nBands: Geomagnetic Deterioration | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Geomagnetic Deterioration",
+      "title": "Exoskeletal Overlords Of The Carcass Sphere [EP] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96296",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-28T00:13:58.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/pxbYoKENM9d.webp",
+      "createdAt": "2026-11-28T04:39:12.986Z",
+      "source": "deathgrind",
+      "id": 1311,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96295",
+      "text": "Cranial Incisored - The Experimental Minds Of Instability To Shock Your Therapy System [Demo] (2001)\nBands: Cranial Incisored | Genres: Brutal Death Metal, Mathcore | Countries: ID",
+      "artist": "Cranial Incisored",
+      "title": "The Experimental Minds Of Instability To Shock Your Therapy System [Demo] (2001)",
+      "genres": [
+        "Brutal Death Metal",
+        "Mathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96295",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T23:54:55.000Z",
+      "notified": false,
+      "coverUrl": "covers/qgdYp__AVwy.webp",
+      "createdAt": "2026-11-28T04:39:12.986Z",
+      "source": "deathgrind",
+      "id": 1310,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96293",
+      "text": "Naked Truth - Anatomy of the Void [EP] (2026)\nBands: Naked Truth | Genres: Technical Brutal Death Metal | Countries: ID",
+      "artist": "Naked Truth",
+      "title": "Anatomy of the Void [EP] (2026)",
+      "genres": [
+        "Technical Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96293",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-27T23:32:05.000Z",
+      "notified": false,
+      "coverUrl": "covers/-xqy9xdJwmR.webp",
+      "createdAt": "2026-11-28T04:39:12.986Z",
+      "source": "deathgrind",
+      "id": 1309,
+      "seen": false
+    },
     {
       "uri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3daidmbdseg",
       "text": "2⃣0⃣2⃣6⃣: THE UPCOMING TERROR ⚔️ \n➡️December 17th, 2026⬅️\n\nKARNER - Zebrest:Zintrest 🇦🇹⚛️\n\n2nd album from Villach, Austrian Black Metal outfit⚛️\n\nYT➡️youtu.be/hNqniilMRnE...⚛️\n\n#Karner #ZebrestZintrest #BlackMetal #FolterRecords #ImperativePR #TheUpcomingTerror26 #KMäN",
@@ -54,7 +112,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-27T20:51:11.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/ypoYPyANKXl.webp",
+      "coverUrl": "covers/ypoYPyANKXl.webp",
       "createdAt": "2026-11-27T22:46:58.068Z",
       "source": "deathgrind",
       "id": 1308,
