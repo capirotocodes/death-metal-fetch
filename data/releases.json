@@ -2,8 +2,85 @@
   "version": 1,
   "handle": "kmanriffs.bsky.social",
   "lastSeenUri": "at://did:plc:owo6xj5jlftohcjyqdu7bdxo/app.bsky.feed.post/3n3dats5dgceg",
-  "updatedAt": "2026-11-28T04:39:12.986Z",
+  "updatedAt": "2026-11-28T13:40:54.137Z",
   "releases": [
+    {
+      "uri": "https://deathgrind.club/posts/96300",
+      "text": "Imperial Triumphant - Live At Olympia [Live] (2026)\nBands: Imperial Triumphant | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Imperial Triumphant",
+      "title": "Live At Olympia [Live] (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96300",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-28T11:57:00.000Z",
+      "notified": false,
+      "coverUrl": "https://cdn.deathgrind.club/s/JldoA8OMwwn.webp",
+      "createdAt": "2026-11-28T13:40:54.137Z",
+      "source": "deathgrind",
+      "id": 1315,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96299",
+      "text": "Broil - Infernal Innards [Demo] (2026)\nBands: Broil | Genres: Slamming Brutal Death Metal | Countries: US",
+      "artist": "Broil",
+      "title": "Infernal Innards [Demo] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96299",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-28T11:34:08.000Z",
+      "notified": false,
+      "coverUrl": "covers/ypoY8qBJnN6.webp",
+      "createdAt": "2026-11-28T13:40:54.137Z",
+      "source": "deathgrind",
+      "id": 1314,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96298",
+      "text": "Monosodium Glutamate - Panda Slams Vol. 1 [Demo] (2026)\nBands: Monosodium Glutamate | Genres: Slamming Brutal Death Metal, Brutal Deathcore | Countries: CN",
+      "artist": "Monosodium Glutamate",
+      "title": "Panda Slams Vol. 1 [Demo] (2026)",
+      "genres": [
+        "Slamming Brutal Death Metal",
+        "Brutal Deathcore"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96298",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-28T11:17:25.000Z",
+      "notified": false,
+      "coverUrl": "covers/aNKYZr6xjDY.webp",
+      "createdAt": "2026-11-28T13:40:54.137Z",
+      "source": "deathgrind",
+      "id": 1313,
+      "seen": false
+    },
+    {
+      "uri": "https://deathgrind.club/posts/96297",
+      "text": "Sythe - Leechbirth (2026)\nBands: Sythe | Genres: Blackened Death Metal | Countries: US",
+      "artist": "Sythe",
+      "title": "Leechbirth (2026)",
+      "genres": [
+        "Blackened Death Metal"
+      ],
+      "hasReleaseCue": true,
+      "bskyUrl": "https://deathgrind.club/posts/96297",
+      "authorHandle": "deathgrind.club",
+      "postedAt": "2026-11-28T10:12:24.000Z",
+      "notified": false,
+      "coverUrl": "covers/wKmYQMyVJB7.webp",
+      "createdAt": "2026-11-28T13:40:54.137Z",
+      "source": "deathgrind",
+      "id": 1312,
+      "seen": false
+    },
     {
       "uri": "https://deathgrind.club/posts/96296",
       "text": "Geomagnetic Deterioration - Exoskeletal Overlords Of The Carcass Sphere [EP] (2026)\nBands: Geomagnetic Deterioration | Genres: Slamming Brutal Death Metal | Countries: US",
@@ -17,7 +94,7 @@
       "authorHandle": "deathgrind.club",
       "postedAt": "2026-11-28T00:13:58.000Z",
       "notified": false,
-      "coverUrl": "https://cdn.deathgrind.club/s/pxbYoKENM9d.webp",
+      "coverUrl": "covers/pxbYoKENM9d.webp",
       "createdAt": "2026-11-28T04:39:12.986Z",
       "source": "deathgrind",
       "id": 1311,
